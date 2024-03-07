@@ -1,0 +1,5 @@
+Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages
+Date:
+Slides PDF
+Lulwah M. Alkwai, Michael L. Nelson, and Michele C. Weigle. Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages , ACM Transactions on Information Systems (TOIS), 36(1), July 2017, extended version of Best Student Paper awardee at IEEE/ACM JCDL 2015.
+Lulwah M. Alkwai, Michael L. Nelson, and Michele C. Weigle. How well are Arabic websites archived? In Proceedings of the 15th IEEE/ACM Joint Conference on Digital Libraries (JCDL), June 2015, pp. 223-232.

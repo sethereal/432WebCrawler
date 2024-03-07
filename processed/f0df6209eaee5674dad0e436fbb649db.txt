@@ -1,0 +1,10 @@
+Back to Top ↑
+2016
+Juliette Pardue, Mridul Sen, Christos Tsolakis, Reid Rankin, Ayush Khandelwal, and Michele C. Weigle, “WorldVis: A Visualization Tool for World Data,” Poster presented at IEEE VIS, October 2016. poster
+Mat Kelly, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, “InterPlanetary Wayback: Peer-To-Peer Permanence of Web Archives,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Hannover, Germany, September 2016.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, “Characteristics of Social Media Stories. What makes a good story?,” International Journal of Digital Libraries (IJDL), Vol. 17, No. 3, July 2016, pp. 239-256.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, “Detecting Off-Topic Pages Within TimeMaps in Web Archives,” International Journal of Digital Libraries (IJDL), Vol. 17, No. 3, July 2016, pp. 203-221.
+Justin Brunelle, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, “The Impact of JavaScript on Archivability,” International Journal of Digital Libraries (IJDL), Vol. 17, No. 2, June 2016, pp. 95-117.
+Justin F. Brunelle, Krista Ferrante, Eliot Wilczek, Michele C. Weigle, and Michael L. Nelson, “Leveraging Heritrix and the Wayback Machine on a Corporate Intranet: A Case Study on Improving Corporate Archives,” D-Lib Magazine, Vol. 22, No. 1/2, Jan/Feb 2016.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, “Adapting the Hypercube Model to Archive Deferred Representations and Their Descendants,” Technical report arxiv:1601.05142, arXiv, January 2016.
+Share on

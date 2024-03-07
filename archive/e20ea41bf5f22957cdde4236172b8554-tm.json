@@ -1,0 +1,239 @@
+ERROR: 2024/02/18 17:32:11.988076 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/finaidoffice/types/scholarships": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/finaidoffice/types/scholarships",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice/types/scholarships",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-27T01:23:55Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012355/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-05-27T01:23:55Z",
+        "uri": "https://web.archive.org/web/20210527012355/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-05-27T01:24:03Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012403/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-05-27T01:24:03Z",
+        "uri": "https://web.archive.org/web/20210527012403/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-05-27T01:24:14Z",
+        "uri": "https://wayback.archive-it.org/all/20210527012414/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-05-27T01:24:14Z",
+        "uri": "https://web.archive.org/web/20210527012414/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-08-12T07:46:48Z",
+        "uri": "https://web.archive.org/web/20210812074648/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-10-21T08:30:33Z",
+        "uri": "https://arquivo.pt/wayback/20211021083033mp_/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2021-11-03T13:20:24Z",
+        "uri": "https://arquivo.pt/wayback/20211103132024mp_/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-03-19T21:32:05Z",
+        "uri": "https://web.archive.org/web/20220319213205/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-04-07T09:44:49Z",
+        "uri": "https://web.archive.org/web/20220407094449/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-05-07T21:37:48Z",
+        "uri": "https://arquivo.pt/wayback/20220507213748mp_/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-05-16T04:37:59Z",
+        "uri": "https://arquivo.pt/wayback/20220516043759mp_/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-05-23T08:07:39Z",
+        "uri": "https://web.archive.org/web/20220523080739/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-05-27T05:54:14Z",
+        "uri": "https://web.archive.org/web/20220527055414/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030727/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:27Z",
+        "uri": "https://web.archive.org/web/20220811030727/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:34Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030734/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:34Z",
+        "uri": "https://web.archive.org/web/20220811030734/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:44Z",
+        "uri": "https://wayback.archive-it.org/all/20220811030744/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-11T03:07:44Z",
+        "uri": "https://web.archive.org/web/20220811030744/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-08-18T07:31:56Z",
+        "uri": "https://arquivo.pt/wayback/20220818073156mp_/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-09-24T22:25:07Z",
+        "uri": "https://web.archive.org/web/20220924222507/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-11-07T05:53:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055310/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-11-07T05:53:10Z",
+        "uri": "https://web.archive.org/web/20221107055310/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-11-16T03:56:51Z",
+        "uri": "https://arquivo.pt/wayback/20221116035651mp_/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-12-02T09:13:14Z",
+        "uri": "https://web.archive.org/web/20221202091314/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-12-07T10:32:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221207103244/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-12-07T10:32:44Z",
+        "uri": "https://web.archive.org/web/20221207103244/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2022-12-08T05:59:40Z",
+        "uri": "https://web.archive.org/web/20221208055940/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-01-07T09:26:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230107092648/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-01-07T09:26:48Z",
+        "uri": "https://web.archive.org/web/20230107092648/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-01-24T20:08:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124200800mp_/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-01-31T13:07:00Z",
+        "uri": "https://web.archive.org/web/20230131130700/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-02-07T07:53:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230207075353/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-02-07T07:53:53Z",
+        "uri": "https://web.archive.org/web/20230207075353/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-02-20T00:54:18Z",
+        "uri": "https://web.archive.org/web/20230220005418/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-03-07T04:45:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044510/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-03-07T04:45:10Z",
+        "uri": "https://web.archive.org/web/20230307044510/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-03-27T22:32:54Z",
+        "uri": "https://web.archive.org/web/20230327223254/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-03-29T22:27:31Z",
+        "uri": "https://web.archive.org/web/20230329222731/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-06-04T13:48:42Z",
+        "uri": "https://web.archive.org/web/20230604134842/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-07-16T17:10:18Z",
+        "uri": "https://web.archive.org/web/20230716171018/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-25T18:12:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181221/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-25T18:12:21Z",
+        "uri": "https://web.archive.org/web/20230825181221/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-26T12:56:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230826125607/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-26T12:56:07Z",
+        "uri": "https://web.archive.org/web/20230826125607/https://odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-31T18:06:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230831180601/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-08-31T18:06:01Z",
+        "uri": "https://web.archive.org/web/20230831180601/http://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2023-10-01T11:47:12Z",
+        "uri": "https://web.archive.org/web/20231001114712/https://www.odu.edu/finaidoffice/types/scholarships"
+      },
+      {
+        "datetime": "2024-02-14T16:08:19Z",
+        "uri": "https://web.archive.org/web/20240214160819/https://www.odu.edu/finaidoffice/types/scholarships"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-27T01:23:55Z",
+      "uri": "https://wayback.archive-it.org/all/20210527012355/https://odu.edu/finaidoffice/types/scholarships"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:19Z",
+      "uri": "https://web.archive.org/web/20240214160819/https://www.odu.edu/finaidoffice/types/scholarships"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/finaidoffice/types/scholarships",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/finaidoffice/types/scholarships",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/finaidoffice/types/scholarships"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/finaidoffice/types/scholarships"
+}

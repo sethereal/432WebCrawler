@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 15:39:32.179494 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-22T23:23:29Z",
+        "uri": "https://web.archive.org/web/20210922232329/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2021-11-29T02:30:51Z",
+        "uri": "https://web.archive.org/web/20211129023051/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2022-04-27T20:31:13Z",
+        "uri": "https://web.archive.org/web/20220427203113/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2022-04-27T20:31:53Z",
+        "uri": "https://web.archive.org/web/20220427203153/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2022-05-23T20:34:33Z",
+        "uri": "https://web.archive.org/web/20220523203433/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2022-09-27T07:45:17Z",
+        "uri": "https://web.archive.org/web/20220927074517/https://weiglemc.github.io/publications/bibtex"
+      },
+      {
+        "datetime": "2024-01-21T11:27:23Z",
+        "uri": "https://web.archive.org/web/20240121112723/https://weiglemc.github.io/publications/bibtex"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-22T23:23:29Z",
+      "uri": "https://web.archive.org/web/20210922232329/https://weiglemc.github.io/publications/bibtex"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:23Z",
+      "uri": "https://web.archive.org/web/20240121112723/https://weiglemc.github.io/publications/bibtex"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/bibtex#mohrehkesh-computer17"
+}

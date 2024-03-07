@@ -1,0 +1,503 @@
+ERROR: 2024/02/18 18:50:08.633059 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/emergency": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/emergency",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/emergency",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-09-27T12:27:27Z",
+        "uri": "https://web.archive.org/web/20150927122727/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2015-11-28T05:30:15Z",
+        "uri": "https://web.archive.org/web/20151128053015/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2015-12-01T21:33:49Z",
+        "uri": "https://web.archive.org/web/20151201213349/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2016-01-01T16:07:01Z",
+        "uri": "https://web.archive.org/web/20160101160701/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2016-02-01T13:03:19Z",
+        "uri": "https://web.archive.org/web/20160201130319/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2017-06-14T05:01:27Z",
+        "uri": "https://web.archive.org/web/20170614050127/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2017-07-13T10:37:05Z",
+        "uri": "https://web.archive.org/web/20170713103705/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2018-07-22T13:09:43Z",
+        "uri": "https://web.archive.org/web/20180722130943/http://www.odu.edu:80/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:56:38Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195638/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:56:38Z",
+        "uri": "https://web.archive.org/web/20200416195638/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:57:07Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195707/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:57:07Z",
+        "uri": "https://web.archive.org/web/20200416195707/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:57:35Z",
+        "uri": "https://wayback.archive-it.org/all/20200416195735/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-04-16T19:57:35Z",
+        "uri": "https://web.archive.org/web/20200416195735/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-06-26T12:43:08Z",
+        "uri": "https://web.archive.org/web/20200626124308/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-07-20T08:52:29Z",
+        "uri": "https://web.archive.org/web/20200720085229/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-07-20T08:52:35Z",
+        "uri": "https://web.archive.org/web/20200720085235/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-11-01T07:28:48Z",
+        "uri": "https://web.archive.org/web/20201101072848/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-11-01T07:28:49Z",
+        "uri": "https://web.archive.org/web/20201101072849/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-11-01T09:14:09Z",
+        "uri": "https://web.archive.org/web/20201101091409/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2020-11-01T09:14:10Z",
+        "uri": "https://web.archive.org/web/20201101091410/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-03-21T22:26:23Z",
+        "uri": "https://web.archive.org/web/20210321222623/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-03-21T22:48:21Z",
+        "uri": "https://web.archive.org/web/20210321224821/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-04-15T08:37:36Z",
+        "uri": "https://web.archive.org/web/20210415083736/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-04-18T23:30:48Z",
+        "uri": "https://web.archive.org/web/20210418233048/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-04-25T17:11:56Z",
+        "uri": "https://web.archive.org/web/20210425171156/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:31Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210831/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:31Z",
+        "uri": "https://web.archive.org/web/20210526210831/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:39Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210839/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:39Z",
+        "uri": "https://web.archive.org/web/20210526210839/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:46Z",
+        "uri": "https://wayback.archive-it.org/all/20210526210846/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-05-26T21:08:46Z",
+        "uri": "https://web.archive.org/web/20210526210846/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-08-10T23:15:55Z",
+        "uri": "https://web.archive.org/web/20210810231555/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-08-12T07:52:59Z",
+        "uri": "https://web.archive.org/web/20210812075259/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-09-15T23:57:02Z",
+        "uri": "https://web.archive.org/web/20210915235702/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-11-03T12:09:00Z",
+        "uri": "https://arquivo.pt/wayback/20211103120900mp_/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2021-11-03T12:09:04Z",
+        "uri": "https://arquivo.pt/wayback/20211103120904mp_/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-08T16:38:50Z",
+        "uri": "https://web.archive.org/web/20220108163850/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-10T17:05:04Z",
+        "uri": "https://web.archive.org/web/20220110170504/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-11T20:14:27Z",
+        "uri": "https://web.archive.org/web/20220111201427/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-12T16:58:30Z",
+        "uri": "https://web.archive.org/web/20220112165830/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-12T21:56:42Z",
+        "uri": "https://web.archive.org/web/20220112215642/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-13T01:00:18Z",
+        "uri": "https://web.archive.org/web/20220113010018/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-13T19:31:42Z",
+        "uri": "https://web.archive.org/web/20220113193142/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-16T23:35:10Z",
+        "uri": "https://web.archive.org/web/20220116233510/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-17T07:07:37Z",
+        "uri": "https://web.archive.org/web/20220117070737/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-20T18:01:50Z",
+        "uri": "https://web.archive.org/web/20220120180150/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-20T22:52:30Z",
+        "uri": "https://web.archive.org/web/20220120225230/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-21T21:46:35Z",
+        "uri": "https://web.archive.org/web/20220121214635/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-22T13:00:02Z",
+        "uri": "https://arquivo.pt/wayback/20220122130002mp_/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-24T20:26:51Z",
+        "uri": "https://web.archive.org/web/20220124202651/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-26T02:02:02Z",
+        "uri": "https://web.archive.org/web/20220126020202/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-26T06:11:48Z",
+        "uri": "https://arquivo.pt/wayback/20220126061148mp_/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-01-31T22:16:35Z",
+        "uri": "https://web.archive.org/web/20220131221635/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-02-01T05:32:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220201053227/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-02-01T05:32:27Z",
+        "uri": "https://web.archive.org/web/20220201053227/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-02-01T22:31:39Z",
+        "uri": "https://web.archive.org/web/20220201223139/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-02-03T19:00:02Z",
+        "uri": "https://web.archive.org/web/20220203190002/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-03-20T07:32:41Z",
+        "uri": "https://web.archive.org/web/20220320073241/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-04-17T08:32:56Z",
+        "uri": "https://arquivo.pt/wayback/20220417083256mp_/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-04-24T19:25:17Z",
+        "uri": "https://arquivo.pt/wayback/20220424192517mp_/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-05-27T12:20:32Z",
+        "uri": "https://web.archive.org/web/20220527122032/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-07-30T17:47:09Z",
+        "uri": "https://arquivo.pt/wayback/20220730174709mp_/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-05T11:07:26Z",
+        "uri": "https://arquivo.pt/wayback/20220805110726mp_/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:51:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215153/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:51:53Z",
+        "uri": "https://web.archive.org/web/20220810215153/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:51:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215159/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:51:59Z",
+        "uri": "https://web.archive.org/web/20220810215159/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:52:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810215206/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-10T21:52:06Z",
+        "uri": "https://web.archive.org/web/20220810215206/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-20T19:10:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220820191050/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-08-20T19:10:50Z",
+        "uri": "https://web.archive.org/web/20220820191050/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-09-27T14:14:12Z",
+        "uri": "https://web.archive.org/web/20220927141412/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:50Z",
+        "uri": "https://wayback.archive-it.org/all/20221001045850/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:50Z",
+        "uri": "https://web.archive.org/web/20221001045850/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221001045854/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:54Z",
+        "uri": "https://web.archive.org/web/20221001045854/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221001045856/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-10-01T04:58:56Z",
+        "uri": "https://web.archive.org/web/20221001045856/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-07T04:48:48Z",
+        "uri": "https://wayback.archive-it.org/all/20221107044848/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-07T04:48:48Z",
+        "uri": "https://web.archive.org/web/20221107044848/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-07T10:40:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221107104053/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-07T10:40:53Z",
+        "uri": "https://web.archive.org/web/20221107104053/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-18T18:19:09Z",
+        "uri": "https://web.archive.org/web/20221118181909/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-25T02:03:33Z",
+        "uri": "https://web.archive.org/web/20221125020333/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-25T02:03:34Z",
+        "uri": "https://web.archive.org/web/20221125020334/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-30T19:13:18Z",
+        "uri": "https://web.archive.org/web/20221130191318/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-11-30T19:13:18Z",
+        "uri": "https://web.archive.org/web/20221130191318/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-12-07T07:21:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221207072152/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-12-07T07:21:52Z",
+        "uri": "https://web.archive.org/web/20221207072152/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-12-08T05:50:33Z",
+        "uri": "https://web.archive.org/web/20221208055033/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-12-08T18:50:11Z",
+        "uri": "https://wayback.archive-it.org/all/20221208185011/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2022-12-08T18:50:11Z",
+        "uri": "https://web.archive.org/web/20221208185011/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-01-07T06:56:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230107065651/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-01-07T06:56:51Z",
+        "uri": "https://web.archive.org/web/20230107065651/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-01-08T11:26:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230108112626/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-01-08T11:26:26Z",
+        "uri": "https://web.archive.org/web/20230108112626/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-01-24T19:46:52Z",
+        "uri": "https://arquivo.pt/wayback/20230124194652mp_/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-02-07T06:11:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207061144/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-02-07T06:11:44Z",
+        "uri": "https://web.archive.org/web/20230207061144/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-02-09T05:43:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230209054320/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-02-09T05:43:20Z",
+        "uri": "https://web.archive.org/web/20230209054320/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-02-20T00:44:53Z",
+        "uri": "https://web.archive.org/web/20230220004453/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-07T04:24:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042426/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-07T04:24:26Z",
+        "uri": "https://web.archive.org/web/20230307042426/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-07T08:04:06Z",
+        "uri": "https://wayback.archive-it.org/all/20230307080406/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-07T08:04:06Z",
+        "uri": "https://web.archive.org/web/20230307080406/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-03-27T22:29:11Z",
+        "uri": "https://web.archive.org/web/20230327222911/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-25T17:34:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173437/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-25T17:34:37Z",
+        "uri": "https://web.archive.org/web/20230825173437/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:13:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230826051315/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:13:15Z",
+        "uri": "https://web.archive.org/web/20230826051315/http://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:24:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230826052443/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:24:43Z",
+        "uri": "https://web.archive.org/web/20230826052443/http://odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:24:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230826052444/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-08-26T05:24:44Z",
+        "uri": "https://web.archive.org/web/20230826052444/https://odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-11-29T18:56:44Z",
+        "uri": "https://web.archive.org/web/20231129185644/https://www.odu.edu/emergency"
+      },
+      {
+        "datetime": "2023-12-16T11:58:18Z",
+        "uri": "https://web.archive.org/web/20231216115818/https://www.odu.edu/emergency"
+      }
+    ],
+    "first": {
+      "datetime": "2015-09-27T12:27:27Z",
+      "uri": "https://web.archive.org/web/20150927122727/http://www.odu.edu:80/emergency"
+    },
+    "last": {
+      "datetime": "2023-12-16T11:58:18Z",
+      "uri": "https://web.archive.org/web/20231216115818/https://www.odu.edu/emergency"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/emergency",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/emergency",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/emergency"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/emergency"
+}

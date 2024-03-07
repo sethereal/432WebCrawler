@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 16:19:20.353616 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/teaching/2024-spr-cs725825": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/teaching/2024-spr-cs725825",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/teaching/2024-spr-cs725825",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-21T11:27:17Z",
+        "uri": "https://web.archive.org/web/20240121112717/https://weiglemc.github.io/teaching/2024-spr-cs725825"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-21T11:27:17Z",
+      "uri": "https://web.archive.org/web/20240121112717/https://weiglemc.github.io/teaching/2024-spr-cs725825"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:17Z",
+      "uri": "https://web.archive.org/web/20240121112717/https://weiglemc.github.io/teaching/2024-spr-cs725825"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/teaching/2024-spr-cs725825",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/teaching/2024-spr-cs725825",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/teaching/2024-spr-cs725825"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/teaching/2024-spr-cs725825"
+}

@@ -1,0 +1,119 @@
+ERROR: 2024/02/18 20:03:51.829436 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/tuition-aid/tuition/military": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/tuition-aid/tuition/military",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/tuition-aid/tuition/military",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-25T07:33:46Z",
+        "uri": "https://web.archive.org/web/20220625073346/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-10-31T11:17:58Z",
+        "uri": "https://web.archive.org/web/20221031111758/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-11-07T05:58:54Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055854/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-11-07T05:58:54Z",
+        "uri": "https://web.archive.org/web/20221107055854/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-11-13T22:49:59Z",
+        "uri": "https://web.archive.org/web/20221113224959/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-11-27T08:38:16Z",
+        "uri": "https://web.archive.org/web/20221127083816/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-12-07T11:00:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221207110053/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-12-07T11:00:53Z",
+        "uri": "https://web.archive.org/web/20221207110053/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2022-12-08T05:59:11Z",
+        "uri": "https://web.archive.org/web/20221208055911/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-01-07T09:58:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230107095851/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-01-07T09:58:51Z",
+        "uri": "https://web.archive.org/web/20230107095851/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-02-01T14:53:03Z",
+        "uri": "https://web.archive.org/web/20230201145303/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-02-07T08:24:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230207082438/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-02-07T08:24:38Z",
+        "uri": "https://web.archive.org/web/20230207082438/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-02-07T11:11:50Z",
+        "uri": "https://web.archive.org/web/20230207111150/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-03-07T04:47:55Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044755/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-03-07T04:47:55Z",
+        "uri": "https://web.archive.org/web/20230307044755/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-04-02T12:17:26Z",
+        "uri": "https://web.archive.org/web/20230402121726/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-08-25T18:17:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181728/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-08-25T18:17:28Z",
+        "uri": "https://web.archive.org/web/20230825181728/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-09-23T04:00:21Z",
+        "uri": "https://web.archive.org/web/20230923040021/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-10-01T09:08:07Z",
+        "uri": "https://web.archive.org/web/20231001090807/https://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-12-09T23:00:03Z",
+        "uri": "https://web.archive.org/web/20231209230003/http://ww1.odu.edu/tuition-aid/tuition/military"
+      },
+      {
+        "datetime": "2023-12-09T23:00:18Z",
+        "uri": "https://web.archive.org/web/20231209230018/https://ww1.odu.edu/tuition-aid/tuition/military/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-25T07:33:46Z",
+      "uri": "https://web.archive.org/web/20220625073346/https://ww1.odu.edu/tuition-aid/tuition/military"
+    },
+    "last": {
+      "datetime": "2023-12-09T23:00:18Z",
+      "uri": "https://web.archive.org/web/20231209230018/https://ww1.odu.edu/tuition-aid/tuition/military/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/tuition-aid/tuition/military",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/tuition-aid/tuition/military",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/tuition-aid/tuition/military"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/tuition-aid/tuition/military"
+}

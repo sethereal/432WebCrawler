@@ -1,0 +1,20 @@
+Back to Top ↑
+2013
+Shahram Mohrehkesh and Michele C. Weigle, “Optimizing Communication Energy Consumption in Perpetual Wireless Nanosensor Networks,” In Proceedings of the IEEE Globecom. Atlanta, GA, December 2013.
+Mohammad Almalag, Michele C. Weigle, Stephan Olariu, and Samy El-Tawab, “A Modified TC-MAC Protocol for Multi-hop Cluster Communications in VANETs,” In Proceedings of IEEE Connected Vehicles and Expo (ICCVE). Las Vegas, December 2013.
+Mat Kelly, Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, “A Method for Identifying Personalized Representations in the Archives,” D-Lib Magazine, Vol. 19, No. 11/12, Nov/Dec 2013.
+Michele C. Weigle, “Telling Stories with Web Archives,” Keynote given at the Southeast Women in Computing Conference, November 2013.
+Shahram Mohrehkesh, Stephan Olariu, and Michele C. Weigle, “A Framework for Assessing the Quality of Event Detection in Sensor Networks,” In Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet). Miami, FL, October 2013.
+Stephan Olariu, Shahram Mohrehkesh, and Michele C. Weigle, “Toward Aggregating Time-Discounted Information,” In Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet). Miami, FL, October 2013. Best Paper Award.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “Graph-Based Navigation of a Box Office Prediction System,” Poster presented at IEEE VIS, October 2013. poster
+Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, “Profiling Web Archive Coverage for Top-Level Domain and Content Language,” In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL). Valletta, Malta, September 2013.
+Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, “Who and What Links to the Internet Archive,” In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL). Valletta, Malta, September 2013. Best Student Paper Award.
+Mat Kelly, Justin Brunelle, Michele C. Weigle, and Michael L. Nelson, “On the Change in Archivability of Websites Over Time,” In Proceedings of the International Conference on Theory and Practice of Digital Libraries (TPDL). Valletta, Malta, September 2013.
+Danda Rawat, Geert Heijenk, Michele C. Weigle, Bhed Bista, and Yuh-Shyan Chen, “Special Issue of Ad Hoc Networks on Recent Advances in Vehicular Communications and Networking Editorial,” Ad Hoc Networks, Vol. 11, No. 7, September 2013, pp. 1989-1991.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, “Access Patterns for Robots and Humans in Web Archives,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Indianapolis, IN, July 2013, pp. 339-–348.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “WARCreate and WAIL: WARC, Wayback, and Heritrix Made Easy,” Presentation and demo at Digital Preservation, July 2013.
+Gongjun Yan, Ding Wen, Stephan Olariu, and Michele C. Weigle, “Security Challenges in Vehicular Cloud Computing,” IEEE Transactions on Intelligent Transportation Systems, Vol. 14, No. 1, March 2013, pp. 284-294.
+Mohammad Almalag, Stephan Olariu, Michele C. Weigle, and Samy El-Tawab, “Peer-to-Peer File Sharing in VANETs Using TC-MAC,” In Proceedings of the International Workshop on Mobile Peer-to-Peer Computing (MP2P). San Diego, CA, March 2013.
+Mohammad Almalag, Michele C. Weigle, and Stephan Olariu, “MAC Protocols for VANETs,” In Mobile Ad Hoc Networking: Cutting Edge Directions, 2nd edition. (Stefano Basagni and Marco Conti and Silvia Giordano and Ivan Stojmenovic, Eds.). Hoboken, NJ, USA, John Wiley & Sons, Inc, 2013.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “Making Enterprise-Level Archive Tools Accessible for Personal Web Archiving Using XAMPP,” Poster and demo presented at Personal Digital Archiving, February 2013. poster
+Share on

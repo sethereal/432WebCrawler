@@ -1,0 +1,119 @@
+ERROR: 2024/02/18 14:56:17.019355 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.cs.odu.edu/~tkennedy/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.cs.odu.edu/~tkennedy/",
+  "self": "http://localhost:1208/timemap/json/https://www.cs.odu.edu/~tkennedy/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-10-04T02:08:02Z",
+        "uri": "https://web.archive.org/web/20151004020802/http://cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2017-09-02T01:01:17Z",
+        "uri": "https://web.archive.org/web/20170902010117/http://www.cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2017-09-02T01:01:17Z",
+        "uri": "https://web.archive.org/web/20170902010117/http://www.cs.odu.edu:80/~tkennedy"
+      },
+      {
+        "datetime": "2017-11-01T19:33:38Z",
+        "uri": "https://web.archive.org/web/20171101193338/http://www.cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2017-11-01T19:33:38Z",
+        "uri": "https://web.archive.org/web/20171101193338/http://www.cs.odu.edu:80/~tkennedy"
+      },
+      {
+        "datetime": "2017-12-03T06:03:46Z",
+        "uri": "https://web.archive.org/web/20171203060346/http://cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2018-01-02T05:47:10Z",
+        "uri": "https://web.archive.org/web/20180102054710/http://www.cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2018-01-02T05:47:10Z",
+        "uri": "https://web.archive.org/web/20180102054710/http://www.cs.odu.edu:80/~tkennedy"
+      },
+      {
+        "datetime": "2018-02-09T09:23:24Z",
+        "uri": "https://web.archive.org/web/20180209092324/http://cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2018-05-07T06:07:44Z",
+        "uri": "https://web.archive.org/web/20180507060744/http://cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2018-07-26T04:59:32Z",
+        "uri": "https://web.archive.org/web/20180726045932/http://www.cs.odu.edu:80/~tkennedy/"
+      },
+      {
+        "datetime": "2018-07-26T04:59:32Z",
+        "uri": "https://web.archive.org/web/20180726045932/http://www.cs.odu.edu:80/~tkennedy"
+      },
+      {
+        "datetime": "2018-09-26T19:36:19Z",
+        "uri": "https://web.archive.org/web/20180926193619/http://www.cs.odu.edu:80/~tkennedy"
+      },
+      {
+        "datetime": "2021-04-15T21:50:50Z",
+        "uri": "https://web.archive.org/web/20210415215050/http://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2021-04-15T21:52:31Z",
+        "uri": "https://web.archive.org/web/20210415215231/http://www.cs.odu.edu/~tkennedy"
+      },
+      {
+        "datetime": "2021-04-25T11:44:07Z",
+        "uri": "https://web.archive.org/web/20210425114407/http://www.cs.odu.edu/~tkennedy"
+      },
+      {
+        "datetime": "2021-04-25T17:22:15Z",
+        "uri": "https://web.archive.org/web/20210425172215/http://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2021-04-28T09:51:36Z",
+        "uri": "https://web.archive.org/web/20210428095136/https://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2021-04-28T10:01:19Z",
+        "uri": "https://web.archive.org/web/20210428100119/https://www.cs.odu.edu/~tkennedy"
+      },
+      {
+        "datetime": "2021-10-22T19:47:17Z",
+        "uri": "https://arquivo.pt/wayback/20211022194717mp_/https://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2022-08-10T19:49:03Z",
+        "uri": "https://arquivo.pt/wayback/20220810194903mp_/https://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2022-10-23T06:15:43Z",
+        "uri": "https://web.archive.org/web/20221023061543/http://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2023-07-23T23:02:38Z",
+        "uri": "https://web.archive.org/web/20230723230238/https://www.cs.odu.edu/~tkennedy/"
+      },
+      {
+        "datetime": "2023-10-31T05:37:57Z",
+        "uri": "https://web.archive.org/web/20231031053757/https://www.cs.odu.edu/~tkennedy/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-10-04T02:08:02Z",
+      "uri": "https://web.archive.org/web/20151004020802/http://cs.odu.edu:80/~tkennedy/"
+    },
+    "last": {
+      "datetime": "2023-10-31T05:37:57Z",
+      "uri": "https://web.archive.org/web/20231031053757/https://www.cs.odu.edu/~tkennedy/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cs.odu.edu/~tkennedy/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cs.odu.edu/~tkennedy/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cs.odu.edu/~tkennedy/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cs.odu.edu/~tkennedy/"
+}

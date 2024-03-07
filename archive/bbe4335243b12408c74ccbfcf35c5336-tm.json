@@ -1,0 +1,63 @@
+ERROR: 2024/02/18 19:45:12.481263 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ",
+  "self": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-04-06T15:25:34Z",
+        "uri": "https://web.archive.org/web/20160406152534/http://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2016-08-04T20:53:24Z",
+        "uri": "https://web.archive.org/web/20160804205324/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2016-11-09T00:47:44Z",
+        "uri": "https://web.archive.org/web/20161109004744/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2016-11-09T00:49:48Z",
+        "uri": "https://web.archive.org/web/20161109004948/http://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2016-11-14T03:56:31Z",
+        "uri": "https://web.archive.org/web/20161114035631/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2017-10-02T17:44:43Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174443/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2017-10-02T17:44:43Z",
+        "uri": "https://web.archive.org/web/20171002174443/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-07-30T18:48:58Z",
+        "uri": "https://web.archive.org/web/20220730184858/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T07:04:31Z",
+        "uri": "https://web.archive.org/web/20221208070431/https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T07:05:29Z",
+        "uri": "https://web.archive.org/web/20221208070529/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ"
+      }
+    ],
+    "first": {
+      "datetime": "2016-04-06T15:25:34Z",
+      "uri": "https://web.archive.org/web/20160406152534/http://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en"
+    },
+    "last": {
+      "datetime": "2022-12-08T07:05:29Z",
+      "uri": "https://web.archive.org/web/20221208070529/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.google.com/citations?hl=en&user=97KuWzQAAAAJ"
+}

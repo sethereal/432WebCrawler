@@ -1,0 +1,31 @@
+ERROR: 2024/02/18 18:33:12.700214 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-18T23:04:42Z",
+        "uri": "https://web.archive.org/web/20240118230442/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+      },
+      {
+        "datetime": "2024-02-13T07:13:52Z",
+        "uri": "https://web.archive.org/web/20240213071352/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-18T23:04:42Z",
+      "uri": "https://web.archive.org/web/20240118230442/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+    },
+    "last": {
+      "datetime": "2024-02-13T07:13:52Z",
+      "uri": "https://web.archive.org/web/20240213071352/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/culture/arts/events/odu-jazz-combo-and-jazz-orchestra-concert-0"
+}

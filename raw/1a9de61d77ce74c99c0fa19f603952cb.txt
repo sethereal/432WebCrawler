@@ -1,0 +1,769 @@
+<!doctype html>
+
+<html lang="en">
+    <head>
+	<meta name="generator" content="Hugo 0.65.3" />
+    <meta charset="utf-8" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/sigir2019/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="/sigir2019/icons/favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>SIGIR 2019 | SIGIR 2019</title>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+    
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+    
+    
+    <link href="/sigir2019/css/bootstrap.min.css" rel="stylesheet" />
+
+    
+    <link rel="stylesheet" href="/sigir2019/sass/now-ui/now-ui-kit.min.3e4267742e1a39fadea163e8039dff6f1af071d5ecf3577b10ff3fbd4dc22f6c.css" integrity="sha256-PkJndC4aOfreoWPoA53/bxrwcdXs81d7EP8/vU3CL2w=" media="screen">
+
+    <link href="/sigir2019/css/demo.css" rel="stylesheet" />
+    
+    <link rel="stylesheet" href="/sigir2019/sass/main.min.f3ac67f8ae17762029e5e7c44cac4093bccec706cf57e530a07cacfecd26467b.css" integrity="sha256-86xn&#43;K4XdiAp5efETKxAk7zOxwbPV&#43;UwoHys/s0mRns=" media="screen">
+    
+  <link rel="stylesheet" href="/sigir2019/css/highlight.min.css">
+</head>
+
+  
+	<body class="profile-page sidebar-collapse">
+
+    
+<nav class="navbar navbar-expand-lg bg-primary fixed-top navbar-transparent " color-on-scroll="400">
+    <div class="container">
+        <div class="navbar-translate">
+            <a class="navbar-brand" href="/sigir2019" rel="tooltip" title="" data-placement="bottom">
+                <div>
+                  <img src="/sigir2019/icons/icon.png"/>
+                </div>
+                
+            </a>
+            <button class="navbar-toggler navbar-toggler" type="button" data-toggle="collapse" data-target="#navigation" aria-controls="navigation-index" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-bar bar1"></span>
+                <span class="navbar-toggler-bar bar2"></span>
+                <span class="navbar-toggler-bar bar3"></span>
+            </button>
+        </div>
+        <div class="collapse navbar-collapse justify-content-end" id="navigation" data-nav-image="/sigir2019/img/blurred-image-1.jpg">
+          <ul class="navbar-nav  ml-auto">
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+         <span>SIGIR 2019</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/" data-target="/sigir2019/">
+            <i class="fas fa-home"></i>
+            <span>Home</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/news/" data-target="/sigir2019/news/">
+            <i class="far fa-newspaper"></i>
+            <span>News</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+        <i class="far fa-file-alt"></i> <span>Submit</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/calls/" data-target="/sigir2019/calls/">
+            <i class="fas fa-list-ul"></i> 
+            <span>List of calls</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/long/" data-target="/sigir2019/calls/long/">
+            <i class="fas fa-file-alt"></i> 
+            <span>Call for Full Papers</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/short/" data-target="/sigir2019/calls/short/">
+            <i class="fas fa-newspaper"></i> 
+            <span>Call for Short Papers</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/tutorial/" data-target="/sigir2019/calls/tutorial/">
+            <i class="fas fa-chalkboard-teacher"></i> 
+            <span>Call for Tutorials</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/sirip/" data-target="/sigir2019/calls/sirip/">
+            <i class="fas fa-industry"></i> 
+            <span>SIGIR Symposium on IR in Practice (SIRIP)</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/workshop/" data-target="/sigir2019/calls/workshop/">
+            <i class="fas fa-users"></i> 
+            <span>Call for Workshops</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/demos/" data-target="/sigir2019/calls/demos/">
+            <i class="fas fa-desktop"></i> 
+            <span>Call for Demonstrations</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/calls/doctoral-consortium/" data-target="/sigir2019/calls/doctoral-consortium/">
+            <i class="fas fa-graduation-cap"></i> 
+            <span>Call for Doctoral Consortium Papers</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+        <i class='fas fa-calendar'></i> <span>Program</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/program/ataglance/" data-target="/sigir2019/program/ataglance/">
+            <i class="fas fa-university"></i>
+            <span>Program at a Glance</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/schedule/" data-target="/sigir2019/program/schedule/">
+            <i class="far fa-clock"></i>
+            <span>Schedule</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/keynotes/" data-target="/sigir2019/program/keynotes/">
+            
+            <span>Keynotes and panel</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/tutorials/" data-target="/sigir2019/program/tutorials/">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <span>Tutorials</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/workshops/" data-target="/sigir2019/program/workshops/">
+            <i class="fas fa-university"></i>
+            <span>Workshops</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/dc/" data-target="/sigir2019/program/dc/">
+            <i class="fas fa-university"></i>
+            <span>Doctoral Consortium</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/program/accepted/" data-target="/sigir2019/program/accepted/">
+            <i class="fas fa-filter"></i>
+            <span>Accepted Papers</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+        <i class='fas fa-plane'></i> <span>Attend</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/attend/registration/" data-target="/sigir2019/attend/registration/">
+            <i class="fa fa-cogs" aria-hidden="true"></i>
+            <span>Registration</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/call-for-volunteers/" data-target="/sigir2019/attend/call-for-volunteers/">
+            <i class="fas fa-hands-helping"></i>
+            <span>Call For Volunteers</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/social-events/" data-target="/sigir2019/attend/social-events/">
+            <i class="fas fa-cocktail"></i>
+            <span>Social Events</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/venue/" data-target="/sigir2019/attend/venue/">
+            <i class="fas fa-university"></i>
+            <span>Venue</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/presenters/" data-target="/sigir2019/attend/presenters/">
+            <i class="fas fa-chalkboard-teacher"></i>
+            <span>Presenters</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/travel/" data-target="/sigir2019/attend/travel/">
+            <i class="fa fa-plane" aria-hidden="true"></i>
+            <span>Travel</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/video/" data-target="/sigir2019/video/">
+            <i class="fas fa-video"></i>
+            <span>Video Streaming</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/visainformation/" data-target="/sigir2019/attend/visainformation/">
+            <i class="fa fa-info" aria-hidden="true"></i>
+            <span>Visa Information</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/accomodation/" data-target="/sigir2019/attend/accomodation/">
+            <i class="fa fa-bed" aria-hidden="true"></i>
+            <span>Accomodation</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/paris/" data-target="/sigir2019/attend/paris/">
+            <i class="fas fa-shoe-prints"></i>
+            <span>Visiting Paris</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/attend/going-out/" data-target="/sigir2019/attend/going-out/">
+            <i class="fas fa-glass-cheers"></i>
+            <span>Going Out</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+        <i class='fas fa-users'></i> <span>Organizers</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/organizers/" data-target="/sigir2019/organizers/">
+            
+            <span>All organizers</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/organizers/program-committee/" data-target="/sigir2019/organizers/program-committee/">
+            
+            <span>Program Chairs and Committee</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/organizers/other-committee/" data-target="/sigir2019/organizers/other-committee/">
+            
+            <span>Other Chairs and Committee</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    
+    <li class="nav-item dropdown">
+      <a href="#" class="nav-link dropdown-toggle"  id="navbarDropdownMenuLink" data-toggle="dropdown">
+        <i class="fas fa-search-dollar"></i> <span>Sponsors</span>
+        <span class="caret"></span>
+      </a>
+      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
+        
+        <a class="dropdown-item" href="/sigir2019/sponsors/" data-target="/sigir2019/sponsors/">
+            <i class="fas fa-th-list"></i> 
+            <span>List of sponsors</span>
+          </a>
+        
+        <a class="dropdown-item" href="/sigir2019/sponsors/call/" data-target="/sigir2019/sponsors/call/">
+            <i class="fas fa-phone-square"></i> 
+            <span>Call for sponsorship</span>
+          </a>
+        
+      </div>
+    </li>
+    
+  
+    <li class="nav-item">
+      <a class="nav-link">
+        <div id='search-area'>
+          <i class="fas fa-search"></i>
+          <div id='search-box'>
+            <input type="text" id="search">
+            <ul id="search-results">
+            </ul>
+          </div>
+        </div>
+      </a>
+    </li>
+        </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+    <div class="wrapper">
+        
+        
+        
+    
+ 
+        <div class="page-header page-header-small" filter-color="blue">
+            <div class="page-header-image" data-parallax="true" style="background-image: url('/sigir2019/pictures/paris/paris-ponts_hu1eaeaee0c590e80de934441eb9e51aaa_1074341_2048x400_fit_q75_box.jpg');">
+            </div>
+            
+            
+<div class="container">
+  <div class="content-center">
+
+    <h1 class="title">SIGIR 2019</h1>
+    <div class="text-center">
+       <div>42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</div><div style='font-weight: bold'>July 21-25, 2019 (Paris, France)</div> 
+    </div>
+  </div>
+</div>
+
+            
+        </div>
+        <div class="section">
+            <div class="outline">
+                
+            </div>
+            <div class="container">                   
+
+                
+<div class="row">
+  <div class="col-md-8 ml-auto mr-auto text-left">
+      
+      <div class="main-content">
+        <p>The 42nd International ACM SIGIR Conference on Research and Development
+in Information Retrieval will take place on July 21-25, 2019 in Paris.
+The conference is backed up by the French Association for Information
+Retrieval and Applications (<a href="http://www.asso-aria.org/" title="ARIA">ARIA</a>) which organizes the yearly IR French
+CORIA conference.</p>
+<p><a href="http://sigir.org" title="ACM SIGIR">SIGIR</a> is the premier international forum for the presentation of new
+research results and for the demonstration of new systems and techniques
+in information retrieval. The conference consists of five days of full
+papers, short papers, demonstrations, tutorials and <a href="program/workshops" title="SIGIR 2019 Workshops">workshops</a> focused on
+research and development in the area of information retrieval, as well
+as an industry track and social events.</p>
+<p>SIGIR 2019 is now over; thanks to all participants, and see you in <!-- raw HTML omitted -->Xi&rsquo;An<!-- raw HTML omitted -->.</p>
+<h2 id="useful-quick-links">Useful quick links</h2>
+<h3 id="schedule">Schedule</h3>
+<p><a href="http://www.sigir.org/sigir2019/program/schedule/">Detailed schedule</a></p>
+<h3 id="booklet">Booklet</h3>
+<p><a href="http://www.sigir.org/sigir2019/booklet.pdf">Download the SIGIR 2019 booklet</a></p>
+<h2 id="latest-news">Latest News</h2>
+
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-07-25 â This is the end</span> 
+        <p>SIGIR 2019 is now over - we hope you enjoyed it, and that you had a nice trip home. Recorded talks will be soon be online, and we will update the website with it.</p>
+<p>Don&rsquo;t forget to send us the pictures of your flowers made of SIGIR 2019 bags!</p>
+<p>See you in Xi&rsquo;An, China, in 2020!</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-07-17 â Welcome</span> 
+        <p>We are getting ready for SIGIR 2019! We will use will use the <a href="https://whova.com/whova-event-app/">Whova app</a> (ios and android) for sharing information and check-in (not required, so no obligation) - if you have not received an invitation email, please let us know by emailing SIGIR 2019 registration desk. Please stay tuned on our twitter channel for conference updates.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-29 â Doctorial Consortium Schedule</span> 
+        <p>You can now find the <a href="http://www.sigir.org/sigir2019/program/dc/">Doctorial Consortium schedule</a> on our website.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-27 â Tutorials</span> 
+        <p>You can now find the <a href="http://www.sigir.org/sigir2019/program/tutorials/">detailed list of tutorials</a> on our website.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-25 â Registration Open</span> 
+        <p>Registration for SIGIR 2019 is now open! Go to the <a href="http://www.sigir.org/sigir2019/attend/registration/">registration page</a> to view registration items and benefits, as well as general information on the conference.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-23 â Accepted Papers</span> 
+        <p>Accepted short and long papers <!-- raw HTML omitted -->are listed here<!-- raw HTML omitted -->.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-20 â Accomodation</span> 
+        <p>Book an accomodation early: got to <!-- raw HTML omitted -->this page<!-- raw HTML omitted -->.</p>
+
+    </div>
+
+    <div>
+        <span><i class="fas fa-calendar-day"></i> 2019-04-04 â Workshops announced</span> 
+        <p>The SIGIR 2019 workshop program will host 8 workshops covering new ideas and emerging topics or areas related to Information Retrieval. Find the full list on <!-- raw HTML omitted -->the workshop page<!-- raw HTML omitted --></p>
+
+    </div>
+
+
+      </div>
+  </div>   
+  <div class="ml-auto mr-auto text-center">            
+    
+    <a class="twitter-timeline" data-lang="en" data-width="300" data-height="800" href="https://twitter.com/sigir2019?ref_src=twsrc%5Etfw">Tweets by sigir2019</a> 
+    </div>
+</div>
+
+          </div>
+        </div>
+
+        
+
+<div class="sponsors">
+    <h1>SIGIR 2019 Sponsors</h1>
+    
+        <h2>Platinum</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.apple.com"><img src="/sigir2019/sponsors/apple_hu41d52727919f24394af2d0f58dbff649_23517_140x105_fit_box_2.png" width="140" alt="[Apple]" height="76">
+            </a></div>
+        
+        </div>
+    
+        <h2>Gold</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.amazon.jobs/en"><img src="/sigir2019/sponsors/amazon_hu5e6814293af96605e3790bb23551b50e_19488_140x105_fit_box_2.png" width="140" alt="[Amazon]" height="42">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://ailab.criteo.com/"><img src="/sigir2019/sponsors/criteo_hu1e4ce961b33fd9a18867d85726a6202d_36178_140x105_fit_box_2.png" width="140" alt="[Criteo]" height="56">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.techatbloomberg.com/"><img src="/sigir2019/sponsors/blumberg_huc33b570198253119a364458efbe3a4bb_4142_140x105_fit_box_2.png" width="140" alt="[Bloomberg]" height="27">
+            </a></div>
+        
+        </div>
+    
+        <h2>Silver</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://rit.rakuten.co.jp/"><img src="/sigir2019/sponsors/rakuten_huc118558c7f37941005f3edf8af589fcb_166823_140x105_fit_box_2.png" width="140" alt="[Rakuten]" height="38">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://research.fb.com/"><img src="/sigir2019/sponsors/Facebook_huffa164a2b4284540ede0a01e2fb09638_26860_140x105_fit_box_2.png" width="140" alt="[Facebook]" height="49">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.appen.com"><img src="/sigir2019/sponsors/appen_hu712ee81f80d7e30e540ddd31cbd68992_30981_140x105_fit_q75_box.jpg" width="140" alt="[Appen]" height="37">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.huawei.com"><img src="/sigir2019/sponsors/huawei_huf965064b42cd4ee4a14e3df39b2097cb_3692_140x105_fit_box_2.png" width="133" alt="[Huawei]" height="30">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.spotify.com/"><img src="/sigir2019/sponsors/spotify_hubea790a816b50084c8e95536c0ec0813_9393_140x105_fit_box_2.png" width="140" alt="[Spotify]" height="47">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.microsoft.com/en-us/research/"><img src="/sigir2019/sponsors/microsoft_huad0ce1acfa6d271dd4c5d61cc3c45454_9235_140x105_fit_box_2.png" width="140" alt="[Microsoft]" height="33">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.zalando.com/"><img src="/sigir2019/sponsors/zalando_hu12839b870ce569152684ebfaa0fd0131_97561_140x105_fit_box_2.png" width="140" alt="[Zalando]" height="58">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.europe.naverlabs.com/"><img src="/sigir2019/sponsors/naver_hud6d4f9068745d24b34f60427f9e113ce_688461_140x105_fit_q75_box.jpg" width="140" alt="[Naver]" height="39">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.ebay.com"><img src="/sigir2019/sponsors/ebay_hu80fc4b9eda42880b4b4fd1725283be69_191107_140x105_fit_q75_box.jpg" width="140" alt="[eBay]" height="53">
+            </a></div>
+        
+        </div>
+    
+        <h2>Bronze</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.technicolor.com/"><img src="/sigir2019/sponsors/technicolor_huc38e31a11c851736f975bdc4b447ce3d_90944_140x105_fit_q75_box.jpg" width="140" alt="[Technicolor]" height="76">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.research.ibm.com/"><img src="/sigir2019/sponsors/ibm-research_huc1c780022fa945b067e6de0cf391c58a_168900_140x105_fit_q75_box.jpeg" width="140" alt="[IBM Research]" height="30">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://we.sharechat.com"><img src="/sigir2019/sponsors/sharechat_hu840ebd80b25a71e029a060cea13c52f5_50263_140x105_fit_box_2.png" width="95" alt="[ShareChat]" height="105">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.google.com"><img src="/sigir2019/sponsors/google_hub9abd08c9d5b3abcbf62a276fa175bed_64346_140x105_fit_box_2.png" width="140" alt="[Google]" height="46">
+            </a></div>
+        
+        </div>
+    
+        <h2>Exhibitors</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.springer.com/gp/computer-science/"><img src="/sigir2019/sponsors/springer_hu62db448fcad57abe9f9624c2ed907f1b_5238_140x105_fit_box_2.png" width="140" alt="[Springer]" height="37">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.nowpublishers.com/inr"><img src="/sigir2019/sponsors/now_logo_180wide_transparent_hu506f87f37cc0869c221c7d34ccc4c31c_7115_140x105_fit_box_2.png" width="140" alt="[Now Publishers Inc]" height="46">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.morganclaypool.com"><img src="/sigir2019/sponsors/MorganClaypoolPub_hudc35a27660214b16c302b0793a2f84b2_80204_140x105_fit_box_2.png" width="140" alt="[Morgan &amp; Claypool Publishers]" height="105">
+            </a></div>
+        
+        </div>
+    
+        <h2>Additional Sponsors</h2>
+        <div class="sponsors-level">
+                
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.asso-aria.org/"><img src="/sigir2019/sponsors/aria_huca736de016f120f368ebcf491b4a78ad_7750_140x105_fit_box_2.png" width="140" alt="[ARIA]" height="50">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.acm.org/"><img src="/sigir2019/sponsors/acm_huf8a0c5c124afb9ab6568eb106358a373_5913_140x105_fit_box_2.png" width="140" alt="[ACM]" height="58">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://sigir.org/"><img src="/sigir2019/sponsors/sigir_hu6af8e30ed49ced83973f1bf31d022d53_6117_140x105_fit_box_2.png" width="113" alt="[SIGIR]" height="66">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.lip6.fr"><img src="/sigir2019/sponsors/lip6_hu3cf8c17ff6383c227311f5d1fa49fbf1_295067_140x105_fit_box_2.png" width="115" alt="[LIP6]" height="105">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.limsi.fr/fr/"><img src="/sigir2019/sponsors/LIMSI_hu778dcfa6cebcf8da6e09555cb6a6f2ba_4859_140x105_fit_box_2.png" width="106" alt="[LIMSI]" height="105">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="https://www.irit.fr/"><img src="/sigir2019/sponsors/irit_hu889d47a72bd66573537bf3f64fa4ec7a_126799_140x105_fit_q75_box.jpg" width="99" alt="[IRIT]" height="105">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.cnrs.fr"><img src="/sigir2019/sponsors/cnrs_hu6508686c20b15a772caef7d491a5abeb_202262_140x105_fit_box_2.png" width="104" alt="[CNRS]" height="105">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://sciences.sorbonne-universite.fr"><img src="/sigir2019/sponsors/su_hu3efd56c905749a963b50d3fc8c728de5_13618_140x105_fit_q75_box.jpg" width="140" alt="[Sorbonne UniversitÃ©]" height="56">
+            </a></div>
+        
+            
+
+            
+            
+            
+            <div class="sponsor"><a href="http://www.dim-rfsi.fr/actualites/acm-sigir-2019"><img src="/sigir2019/sponsors/rfsi_hu90ac915dd575f497fdc0906b0c756e61_17235_140x105_fit_box_2.png" width="140" alt="[RFSI]" height="81">
+            </a></div>
+        
+        </div>
+    
+</div>
+
+        <footer class="footer" data-background-color="black">
+    <div class="container">
+      <nav>
+          <ul>
+          
+          <li>
+            <div>42nd International ACM SIGIR Conference on Research and Development in Information Retrieval</div>
+            <div>21-25 July 2019, Paris, France</div>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </footer>
+    </div>
+</body>
+
+<script defer async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/sigir2019/js/vendor.js" type="text/javascript"></script>
+<script src="/sigir2019/js/main.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        
+        nowuiKit.initSliders();
+    });
+
+    function scrollToDownload() {
+
+        if ($('.section-download').length != 0) {
+            $("html, body").animate({
+                scrollTop: $('.section-download').offset().top
+            }, 1000);
+        }
+    }
+</script>
+
+    
+    
+    
+      
+    
+      
+      <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.9.0/highlight.min.js"></script>
+
+      
+
+      
+      <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+    </script>
+    <script async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML"></script>
+    
+    
+
+
+</html>

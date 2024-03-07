@@ -1,0 +1,2275 @@
+ERROR: 2024/02/18 17:54:13.659927 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/ODU": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/ODU",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/ODU",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-05-08T20:30:00Z",
+        "uri": "https://web.archive.org/web/20080508203000/http://twitter.com:80/odu"
+      },
+      {
+        "datetime": "2008-12-26T09:46:30Z",
+        "uri": "https://web.archive.org/web/20081226094630/http://twitter.com:80/odu"
+      },
+      {
+        "datetime": "2016-10-24T12:53:43Z",
+        "uri": "https://wayback.archive-it.org/all/20161024125343/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2016-10-24T12:53:43Z",
+        "uri": "https://web.archive.org/web/20161024125343/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2016-10-29T00:38:42Z",
+        "uri": "https://wayback.archive-it.org/all/20161029003842/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2016-10-29T00:38:42Z",
+        "uri": "https://web.archive.org/web/20161029003842/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2017-07-27T03:53:24Z",
+        "uri": "https://web.archive.org/web/20170727035324/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2017-07-29T19:13:03Z",
+        "uri": "https://web.archive.org/web/20170729191303/http://twitter.com:80/ODU"
+      },
+      {
+        "datetime": "2017-09-11T04:39:45Z",
+        "uri": "https://wayback.archive-it.org/all/20170911043945/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-11T04:39:45Z",
+        "uri": "https://web.archive.org/web/20170911043945/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-11T05:03:34Z",
+        "uri": "https://wayback.archive-it.org/all/20170911050334/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-11T05:03:34Z",
+        "uri": "https://web.archive.org/web/20170911050334/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-11T19:59:47Z",
+        "uri": "https://wayback.archive-it.org/all/20170911195947/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-11T19:59:47Z",
+        "uri": "https://web.archive.org/web/20170911195947/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-13T09:16:16Z",
+        "uri": "https://wayback.archive-it.org/all/20170913091616/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-13T09:16:16Z",
+        "uri": "https://web.archive.org/web/20170913091616/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-13T11:01:44Z",
+        "uri": "https://wayback.archive-it.org/all/20170913110144/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-13T11:01:44Z",
+        "uri": "https://web.archive.org/web/20170913110144/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-18T12:36:31Z",
+        "uri": "https://wayback.archive-it.org/all/20170918123631/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-18T12:36:31Z",
+        "uri": "https://web.archive.org/web/20170918123631/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-19T17:41:35Z",
+        "uri": "https://wayback.archive-it.org/all/20170919174135/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-09-19T17:41:35Z",
+        "uri": "https://web.archive.org/web/20170919174135/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-08T20:50:11Z",
+        "uri": "https://wayback.archive-it.org/all/20171008205011/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-08T20:50:11Z",
+        "uri": "https://web.archive.org/web/20171008205011/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T15:22:34Z",
+        "uri": "https://wayback.archive-it.org/all/20171011152234/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T15:22:34Z",
+        "uri": "https://web.archive.org/web/20171011152234/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T17:20:49Z",
+        "uri": "https://wayback.archive-it.org/all/20171011172049/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T17:20:49Z",
+        "uri": "https://web.archive.org/web/20171011172049/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T20:09:34Z",
+        "uri": "https://wayback.archive-it.org/all/20171011200934/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-11T20:09:34Z",
+        "uri": "https://web.archive.org/web/20171011200934/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-12T00:21:26Z",
+        "uri": "https://wayback.archive-it.org/all/20171012002126/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-12T00:21:26Z",
+        "uri": "https://web.archive.org/web/20171012002126/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-17T02:33:13Z",
+        "uri": "https://wayback.archive-it.org/all/20171017023313/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-17T02:33:13Z",
+        "uri": "https://web.archive.org/web/20171017023313/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-18T11:07:21Z",
+        "uri": "https://wayback.archive-it.org/all/20171018110721/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-18T11:07:21Z",
+        "uri": "https://web.archive.org/web/20171018110721/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-19T16:42:08Z",
+        "uri": "https://wayback.archive-it.org/all/20171019164208/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2017-10-19T16:42:08Z",
+        "uri": "https://web.archive.org/web/20171019164208/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2018-01-30T13:02:02Z",
+        "uri": "https://web.archive.org/web/20180130130202/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2018-02-27T19:06:20Z",
+        "uri": "https://web.archive.org/web/20180227190620/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2018-07-23T23:35:34Z",
+        "uri": "https://web.archive.org/web/20180723233534/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2018-11-29T14:40:22Z",
+        "uri": "https://web.archive.org/web/20181129144022/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-05T19:23:23Z",
+        "uri": "https://web.archive.org/web/20190105192323/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-08T22:50:13Z",
+        "uri": "https://wayback.archive-it.org/all/20190108225013/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-08T22:50:13Z",
+        "uri": "https://web.archive.org/web/20190108225013/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-12T20:03:55Z",
+        "uri": "https://web.archive.org/web/20190112200355/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-15T23:16:56Z",
+        "uri": "https://wayback.archive-it.org/all/20190115231656/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-15T23:16:56Z",
+        "uri": "https://web.archive.org/web/20190115231656/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-19T20:38:19Z",
+        "uri": "https://web.archive.org/web/20190119203819/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-23T00:23:03Z",
+        "uri": "https://wayback.archive-it.org/all/20190123002303/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-23T00:23:03Z",
+        "uri": "https://web.archive.org/web/20190123002303/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-26T21:22:28Z",
+        "uri": "https://web.archive.org/web/20190126212228/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-29T18:53:56Z",
+        "uri": "https://wayback.archive-it.org/all/20190129185356/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-29T18:53:56Z",
+        "uri": "https://web.archive.org/web/20190129185356/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-30T00:32:31Z",
+        "uri": "https://wayback.archive-it.org/all/20190130003231/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-01-30T00:32:31Z",
+        "uri": "https://web.archive.org/web/20190130003231/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-02T21:38:24Z",
+        "uri": "https://web.archive.org/web/20190202213824/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-06T09:32:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190206093219/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-06T09:32:19Z",
+        "uri": "https://web.archive.org/web/20190206093219/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-09T22:45:51Z",
+        "uri": "https://web.archive.org/web/20190209224551/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-11T14:52:42Z",
+        "uri": "https://web.archive.org/web/20190211145242/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-18T15:31:59Z",
+        "uri": "https://web.archive.org/web/20190218153159/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-20T02:28:12Z",
+        "uri": "https://web.archive.org/web/20190220022812/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-27T03:07:27Z",
+        "uri": "https://web.archive.org/web/20190227030727/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-02-28T19:07:56Z",
+        "uri": "https://web.archive.org/web/20190228190756/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-07T19:34:57Z",
+        "uri": "https://web.archive.org/web/20190307193457/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-14T20:16:34Z",
+        "uri": "https://web.archive.org/web/20190314201634/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-21T20:53:40Z",
+        "uri": "https://web.archive.org/web/20190321205340/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-26T23:52:55Z",
+        "uri": "https://wayback.archive-it.org/all/20190326235255/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-26T23:52:55Z",
+        "uri": "https://web.archive.org/web/20190326235255/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-03-28T22:11:16Z",
+        "uri": "https://web.archive.org/web/20190328221116/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-03T01:11:41Z",
+        "uri": "https://wayback.archive-it.org/all/20190403011141/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-03T01:11:41Z",
+        "uri": "https://web.archive.org/web/20190403011141/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-04T23:15:29Z",
+        "uri": "https://web.archive.org/web/20190404231529/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-08T20:22:16Z",
+        "uri": "https://web.archive.org/web/20190408202216/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2019-04-08T20:22:16Z",
+        "uri": "https://web.archive.org/web/20190408202216/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2019-04-11T23:28:33Z",
+        "uri": "https://web.archive.org/web/20190411232833/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-14T21:35:09Z",
+        "uri": "https://web.archive.org/web/20190414213509/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2019-04-14T21:35:09Z",
+        "uri": "https://web.archive.org/web/20190414213509/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2019-04-19T14:15:21Z",
+        "uri": "https://wayback.archive-it.org/all/20190419141521/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-04-19T14:15:21Z",
+        "uri": "https://web.archive.org/web/20190419141521/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-06-14T05:42:36Z",
+        "uri": "https://web.archive.org/web/20190614054236/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-07-13T13:36:00Z",
+        "uri": "https://web.archive.org/web/20190713133600/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-10-29T18:25:18Z",
+        "uri": "https://web.archive.org/web/20191029182518/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-11-19T20:26:31Z",
+        "uri": "https://web.archive.org/web/20191119202631/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-11-20T19:33:57Z",
+        "uri": "https://web.archive.org/web/20191120193357/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-11-20T23:04:57Z",
+        "uri": "https://web.archive.org/web/20191120230457/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-11-21T01:32:38Z",
+        "uri": "https://web.archive.org/web/20191121013238/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-11-21T20:22:24Z",
+        "uri": "https://web.archive.org/web/20191121202224/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-01-14T18:23:29Z",
+        "uri": "https://wayback.archive-it.org/all/20200114182329/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-01-14T18:23:29Z",
+        "uri": "https://web.archive.org/web/20200114182329/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-01-22T09:02:36Z",
+        "uri": "https://wayback.archive-it.org/all/20200122090236/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-01-22T09:02:36Z",
+        "uri": "https://web.archive.org/web/20200122090236/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-01-26T07:02:08Z",
+        "uri": "https://web.archive.org/web/20200126070208/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-04-15T22:16:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200415221608/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-04-15T22:16:08Z",
+        "uri": "https://web.archive.org/web/20200415221608/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-04-16T14:13:59Z",
+        "uri": "https://web.archive.org/web/20200416141359/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-16T20:06:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200416200644/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-16T20:06:44Z",
+        "uri": "https://web.archive.org/web/20200416200644/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-16T20:09:38Z",
+        "uri": "https://wayback.archive-it.org/all/20200416200938/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-16T20:09:38Z",
+        "uri": "https://web.archive.org/web/20200416200938/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-24T15:46:59Z",
+        "uri": "https://web.archive.org/web/20200424154659/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-29T14:39:03Z",
+        "uri": "https://web.archive.org/web/20200429143903/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-04-30T15:11:45Z",
+        "uri": "https://web.archive.org/web/20200430151145/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-04T15:26:10Z",
+        "uri": "https://web.archive.org/web/20200504152610/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-06T14:28:41Z",
+        "uri": "https://web.archive.org/web/20200506142841/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-07T14:25:55Z",
+        "uri": "https://web.archive.org/web/20200507142555/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-10T18:17:54Z",
+        "uri": "https://web.archive.org/web/20200510181754/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-12T16:39:24Z",
+        "uri": "https://web.archive.org/web/20200512163924/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-15T15:29:55Z",
+        "uri": "https://web.archive.org/web/20200515152955/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-18T14:07:04Z",
+        "uri": "https://web.archive.org/web/20200518140704/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2020-05-22T15:46:14Z",
+        "uri": "https://web.archive.org/web/20200522154614/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-05-27T14:56:00Z",
+        "uri": "https://web.archive.org/web/20200527145600/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-01T13:19:20Z",
+        "uri": "https://web.archive.org/web/20200601131920/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-06-05T13:07:44Z",
+        "uri": "https://web.archive.org/web/20200605130744/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-08T13:33:42Z",
+        "uri": "https://web.archive.org/web/20200608133342/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-10T13:40:28Z",
+        "uri": "https://web.archive.org/web/20200610134028/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-22T15:20:43Z",
+        "uri": "https://web.archive.org/web/20200622152043/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-26T13:34:18Z",
+        "uri": "https://web.archive.org/web/20200626133418/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-06-30T13:59:40Z",
+        "uri": "https://web.archive.org/web/20200630135940/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-07-09T20:12:51Z",
+        "uri": "https://web.archive.org/web/20200709201251/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-07-13T15:45:44Z",
+        "uri": "https://web.archive.org/web/20200713154544/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-07-17T16:01:45Z",
+        "uri": "https://web.archive.org/web/20200717160145/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-07-22T13:47:09Z",
+        "uri": "https://web.archive.org/web/20200722134709/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-07-28T00:19:01Z",
+        "uri": "https://web.archive.org/web/20200728001901/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-07-31T19:38:40Z",
+        "uri": "https://web.archive.org/web/20200731193840/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-08-07T13:54:26Z",
+        "uri": "https://web.archive.org/web/20200807135426/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-08-13T14:16:20Z",
+        "uri": "https://web.archive.org/web/20200813141620/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-08-21T21:18:31Z",
+        "uri": "https://web.archive.org/web/20200821211831/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-08-26T04:44:23Z",
+        "uri": "https://web.archive.org/web/20200826044423/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2020-08-28T14:24:04Z",
+        "uri": "https://web.archive.org/web/20200828142404/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-08-30T22:14:10Z",
+        "uri": "https://web.archive.org/web/20200830221410/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2020-09-03T13:43:03Z",
+        "uri": "https://web.archive.org/web/20200903134303/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-09-10T19:41:02Z",
+        "uri": "https://wayback.archive-it.org/all/20200910194102/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-09-10T19:41:02Z",
+        "uri": "https://web.archive.org/web/20200910194102/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-09-11T14:24:21Z",
+        "uri": "https://web.archive.org/web/20200911142421/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-09-12T20:48:10Z",
+        "uri": "https://web.archive.org/web/20200912204810/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-09-18T21:02:36Z",
+        "uri": "https://web.archive.org/web/20200918210236/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-09-25T13:37:25Z",
+        "uri": "https://web.archive.org/web/20200925133725/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-10-07T13:59:08Z",
+        "uri": "https://web.archive.org/web/20201007135908/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-10-09T14:06:00Z",
+        "uri": "https://web.archive.org/web/20201009140600/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-10-16T13:45:48Z",
+        "uri": "https://web.archive.org/web/20201016134548/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-10-23T14:54:48Z",
+        "uri": "https://web.archive.org/web/20201023145448/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-10-30T14:24:38Z",
+        "uri": "https://web.archive.org/web/20201030142438/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-11-13T15:02:34Z",
+        "uri": "https://web.archive.org/web/20201113150234/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-11-17T14:43:15Z",
+        "uri": "https://web.archive.org/web/20201117144315/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-11-17T14:43:16Z",
+        "uri": "https://web.archive.org/web/20201117144316/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-11-23T15:44:24Z",
+        "uri": "https://web.archive.org/web/20201123154424/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-11-30T15:07:01Z",
+        "uri": "https://web.archive.org/web/20201130150701/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-12-04T20:36:56Z",
+        "uri": "https://web.archive.org/web/20201204203656/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-12-11T14:32:33Z",
+        "uri": "https://web.archive.org/web/20201211143233/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-12-18T14:45:05Z",
+        "uri": "https://web.archive.org/web/20201218144505/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2020-12-21T15:20:15Z",
+        "uri": "https://web.archive.org/web/20201221152015/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2020-12-23T15:17:36Z",
+        "uri": "https://web.archive.org/web/20201223151736/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-01-08T19:26:56Z",
+        "uri": "https://web.archive.org/web/20210108192656/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-01-15T15:51:48Z",
+        "uri": "https://web.archive.org/web/20210115155148/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-01-22T17:29:03Z",
+        "uri": "https://web.archive.org/web/20210122172903/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-01-29T15:02:06Z",
+        "uri": "https://web.archive.org/web/20210129150206/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-02-05T15:42:48Z",
+        "uri": "https://web.archive.org/web/20210205154248/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-02-12T15:06:31Z",
+        "uri": "https://web.archive.org/web/20210212150631/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-02-17T05:48:50Z",
+        "uri": "https://web.archive.org/web/20210217054850/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-02-22T14:46:43Z",
+        "uri": "https://web.archive.org/web/20210222144643/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-02-26T16:08:31Z",
+        "uri": "https://web.archive.org/web/20210226160831/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-03-05T14:56:40Z",
+        "uri": "https://web.archive.org/web/20210305145640/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-03-12T04:31:58Z",
+        "uri": "https://web.archive.org/web/20210312043158/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-03-12T14:47:03Z",
+        "uri": "https://web.archive.org/web/20210312144703/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-03-16T15:15:29Z",
+        "uri": "https://web.archive.org/web/20210316151529/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-03-21T22:34:19Z",
+        "uri": "https://web.archive.org/web/20210321223419/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-03-29T12:57:13Z",
+        "uri": "https://web.archive.org/web/20210329125713/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-09T23:30:10Z",
+        "uri": "https://web.archive.org/web/20210409233010/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-04-09T23:30:10Z",
+        "uri": "https://web.archive.org/web/20210409233010/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-04-11T14:48:49Z",
+        "uri": "https://web.archive.org/web/20210411144849/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-13T18:46:18Z",
+        "uri": "https://wayback.archive-it.org/all/20210413184618/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-13T18:46:18Z",
+        "uri": "https://web.archive.org/web/20210413184618/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-14T03:16:57Z",
+        "uri": "https://web.archive.org/web/20210414031657/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-04-19T15:28:28Z",
+        "uri": "https://web.archive.org/web/20210419152828/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-23T20:01:11Z",
+        "uri": "https://web.archive.org/web/20210423200111/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-30T19:45:18Z",
+        "uri": "https://web.archive.org/web/20210430194518/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-04-30T20:12:48Z",
+        "uri": "https://web.archive.org/web/20210430201248/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-06T14:24:22Z",
+        "uri": "https://web.archive.org/web/20210506142422/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-07T03:31:46Z",
+        "uri": "https://web.archive.org/web/20210507033146/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-05-07T13:36:15Z",
+        "uri": "https://web.archive.org/web/20210507133615/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-05-10T14:29:51Z",
+        "uri": "https://web.archive.org/web/20210510142951/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-05-16T09:44:44Z",
+        "uri": "https://web.archive.org/web/20210516094444/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-18T14:35:06Z",
+        "uri": "https://web.archive.org/web/20210518143506/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-05-19T17:43:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210519174350/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-19T17:43:50Z",
+        "uri": "https://web.archive.org/web/20210519174350/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-19T18:01:53Z",
+        "uri": "https://wayback.archive-it.org/all/20210519180153/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-19T18:01:53Z",
+        "uri": "https://web.archive.org/web/20210519180153/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T00:01:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210520000136/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T00:01:36Z",
+        "uri": "https://web.archive.org/web/20210520000136/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T00:01:50Z",
+        "uri": "https://wayback.archive-it.org/all/20210520000150/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T00:01:50Z",
+        "uri": "https://web.archive.org/web/20210520000150/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T15:13:28Z",
+        "uri": "https://web.archive.org/web/20210520151328/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-20T18:17:52Z",
+        "uri": "https://wayback.archive-it.org/all/20210520181752/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T18:17:52Z",
+        "uri": "https://web.archive.org/web/20210520181752/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T18:17:58Z",
+        "uri": "https://wayback.archive-it.org/all/20210520181758/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-20T18:17:58Z",
+        "uri": "https://web.archive.org/web/20210520181758/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-21T14:08:52Z",
+        "uri": "https://web.archive.org/web/20210521140852/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-22T00:58:11Z",
+        "uri": "https://web.archive.org/web/20210522005811/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-27T00:01:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210527000101/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-27T00:01:01Z",
+        "uri": "https://web.archive.org/web/20210527000101/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-27T00:21:35Z",
+        "uri": "https://wayback.archive-it.org/all/20210527002135/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-27T00:21:35Z",
+        "uri": "https://web.archive.org/web/20210527002135/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-05-27T10:33:04Z",
+        "uri": "https://web.archive.org/web/20210527103304/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-05-28T14:07:58Z",
+        "uri": "https://web.archive.org/web/20210528140758/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-06-02T01:58:24Z",
+        "uri": "https://web.archive.org/web/20210602015824/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-06-02T01:58:24Z",
+        "uri": "https://web.archive.org/web/20210602015824/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-06-02T09:15:55Z",
+        "uri": "https://web.archive.org/web/20210602091555/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-06-03T00:57:21Z",
+        "uri": "https://wayback.archive-it.org/all/20210603005721/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-03T00:57:21Z",
+        "uri": "https://web.archive.org/web/20210603005721/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-03T00:58:49Z",
+        "uri": "https://wayback.archive-it.org/all/20210603005849/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-03T00:58:49Z",
+        "uri": "https://web.archive.org/web/20210603005849/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-04T16:22:48Z",
+        "uri": "https://web.archive.org/web/20210604162248/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-06-10T00:14:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210610001401/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-10T00:14:01Z",
+        "uri": "https://web.archive.org/web/20210610001401/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-10T00:14:48Z",
+        "uri": "https://wayback.archive-it.org/all/20210610001448/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-10T00:14:48Z",
+        "uri": "https://web.archive.org/web/20210610001448/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-11T19:20:53Z",
+        "uri": "https://web.archive.org/web/20210611192053/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-06-17T00:40:37Z",
+        "uri": "https://wayback.archive-it.org/all/20210617004037/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-17T00:40:37Z",
+        "uri": "https://web.archive.org/web/20210617004037/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-17T00:41:30Z",
+        "uri": "https://wayback.archive-it.org/all/20210617004130/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-17T00:41:30Z",
+        "uri": "https://web.archive.org/web/20210617004130/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-22T19:47:49Z",
+        "uri": "https://web.archive.org/web/20210622194749/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-06-24T00:03:55Z",
+        "uri": "https://wayback.archive-it.org/all/20210624000355/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-24T00:03:55Z",
+        "uri": "https://web.archive.org/web/20210624000355/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-24T00:04:09Z",
+        "uri": "https://wayback.archive-it.org/all/20210624000409/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-06-24T00:04:09Z",
+        "uri": "https://web.archive.org/web/20210624000409/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-01T00:07:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210701000756/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-01T00:07:56Z",
+        "uri": "https://web.archive.org/web/20210701000756/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-01T00:08:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210701000811/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-01T00:08:11Z",
+        "uri": "https://web.archive.org/web/20210701000811/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-08T00:04:35Z",
+        "uri": "https://wayback.archive-it.org/all/20210708000435/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-08T00:04:35Z",
+        "uri": "https://web.archive.org/web/20210708000435/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-08T00:04:45Z",
+        "uri": "https://wayback.archive-it.org/all/20210708000445/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-08T00:04:45Z",
+        "uri": "https://web.archive.org/web/20210708000445/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-15T00:15:38Z",
+        "uri": "https://wayback.archive-it.org/all/20210715001538/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-15T00:15:38Z",
+        "uri": "https://web.archive.org/web/20210715001538/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-15T00:18:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210715001825/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-15T00:18:25Z",
+        "uri": "https://web.archive.org/web/20210715001825/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-22T00:01:59Z",
+        "uri": "https://wayback.archive-it.org/all/20210722000159/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-22T00:01:59Z",
+        "uri": "https://web.archive.org/web/20210722000159/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-22T00:02:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210722000225/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-22T00:02:25Z",
+        "uri": "https://web.archive.org/web/20210722000225/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-29T00:02:29Z",
+        "uri": "https://wayback.archive-it.org/all/20210729000229/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-29T00:02:29Z",
+        "uri": "https://web.archive.org/web/20210729000229/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-29T00:03:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210729000307/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-07-29T00:03:07Z",
+        "uri": "https://web.archive.org/web/20210729000307/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-05T00:03:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210805000356/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-05T00:03:56Z",
+        "uri": "https://web.archive.org/web/20210805000356/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-05T00:04:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210805000419/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-05T00:04:19Z",
+        "uri": "https://web.archive.org/web/20210805000419/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-12T15:51:00Z",
+        "uri": "https://web.archive.org/web/20210812155100/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-08-18T00:24:36Z",
+        "uri": "https://web.archive.org/web/20210818002436/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-08-19T16:41:22Z",
+        "uri": "https://wayback.archive-it.org/all/20210819164122/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-19T16:41:22Z",
+        "uri": "https://web.archive.org/web/20210819164122/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-19T16:41:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210819164125/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-19T16:41:25Z",
+        "uri": "https://web.archive.org/web/20210819164125/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-29T21:42:13Z",
+        "uri": "https://web.archive.org/web/20210829214213/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-08-31T03:01:23Z",
+        "uri": "https://wayback.archive-it.org/all/20210831030123/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-31T03:01:23Z",
+        "uri": "https://web.archive.org/web/20210831030123/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-31T03:02:17Z",
+        "uri": "https://wayback.archive-it.org/all/20210831030217/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-08-31T03:02:17Z",
+        "uri": "https://web.archive.org/web/20210831030217/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-09-08T00:31:14Z",
+        "uri": "https://web.archive.org/web/20210908003114/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-09-08T20:41:11Z",
+        "uri": "https://wayback.archive-it.org/all/20210908204111/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-09-08T20:41:11Z",
+        "uri": "https://web.archive.org/web/20210908204111/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-09-08T20:42:27Z",
+        "uri": "https://wayback.archive-it.org/all/20210908204227/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-09-08T20:42:27Z",
+        "uri": "https://web.archive.org/web/20210908204227/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-09-27T11:38:20Z",
+        "uri": "https://web.archive.org/web/20210927113820/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-10-16T17:59:21Z",
+        "uri": "https://web.archive.org/web/20211016175921/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-10-21T16:29:57Z",
+        "uri": "https://web.archive.org/web/20211021162957/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2021-10-27T21:35:58Z",
+        "uri": "https://web.archive.org/web/20211027213558/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-10-31T03:08:39Z",
+        "uri": "https://wayback.archive-it.org/all/20211031030839/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:08:39Z",
+        "uri": "https://web.archive.org/web/20211031030839/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:08:50Z",
+        "uri": "https://wayback.archive-it.org/all/20211031030850/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:08:50Z",
+        "uri": "https://web.archive.org/web/20211031030850/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:09:08Z",
+        "uri": "https://wayback.archive-it.org/all/20211031030908/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:09:08Z",
+        "uri": "https://web.archive.org/web/20211031030908/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:09:20Z",
+        "uri": "https://wayback.archive-it.org/all/20211031030920/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-10-31T03:09:20Z",
+        "uri": "https://web.archive.org/web/20211031030920/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-11-03T06:34:39Z",
+        "uri": "https://web.archive.org/web/20211103063439/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-11-07T05:04:41Z",
+        "uri": "https://web.archive.org/web/20211107050441/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-11-13T05:17:23Z",
+        "uri": "https://web.archive.org/web/20211113051723/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2021-11-14T23:31:39Z",
+        "uri": "http://archive.md/20211114233139/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-11-23T01:45:43Z",
+        "uri": "https://web.archive.org/web/20211123014543/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2021-12-01T04:02:43Z",
+        "uri": "https://wayback.archive-it.org/all/20211201040243/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-12-01T04:02:43Z",
+        "uri": "https://web.archive.org/web/20211201040243/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-12-01T04:07:59Z",
+        "uri": "https://wayback.archive-it.org/all/20211201040759/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2021-12-01T04:07:59Z",
+        "uri": "https://web.archive.org/web/20211201040759/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-01-01T04:02:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220101040229/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-01-01T04:02:29Z",
+        "uri": "https://web.archive.org/web/20220101040229/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-01-01T04:02:50Z",
+        "uri": "https://wayback.archive-it.org/all/20220101040250/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-01-01T04:02:50Z",
+        "uri": "https://web.archive.org/web/20220101040250/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-01-03T13:36:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220103133627/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-01-03T13:36:27Z",
+        "uri": "https://web.archive.org/web/20220103133627/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-01-04T23:39:47Z",
+        "uri": "https://web.archive.org/web/20220104233947/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-01-07T22:17:06Z",
+        "uri": "https://web.archive.org/web/20220107221706/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-07T22:17:08Z",
+        "uri": "https://web.archive.org/web/20220107221708/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-08T16:37:28Z",
+        "uri": "https://web.archive.org/web/20220108163728/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-08T16:37:29Z",
+        "uri": "https://web.archive.org/web/20220108163729/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-10T17:03:57Z",
+        "uri": "https://web.archive.org/web/20220110170357/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-10T17:03:57Z",
+        "uri": "https://web.archive.org/web/20220110170357/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-11T20:16:01Z",
+        "uri": "https://web.archive.org/web/20220111201601/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-11T20:16:01Z",
+        "uri": "https://web.archive.org/web/20220111201601/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-12T16:57:50Z",
+        "uri": "https://web.archive.org/web/20220112165750/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-12T16:57:50Z",
+        "uri": "https://web.archive.org/web/20220112165750/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-12T21:56:21Z",
+        "uri": "https://web.archive.org/web/20220112215621/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-12T21:56:22Z",
+        "uri": "https://web.archive.org/web/20220112215622/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-13T01:01:23Z",
+        "uri": "https://web.archive.org/web/20220113010123/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-13T19:31:02Z",
+        "uri": "https://web.archive.org/web/20220113193102/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-13T19:31:02Z",
+        "uri": "https://web.archive.org/web/20220113193102/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-16T23:35:18Z",
+        "uri": "https://web.archive.org/web/20220116233518/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-16T23:35:18Z",
+        "uri": "https://web.archive.org/web/20220116233518/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-17T07:07:28Z",
+        "uri": "https://web.archive.org/web/20220117070728/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-21T21:46:22Z",
+        "uri": "https://web.archive.org/web/20220121214622/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-21T21:46:22Z",
+        "uri": "https://web.archive.org/web/20220121214622/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-24T20:28:08Z",
+        "uri": "https://web.archive.org/web/20220124202808/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-24T20:28:09Z",
+        "uri": "https://web.archive.org/web/20220124202809/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-25T09:52:44Z",
+        "uri": "https://web.archive.org/web/20220125095244/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-26T02:03:06Z",
+        "uri": "https://web.archive.org/web/20220126020306/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-26T02:03:06Z",
+        "uri": "https://web.archive.org/web/20220126020306/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-31T22:15:54Z",
+        "uri": "https://web.archive.org/web/20220131221554/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-01-31T22:15:54Z",
+        "uri": "https://web.archive.org/web/20220131221554/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-02-01T04:00:46Z",
+        "uri": "https://wayback.archive-it.org/all/20220201040046/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-02-01T04:00:46Z",
+        "uri": "https://web.archive.org/web/20220201040046/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-02-01T04:00:54Z",
+        "uri": "https://wayback.archive-it.org/all/20220201040054/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-02-01T04:00:54Z",
+        "uri": "https://web.archive.org/web/20220201040054/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-02-01T22:29:01Z",
+        "uri": "https://web.archive.org/web/20220201222901/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-02-01T22:29:01Z",
+        "uri": "https://web.archive.org/web/20220201222901/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-02-03T18:59:21Z",
+        "uri": "https://web.archive.org/web/20220203185921/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-02-03T18:59:21Z",
+        "uri": "https://web.archive.org/web/20220203185921/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-01T04:01:49Z",
+        "uri": "https://wayback.archive-it.org/all/20220301040149/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-03-01T04:01:49Z",
+        "uri": "https://web.archive.org/web/20220301040149/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-03-05T17:52:33Z",
+        "uri": "https://web.archive.org/web/20220305175233/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-03-05T17:52:35Z",
+        "uri": "https://web.archive.org/web/20220305175235/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-03-14T22:28:09Z",
+        "uri": "https://web.archive.org/web/20220314222809/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-19T20:13:48Z",
+        "uri": "https://web.archive.org/web/20220319201348/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-19T20:13:48Z",
+        "uri": "https://web.archive.org/web/20220319201348/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-19T21:18:48Z",
+        "uri": "https://web.archive.org/web/20220319211848/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-19T21:18:50Z",
+        "uri": "https://web.archive.org/web/20220319211850/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-03-20T12:58:29Z",
+        "uri": "https://web.archive.org/web/20220320125829/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-04-01T04:03:27Z",
+        "uri": "https://wayback.archive-it.org/all/20220401040327/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-04-01T04:03:27Z",
+        "uri": "https://web.archive.org/web/20220401040327/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-04-01T04:03:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220401040338/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-04-01T04:03:38Z",
+        "uri": "https://web.archive.org/web/20220401040338/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-04-10T19:39:31Z",
+        "uri": "https://web.archive.org/web/20220410193931/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-05-01T04:04:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220501040436/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-05-01T04:04:36Z",
+        "uri": "https://web.archive.org/web/20220501040436/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-05-01T04:04:42Z",
+        "uri": "https://wayback.archive-it.org/all/20220501040442/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-05-01T04:04:42Z",
+        "uri": "https://web.archive.org/web/20220501040442/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-05-29T06:56:38Z",
+        "uri": "https://web.archive.org/web/20220529065638/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-05-29T06:56:41Z",
+        "uri": "https://web.archive.org/web/20220529065641/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-06-01T04:01:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220601040119/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-06-01T04:01:19Z",
+        "uri": "https://web.archive.org/web/20220601040119/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-06-01T04:01:22Z",
+        "uri": "https://wayback.archive-it.org/all/20220601040122/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-06-01T04:01:22Z",
+        "uri": "https://web.archive.org/web/20220601040122/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-07-01T04:06:25Z",
+        "uri": "https://wayback.archive-it.org/all/20220701040625/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-07-01T04:06:25Z",
+        "uri": "https://web.archive.org/web/20220701040625/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-07-01T04:06:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220701040639/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-07-01T04:06:39Z",
+        "uri": "https://web.archive.org/web/20220701040639/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-07-13T20:30:10Z",
+        "uri": "https://web.archive.org/web/20220713203010/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-07-23T15:21:58Z",
+        "uri": "https://web.archive.org/web/20220723152158/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-08-01T04:01:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220801040151/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:01:51Z",
+        "uri": "https://web.archive.org/web/20220801040151/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:02:03Z",
+        "uri": "https://wayback.archive-it.org/all/20220801040203/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:02:03Z",
+        "uri": "https://web.archive.org/web/20220801040203/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:07:10Z",
+        "uri": "https://wayback.archive-it.org/all/20220801040710/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:07:10Z",
+        "uri": "https://web.archive.org/web/20220801040710/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:07:29Z",
+        "uri": "https://wayback.archive-it.org/all/20220801040729/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-01T04:07:29Z",
+        "uri": "https://web.archive.org/web/20220801040729/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-08-10T20:47:43Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204743/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-08-10T20:47:43Z",
+        "uri": "https://web.archive.org/web/20220810204743/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-08-10T20:47:45Z",
+        "uri": "https://wayback.archive-it.org/all/20220810204745/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-08-10T20:47:45Z",
+        "uri": "https://web.archive.org/web/20220810204745/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-08-14T06:27:24Z",
+        "uri": "https://web.archive.org/web/20220814062724/http://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-09-01T04:04:03Z",
+        "uri": "https://wayback.archive-it.org/all/20220901040403/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-09-01T04:04:03Z",
+        "uri": "https://web.archive.org/web/20220901040403/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-09-01T04:04:08Z",
+        "uri": "https://wayback.archive-it.org/all/20220901040408/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-09-01T04:04:08Z",
+        "uri": "https://web.archive.org/web/20220901040408/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-09-24T21:21:23Z",
+        "uri": "https://web.archive.org/web/20220924212123/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-10-01T04:04:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040430/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:04:30Z",
+        "uri": "https://web.archive.org/web/20221001040430/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:05:02Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040502/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:05:02Z",
+        "uri": "https://web.archive.org/web/20221001040502/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:05:16Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040516/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:05:16Z",
+        "uri": "https://web.archive.org/web/20221001040516/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:08:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040826/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:08:26Z",
+        "uri": "https://web.archive.org/web/20221001040826/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:09:09Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040909/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:09:09Z",
+        "uri": "https://web.archive.org/web/20221001040909/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:09:17Z",
+        "uri": "https://wayback.archive-it.org/all/20221001040917/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-01T04:09:17Z",
+        "uri": "https://web.archive.org/web/20221001040917/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-10-25T09:57:14Z",
+        "uri": "https://web.archive.org/web/20221025095714/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2022-11-01T04:03:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221101040312/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-11-01T04:03:12Z",
+        "uri": "https://web.archive.org/web/20221101040312/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-11-01T04:03:15Z",
+        "uri": "https://wayback.archive-it.org/all/20221101040315/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-11-01T04:03:15Z",
+        "uri": "https://web.archive.org/web/20221101040315/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-11-07T15:18:07Z",
+        "uri": "https://wayback.archive-it.org/all/20221107151807/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-07T15:18:07Z",
+        "uri": "https://web.archive.org/web/20221107151807/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-23T00:50:00Z",
+        "uri": "https://web.archive.org/web/20221123005000/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-23T05:04:39Z",
+        "uri": "https://web.archive.org/web/20221123050439/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-11-23T11:07:26Z",
+        "uri": "https://web.archive.org/web/20221123110726/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-23T16:02:39Z",
+        "uri": "https://web.archive.org/web/20221123160239/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-23T20:13:46Z",
+        "uri": "https://web.archive.org/web/20221123201346/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T00:31:36Z",
+        "uri": "https://web.archive.org/web/20221124003136/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T03:00:26Z",
+        "uri": "https://web.archive.org/web/20221124030026/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T09:23:59Z",
+        "uri": "https://web.archive.org/web/20221124092359/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T11:42:02Z",
+        "uri": "https://web.archive.org/web/20221124114202/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T20:31:41Z",
+        "uri": "https://web.archive.org/web/20221124203141/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-24T23:53:56Z",
+        "uri": "https://web.archive.org/web/20221124235356/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-25T02:03:15Z",
+        "uri": "https://web.archive.org/web/20221125020315/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-25T14:59:35Z",
+        "uri": "https://web.archive.org/web/20221125145935/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-28T16:05:49Z",
+        "uri": "https://web.archive.org/web/20221128160549/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-29T04:09:28Z",
+        "uri": "https://web.archive.org/web/20221129040928/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-29T16:41:38Z",
+        "uri": "https://web.archive.org/web/20221129164138/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-29T22:23:50Z",
+        "uri": "https://web.archive.org/web/20221129222350/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-11-30T09:14:04Z",
+        "uri": "https://web.archive.org/web/20221130091404/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-01T04:02:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221201040226/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-12-01T04:02:26Z",
+        "uri": "https://web.archive.org/web/20221201040226/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-12-01T04:02:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221201040230/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-12-01T04:02:30Z",
+        "uri": "https://web.archive.org/web/20221201040230/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2022-12-01T16:43:00Z",
+        "uri": "https://web.archive.org/web/20221201164300/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-01T23:39:36Z",
+        "uri": "https://web.archive.org/web/20221201233936/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-02T11:48:28Z",
+        "uri": "https://web.archive.org/web/20221202114828/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-03T01:29:59Z",
+        "uri": "https://web.archive.org/web/20221203012959/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-03T14:21:12Z",
+        "uri": "https://web.archive.org/web/20221203142112/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-05T06:32:17Z",
+        "uri": "https://web.archive.org/web/20221205063217/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-05T16:04:23Z",
+        "uri": "https://web.archive.org/web/20221205160423/http://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-12-08T01:46:25Z",
+        "uri": "https://web.archive.org/web/20221208014625/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-08T03:54:52Z",
+        "uri": "https://web.archive.org/web/20221208035452/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-08T05:55:09Z",
+        "uri": "https://web.archive.org/web/20221208055509/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-10T04:53:16Z",
+        "uri": "https://wayback.archive-it.org/all/20221210045316/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-10T04:53:16Z",
+        "uri": "https://web.archive.org/web/20221210045316/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T04:51:51Z",
+        "uri": "https://web.archive.org/web/20221218045151/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T07:22:54Z",
+        "uri": "https://web.archive.org/web/20221218072254/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T10:11:25Z",
+        "uri": "https://web.archive.org/web/20221218101125/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T12:18:46Z",
+        "uri": "https://web.archive.org/web/20221218121846/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T15:11:34Z",
+        "uri": "https://web.archive.org/web/20221218151134/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T18:53:34Z",
+        "uri": "https://web.archive.org/web/20221218185334/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T21:21:37Z",
+        "uri": "https://web.archive.org/web/20221218212137/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-18T22:57:54Z",
+        "uri": "https://web.archive.org/web/20221218225754/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2022-12-19T01:36:06Z",
+        "uri": "https://web.archive.org/web/20221219013606/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T04:02:02Z",
+        "uri": "https://web.archive.org/web/20221219040202/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T06:41:06Z",
+        "uri": "https://web.archive.org/web/20221219064106/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T08:53:07Z",
+        "uri": "https://web.archive.org/web/20221219085307/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T14:11:09Z",
+        "uri": "https://web.archive.org/web/20221219141109/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T16:27:00Z",
+        "uri": "https://web.archive.org/web/20221219162700/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T19:11:25Z",
+        "uri": "https://web.archive.org/web/20221219191125/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T21:32:44Z",
+        "uri": "https://web.archive.org/web/20221219213244/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-19T23:44:04Z",
+        "uri": "https://web.archive.org/web/20221219234404/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T03:24:19Z",
+        "uri": "https://web.archive.org/web/20221220032419/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T05:44:02Z",
+        "uri": "https://web.archive.org/web/20221220054402/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T09:12:40Z",
+        "uri": "https://web.archive.org/web/20221220091240/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T11:22:34Z",
+        "uri": "https://web.archive.org/web/20221220112234/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T13:35:23Z",
+        "uri": "https://web.archive.org/web/20221220133523/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T18:22:45Z",
+        "uri": "https://web.archive.org/web/20221220182245/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-20T22:59:25Z",
+        "uri": "https://web.archive.org/web/20221220225925/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T01:01:57Z",
+        "uri": "https://web.archive.org/web/20221221010157/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T03:12:10Z",
+        "uri": "https://web.archive.org/web/20221221031210/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T07:42:14Z",
+        "uri": "https://web.archive.org/web/20221221074214/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T09:52:36Z",
+        "uri": "https://web.archive.org/web/20221221095236/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T12:06:34Z",
+        "uri": "https://web.archive.org/web/20221221120634/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T14:53:47Z",
+        "uri": "https://web.archive.org/web/20221221145347/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T17:03:30Z",
+        "uri": "https://web.archive.org/web/20221221170330/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T19:41:12Z",
+        "uri": "https://web.archive.org/web/20221221194112/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-21T22:49:57Z",
+        "uri": "https://web.archive.org/web/20221221224957/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T02:22:00Z",
+        "uri": "https://web.archive.org/web/20221222022200/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T05:53:14Z",
+        "uri": "https://web.archive.org/web/20221222055314/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T08:26:35Z",
+        "uri": "https://web.archive.org/web/20221222082635/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T16:05:04Z",
+        "uri": "https://web.archive.org/web/20221222160504/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T22:20:59Z",
+        "uri": "https://web.archive.org/web/20221222222059/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-22T22:20:59Z",
+        "uri": "https://web.archive.org/web/20221222222059/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-23T01:25:51Z",
+        "uri": "https://web.archive.org/web/20221223012551/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2022-12-29T07:17:35Z",
+        "uri": "https://web.archive.org/web/20221229071735/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-01-01T04:18:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230101041839/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:18:39Z",
+        "uri": "https://web.archive.org/web/20230101041839/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:18:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230101041843/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:18:43Z",
+        "uri": "https://web.archive.org/web/20230101041843/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:31:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230101043150/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:31:50Z",
+        "uri": "https://web.archive.org/web/20230101043150/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:40:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230101044032/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:40:32Z",
+        "uri": "https://web.archive.org/web/20230101044032/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:40:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230101044034/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:40:34Z",
+        "uri": "https://web.archive.org/web/20230101044034/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:56:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230101045645/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:56:45Z",
+        "uri": "https://web.archive.org/web/20230101045645/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:56:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230101045648/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-01T04:56:48Z",
+        "uri": "https://web.archive.org/web/20230101045648/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-01-09T04:45:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230109044536/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-01-09T04:45:36Z",
+        "uri": "https://web.archive.org/web/20230109044536/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-01-23T17:25:50Z",
+        "uri": "https://web.archive.org/web/20230123172550/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-02-01T04:03:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230201040350/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-02-01T04:03:50Z",
+        "uri": "https://web.archive.org/web/20230201040350/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-02-01T04:04:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230201040418/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-02-01T04:04:18Z",
+        "uri": "https://web.archive.org/web/20230201040418/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-02-09T20:24:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230209202400/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-02-09T20:24:00Z",
+        "uri": "https://web.archive.org/web/20230209202400/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-02-25T03:44:37Z",
+        "uri": "https://web.archive.org/web/20230225034437/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-02-25T03:45:00Z",
+        "uri": "https://web.archive.org/web/20230225034500/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-01T04:25:47Z",
+        "uri": "https://wayback.archive-it.org/all/20230301042547/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-03-01T04:25:47Z",
+        "uri": "https://web.archive.org/web/20230301042547/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-03-01T04:26:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230301042624/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-03-01T04:26:24Z",
+        "uri": "https://web.archive.org/web/20230301042624/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-03-07T12:54:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230307125412/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-07T12:54:12Z",
+        "uri": "https://web.archive.org/web/20230307125412/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-15T11:24:14Z",
+        "uri": "https://web.archive.org/web/20230315112414/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-17T16:25:38Z",
+        "uri": "https://web.archive.org/web/20230317162538/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-19T19:39:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230319193951/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2023-03-19T19:39:51Z",
+        "uri": "https://web.archive.org/web/20230319193951/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2023-03-21T13:57:20Z",
+        "uri": "https://web.archive.org/web/20230321135720/https://twitter.com/ODU"
+      },
+      {
+        "datetime": "2023-03-27T16:12:28Z",
+        "uri": "https://web.archive.org/web/20230327161228/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-03-27T22:28:30Z",
+        "uri": "https://web.archive.org/web/20230327222830/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-04-01T17:28:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230401172829/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-04-01T17:28:29Z",
+        "uri": "https://web.archive.org/web/20230401172829/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-04-01T17:28:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230401172837/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-04-01T17:28:37Z",
+        "uri": "https://web.archive.org/web/20230401172837/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-05-01T04:02:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230501040216/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-05-01T04:02:16Z",
+        "uri": "https://web.archive.org/web/20230501040216/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-05-01T04:02:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230501040227/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-05-01T04:02:27Z",
+        "uri": "https://web.archive.org/web/20230501040227/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-05-31T01:23:13Z",
+        "uri": "https://web.archive.org/web/20230531012313/http://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-05-31T01:23:15Z",
+        "uri": "https://web.archive.org/web/20230531012315/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-06-01T04:02:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040257/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:02:57Z",
+        "uri": "https://web.archive.org/web/20230601040257/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:02:57Z",
+        "uri": "https://web.archive.org/web/20230601040257/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:02:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040258/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:03:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040324/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:03:24Z",
+        "uri": "https://web.archive.org/web/20230601040324/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040815/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:15Z",
+        "uri": "https://web.archive.org/web/20230601040815/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:15Z",
+        "uri": "https://web.archive.org/web/20230601040815/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040816/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230601040838/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-06-01T04:08:38Z",
+        "uri": "https://web.archive.org/web/20230601040838/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-07-01T04:05:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230701040509/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-07-01T04:05:09Z",
+        "uri": "https://web.archive.org/web/20230701040509/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-07-01T04:05:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230701040530/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-07-01T04:05:30Z",
+        "uri": "https://web.archive.org/web/20230701040530/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:02:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230801040208/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:02:08Z",
+        "uri": "https://web.archive.org/web/20230801040208/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:02:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230801040221/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:02:21Z",
+        "uri": "https://web.archive.org/web/20230801040221/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:11:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230801041124/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:11:24Z",
+        "uri": "https://web.archive.org/web/20230801041124/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:11:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230801041142/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:11:42Z",
+        "uri": "https://web.archive.org/web/20230801041142/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:19:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230801041940/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-01T04:19:40Z",
+        "uri": "https://web.archive.org/web/20230801041940/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-08-28T23:43:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230828234332/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2023-08-28T23:43:32Z",
+        "uri": "https://web.archive.org/web/20230828234332/https://www.twitter.com/odu"
+      },
+      {
+        "datetime": "2023-08-28T23:43:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230828234334/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-08-28T23:43:34Z",
+        "uri": "https://web.archive.org/web/20230828234334/https://twitter.com/odu"
+      },
+      {
+        "datetime": "2023-09-01T04:01:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230901040141/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-09-01T04:01:41Z",
+        "uri": "https://web.archive.org/web/20230901040141/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-09-01T04:02:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230901040200/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-09-01T04:02:00Z",
+        "uri": "https://web.archive.org/web/20230901040200/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-10-01T04:06:21Z",
+        "uri": "https://wayback.archive-it.org/all/20231001040621/https://twitter.com/ODU/"
+      },
+      {
+        "datetime": "2023-10-01T04:06:21Z",
+        "uri": "https://web.archive.org/web/20231001040621/https://twitter.com/ODU/"
+      }
+    ],
+    "first": {
+      "datetime": "2008-05-08T20:30:00Z",
+      "uri": "https://web.archive.org/web/20080508203000/http://twitter.com:80/odu"
+    },
+    "last": {
+      "datetime": "2023-10-01T04:06:21Z",
+      "uri": "https://web.archive.org/web/20231001040621/https://twitter.com/ODU/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/ODU",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/ODU",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/ODU"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/ODU"
+}

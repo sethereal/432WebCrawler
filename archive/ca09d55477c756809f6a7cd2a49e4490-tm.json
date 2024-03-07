@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 17:09:19.435379 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/publications/2022": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/publications/2022",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2022",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-08-10T10:49:18Z",
+        "uri": "https://web.archive.org/web/20220810104918/https://weiglemc.github.io/publications/2022"
+      }
+    ],
+    "first": {
+      "datetime": "2022-08-10T10:49:18Z",
+      "uri": "https://web.archive.org/web/20220810104918/https://weiglemc.github.io/publications/2022"
+    },
+    "last": {
+      "datetime": "2022-08-10T10:49:18Z",
+      "uri": "https://web.archive.org/web/20220810104918/https://weiglemc.github.io/publications/2022"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/2022",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/2022",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/2022"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/2022"
+}

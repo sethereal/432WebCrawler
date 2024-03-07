@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 16:40:30.921560 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/Jhon_gbm12": net/http: timeout awaiting response headers

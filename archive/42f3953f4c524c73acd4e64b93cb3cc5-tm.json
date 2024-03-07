@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 16:31:11.913866 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/tutoring": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/tutoring",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/tutoring",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-06T12:00:33Z",
+        "uri": "https://web.archive.org/web/20230706120033/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2023-07-12T06:12:01Z",
+        "uri": "https://web.archive.org/web/20230712061201/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2023-08-25T17:51:01Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175101/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2023-08-25T17:51:01Z",
+        "uri": "https://web.archive.org/web/20230825175101/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2023-09-25T19:57:45Z",
+        "uri": "https://web.archive.org/web/20230925195745/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2023-11-28T03:54:15Z",
+        "uri": "https://web.archive.org/web/20231128035415/https://www.odu.edu/tutoring"
+      },
+      {
+        "datetime": "2024-01-17T00:35:32Z",
+        "uri": "https://web.archive.org/web/20240117003532/https://www.odu.edu/tutoring"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-06T12:00:33Z",
+      "uri": "https://web.archive.org/web/20230706120033/https://www.odu.edu/tutoring"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:32Z",
+      "uri": "https://web.archive.org/web/20240117003532/https://www.odu.edu/tutoring"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/tutoring",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/tutoring",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/tutoring"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/tutoring"
+}

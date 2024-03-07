@@ -1,0 +1,59 @@
+ERROR: 2024/02/18 15:51:23.882341 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/publications/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/publications/",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-22T23:48:28Z",
+        "uri": "https://web.archive.org/web/20210922234828/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2021-10-13T14:29:54Z",
+        "uri": "https://web.archive.org/web/20211013142954/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2022-01-19T14:02:01Z",
+        "uri": "https://web.archive.org/web/20220119140201/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2022-04-27T20:30:47Z",
+        "uri": "https://web.archive.org/web/20220427203047/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2022-06-26T08:21:18Z",
+        "uri": "https://web.archive.org/web/20220626082118/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2022-08-16T01:08:38Z",
+        "uri": "https://web.archive.org/web/20220816010838/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2022-09-27T08:15:31Z",
+        "uri": "https://web.archive.org/web/20220927081531/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2023-10-01T22:21:43Z",
+        "uri": "https://web.archive.org/web/20231001222143/https://weiglemc.github.io/publications/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:20Z",
+        "uri": "https://web.archive.org/web/20240121112720/https://weiglemc.github.io/publications/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-22T23:48:28Z",
+      "uri": "https://web.archive.org/web/20210922234828/https://weiglemc.github.io/publications/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:20Z",
+      "uri": "https://web.archive.org/web/20240121112720/https://weiglemc.github.io/publications/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/"
+}

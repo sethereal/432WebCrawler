@@ -1,0 +1,63 @@
+ERROR: 2024/02/18 16:25:16.061690 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/contact/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/contact/",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/contact/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-22T23:01:18Z",
+        "uri": "https://web.archive.org/web/20210922230118/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2021-10-13T14:30:04Z",
+        "uri": "https://web.archive.org/web/20211013143004/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2022-01-19T13:13:28Z",
+        "uri": "https://web.archive.org/web/20220119131328/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2022-04-27T20:30:47Z",
+        "uri": "https://web.archive.org/web/20220427203047/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2022-06-26T07:35:54Z",
+        "uri": "https://web.archive.org/web/20220626073554/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2022-09-27T07:18:37Z",
+        "uri": "https://web.archive.org/web/20220927071837/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2023-10-01T21:26:58Z",
+        "uri": "https://web.archive.org/web/20231001212658/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2023-11-20T13:42:42Z",
+        "uri": "https://web.archive.org/web/20231120134242/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2023-12-24T05:18:32Z",
+        "uri": "https://web.archive.org/web/20231224051832/https://weiglemc.github.io/contact/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:14Z",
+        "uri": "https://web.archive.org/web/20240121112714/https://weiglemc.github.io/contact/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-22T23:01:18Z",
+      "uri": "https://web.archive.org/web/20210922230118/https://weiglemc.github.io/contact/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:14Z",
+      "uri": "https://web.archive.org/web/20240121112714/https://weiglemc.github.io/contact/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/contact/",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/contact/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/contact/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/contact/"
+}

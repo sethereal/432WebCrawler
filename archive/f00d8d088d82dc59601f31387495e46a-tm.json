@@ -1,0 +1,127 @@
+ERROR: 2024/02/18 18:39:08.188291 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/school/old-dominion-university/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.linkedin.com/school/old-dominion-university/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/school/old-dominion-university/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2019-12-14T12:54:00Z",
+        "uri": "https://web.archive.org/web/20191214125400/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2020-04-16T20:18:04Z",
+        "uri": "https://wayback.archive-it.org/all/20200416201804/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2020-04-16T20:18:04Z",
+        "uri": "https://web.archive.org/web/20200416201804/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2020-07-19T16:33:30Z",
+        "uri": "https://web.archive.org/web/20200719163330/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2020-09-10T20:14:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200910201445/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2020-09-10T20:14:45Z",
+        "uri": "https://web.archive.org/web/20200910201445/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-04-09T23:28:31Z",
+        "uri": "https://web.archive.org/web/20210409232831/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-04-30T20:13:44Z",
+        "uri": "https://web.archive.org/web/20210430201344/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-08-12T09:25:07Z",
+        "uri": "https://web.archive.org/web/20210812092507/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-09-22T18:07:11Z",
+        "uri": "https://web.archive.org/web/20210922180711/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-10-23T15:20:42Z",
+        "uri": "https://web.archive.org/web/20211023152042/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-11-15T18:08:43Z",
+        "uri": "https://web.archive.org/web/20211115180843/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2021-12-03T23:06:29Z",
+        "uri": "https://web.archive.org/web/20211203230629/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-01-09T00:11:58Z",
+        "uri": "https://web.archive.org/web/20220109001158/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-01-10T17:04:06Z",
+        "uri": "https://web.archive.org/web/20220110170406/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-01-11T20:16:20Z",
+        "uri": "https://web.archive.org/web/20220111201620/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-01-12T16:57:55Z",
+        "uri": "https://web.archive.org/web/20220112165755/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-01-21T21:46:22Z",
+        "uri": "https://web.archive.org/web/20220121214622/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-04-04T01:09:58Z",
+        "uri": "https://web.archive.org/web/20220404010958/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-11-13T04:18:02Z",
+        "uri": "https://web.archive.org/web/20221113041802/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2022-11-18T19:32:06Z",
+        "uri": "https://web.archive.org/web/20221118193206/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2023-02-20T00:41:43Z",
+        "uri": "https://web.archive.org/web/20230220004143/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2023-03-19T19:41:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230319194118/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2023-03-19T19:41:18Z",
+        "uri": "https://web.archive.org/web/20230319194118/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2023-03-27T22:28:30Z",
+        "uri": "https://web.archive.org/web/20230327222830/https://www.linkedin.com/school/old-dominion-university/"
+      },
+      {
+        "datetime": "2024-01-17T21:24:31Z",
+        "uri": "https://web.archive.org/web/20240117212431/https://www.linkedin.com/school/old-dominion-university/"
+      }
+    ],
+    "first": {
+      "datetime": "2019-12-14T12:54:00Z",
+      "uri": "https://web.archive.org/web/20191214125400/https://www.linkedin.com/school/old-dominion-university/"
+    },
+    "last": {
+      "datetime": "2024-01-17T21:24:31Z",
+      "uri": "https://web.archive.org/web/20240117212431/https://www.linkedin.com/school/old-dominion-university/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/school/old-dominion-university/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/school/old-dominion-university/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/school/old-dominion-university/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/school/old-dominion-university/"
+}

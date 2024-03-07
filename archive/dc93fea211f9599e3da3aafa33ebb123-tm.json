@@ -1,0 +1,39 @@
+ERROR: 2024/02/18 15:00:31.559549 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ",
+  "self": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-25T10:18:06Z",
+        "uri": "https://web.archive.org/web/20210425101806/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ"
+      },
+      {
+        "datetime": "2021-05-08T17:13:47Z",
+        "uri": "https://web.archive.org/web/20210508171347/http://scholar.google.com/citations?user=av221p0AAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-05-14T18:57:12Z",
+        "uri": "https://web.archive.org/web/20210514185712/https://scholar.google.com/citations?user=av221p0AAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T07:05:37Z",
+        "uri": "https://web.archive.org/web/20221208070537/https://scholar.google.com/citations?user=av221p0AAAAJ&hl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-25T10:18:06Z",
+      "uri": "https://web.archive.org/web/20210425101806/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ"
+    },
+    "last": {
+      "datetime": "2022-12-08T07:05:37Z",
+      "uri": "https://web.archive.org/web/20221208070537/https://scholar.google.com/citations?user=av221p0AAAAJ&hl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.google.com/citations?hl=en&user=av221p0AAAAJ"
+}

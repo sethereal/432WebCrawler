@@ -1,0 +1,67 @@
+ERROR: 2024/02/18 21:43:49.835661 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.esforum.de/forums/ESF34_Digital_Ethology.html": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.esforum.de/forums/ESF34_Digital_Ethology.html",
+  "self": "http://localhost:1208/timemap/json/https://www.esforum.de/forums/ESF34_Digital_Ethology.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-09T00:36:25Z",
+        "uri": "https://web.archive.org/web/20200809003625/https://esforum.de/forums/esf34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2021-07-31T12:17:00Z",
+        "uri": "https://web.archive.org/web/20210731121700/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2021-09-28T13:32:34Z",
+        "uri": "https://web.archive.org/web/20210928133234/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2021-10-19T16:09:43Z",
+        "uri": "https://web.archive.org/web/20211019160943/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2022-05-26T21:23:40Z",
+        "uri": "https://web.archive.org/web/20220526212340/https://www.esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2022-06-21T14:33:01Z",
+        "uri": "https://web.archive.org/web/20220621143301/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2022-08-09T03:46:53Z",
+        "uri": "https://web.archive.org/web/20220809034653/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2023-03-12T20:11:48Z",
+        "uri": "https://web.archive.org/web/20230312201148/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2023-06-10T17:51:31Z",
+        "uri": "https://web.archive.org/web/20230610175131/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2023-10-04T16:39:30Z",
+        "uri": "https://web.archive.org/web/20231004163930/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      },
+      {
+        "datetime": "2023-11-17T01:19:54Z",
+        "uri": "https://web.archive.org/web/20231117011954/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-09T00:36:25Z",
+      "uri": "https://web.archive.org/web/20200809003625/https://esforum.de/forums/esf34_Digital_Ethology.html"
+    },
+    "last": {
+      "datetime": "2023-11-17T01:19:54Z",
+      "uri": "https://web.archive.org/web/20231117011954/https://esforum.de/forums/ESF34_Digital_Ethology.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.esforum.de/forums/ESF34_Digital_Ethology.html",
+    "json_format": "http://localhost:1208/timemap/json/https://www.esforum.de/forums/ESF34_Digital_Ethology.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.esforum.de/forums/ESF34_Digital_Ethology.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.esforum.de/forums/ESF34_Digital_Ethology.html"
+}

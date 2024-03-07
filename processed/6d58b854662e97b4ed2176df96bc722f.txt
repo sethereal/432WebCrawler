@@ -1,0 +1,6 @@
+You currently do not have any active holds.
+{{hold.title}}
+Prohibits: {{hold.prohibits | implode}}
+Contact: {{hold.primaryContactOffice}}, {{hold.primaryAddressLine1}} {{hold.primaryAddressLine2}}, {{hold.primaryPhone}}, {{hold.primaryContactEmail}}, {{hold.primaryContactUrl}}
+You have a future hold coming up in the next 30 days. Click the View Holds button for
+                            more details.

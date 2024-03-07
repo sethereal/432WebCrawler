@@ -1,0 +1,4 @@
+Back to Top ↑
+2000
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, “Sync-TCP: Using GPS Synchronized Clocks for Early Congestion Detection in TCP,” Poster presented at ACM SIGCOMM, Stockholm, Sweden, August 2000.
+Share on

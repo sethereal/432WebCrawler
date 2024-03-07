@@ -1,0 +1,362 @@
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>Syllabus | CS 432/532 Fall 2020 </title>
+<!--  <title>CS432-F20 / Syllabus </title>-->
+  <meta http-equiv='Content-Style-Type' content='text/css' />
+  <link rel='stylesheet' href='odu.css' type='text/css' />
+  <!--HTMLHeader--><style type='text/css'><!--
+  ul, ol, pre, dl, p { margin-top:0px; margin-bottom:0px; }
+  code.escaped { white-space: pre; }
+  .vspace { margin-top:1.33em; }
+  .indent { margin-left:40px; }
+  .outdent { margin-left:40px; text-indent:-40px; }
+  a.createlinktext { text-decoration:none; border-bottom:1px dotted gray; }
+  a.createlink { text-decoration:none; position:relative; top:-0.5em;
+    font-weight:bold; font-size:smaller; border-bottom:none; }
+  img { border:0px; }
+  .editconflict { color:green; 
+  font-style:italic; margin-top:1.33em; margin-bottom:1.33em; }
+
+  table.markup { border:2px dotted #ccf; width:90%; }
+  td.markup1, td.markup2 { padding-left:10px; padding-right:10px; }
+  table.vert td.markup1 { border-bottom:1px solid #ccf; }
+  table.horiz td.markup1 { width:23em; border-right:1px solid #ccf; }
+  table.markup caption { text-align:left; }
+  div.faq p, div.faq pre { margin-left:2em; }
+  div.faq p.question { margin:1em 0 0.75em 0; font-weight:bold; }
+  div.faqtoc div.faq * { display:none; }
+  div.faqtoc div.faq p.question 
+    { display:block; font-weight:normal; margin:0.5em 0 0.5em 20px; line-height:normal; }
+  div.faqtoc div.faq p.question * { display:inline; }
+  td.markup1 pre { white-space: pre-wrap; }
+  .noPmTOC, .PmTOCdiv:empty {display:none;}
+.PmTOCdiv { display: inline-block; font-size: 13px; overflow: auto; max-height: 500px;}
+.PmTOCdiv a { text-decoration: none;}
+.back-arrow {font-size: .9em; text-decoration: none;}
+#PmTOCchk + label {cursor: pointer;}
+#PmTOCchk {display: none;}
+#PmTOCchk:not(:checked) + label > .pmtoc-show {display: none;}
+#PmTOCchk:checked + label > .pmtoc-hide {display: none;}
+#PmTOCchk:checked + label + div {display: none;}table.sortable th { cursor: pointer; }
+table.sortable th::after { color: transparent; content: "\00A0\025B8"; }
+table.sortable th:hover::after { color: inherit; content: "\00A0\025B8"; }
+table.sortable th.dir-u::after { color: inherit; content: "\00A0\025BE"; }
+table.sortable th.dir-d::after { color: inherit; content: "\00A0\025B4"; } 
+    .frame 
+      { border:1px solid #cccccc; padding:4px; background-color:#f9f9f9; }
+    .lfloat { float:left; margin-right:0.5em; }
+    .rfloat { float:right; margin-left:0.5em; }
+a.varlink { text-decoration:none;}
+
+--></style>  <meta name='robots' content='index,follow' />
+
+</head>
+<body>
+
+<!--PageHeaderFmt-->
+<div id='wikihead'>
+<table id='myhead' cellpadding="2">
+<tr>
+<td></td>
+<td><img src="https://www.cs.odu.edu/~mweigle/icons/odu-color.png" height="100px"></td>
+<td></td>
+<td></td>
+<td><font size=+3>CS 432/532 - Web Science</font>
+<br/>Fall 2020: All sections, online
+</td>
+</tr>
+</table>
+</div>
+<!--/PageHeaderFmt-->
+      
+  <table id='wikimid' width='95%' cellspacing='0' cellpadding='0'><tr>
+<!--PageLeftFmt-->
+      <td id='wikileft' valign='top'>
+        <p><a class='selflink' href='Home'>Home</a> (Syllabus)
+</p>
+<p class='vspace'>Staff
+</p><ul><li><a class='urllink' href='http://www.cs.odu.edu/~mweigle' rel='nofollow'>Dr. Michele Weigle</a>
+</li><li><span style='font-size:83%'>mweigle at cs.odu.edu</span>
+</li><li><span style='font-size:83%'>Office Hours: <br /> Tues 2-3:30pm<br /> Thurs 5-6:30pm <br />  via Zoom</span>
+</li></ul><p class='vspace'><a class='urllink' href='https://drive.google.com/drive/folders/1C6trZTFSCaHjckhshzULy79dIhXBIZXU?usp=sharing' rel='nofollow'>Lecture Slides</a> <br /><span style='font-size:83%'>(at Google Slides)</span>
+</p>
+<p class='vspace'><a class='urllink' href='https://github.com/odu-cs432-websci/public/blob/main/fall20/README.md' rel='nofollow'>Resources at GitHub</a>
+</p>
+<p class='vspace'><a class='urllink' href='https://www.blackboard.odu.edu/ultra/courses/_363902_1/cl/outline' rel='nofollow'>Blackboard</a>
+</p>
+</td>
+<!--/PageLeftFmt-->
+      <td id='wikibody' valign='top'>
+<!--PageTitleFmt-->
+      <div id='wikititle'>
+      <h1 class='pagetitle'>Syllabus</h1></div>
+<!--PageText-->
+<div id='wikitext'>
+<div class='vspace'></div><div class='PmTOCdiv'></div>
+<div class='vspace'></div><h2>Course Overview</h2>
+<p>The Web has fundamentally changed how we learn, play, communicate, and work. Its influence has become so monumental that it has given birth to a new science: Web Science, or the science of decentralized information structures. Although Web Science is interdisciplinary by nature, this course will be focusing mainly on the computing aspects of the Web.
+</p>
+<p class='vspace'><strong>Catalog Description:</strong> Provides an overview of the World Wide Web and associated decentralized information structures, focusing mainly on the computing aspects of the Web: how it works, how it is used, and how it can be analyzed. Students will examine a number of topics including: web architecture, web characterization and analysis, web archiving, Web 2.0, social networks, collective intelligence, search engines, web mining, information diffusion on the web, and the Semantic Web. Prerequisites: A grade of C or better in CS 361 and CS 330.
+</p>
+<div class='vspace'></div><h3>Course Objectives</h3>
+<p>After completing this course, you should be able to do the following:
+</p><ul><li>Explain the interdisciplinary nature of web science.
+</li><li>Explain the main components of web architecture.
+</li><li>Explain how search engines index and rank webpages given a query.
+</li><li>Write Python code to interact with various web APIs and services, including web servers, web archives, Memento aggregators, and the Twitter API.
+</li><li>Explain the impact of social networks on how information (and disinformation) is spread on the web.
+</li><li>Explain the differences between classification and clustering algorithms.
+</li><li>Identify appropriate machine learning algorithms to apply given a problem.
+</li></ul><div class='vspace'></div><h3>Course Delivery Method</h3>
+<p>All sections of this course will be delivered fully online, asynchronously (no meeting time requirement).  Course materials, including lecture videos, will be distributed via Blackboard.
+</p>
+<p class='vspace'>CS 432 (undergraduate) sections:
+</p><ul><li>CRN  22005 - WEB2 (in Hampton Roads)
+</li><li>CRN  22006 - WEB5 (in Virginia, outside of Hampton Roads)
+</li><li>CRN  22007 - WEB7 (in US, outside of Virginia)
+</li><li>CRN 22012 - WEB8 (outside of US)
+</li></ul><p class='vspace'>CS 532 (graduate) sections:
+</p><ul><li>CRN  22008	 - WEB2 (in Hampton Roads)
+</li><li>CRN  22009 - WEB5 (in Virginia, outside of Hampton Roads)
+</li><li>CRN  22010 - WEB7 (in US, outside of Virginia)
+</li><li>CRN 22011 - WEB8 (outside of US)
+</li></ul><div class='vspace'></div><h3>Instructor Contact and Office Hours</h3>
+<p>Dr. Michele Weigle: mweigle at cs.odu.edu, <a class='urllink' href='https://www.cs.odu.edu/~mweigle/' rel='nofollow'>https://www.cs.odu.edu/~mweigle/</a>
+</p>
+<p class='vspace'>My office hours will be Tuesdays 2-3:30pm, Thursdays 5-6:30pm, or by appointment.  All office hours will be held via Zoom (see Blackboard for the link to the Zoom meeting room). Students will be placed into the waiting room until I am available.
+</p>
+<p class='vspace'>If you cannot attend during regular office hours, please contact me to set up an alternate appointment time.
+</p>
+<div class='vspace'></div><h2>Requirements</h2>
+<h3>Prerequisites</h3>
+<p>Prerequisites: Standing as an undergraduate senior, graduate student, or approval from the instructor.  Undergraduates should have a grade of C or better in CS 361 and CS 330.
+</p>
+<p class='vspace'>We will be using Python this semester.  You are not required to know Python ahead of time, but since you are required to have previous programming experience, I expect you to be able to pick up the syntax quickly.  If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins.  Here are some good Intro to Python resources:
+</p><ul><li><a class='urllink' href='http://introtopython.org/' rel='nofollow'>http://introtopython.org/</a>
+</li><li><a class='urllink' href='http://www.cs.cornell.edu/courses/cs1110/2012fa/' rel='nofollow'>http://www.cs.cornell.edu/courses/cs1110/2012fa/</a>
+</li><li><a class='urllink' href='http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/' rel='nofollow'>http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/</a>
+</li><li><a class='urllink' href='http://courses.cms.caltech.edu/cs11/material/python/index.html' rel='nofollow'>http://courses.cms.caltech.edu/cs11/material/python/index.html</a>
+</li><li><a class='urllink' href='http://www-cs-faculty.stanford.edu/~nick/python-in-one-easy-lesson/' rel='nofollow'>http://www-cs-faculty.stanford.edu/~nick/python-in-one-easy-lesson/</a>
+</li></ul><div class='vspace'></div><h3>Textbook</h3>
+<p class='vspace'>There is no required textbook, but here is a list of recommended books:
+</p>
+<div class='vspace'></div><ul><li><a class='urllink' href='https://www.oreilly.com/library/view/python-in-a/0596001886/' rel='nofollow'><em>Python in a Nutshell</em></a> - 3rd edition available <a class='urllink' href='https://go.oreilly.com/old-dominion-university//library/view/python-in-a/9781491913833/' rel='nofollow'>via ODU</a>
+<ul><li>mentioned in Week 2
+</li></ul></li><li><a class='urllink' href='https://www.oreilly.com/library/view/learning-python-5th/9781449355722/' rel='nofollow'><em>Learning Python</em></a> - 5th edition available <a class='urllink' href='https://go.oreilly.com/old-dominion-university/library/view/learning-python-5th/9781449355722/' rel='nofollow'>via ODU</a>
+<ul><li>mentioned in Week 2
+</li></ul></li><li><a class='urllink' href='http://www.wiley.com/WileyCDA/WileyTitle/productCd-047052684X.html' rel='nofollow'><em>An Introduction to Search Engines and Web Navigation</em></a>
+<ul><li>used in Week 6
+</li></ul></li><li><a class='urllink' href='https://ciir.cs.umass.edu/irbook/' rel='nofollow'><em>Search Engines Information Retrieval in Practice</em></a> - pdf available
+<ul><li>used in Week 6
+</li></ul></li><li><a class='urllink' href='https://nlp.stanford.edu/IR-book/' rel='nofollow'><em>Introduction to Information Retrieval</em></a> - pdf available
+<ul><li>used in Week 6
+</li></ul></li><li><a class='urllink' href='http://www.cs.cornell.edu/home/kleinber/networks-book/' rel='nofollow'><em>Networks, Crowds, and Markets: Reasoning About a Highly Connected World</em></a> - preprint available
+<ul><li>used in Weeks 7, 8
+</li></ul></li><li><a class='urllink' href='https://www.oreilly.com/library/view/programming-collective-intelligence/9780596529321/' rel='nofollow'><em>Programming Collective Intelligence</em></a> - available <a class='urllink' href='https://go.oreilly.com/old-dominion-university/library/view/programming-collective-intelligence/9780596529321/' rel='nofollow'>via ODU</a> 
+<ul><li>used in Weeks 11-14
+</li></ul></li><li><a class='urllink' href='https://web.stanford.edu/~jurafsky/slp3/' rel='nofollow'><em>Speech and Language Processing</em></a> - pdf available
+</li></ul><div class='vspace'></div><h2>Grading </h2>
+<p>There will be a total of 100 points available for the semester.  
+</p>
+<div class='vspace'></div><h3>Assignment Types </h3>
+<p>Your grade in this class will be based on the following components:
+</p>
+<p class='vspace'><strong>Learning Checks</strong> - 5 points
+</p><ul><li>Preparation for the week's topic
+</li><li>Learning Checks released via Blackboard on Saturdays and due on Wednesdays
+</li><li>I will not grade your submissions for correctness, but correct answers with references will be provided after the due date.
+</li><li>Full credit will be awarded only if all Learning Checks are complete and have been submitted on time.
+</li></ul><p class='vspace'><strong>Online Discussion</strong> - 5 points
+</p><ul><li>Class discussion based on the week's topic or current events.
+</li><li>Discussion Question released via Piazza on Wednesdays.  Your initial response is due on Fridays and a follow-up to at least one classmate's posting is due on Sundays.
+</li><li>Full credit will be awarded only if all Discussion Questions have been answered on time and follow-ups have been posted on time in more than half of the weeks (so 8 follow-ups if we have 14 weeks of discussion questions).
+</li></ul><p class='vspace'><strong>Homework (HW)</strong> - 90 points
+</p><ul><li>Implement concepts from class along with a report
+</li><li>9 homework assignments (HW1-HW9), each worth 10 points
+</li><li>Released via GitHub Classroom on Saturdays and usually due the following Sunday (8 days later)
+</li><li><em>Don't wait until the last minute -- these are hard and time-consuming!</em>
+</li><li>Grading scale: 0-10
+<ul><li>2 points are reserved for the required report 
+</li><li>many homework assignments will have extra credit opportunities
+</li></ul></li><li>All work must be your own. You may use resources on the Internet for reference, but you must not copy large sections of code. If you use online resources, you must cite your sources (including URL).  <em>Group work on HW assignments is not acceptable.</em> 
+</li></ul><p class='vspace'><em>There is no mid-term or final exam</em>
+</p>
+<div class='vspace'></div><h3>Grading Scale</h3>
+<p>The grading scale for <em>undergraduate students (CS 432)</em> is as follows:
+</p>
+<table width='50%' ><tr ><td  align='right'>100-92</td><td >&nbsp;</td><td >A</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>77-72</td><td >&nbsp;</td><td >C</td></tr>
+<tr ><td  align='right'>91-90</td><td >&nbsp;</td><td >A-</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>71-70</td><td >&nbsp;</td><td >C-</td></tr>
+<tr ><td  align='right'>89-87</td><td >&nbsp;</td><td >B+</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>69-67</td><td >&nbsp;</td><td >D+</td></tr>
+<tr ><td  align='right'>86-82</td><td >&nbsp;</td><td >B</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>66-62</td><td >&nbsp;</td><td >D</td></tr>
+<tr ><td  align='right'>81-80</td><td >&nbsp;</td><td >B-</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>61-60</td><td >&nbsp;</td><td >D-</td></tr>
+<tr ><td  align='right'>79-77</td><td >&nbsp;</td><td >C+</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>59-00</td><td >&nbsp;</td><td >F</td></tr>
+</table>
+<p class='vspace'>The grading scale for <em>graduate students (CS 532)</em> is as follows:
+</p>
+<table width='50%' ><tr ><td  align='right'>100-94</td><td >&nbsp;</td><td >A</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>79-78</td><td >&nbsp;</td><td >C+</td></tr>
+<tr ><td  align='right'>93-90</td><td >&nbsp;</td><td >A-</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>77-74</td><td >&nbsp;</td><td >C</td></tr>
+<tr ><td  align='right'>89-88</td><td >&nbsp;</td><td >B+</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>73-70</td><td >&nbsp;</td><td >C-</td></tr>
+<tr ><td  align='right'>87-84</td><td >&nbsp;</td><td >B</td><td >&nbsp;</td><td >&nbsp;</td><td  align='right'>69-00</td><td >&nbsp;</td><td >F</td></tr>
+<tr ><td  align='right'>83-80</td><td >&nbsp;</td><td >B-</td></tr>
+</table>
+<div class='vspace'></div><h3>Late Assignments</h3>
+<p>Any assignment submitted after its deadline is considered late.  Late assignments lose 1 point for every 24 hours they are late.  Submissions over 72 hours late are not accepted. This time limit includes weekends -- they are counted just like weekdays.  I reserve the right to specify that late submissions will not be accepted for particular assignments.
+</p><ul><li>0-24 hours late: -1 point
+</li><li>25-48 hours late: -2 points
+</li><li>49-72 hours late: -3 points
+</li><li>over 72 hours late: not accepted
+</li></ul><p class='vspace'><span  style='color: red;'> Late Policy updates 10/12/2020:</span>
+</p><ul><li>I will accept late submissions of any assignment up until the end of the semester.   Assignments submitted over 48 hours late will still receive a 3 point penalty as outlined in the Syllabus, but they will still be accepted past 72 hours late.
+</li><li>Extra credit questions from any assignment will be accepted up until the end of the semester.
+</li><li>All submissions (both late and extra credit) must be made by 11:59pm on Sunday, December 13.
+</li><li>Caveats:
+<ul><li>The late policy applies only for a full assignment, not individual questions.
+</li><li>Only limited assistance will be provided for 72+ hour late submissions. Contact me directly by email (mweigle@odu.edu).
+</li><li>Only clarifying questions will be answered for extra credit questions (no significant assistance provided).
+</li><li>Partial credit is not given for extra credit questions and the solutions must be described fully in the report.
+</li><li>Feedback/grades on 72+ hour late submissions and extra credit submissions for previous HWs are not promised before the end of the semester.
+</li></ul></li></ul><div class='vspace'></div><h2>Summary Schedule</h2>
+<p>(Updated 8/2/2020)
+</p>
+<p class='vspace'><em>Note: This is a tentative schedule and may change during the semester.</em>  
+</p>
+<p class='vspace'>Typical weekly schedule:
+</p><ul><li>Saturday - course materials, Learning Checks (LC), and HW assignment released
+</li><li>Wednesday - LC due, Discussion Question (DQ) released
+</li><li>Friday - Initial DQ response due
+</li><li>Sunday - Followup DQ response due, HW assignment due (usually from a previous week)
+</li></ul><p class='vspace'><a class='urllink' href='https://www.odu.edu/academics/calendar/fall' rel='nofollow'>ODU Fall 2020 academic schedule</a>
+</p>
+<div class='vspace'></div>
+<table border='1' cellspacing='0' cellpadding='3' ><tr><td bgcolor='#94b2e6'  valign='top'><strong>Week</strong>
+</td><td bgcolor='#94b2e6'  valign='top'><strong>Week Start Date</strong>
+</td><td bgcolor='#94b2e6'  valign='top'><strong>Topic</strong>
+</td></tr><tr><td  valign='top'>1
+</td><td  valign='top'>Aug 29
+</td><td  valign='top'>Web Science, Web Architecture
+</td></tr><tr><td  valign='top'>2
+</td><td  valign='top'>Sep 5
+</td><td  valign='top'>Introduction to Python
+</td></tr><tr><td  valign='top'>3
+</td><td  valign='top'>Sep 12
+</td><td  valign='top'>Introduction to Info Vis with R, Python
+</td></tr><tr><td  valign='top'>4
+</td><td  valign='top'>Sep 19
+</td><td  valign='top'>Measuring the Web
+</td></tr><tr><td  valign='top'>5
+</td><td  valign='top'>Sep 26
+</td><td  valign='top'>Archiving the Web
+</td></tr><tr><td  valign='top'>6
+</td><td  valign='top'>Oct 3
+</td><td  valign='top'>Searching the Web
+</td></tr><tr><td  valign='top'>7
+</td><td  valign='top'>Oct 10
+</td><td  valign='top'>Social Networks
+</td></tr><tr><td  valign='top'>8
+</td><td  valign='top'>Oct 17
+</td><td  valign='top'>Selection and Social Influence
+</td></tr><tr><td  valign='top'>9
+</td><td  valign='top'>Oct 24
+</td><td  valign='top'>Visualizing Social Networks
+</td></tr><tr><td  valign='top'>10
+</td><td  valign='top'>Oct 31
+</td><td  valign='top'>Disinformation
+</td></tr><tr><td  valign='top'>11
+</td><td  valign='top'>Nov 7
+</td><td  valign='top'>Collective Intelligence and Recommender Systems
+</td></tr><tr><td  valign='top'>12
+</td><td  valign='top'>Nov 14
+</td><td  valign='top'>Clustering Algorithms
+</td></tr><tr><td  valign='top'>
+</td><td  valign='top'>Nov 21
+</td><td  valign='top'><strong>NO CLASS - Thanksgiving Break</strong>
+</td></tr><tr><td  valign='top'>13
+</td><td  valign='top'>Mon, Nov 30
+</td><td  valign='top'>Document Filtering (Classification)
+</td></tr><tr><td  valign='top'>14
+</td><td  valign='top'>Dec 5
+</td><td  valign='top'>kNN and Algorithm Summary
+</td></tr><tr><td  valign='top'>
+</td><td  valign='top'>Fri, Dec 11
+</td><td  valign='top'><em>last day of classes</em>
+</td></tr></table>
+<div class='vspace'></div><h2>Related Courses</h2>
+<ul><li>All things HTTP - <a class='urllink' href='https://cs531-f19.github.io' rel='nofollow'>CS 531 - Web Server Design</a>
+</li><li>Information retrieval, metadata - <a class='urllink' href='https://phonedude.github.io/cs834-f16/' rel='nofollow'>CS 834 - Intro to Information Retrieval</a>
+</li><li>Visualization, Analytics - <a class='urllink' href='https://www.cs.odu.edu/~mweigle/CS625-F19/' rel='nofollow'>CS 625 - Data Visualization</a>, <a class='urllink' href='https://www.cs.odu.edu/~mweigle/CS725-S18/' rel='nofollow'>CS 725/825 - Information Visualization</a>
+</li><li>Web programming, LAMP - <a class='urllink' href='http://www.cs.odu.edu/~jbrunelle/cs518/' rel='nofollow'>CS 418/518 - Web Programming</a>
+</li><li>Data science - <a class='urllink' href='https://www.cs.odu.edu/~sampath/courses/f19/cs620/' rel='nofollow'>CS 620 - Intro to Data Science</a>
+</li></ul><div class='vspace'></div><h2>Course History</h2>
+<p>This course at ODU was originally developed by <a class='urllink' href='https://www.cs.odu.edu/~mln/' rel='nofollow'>Dr. Michael Nelson</a>, based on Dr. Frank McCown (ODU alum)'s <a class='urllink' href='https://sites.harding.edu/fmccown/classes/comp4750-f19/' rel='nofollow'>Intro to Web Science</a> course at Harding University.  In previous semesters, it has also been taught by Dr. Alexander Nwala (former PhD student at ODU).
+</p>
+<div class='vspace'></div><h2>Course Policies</h2>
+<h3>Email/Piazza</h3>
+<p>Each student must check the class Piazza site and email daily. You should use Piazza to ask and answer general course-related questions. I will also use this to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).  
+</p>
+<div class='vspace'></div><h3>Participation</h3>
+<p>Since this is an online class, it is essential that you regularly stay involved in class activities.  This includes checking the class website and Piazza for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
+</p>
+<div class='vspace'></div><h3>Make-up Work</h3>
+<p>Make-ups for graded activities are possible only with a valid written medical or university excuse. It is the student's responsibility to give the instructor the written excuse and to arrange for any makeup work to be done. 
+</p>
+<div class='vspace'></div><h3>Disability Services</h3>
+<p>In compliance with PL94-142 and more recent federal legislation affirming the rights of disabled individuals, provisions will be made for students with special needs on an individual basis. The student must have been identified as special needs by the university and an appropriate letter must be provided to the course instructor. Provision will be made based upon written guidelines from the University's <a class='urllink' href='http://www.odu.edu/educationalaccessibility' rel='nofollow'>Office of Educational Accessibility</a>. All students are expected to fulfill all course requirements.
+</p>
+<p class='vspace'>Students are encouraged to self-disclose disabilities that have been verified by the Office of Educational Accessibility by providing Accommodation Letters to their instructors early in the semester in order to start receiving accommodations. Accommodations will not be made until the Accommodation Letters are provided to instructors each semester.
+</p>
+<div class='vspace'></div><h3>Seeking Help</h3>
+<p>The course Blackboard site should be your first reference for questions about the class.  If you have questions about course requirements or materials, post questions using the class Piazza site.  For extra help, attend office hours.
+</p>
+<div class='vspace'></div><h2>Academic Integrity</h2>
+<p>Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at <a class='urllink' href='https://www.odu.edu/oscai' rel='nofollow'>https://www.odu.edu/oscai</a>. 
+</p>
+<p class='vspace'>The following behaviors along with classroom disruptions violate this policy, corrupt the educational process, and will not be tolerated.
+</p><ul><li>Cheating: Using unauthorized assistance, materials, study aids, or other information in any academic exercise.
+</li><li>Plagiarism: Using someone else's language, ideas, or other original material without acknowledging its source in any academic exercise.
+</li><li>Fabrication: Inventing, altering or falsifying any data, citation or information in any academic exercise.
+</li><li>Facilitation: Helping another student commit, or attempt to commit, any Academic Integrity violation, or failure to report suspected Academic Integrity violations to a faculty member.
+</li></ul><p class='vspace'><em>In particular, submitting anything that is not your own work without proper attribution (giving credit to the original author) is plagiarism and is considered to be an academic integrity violation. It is not acceptable to copy source code or written work from any other source (including other students, online resources), unless explicitly allowed in the assignment statement. In cases where using resources such as the Internet is allowed, proper attribution must be given.</em>
+</p>
+<p class='vspace'>Any evidence of an academic integrity violation (cheating) will result in a 0 grade for the assignment/exam, and the incident will be submitted to the Department of Computer Science for further review.  Note that academic integrity violations can result in <em>a permanent notation being placed on the student's transcript or even expulsion from the University.</em>  Evidence of cheating may include a student being unable to satisfactorily answer questions asked by the instructor about a submitted solution.  Cheating includes not only receiving unauthorized assistance, but also <em>giving</em> unauthorized assistance.  For class files kept in Unix space, students are expected to use Unix file permission protections (chmod) to keep other students from accessing the files.  Failure to adequately protect files may result in a student being held responsible for giving unauthorized assistance, even if not directly aware of it.
+</p>
+<p class='vspace'>Students may still provide <em>legitimate</em> assistance to one another.  You are encouraged to form study groups to discuss course topics.  Students should avoid discussions of solutions to ongoing assignments and should not, under any circumstances, show or share code solutions for an ongoing assignment.
+</p>
+<p class='vspace'>All students are responsible for knowing the rules.  If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
+</p>
+<p class='vspace'>More information on academic integrity is available on the ODU-CS <a class='urllink' href='https://graduate.cs.odu.edu/resources/academic-integrity' rel='nofollow'>academic integrity page</a>.
+</p>
+</div>
+
+      </td>
+    </tr></table>
+    
+<!--PageFooterFmt-->
+<div id='footer'>
+<hr>
+<table>
+<tr><td valign="top"><img src="https://www.cs.odu.edu/~mweigle/icons/odu2l.png" width=130px></td>
+<td>
+  <div id='wikifoot'>
+    This page was last modified on October 13, 2020, at 02:46 PM
+    <br>Copyright &#169; 2008, Old Dominion University.  All rights reserved. </div>
+</td>
+</tr>
+</table>
+</div>
+<!--HTMLFooter-->
+
+<!-- Google Analytics code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2932189-1");
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>

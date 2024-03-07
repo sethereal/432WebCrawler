@@ -1,0 +1,79 @@
+ERROR: 2024/02/18 15:35:17.751853 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/summer": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/summer",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/summer",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-04-26T00:46:20Z",
+        "uri": "https://web.archive.org/web/20120426004620/http://www.odu.edu:80/summer"
+      },
+      {
+        "datetime": "2012-05-01T19:40:44Z",
+        "uri": "https://web.archive.org/web/20120501194044/http://odu.edu/summer"
+      },
+      {
+        "datetime": "2012-05-01T23:28:58Z",
+        "uri": "https://web.archive.org/web/20120501232858/http://odu.edu/summer"
+      },
+      {
+        "datetime": "2012-05-02T01:44:25Z",
+        "uri": "https://web.archive.org/web/20120502014425/http://odu.edu/summer"
+      },
+      {
+        "datetime": "2012-05-14T00:24:00Z",
+        "uri": "https://web.archive.org/web/20120514002400/http://www.odu.edu/summer"
+      },
+      {
+        "datetime": "2012-06-25T07:35:26Z",
+        "uri": "https://web.archive.org/web/20120625073526/http://www.odu.edu:80/summer"
+      },
+      {
+        "datetime": "2012-06-25T23:21:30Z",
+        "uri": "https://web.archive.org/web/20120625232130/http://www.odu.edu:80/summer"
+      },
+      {
+        "datetime": "2022-05-01T16:06:48Z",
+        "uri": "https://web.archive.org/web/20220501160648/http://odu.edu/summer"
+      },
+      {
+        "datetime": "2022-05-01T16:08:04Z",
+        "uri": "https://web.archive.org/web/20220501160804/https://odu.edu/summer"
+      },
+      {
+        "datetime": "2023-06-09T04:21:12Z",
+        "uri": "https://web.archive.org/web/20230609042112/https://www.odu.edu/summer"
+      },
+      {
+        "datetime": "2023-08-25T17:39:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173936/https://www.odu.edu/summer"
+      },
+      {
+        "datetime": "2023-08-25T17:39:36Z",
+        "uri": "https://web.archive.org/web/20230825173936/https://www.odu.edu/summer"
+      },
+      {
+        "datetime": "2023-10-01T08:34:35Z",
+        "uri": "https://web.archive.org/web/20231001083435/https://www.odu.edu/summer"
+      },
+      {
+        "datetime": "2024-01-17T00:36:05Z",
+        "uri": "https://web.archive.org/web/20240117003605/https://www.odu.edu/summer"
+      }
+    ],
+    "first": {
+      "datetime": "2012-04-26T00:46:20Z",
+      "uri": "https://web.archive.org/web/20120426004620/http://www.odu.edu:80/summer"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:36:05Z",
+      "uri": "https://web.archive.org/web/20240117003605/https://www.odu.edu/summer"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/summer",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/summer",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/summer"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/summer"
+}

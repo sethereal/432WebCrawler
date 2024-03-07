@@ -1,0 +1,91 @@
+ERROR: 2024/02/18 16:01:33.329360 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives",
+  "self": "http://localhost:1208/timemap/json/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-07-09T02:49:13Z",
+        "uri": "https://web.archive.org/web/20180709024913/http://www.slideshare.net:80/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2019-01-25T18:21:48Z",
+        "uri": "https://web.archive.org/web/20190125182148/http://www.slideshare.net:80/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2019-04-05T06:11:18Z",
+        "uri": "https://web.archive.org/web/20190405061118/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2019-11-30T10:25:19Z",
+        "uri": "https://web.archive.org/web/20191130102519/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives/"
+      },
+      {
+        "datetime": "2019-12-09T10:29:24Z",
+        "uri": "https://web.archive.org/web/20191209102924/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2021-05-24T15:40:41Z",
+        "uri": "https://web.archive.org/web/20210524154041/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2021-07-04T07:22:07Z",
+        "uri": "https://web.archive.org/web/20210704072207/http://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2021-10-14T23:40:12Z",
+        "uri": "https://web.archive.org/web/20211014234012/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2021-11-23T00:11:32Z",
+        "uri": "https://web.archive.org/web/20211123001132/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2022-01-14T08:00:18Z",
+        "uri": "https://web.archive.org/web/20220114080018/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2022-09-28T12:52:38Z",
+        "uri": "https://web.archive.org/web/20220928125238/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2022-11-18T19:47:53Z",
+        "uri": "https://web.archive.org/web/20221118194753/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2022-11-18T19:48:01Z",
+        "uri": "https://web.archive.org/web/20221118194801/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2022-11-25T13:44:09Z",
+        "uri": "https://web.archive.org/web/20221125134409/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives/"
+      },
+      {
+        "datetime": "2022-12-06T05:37:51Z",
+        "uri": "https://web.archive.org/web/20221206053751/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2023-07-04T06:40:32Z",
+        "uri": "https://web.archive.org/web/20230704064032/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      },
+      {
+        "datetime": "2023-09-03T15:45:59Z",
+        "uri": "https://web.archive.org/web/20230903154559/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+      }
+    ],
+    "first": {
+      "datetime": "2018-07-09T02:49:13Z",
+      "uri": "https://web.archive.org/web/20180709024913/http://www.slideshare.net:80/mweigle/enabling-personal-use-of-web-archives"
+    },
+    "last": {
+      "datetime": "2023-09-03T15:45:59Z",
+      "uri": "https://web.archive.org/web/20230903154559/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives",
+    "json_format": "http://localhost:1208/timemap/json/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.slideshare.net/mweigle/enabling-personal-use-of-web-archives"
+}

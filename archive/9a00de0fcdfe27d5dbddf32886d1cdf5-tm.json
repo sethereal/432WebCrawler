@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 19:39:16.653056 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://haleybragg.github.io/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://haleybragg.github.io/",
+  "self": "http://localhost:1208/timemap/json/https://haleybragg.github.io/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-08-19T20:41:47Z",
+        "uri": "https://arquivo.pt/wayback/20220819204147mp_/https://haleybragg.github.io/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-08-19T20:41:47Z",
+      "uri": "https://arquivo.pt/wayback/20220819204147mp_/https://haleybragg.github.io/"
+    },
+    "last": {
+      "datetime": "2022-08-19T20:41:47Z",
+      "uri": "https://arquivo.pt/wayback/20220819204147mp_/https://haleybragg.github.io/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://haleybragg.github.io/",
+    "json_format": "http://localhost:1208/timemap/json/https://haleybragg.github.io/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://haleybragg.github.io/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://haleybragg.github.io/"
+}

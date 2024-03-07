@@ -1,0 +1,31 @@
+ERROR: 2024/02/18 17:28:48.771492 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/admissions/events/admitted-students-day-0": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/admissions/events/admitted-students-day-0",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admissions/events/admitted-students-day-0",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-03T00:12:04Z",
+        "uri": "https://web.archive.org/web/20240103001204/https://www.odu.edu/admissions/events/admitted-students-day-0"
+      },
+      {
+        "datetime": "2024-01-17T00:34:40Z",
+        "uri": "https://web.archive.org/web/20240117003440/https://www.odu.edu/admissions/events/admitted-students-day-0"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-03T00:12:04Z",
+      "uri": "https://web.archive.org/web/20240103001204/https://www.odu.edu/admissions/events/admitted-students-day-0"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:34:40Z",
+      "uri": "https://web.archive.org/web/20240117003440/https://www.odu.edu/admissions/events/admitted-students-day-0"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admissions/events/admitted-students-day-0",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admissions/events/admitted-students-day-0",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admissions/events/admitted-students-day-0"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admissions/events/admitted-students-day-0"
+}

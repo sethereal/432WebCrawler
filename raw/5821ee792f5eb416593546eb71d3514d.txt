@@ -1,0 +1,2861 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-44d9585c76459c36da8",applicationID:"361629741"};;/*! For license information please see nr-loader-rum-1.251.1.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>w,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o);const r=(0,n.ek)(e);r&&(r.info=a[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!A[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return A[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");A[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=A[e])}const x=(0,n.mF)().o;var E=r(385),D=r(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(E._A?.performance?.timeOrigin||E._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+E._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof E._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,k);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.251.1",i="PROD",o="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>o,cv:()=>l,iS:()=>a,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),a=Boolean("hidden"===o?.document?.visibilityState),s=/iPad|iPhone|iPod/.test(o.navigator?.userAgent),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=o.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!o.navigator?.sendBeacon,l=Math.floor(o?.performance?.timeOrigin||o?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(50);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),o=r(4322),a=r(3325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=[...s[e]];function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),a(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),o=r(234);class a{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,o.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var f=b()[s[e]];f&&f.push([g,e,r,a]);return a},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof a?e:e?(0,i.X)(e,c,(()=>new a(c))):new a(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(5546);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(385);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>a,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>o,IK:()=>c,oD:()=>i,uT:()=>s,wO:()=>a});const n="NRBA",i=144e5,o=18e5,a={PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},s={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},c={OFF:0,FULL:1,ERROR:2}},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),o=r(3325),a=r(385);const s="newrelic";const c={stn:[o.D.sessionTrace],err:[o.D.jserrors,o.D.metrics],ins:[o.D.pageAction],spa:[o.D.spa],sr:[o.D.sessionReplay,o.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{a._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>o});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>a,b2:()=>o});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>o,ek:()=>u,fP:()=>a,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>o,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>a});const n=r(3325).D.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),o=r(5546),a=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&o.push(e.api[t](...n))})),o.length>1?o:o[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:A,info:w,loader_config:_,runtime:x={loaderType:b},exposed:E=!0}=t;const D=(0,g.gG)();w||(A=D.init,w=D.info,_=D.loader_config),(0,i.Dg)(e.agentIdentifier,A||{}),(0,i.GE)(e.agentIdentifier,_||{}),w.jsAttributes??={},d.v6&&(w.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,w);const k=(0,i.P_)(e.agentIdentifier),j=[w.beacon,w.errorBeacon];m||(k.proxy.assets&&(v(k.proxy.assets),j.push(k.proxy.assets)),k.proxy.beacon&&j.push(k.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...k.ajax.deny_list||[],...k.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=a.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,o){const a=(0,i.C5)(e);return null===r?delete a.jsAttributes[t]:(0,i.CX)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),w(v,n,!0,o||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=w(v,e,!0,"api")})),g.addPageAction=w(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=w(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,w(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,o.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,o.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,o.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,o.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,o.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var A=y.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,o.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((a?"":"no-")+"fn-start",[(0,s.z)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function w(e,t,r,i){return function(){return(0,o.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,o.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{A[e]=w(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,o.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,o.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=E),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.251.1.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.251.1.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={75:"sha512-se+MgwtmnbdP/MASClg+GOgpTkSpcEndd09loplWI8jtivCRtbuBQGqwgSDauFr6FUmrBsb2ccq/Hk5NZDAKMQ=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.251.1.PROD"]=self["webpackChunk:NRBA-1.251.1.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];if("function"==typeof this.api?.[t])return this.api[t](...n);(0,e.Z)("Call to agent api ".concat(t," failed. The API is not currently initialized."))}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e("recordReplay")}pauseReplay(){return this.#e("pauseReplay")}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}}var r=i(3325),n=i(234);const o=Object.values(r.D);function a(e){const t={};return o.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let o;this.onAggregateImported=new Promise((e=>{o=e}));const a=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,957));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void o(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),o(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),o(!1)}};l.il?(0,d.b2)((()=>a()),!0):a()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=b(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=A(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function A(e){return"object"!=typeof e?[]:(0,v.D)(e,w)}function w(e,t){return t}var _=i(8632),x=i(4402),E=i(4351);var D=i(5546),k=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,k.N)((()=>(0,D.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,D.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class P extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=a(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,E.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}}({features:[p,T,P],loaderType:"lite"})})()})();</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S4W7FH24Y8"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-S4W7FH24Y8", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<link rel="canonical" href="https://www.odu.edu/honors" />
+<link rel="shortlink" href="https://www.odu.edu/node/279131" />
+<meta name="description" content="The ODU Honors experience provides the benefits of a small liberal arts college within a large, research-intensive university" />
+<meta property="og:site_name" content="https://www.odu.edu/honors" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.odu.edu/honors" />
+<meta property="og:title" content="Perry Honors College" />
+<meta property="og:updated_time" content="2023-10-20T17:29:51-04:00" />
+<meta property="article:published_time" content="2022-08-30T09:02:20-04:00" />
+<meta property="article:modified_time" content="2023-10-20T17:29:51-04:00" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/odu/favicon.ico" type="image/vnd.microsoft.icon" />
+<script src="/sites/default/files/google_tag/odu_gtm/google_tag.script.js?s8gh4m" defer></script>
+
+    <title>Perry Honors College | Old Dominion University</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_qNkL1g6MsGCMCgeaLOKDZvOVpV3tP4MDEu1lCMTYsuI.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+<link rel="stylesheet" media="all" href="https://use.fontawesome.com/releases/v5.13.1/css/v4-shims.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_JgxuUkp1Kz1BWAssvT21uzPXr3yOuqyctYEqfflGEgI.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_kY7I5Dhwt9hZLmgsvpPvw28-9k6WY7C6NHHg2WT4S34.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_A5ZxNL4jmkuA2voLsbetC-4QTHyy41_lD7aD_GN9Fio.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" crossorigin="anonymous" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" />
+<link rel="stylesheet" media="all" href="https://npmcdn.com/jquery-gray@1.7.0/css/gray.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_2vYeSIVG3pX-DKZwKt0d95Y42HgbDEZSwKpLEXz1v5k.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/legacy_css_fixes-85975c7f26eb1fd317ce1b0bfc398a4a.css?s8gh4m" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/legacy_css_to_be_committed-69c21123092ed187b04d3dc1207276fb.css?s8gh4m" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/multiday_calendar_fixes-839249628a8aef218e45d97e845062a9.css?s8gh4m" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_-Nu6q0l-9c37phHr0XF9vgU9XScMJuWm_fcTD1ynFAg.css" />
+
+    <script src="https://kit.fontawesome.com/0b36ff0ba9.js" crossorigin="anonymous"></script>
+
+  </head>
+  <body class="role-anonymous theme-odu page-node-landing_page page-node-279131 path-honors path-node page-node-type-landing-page">
+        <a href="#main-content" class="visually-hidden focusable">
+      Skip to main content
+    </a>
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MDTQZL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<section class="layout-alerts" role="region" aria-label="Alerts">
+    <div class="region region-alerts">
+    <div id="block-alertblock" class="block block-kwall-alerts block-alert-block">
+  
+    
+      <div class="block-kwall-site-alert" style="display: none;">
+                        <div class="alerts-wrap style-wrap"></div>
+                      </div>
+  </div>
+
+  </div>
+
+</section>
+
+<header id="site-branding" role="banner">
+    <div class="region region-header">
+    <div id="block-customlogoblock" class="block block-custom-module block-custom-logo-block block-node-landing_page">
+  
+    
+      <a class="site-logo" href="/" rel="home" tabindex="0">
+  <img alt="Old Dominion University" src="/themes/custom/odu/images/odu-logo.svg" />
+  <img class="sticky-logo" alt="Old Dominion University Crown" src="/themes/custom/odu/images/odu-crown.svg" />
+</a>
+  </div>
+
+  </div>
+
+    <div class="region region-navigation">
+    <div id="block-mainnavigation" class="block block-menu-block block-menu-blockmain block-node-landing_page">
+  
+    
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/apply" data-drupal-link-system-path="node/461421">Apply</a>
+              </li>
+                <li class="menu-item">
+        <a href="/about/visitors/campus-tours" data-drupal-link-system-path="node/281776">Visit</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://give.odu.edu/">Give</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://my.odu.edu" class="left-separator">myODU</a>
+              </li>
+        </ul>
+  
+
+
+    <div class="mega-menu-toggle">
+    <div class="toggle-menu-rhombus"></div>
+    
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="" class="menu-toggle"><span class="link-text">Menu</span> <i class="fas fa-bars" aria-hidden="true"></i></a>
+              </li>
+                <li class="menu-item">
+        <a href="" class="sr-text search-toggle"><span class="link-text">Search</span> <i class="fas fa-search" aria-hidden="true"></i></a>
+              </li>
+                <li class="menu-item">
+        <a href="" class="close-menu"><span class="link-text">Close</span> <i class="fa fa-times" aria-hidden="true"></i></a>
+              </li>
+        </ul>
+  
+
+
+  </div>
+</div>
+
+  </div>
+
+</header>
+
+<section class="layout-hero-content" role="region" aria-label="hero content">
+    <div class="region region-hero">
+        <div id="block-entityviewcontent" class="block block-ctools block-entity-viewnode">
+  
+    
+      <div class="hero-content">
+      <div class="field--name-field-hero-content field__items">
+                <div class="field__item">
+          <div class="paragraph paragraph--type--full-height-slider paragraph--view-mode--default">
+              <div class="slide-items field--name-field-hero-slides field__items">
+            
+
+  <div class="paragraph--type--full-height-slide">
+          <div class="slide-media">
+                                <img src="/sites/default/files/styles/homepage_hero_image/public/hero-images/student-brand-0236-2.png?h=0da81c08" width="1440" height="1000" alt="ODU students walking on campus" loading="lazy" typeof="foaf:Image" class="image-style-homepage-hero-image" />
+
+
+
+      
+              </div>
+              <div class="slide-content-wrap">
+          <div class="slide-content">
+            <div class="slide-title">Patricia &amp; Douglas Perry Honors College</div>
+            
+                <div class="field--name-field-slide-link field__items">
+            <a href="/honors/apply">Apply Now</a>
+          </div>
+
+          </div>
+        </div>
+            </div>
+
+          </div>
+
+      <div class="pause-play-wrapper">
+        <div class="video-controls d-none">
+          <i role="button" type="button" class="pause fa-solid fa-pause" aria-label="Pause Video"></i>
+          <i role="button" type="button" class="play d-none fa-solid fa-play" aria-label="Play Video"></i>
+        </div>
+      </div>
+      </div>
+
+            </div>
+          </div>
+
+</div>
+
+  </div>
+
+  </div>
+
+</section>
+
+<div class="background-pattern">
+    <section class="layout-content-top" role="region" aria-label="top-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">  <div class="region region-content-top">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+</div>
+      </div>
+    </div>
+  </section>
+  
+  
+  
+  
+
+  <div class="layout-container">
+    <main id="main-content" role="main">            
+      <div>
+          <div class="region region-content">
+    <div id="block-mainpagecontent" class="block block-system block-system-main-block">
+  
+    
+      
+
+<article role="article" about="/honors" class="node node--type-landing-page node--view-mode-full">
+
+  <div class="node__content">
+          <div id="breadcrumbs-title" class="container">
+        <div class="container-inner">
+          <div class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol>
+          <li>
+                  <a href="/">Home</a>
+              </li>
+          <li>
+                  Perry Honors College
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+                      <h1 class="page-title">Perry Honors College</h1>
+                  </div>
+      </div>
+          <div class="layout layout--twocol-section layout--twocol-section--75-25 container">
+
+          <div  class="layout__region layout__region--first">
+        <div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+  <div class="margin-bottom-0 padding-bottom-0 paragraph paragraph--type--heading-and-optional-icon paragraph--view-mode--default">
+          <h3>    <div class="field--name-field-icon field__items">
+                <div class="field__item">
+        <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-person-running-fast " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+            Think. Dream. Excel.
+      </h3>
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+          <div class="paragraph paragraph--type--wysiwyg paragraph--view-mode--default">
+              <div class="container clearfix text-formatted field--name-field-wysiwyg field__items">
+                <div class="field__item">
+        <p class="include-heading-bar skyblue ">Imagine an undergraduate education where passions become possibilities, and first-hand experiences give shape to your goals. Where academic strengths become professional skills, and civic engagement is an essential metric of success.</p>
+
+            </div>
+          </div>
+
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--image-or-video-promo paragraph--view-mode--default">
+          <div class="container">
+        <div class="image-video-promo-wrapper left">
+          <div class="image-video-promo-details">
+                <h2 class="field--name-field-section-title field__items">
+            Why Honors?
+          </h2>
+
+            <p><p>The ODU Honors experience reflects our commitment to helping students make their way in the world while creating an engaging educational experience.</p></p>
+                <div class="field--name-field-link field__items">
+            <a href="/honors/why-honors">Learn More</a>
+          </div>
+
+          </div>
+          <div class="image-video-promo-media">
+                          <div class="image-thumbnail">
+                                  <a href="/honors/why-honors" target="">
+                                  <img src="/sites/default/files/styles/image_callout_590x377/public/col-dept/honors/img/student-brand-0176-no-logo.jpg?h=a1dd1271" width="590" height="377" alt="Transfer Equivalency Degree Audit" loading="lazy" typeof="foaf:Image" class="image-style-image-callout-590x377" />
+
+
+
+      
+                  </a>
+                              </div>
+                      </div>
+        </div>
+      </div>
+            </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+
+  <div class="margin-bottom-0 padding-bottom-0 paragraph paragraph--type--cta-image-text-blocks paragraph--view-mode--default field_items_2">
+          <div class="container">
+            <div class="field--name-field-cta-image-text-block-items field__items">
+                <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--cta-image-text-block-item paragraph--view-mode--default">
+          <div class="cta-block-item-wrapper">
+                  <a href="/honors/academics/courses" target="">
+                <div class="cta-block-image">
+              <div class="field--name-field-image field__items">
+              <img src="/sites/default/files/styles/image_text_block/public/photos/stock/students-studying-book.jpg?h=59f9d53c" width="480" height="362" alt="CRLA or Custom Tutor/Mentor Training" loading="lazy" typeof="foaf:Image" class="image-style-image-text-block" />
+
+
+
+          </div>
+
+        </div>
+        <div class="cta-block-details ">
+          <div class="cta-block-details-inner">
+                <h3 class="field--name-field-title field__items">
+            Academics
+          </h3>
+
+                <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Choose from many types of Honors courses.</p>
+            </div>
+          </div>
+
+                          <span>Learn More</span>
+                      </div>
+        </div>
+                  </a>
+              </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--cta-image-text-block-item paragraph--view-mode--default">
+          <div class="cta-block-item-wrapper">
+                  <a href="/honors/research" target="">
+                <div class="cta-block-image">
+              <div class="field--name-field-image field__items">
+              <img src="/sites/default/files/styles/image_text_block/public/photos/research/undergraduate-research/undergrad-research-2.jpg?h=fee4874d" width="480" height="362" alt="Career Development Services" loading="lazy" typeof="foaf:Image" class="image-style-image-text-block" />
+
+
+
+          </div>
+
+        </div>
+        <div class="cta-block-details ">
+          <div class="cta-block-details-inner">
+                <h3 class="field--name-field-title field__items">
+            Research Opportunities
+          </h3>
+
+                <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Get a competitive edge with research experience.</p>
+            </div>
+          </div>
+
+                          <span>Learn More</span>
+                      </div>
+        </div>
+                  </a>
+              </div>
+      </div>
+
+            </div>
+          </div>
+
+      </div>
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+
+  <div class="margin-bottom-0 paragraph paragraph--type--cta-image-text-blocks paragraph--view-mode--default field_items_2">
+          <div class="container">
+            <div class="field--name-field-cta-image-text-block-items field__items">
+                <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--cta-image-text-block-item paragraph--view-mode--default">
+          <div class="cta-block-item-wrapper">
+                  <a href="/honors/academics/civic" target="">
+                <div class="cta-block-image">
+              <div class="field--name-field-image field__items">
+              <img src="/sites/default/files/styles/image_text_block/public/images/pageimage.img.440_89.png?h=1df2b852" width="480" height="362" alt="Experiential Learning" loading="lazy" typeof="foaf:Image" class="image-style-image-text-block" />
+
+
+
+          </div>
+
+        </div>
+        <div class="cta-block-details ">
+          <div class="cta-block-details-inner">
+                <h3 class="field--name-field-title field__items">
+            Experiential Learning
+          </h3>
+
+                <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Learn by connecting knowledge and action.</p>
+            </div>
+          </div>
+
+                          <span>Learn More</span>
+                      </div>
+        </div>
+                  </a>
+              </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--cta-image-text-block-item paragraph--view-mode--default">
+          <div class="cta-block-item-wrapper">
+                  <a href="/leadership-learning/living-learning" target="">
+                <div class="cta-block-image">
+              <div class="field--name-field-image field__items">
+              <img src="/sites/default/files/styles/image_text_block/public/images/pageimage.img.440_90.png?h=1df2b852" width="480" height="362" alt="Honors College Housing" loading="lazy" typeof="foaf:Image" class="image-style-image-text-block" />
+
+
+
+          </div>
+
+        </div>
+        <div class="cta-block-details ">
+          <div class="cta-block-details-inner">
+                <h3 class="field--name-field-title field__items">
+            Honors College Housing
+          </h3>
+
+                <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Enjoy the benefits of Living Learning Communities.</p>
+            </div>
+          </div>
+
+                          <span>Learn More</span>
+                      </div>
+        </div>
+                  </a>
+              </div>
+      </div>
+
+            </div>
+          </div>
+
+      </div>
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        <div class="block block-custom-module block-group-menu-block">
+  
+    
+      <div class="group-menu-wrap"><h2 class="title">Honors College</h2>
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/honors" data-drupal-link-system-path="node/279131" class="is-active">Home</a>
+              </li>
+                <li class="menu-item">
+        <a href="/honors/why-honors" data-drupal-link-system-path="node/285251">Why Honors?</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/honors/academics" data-drupal-link-system-path="node/285156">Curriculum Guidelines</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/honors/academics/courses" data-drupal-link-system-path="node/285166">Honors Courses</a>
+              </li>
+                <li class="menu-item">
+        <a href="/honors/academics/civic" data-drupal-link-system-path="node/285161">Experiential Learning</a>
+              </li>
+                <li class="menu-item">
+        <a href="/honors/academics/eportfolios" data-drupal-link-system-path="node/285171">ePortfolios</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/honors/research" data-drupal-link-system-path="node/285191">Undergraduate Research</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/honors/research/urhs" data-drupal-link-system-path="node/285226">Undergraduate Research Honors Scholars Program</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/honors/research/urhs/mentor-endorsement" data-drupal-link-system-path="node/285231">Mentor Endorsement</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/honors/research/courses" data-drupal-link-system-path="node/285201">Undergraduate Research Courses</a>
+              </li>
+                <li class="menu-item">
+        <a href="/honors/research/funding" data-drupal-link-system-path="node/285211">Funding</a>
+              </li>
+                <li class="menu-item">
+        <a href="/honors/research/symposium" data-drupal-link-system-path="node/285221">Undergraduate Research Symposium</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://digitalcommons.odu.edu/ourj/">OUR Journal</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item">
+        <a href="/honors/scholarship" data-drupal-link-system-path="node/285241">Scholarships</a>
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/honors/apply" data-drupal-link-system-path="node/285176">Application</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/honors/apply/answers" data-drupal-link-system-path="node/285181">Frequently Asked Questions</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+</div>
+  </div>
+<div class="block block-block-content block-block-content208fa234-43f2-40da-a962-6ef2f51ce364">
+  
+    
+          <div class="field--name-field-components field__items">
+                <div class="field__item">
+          <div class="paragraph paragraph--type--sidebar-button paragraph--view-mode--default">
+              <div class="field--name-field-icon field__items">
+                <div class="field__item">
+        <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-pen-to-square " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+            <a href="/honors/apply">Apply Now</a>
+      
+      </div>
+
+            </div>
+                  <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--contact-info-block paragraph--view-mode--default sidebar">
+    <div class="container">
+      <div class="department-contact-inner">
+        <div class="block-title">
+          <div>Contact</div>
+        </div>
+                                      <div class="contact-section ">
+                                          <h4 class="department field__item">
+        <a href="/honors">Perry Honors College</a>
+            </h4>
+      
+                        <div class="address-info">
+              <i class="fas fa-map-marker"></i>
+              <a href="https://www.google.com/maps/?q=1126+Monarch+Hall+Norfolk+VA+23529/" target="_blank">            <p class="address" translate="no">
+          1126 Monarch Hall          <br />
+        Norfolk,           VA 23529
+  </p>
+
+      </a>
+            </div>
+          </div>
+                      <div class="contact-section ">
+                              <div class="phone">
+                  <div class="phone-number">
+                                
+
+
+  <div class="paragraph paragraph--type--phone-link paragraph--view-mode--default">
+          <div class="phone-link-wrapper">
+        <a class="phone phone-number" href="tel:757-683-4865">757-683-4865</a>
+                  <span class="phone-type">                
+        office
+            
+      </span>
+              </div>
+      </div>
+
+              
+
+  
+  <div class="paragraph paragraph--type--phone-link paragraph--view-mode--default">
+          <div class="phone-link-wrapper">
+        <a class="phone phone-fax" href="tel:757-683-4970">757-683-4970</a>
+                  <span class="phone-type">                
+        fax
+            
+      </span>
+              </div>
+      </div>
+
+      
+                  </div>
+                </div>
+                                            <div class="phone">
+                  <i class="fas fa-envelope"></i>
+                      <div class="field--name-field-email field__items">
+                <div class="field__item">
+        <a href="mailto:perryhonorscollege@odu.edu">perryhonorscollege@odu.edu</a>
+            </div>
+          </div>
+
+                </div>
+                                            <div class="website">
+                  <i class="fa-solid fa-globe"></i>
+                      <div class="field--name-field-website field__items">
+                <div class="field__item">
+        <a href="/honors/directory">Directory</a>
+            </div>
+          </div>
+
+                </div>
+                          </div>
+                                                                              <div class="contact-section">
+                <div class="social">
+                                <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://www.instagram.com/odu_honorscollege/" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-instagram " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">Instagram</span>
+        </a>
+      </div>
+      </div>
+
+      
+                </div>
+              </div>
+                                              </div>
+    </div>
+  </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph paragraph--type--related-links paragraph--view-mode--default">
+              <div class="field--name-field-title field__items">
+                <div class="field__item">
+        Quick Links
+            </div>
+          </div>
+
+      <ul class="quick-links">
+                  <li class="link-item">
+                                      <a href="/honors/academics/courses"><span>Honors Courses</span> <i class="fas fa-angle-right"></i></a>
+                      </li>
+                  <li class="link-item">
+                                      <a href="/honors/scholarship"><span>Scholarships for Honors Students</span> <i class="fas fa-angle-right"></i></a>
+                      </li>
+                  <li class="link-item">
+                                      <a href="/honors/apply/answers"><span>FAQs</span> <i class="fas fa-angle-right"></i></a>
+                      </li>
+              </ul>
+      </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph paragraph--type--sidebar-button paragraph--view-mode--default">
+              <div class="field--name-field-icon field__items">
+                <div class="field__item">
+        <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-gift " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+            <a href="https://secure.acceptiva.com/?cst=1c0e01&amp;allocation=Honors%20College">Give Now</a>
+      
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+
+      </div>
+    
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+
+  <div class="paragraph paragraph--type--image-or-video-promo paragraph--view-mode--default">
+          <div class="container">
+        <div class="image-video-promo-wrapper right">
+          <div class="image-video-promo-details">
+                <h2 class="field--name-field-section-title field__items">
+            Who can apply to Honors College?
+          </h2>
+
+            <p><p>Incoming Freshmen, current ODU students, transfer Students, and full-time distance learners may apply!</p></p>
+                <div class="field--name-field-link field__items">
+            <a href="/honors/apply">Apply Now</a>
+          </div>
+
+          </div>
+          <div class="image-video-promo-media">
+                          <div class="image-thumbnail">
+                                  <a href="/honors/apply" target="">
+                                  <img src="/sites/default/files/styles/image_callout_590x377/public/images/1573775653697.jpg?h=f97fb7ee" width="590" height="377" alt="ODU Student Branded Web Images" loading="lazy" typeof="foaf:Image" class="image-style-image-callout-590x377" />
+
+
+
+      
+                  </a>
+                              </div>
+                      </div>
+        </div>
+      </div>
+            </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+  <div class="blue paragraph paragraph--type--full-width-cta">
+        <div class="outer-wrapper"
+         style="background: url('/sites/default/files/2022-04/flex-blocks-full-width-image.jpg') #003057;background-size:cover;background-position: center">
+      <div class="inner-wrapper">
+                      <h2 class="field--name-field-title field__items">
+            Create your own Honors experience
+          </h2>
+    <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>The Honors curriculum is not a list of boxes to be checked. You will choose the types of courses and experiences that support your interests and goals.</p>
+            </div>
+          </div>
+    <div class="row field--name-field-cta-buttons-limited-3 field__items">
+                <div class="field__item">
+        <a href="/honors/academics">Learn How</a>
+            </div>
+          </div>
+
+              </div>
+    </div>
+  </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="container block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+  <div class="paragraph paragraph--type--heading-and-optional-icon paragraph--view-mode--default">
+          <h2>            Meet a Few of Our Students
+      </h2>
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+<div class="block block-layout-builder block-inline-blockcomponent-block">
+  
+    
+          <div class="field--name-field-component field__items">
+                <div class="field__item">
+        
+  <div class="paragraph paragraph--type--testimonial-slider paragraph--view-mode--default">
+          <div class="polygon-wrapper">
+        <div class="container node-content-wrapper">
+              <div class="slide-items field--name-field-testimonial-items field__items">
+                <div class="field__item">
+        
+
+<article role="article" about="/blake-steiner" class="node node--type-testimonial node--view-mode-node-list-carousel">
+  <div class="node__content">
+    <div class="outer-wrapper">
+      <div class="inner-wrapper">
+        <div class="content-image">
+              <div class="field--name-field-featured-image field__items">
+              <img src="/sites/default/files/styles/node_list_carousel_thumbnail/public/2023-04/blake-steiner-16_0.jpg?h=76d7d471" width="488" height="510" alt="Blake Steiner, 2017 ODU biology graduate" loading="lazy" typeof="foaf:Image" class="image-style-node-list-carousel-thumbnail" />
+
+
+
+          </div>
+
+        </div>
+        <div class="content-details">
+          <div class="container content-wrapper">
+            <div class="content-wrap">
+              <div class="caption">
+                            I LOVE this. I feel so fortunate for the opportunities I have been given.
+      
+              </div>
+              <div class="name">
+                <span>Blake Steiner</span>
+                                  <span class="program-title">2017 Biology Graduate</span>
+                              </div>
+              <div class="link-text">
+                    <div class="field--name-field-additional-info-link field__items">
+                <div class="field__item">
+        <a href="/about/article/biology-graduate-works-research-projects-faculty-two-odu-colleges">Read Blake&#039;s Story</a>
+            </div>
+          </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+                  <div class="field__item">
+        
+
+<article role="article" about="/aja-sydnor" class="node node--type-testimonial node--view-mode-node-list-carousel">
+  <div class="node__content">
+    <div class="outer-wrapper">
+      <div class="inner-wrapper">
+        <div class="content-image">
+              <div class="field--name-field-featured-image field__items">
+              <img src="/sites/default/files/styles/node_list_carousel_thumbnail/public/2023-04/aja-sydnor.jpg?h=ac778ff2" width="488" height="510" alt="Honors student, Aja Sydnor, in the NEON Arts district of Norfolk." loading="lazy" typeof="foaf:Image" class="image-style-node-list-carousel-thumbnail" />
+
+
+
+          </div>
+
+        </div>
+        <div class="content-details">
+          <div class="container content-wrapper">
+            <div class="content-wrap">
+              <div class="caption">
+                            You have to be grateful and blessed about what&#039;s given to you and live in the now.
+      
+              </div>
+              <div class="name">
+                <span>Aja Sydnor</span>
+                                  <span class="program-title">2017 Fashion Merchandising Graduate</span>
+                              </div>
+              <div class="link-text">
+                    <div class="field--name-field-additional-info-link field__items">
+                <div class="field__item">
+        <a href="https://ww1.odu.edu/about/odu-publications/monarch-magazine/issue/spring-2017/honors">Read Aja&#039;s Story</a>
+            </div>
+          </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+                  <div class="field__item">
+        
+
+<article role="article" about="/john-gail" class="node node--type-testimonial node--view-mode-node-list-carousel">
+  <div class="node__content">
+    <div class="outer-wrapper">
+      <div class="inner-wrapper">
+        <div class="content-image">
+              <div class="field--name-field-featured-image field__items">
+              <img src="/sites/default/files/styles/node_list_carousel_thumbnail/public/2023-04/john-gail-honors-college.jpg?h=e512a049" width="488" height="510" alt="ODU Honors Student, John Gail." loading="lazy" typeof="foaf:Image" class="image-style-node-list-carousel-thumbnail" />
+
+
+
+          </div>
+
+        </div>
+        <div class="content-details">
+          <div class="container content-wrapper">
+            <div class="content-wrap">
+              <div class="caption">
+                            This is the fourth school I&#039;ve been to. It&#039;s much more challenging than any of the others.
+      
+              </div>
+              <div class="name">
+                <span>John Gail</span>
+                                  <span class="program-title">2017 Accounting and Business Analytics Graduate</span>
+                              </div>
+              <div class="link-text">
+                    <div class="field--name-field-additional-info-link field__items">
+                <div class="field__item">
+        <a href="https://ww1.odu.edu/about/odu-publications/monarch-magazine/issue/spring-2017/honors">Read John&#039;s Story</a>
+            </div>
+          </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+                  <div class="field__item">
+        
+
+<article role="article" about="/jo-ann-estes" class="node node--type-testimonial node--view-mode-node-list-carousel">
+  <div class="node__content">
+    <div class="outer-wrapper">
+      <div class="inner-wrapper">
+        <div class="content-image">
+              <div class="field--name-field-featured-image field__items">
+              <img src="/sites/default/files/styles/node_list_carousel_thumbnail/public/2023-04/jo-ann-estes.jpg?h=bae5567b" width="488" height="510" alt="Honors student, Jo-Ann Estes, at the Hermitage Museum in Norfolk." loading="lazy" typeof="foaf:Image" class="image-style-node-list-carousel-thumbnail" />
+
+
+
+          </div>
+
+        </div>
+        <div class="content-details">
+          <div class="container content-wrapper">
+            <div class="content-wrap">
+              <div class="caption">
+                            They were very supportive of me achieving my goals. I knew what I wanted to do; they provided me with the resources to help me get there.
+      
+              </div>
+              <div class="name">
+                <span>Jo-Ann Estes</span>
+                                  <span class="program-title">2017 International Studies and Art History Graduate</span>
+                              </div>
+              <div class="link-text">
+                    <div class="field--name-field-additional-info-link field__items">
+                <div class="field__item">
+        <a href="https://ww1.odu.edu/about/odu-publications/monarch-magazine/issue/spring-2017/honors">Read Jo-Ann&#039;s Story</a>
+            </div>
+          </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+      </div>
+
+            </div>
+          </div>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+  </div>
+
+</article>
+
+  </div>
+
+  </div>
+
+      </div>
+          </main>
+  </div>
+
+  </div>
+
+<footer class="layout-footer-content" role="contentinfo">
+    <div class="region region-footer">
+    <div id="block-facebookjs" class="block block-block-content block-block-content429f7c94-d06b-4a9f-a932-28e2962c087f">
+  
+    
+          <div class="clearfix text-formatted field--name-body field__items">
+                <div class="field__item">
+        <meta property="fb:app_id" content="235232689861954">
+<script>
+    var names = new Array();
+    var imgUrls = new Array();
+    var generatedLinks = new Array();
+    window.fbAsyncInit = function() {
+        // init the FB JS SDK
+        FB.init({
+            appId: '235232689861954', // App ID from the app dashboard
+            status: true, // Check Facebook Login status
+            xfbml: true                                  // Look for social plugins on the page
+        });
+    
+      // Additional initialization code such as adding Event Listeners goes here
+      FB.Event.subscribe("xfbml.render", function(){
+          widthFBwidgets();
+      });
+
+    };
+    // Load the SDK asynchronously
+    (function() {
+        // If we've already installed the SDK, we're done
+        if (document.getElementById('facebook-jssdk')) {
+            return;
+        }
+
+        // Get the first script element, which we'll use to find the parent node
+        var firstScriptElement = document.getElementsByTagName('script')[0];
+        // Create a new script element and set its id
+        var facebookJS = document.createElement('script');
+        facebookJS.id = 'facebook-jssdk';
+        // Set the new script's source to the source of the Facebook JS SDK
+        facebookJS.src = '//connect.facebook.net/en_US/all.js';
+        // Insert the Facebook JS SDK into the DOM
+        firstScriptElement.parentNode.insertBefore(facebookJS, firstScriptElement);
+    }());
+    
+function widthFBwidgets(){
+  jQuery('.text-formatted .fb_iframe_widget').each(function() {
+    var width = (jQuery(this).closest('.text-formatted').width()) - 1;
+    jQuery(this).find('span, iframe').css('width',width+'px');
+  }); 
+}
+</script>
+            </div>
+          </div>
+
+  </div>
+
+
+<div id="block-footerblock" class="block block-block-content block-block-contentbf3b5333-57ac-4359-b68b-f5e67e160e2a">
+  
+    
+    <div class="container">
+    <div class="row">
+      <div class="logo-contact-wrap col-md-3">
+                      <div class="field--name-field-svg-logo field__items">
+                <div class="field__item">
+        <a href="/">  <img width="25" height="25" alt="Old Dominion University Logo" src="/sites/default/files/svg/odu-logo.svg" />
+</a>
+            </div>
+          </div>
+
+                          <a class="footer-address-link" href="https://www.google.com/maps/place/Old+Dominion+University/@36.8853052,-76.3080633,17z/data=!3m1!4b1!4m5!3m4!1s0x89ba99ad24ba3945:0xcd2bdc432c4e4bac!8m2!3d36.8853052!4d-76.3058746" target="_blank">
+                <div class="field--name-field-address field__items">
+                <div class="field__item">
+        <p class="address" translate="no">
+          5115 Hampton Blvd          <br />
+        Norfolk,           VA 23529
+  </p>
+
+            </div>
+          </div>
+
+          </a>
+                <div class="contact-wrapper">
+              <div class="field--name-field-contact-link-icon field__items">
+                <div class="field__item">
+        <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-address-card " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+            </div>
+          </div>
+
+              <div class="field--name-field-contact-link field__items">
+                <div class="field__item">
+        <a href="https://www.odu.edu/about/contact">Contact</a>
+            </div>
+          </div>
+
+        </div>
+            <div class="field--name-field-social-links field__items">
+                <div class="field__item">
+          <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://www.facebook.com/Old.Dominion.University/" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-facebook-f " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">Facebook</span>
+        </a>
+      </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://twitter.com/odu" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-twitter " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">Twitter</span>
+        </a>
+      </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://www.instagram.com/olddominionu/" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-instagram " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">Instagram</span>
+        </a>
+      </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://www.youtube.com/channel/UCBNgsDl2hppmwMyGR2NmL9A" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-youtube " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">YouTube</span>
+        </a>
+      </div>
+      </div>
+
+            </div>
+                  <div class="field__item">
+          <div class="paragraph--type--icon-link">
+          <div class="icon-link-item">
+        <a href="https://www.linkedin.com/school/old-dominion-university/" target="_blank">
+                      <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fab fa-linkedin-in " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+      
+          <span class="sr-only">LinkedIn</span>
+        </a>
+      </div>
+      </div>
+
+            </div>
+          </div>
+
+      </div>
+      <div class="footer-links-wrap col-md-9">
+            <div class="field--name-field-layout field__items">
+                <div class="field__item">
+        
+<div class="paragraph-layout paragraph-section-id-19">
+      <section class="container paragraph paragraph--type--layout-section paragraph--id--19 paragraph--view-mode--default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--footer-menu-links-column paragraph--view-mode--default">
+    <h2 id="resources-menu">Resources</h2>
+              <ul class="field--name-field-quicklinks field__items">
+                <li class="field__item">
+        <a href="/employment">Employment</a>
+            </li>
+                  <li class="field__item">
+        <a href="/directory">Directories</a>
+            </li>
+                  <li class="field__item">
+        <a href="/library">University Libraries</a>
+            </li>
+                  <li class="field__item">
+        <a href="/alumni">Alumni</a>
+            </li>
+          </ul>
+
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--footer-menu-links-column paragraph--view-mode--default">
+    <h2 id="legal-menu">Legal</h2>
+              <ul class="field--name-field-quicklinks field__items">
+                <li class="field__item">
+        <a href="/privacy">Privacy</a>
+            </li>
+                  <li class="field__item">
+        <a href="/educationalaccessibility">Accessibility</a>
+            </li>
+                  <li class="field__item">
+        <a href="/about/compliance/transparency">Consumer Information</a>
+            </li>
+                  <li class="field__item">
+        <a href="/life/health-safety">Health and Safety</a>
+            </li>
+                  <li class="field__item">
+        <a href="/emergency">Emergency</a>
+            </li>
+          </ul>
+
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--footer-menu-links-column paragraph--view-mode--default">
+    <h2 id="visit-menu">Visit</h2>
+              <ul class="field--name-field-quicklinks field__items">
+                <li class="field__item">
+        <a href="/about/visitors">Visit ODU</a>
+            </li>
+                  <li class="field__item">
+        <a href="/about/visitors/campus-map">Maps and Directions</a>
+            </li>
+                  <li class="field__item">
+        <a href="/about/connect">Connect with ODU</a>
+            </li>
+                  <li class="field__item">
+        <a href="/parkingservices">Transportation &amp; Parking</a>
+            </li>
+          </ul>
+
+      </div>
+
+      </div>
+    
+  </div>
+
+          </section>
+  </div>
+            </div>
+          </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="copyright-wrap">
+    <div class="container">
+          <div class="clearfix text-formatted field--name-field-copyright field__items">
+                <div class="field__item">
+        <div class="row justify-content-between w-100">
+  <div class="col-lg-6 text-center text-lg-left">                            
+    <div class="copyright d-inline">Copyright © Old Dominion University &bull; Updated 2023</div>
+  </div>
+  <div class="col-lg-6 text-center text-lg-right">
+    <div class="d-inline">
+      <div class="gtranslate_wrapper"></div>
+      <script>window.gtranslateSettings = {"default_language":"en","detect_browser_language":true,"wrapper_selector":".gtranslate_wrapper","select_language_label":"Label"}</script>
+      <script src="https://cdn.gtranslate.net/widgets/latest/dropdown.js" defer></script>
+      <style>
+        footer.layout-footer-content .copyright-wrap .container .field--name-field-copyright {
+          flex: 0 0 100%;
+        }
+        footer.layout-footer-content .copyright-wrap > .container .row {
+          align-items: center;
+        }
+        .gtranslate_wrapper label {
+          padding-right: 1rem;
+          font-weight: normal;
+        }
+        .gt_selector {
+          padding: .5rem;
+        }
+        .gt_selector > option {
+          color: white;
+          background-color: #050d17 !important;
+        }
+      </style>
+    </div>
+  </div>
+</div>
+            </div>
+          </div>
+
+    </div>
+  </div>
+  </div>
+
+  </div>
+
+</footer>
+
+<section class="mega-navigation" role="region" aria-label="Main Navigation">
+  <div class="mega-nav-wrapper">
+      <div class="region region-mega-menu">
+    <nav role="navigation" aria-labelledby="block-megamenu-menu" id="block-megamenu" class="block block-menu navigation menu--mega-menu">
+            
+  <h2 class="visually-hidden" id="block-megamenu-menu">Mega Menu</h2>
+  
+
+        
+
+  <ul class="menu menu-level-0">
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/apply" class="odu-mobile-nav odu-mobile-nav-first" data-drupal-link-system-path="node/461421">Apply</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/about/visitors/campus-tours" class="odu-mobile-nav" data-drupal-link-system-path="node/281776">Visit</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="https://give.odu.edu/" class="odu-mobile-nav">Give</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="https://my.odu.edu" class="odu-mobile-nav odu-mobile-nav-last">myODU</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item menu-item--collapsed">
+      <div class="menu-trigger-wrapper">
+        <a href="/academics" data-drupal-link-system-path="node/279266">Academics</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Academic Programs
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/programs" target="">
+            All Programs
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2682" target="_blank">
+            Undergraduate Programs
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/academics/programs?field_degree_type_target_id%5B0%5D=2683&amp;field_degree_type_target_id%5B1%5D=2684" target="_blank">
+            Graduate Programs
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/cepd" target="">
+            Continued Learning
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://online.odu.edu/" target="_blank">
+            ODUGlobal
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/academics/international-learning-opportunities/study-abroad" target="_blank">
+            Study Abroad
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/academics/summer" target="_blank">
+            Summer Studies
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/partnerships/community/programs/upwardbound" target="_blank">
+            Pre-College Programs
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Colleges &amp; Schools
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/colleges" target="">
+            All Colleges &amp; Schools
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/al" target="_blank">
+            College of Arts &amp; Letters
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/business" target="_blank">
+            Strome College of Business
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/education" target="">
+            Darden College of Education
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/engineering" target="">
+            Batten College of Engineering &amp; Technology 
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/hs" target="_blank">
+            College of Health Sciences
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/sci" target="">
+            College of Sciences
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/honors" target="">
+            Honors College
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/cyber" target="">
+            School of Cyber Security
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/graduateschool" target="">
+            Graduate School
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/cepd" target="">
+            School of Continuing Education
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Academic Resources
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/academics/calendar" target="">
+            Academic Calendars
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/library" target="_blank">
+            University Libraries
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/advising" target="">
+            Academic Advising
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/tutoring" target="">
+            Tutoring
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/al/centers/writing-center" target="_blank">
+            Writing Center
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/success" target="">
+            Academic Success
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://catalog.odu.edu/" target="_blank">
+            University Catalogs
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/regionalcenters" target="_blank">
+            Higher Education Regional Centers
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/admissions-aid" data-drupal-link-system-path="node/419266">Admission &amp; Aid</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Future Students
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/admission/undergraduate" target="">
+            Undergraduate Admissions
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/graduate" target="">
+            Graduate Admissions
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/international" target="">
+            International Admissions
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://online.odu.edu/" target="_blank">
+            ODUGlobal
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/military" target="_blank">
+            Military &amp; Veterans
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Admitted Students
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/admission/admitted/undergraduate" target="">
+            Undergraduate
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/admitted/graduate" target="">
+            Graduate
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/admitted/international" target="">
+            International
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/proficiency" target="">
+            English Proficiency
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/admission/returning-student" target="">
+            Returning Students
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Cost &amp; Aid
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/tuition-aid/tuition" target="">
+            Tuition &amp; Fees
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/finaidoffice" target="">
+            Financial Aid
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/finaidoffice/types/scholarships" target="">
+            Scholarships
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/housing" target="">
+            Housing
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://olddominion.campusdish.com/MealPlans" target="_blank">
+            Meal Plans
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/parkingservices/parking" target="_blank">
+            Parking Permits
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://itsapps.odu.edu/calculator/" target="_blank">
+            Cost Estimator
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/tuition-aid/tuition/military" target="">
+            GI Bill Benefits
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/life" data-drupal-link-system-path="node/279331">Life at ODU</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33 container">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Getting Involved
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/student-engagement-traditions/student-orgs" target="">
+            Clubs &amp; Organizations
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/oir" target="_blank">
+            Office of Intercultural Relations
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/recreation-wellness" target="">
+            Recreation &amp; Wellness
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/student-engagement-traditions" target="">
+            Student Engagement &amp; Traditions
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/leadership-learning" target="">
+            Leadership &amp; Learning
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/housing/application-information/continuing-students" target="">
+            Off-Campus University Life
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/leadership-learning/service" target="">
+            Service &amp; Civic Engagement
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        University Services
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="https://www.bkstr.com/olddominionstore/home" target="_blank">
+            University Village Bookstore
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/housing" target="">
+            Housing
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://olddominion.campusdish.com/" target="_blank">
+            Dining
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/parkingservices" target="_blank">
+            Transportation &amp; Parking
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/life/health-safety" target="_blank">
+            Health &amp; Safety
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Student Services
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/accessibility" target="">
+            Educational Accessibility
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/success/center" target="_blank">
+            Student Success Center
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/career-services" target="">
+            Career Development Services
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/international" target="">
+            International Student Resources
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/life/dean-students/student-outreach" target="_blank">
+            Student Outreach &amp; Support
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/counseling-services" target="">
+            Counseling
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/life/support/wgec" target="_blank">
+            Women &amp; Gender Equity Center
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/support/wgec/lgbt" target="">
+            LGBTQIA+ Initiatives
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/military-connection" target="_blank">
+            Military Connection Center
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/research-0" data-drupal-link-system-path="node/565786">Research</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33 container">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Research
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/impact/centers" target="">
+            Research Centers
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://researchfoundation.odu.edu/" target="_blank">
+            ODU Research Foundation
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/research" target="">
+            Office of Research
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/impact/initiatives" target="">
+            Research Initiatives
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/facultystaff/research/development" target="_blank">
+            Grants &amp; Funding
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/honors/research" target="_blank">
+            Student Research
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Initiatives &amp; Outreach
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/cyber" target="">
+            Cybersecurity
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/hs/centers/globalhealth" target="_blank">
+            Global &amp; Public Health
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/sees/social-mobility" target="_blank">
+            Center for Social Mobility
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://ceapodu.com/" target="_blank">
+            Economic Forecasting
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/business/center/port" target="_blank">
+            Maritime, Ports &amp; Logistics
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://vmasc.org/" target="_blank">
+            Modeling &amp; Simulation
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://visaatodu.org/" target="_blank">
+            Spaceflight &amp; Autonomous Systems
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/frank-reidy-research-center-bioelectrics" target="">
+            Bioelectrics &amp; Biomedical
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://oduadaptationandresilience.org/" target="_blank">
+            Coastal Adaptation &amp; Resilience
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Innovation &amp; Entrepreneurship
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="https://www.odu.edu/univ-impact/entrepreneurship/strome" target="_blank">
+            Strome Entrepreneurial Center
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/partnerships/community" data-drupal-link-system-path="node/279291">Community</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33 container">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Programs &amp; Partnerships
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/about/visitors" target="">
+            Visitors Guide
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/sports-recreation" target="">
+            Sports &amp; Recreation
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/partnerships/community" target="_blank">
+            Community Partnerships
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/asis/trio" target="">
+            Pre-College &amp; Summer Programs
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/vendors" target="_blank">
+            Vendors
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Alumni
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/alumni" target="">
+            Alumni Association 
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&amp;gid=2&amp;pgid=386" target="_blank">
+            Lion&#039;s Den
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odualumni.org/s/1672/bp20/interior.aspx?sid=1672&amp;gid=2&amp;pgid=401" target="_blank">
+            Alumni Directory
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/node/287001" target="">
+            Homecoming
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://secure.acceptiva.com/?cst=1c0e01" target="_blank">
+            Donate
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Military &amp; Veterans
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="https://www.odu.edu/armyrotc" target="_blank">
+            Army ROTC
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/nrotc" target="_blank">
+            Navy ROTC
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/military/veterans-services" target="_blank">
+            Veterans Services
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/partnerships/military" target="_blank">
+            Military Partnerships
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/about" data-drupal-link-system-path="node/279016">About ODU</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33 container">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Our Story
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/about/accreditation" target="">
+            Accreditation
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/facts-and-figures" target="">
+            Facts &amp; Figures
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/visitors/coastal-virginia" target="">
+            Coastal Virginia 
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/historyandarchives" target="">
+            History &amp; Archives
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/employment" target="_blank">
+            Employment
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/contact" target="">
+            Contact the University
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/diversity" target="">
+            Diversity at ODU
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Leadership
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/president" target="">
+            Office of the President
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/orgchart" target="">
+            Administration &amp; Organization
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/strategicplan" target="">
+            Strategic Planning &amp; Initiatives
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        News &amp; Events
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/news" target="">
+            News at ODU
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/media" target="">
+            Media Center/Media Kit
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/events" target="">
+            University Calendars &amp; Events
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/odu-publications/monarch-magazine" target="">
+            Monarch Magazine
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/about/connect" target="">
+            Connect with ODU
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="/life/culture" data-drupal-link-system-path="node/279281">Arts &amp; Culture</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33 container">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Arts &amp; Culture
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/life/culture/arts" target="">
+            Arts @ ODU
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/culture/arts/galleries" target="">
+            Gordon Art Galleries
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/culture/arts/diehn" target="">
+            Diehn Concert Series
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/life/culture/arts/litfest" target="">
+            Literary Festival
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://barryartmuseum.odu.edu/" target="_blank">
+            Barry Art Museum
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+    
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <a href="https://odusports.com/" title="Athletics">Athletics</a>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+
+      </div>
+
+
+
+          </li>
+      
+    <li class="menu-item">
+      <div class="menu-trigger-wrapper">
+        <span class="default-menu-items">Default / Quicklinks</span>
+      </div>
+                    
+  
+  <div class="menu_link_content menu-link-contentmega-menu view-mode-default menu-dropdown menu-dropdown-0 menu-type-default">
+                <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="SearchForm block block-simple-gse-search block-simple-gse-search-block" data-drupal-selector="simple-gse-search-form">
+  
+    
+      <form action="/honors" method="post" id="simple-gse-search-form" accept-charset="UTF-8">
+  <input placeholder="Search site..." class="SearchForm-input form-text" aria-label="Site search form" data-drupal-selector="edit-s" type="text" id="edit-s" name="s" value="" maxlength="128" />
+<input class="SearchForm-submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="go" />
+<input autocomplete="off" data-drupal-selector="form-enaq71uuzjmqt7clkeoafj6nrcwsxpfrmvnzdb3uc2w" type="hidden" name="form_build_id" value="form-enaq71UuZJMqt7CLKeoafj6nRCwsxpfRmvNzDB3Uc2w" />
+<input data-drupal-selector="edit-simple-gse-search-form" type="hidden" name="form_id" value="simple_gse_search_form" />
+
+</form>
+
+  </div>
+
+    </div>
+  </div>
+  <div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+
+          <div  class="layout__region layout__region--first">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Quick Links
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/a-to-z-index" target="">
+            A to Z Index
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://odu.edu/directory" target="_blank">
+            Directories
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/library" target="_blank">
+            University Libraries
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.bkstr.com/olddominionstore/home" target="_blank">
+            Bookstore
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/academics/calendar" target="">
+            Academic Calendar
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/about/visitors/campus-map" target="_blank">
+            Campus Map
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/events" target="">
+            University Calendar
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Current Students
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/students" target="">
+            Student Resources
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/academics/student-computing/student-email" target="_blank">
+            Student Email
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://odu.edu/ts/software-services/canvas" target="_blank">
+            Canvas
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/sites/default/files/documents/add-drop-withdraw-form.pdf" target="">
+            Add, Drop, Withdraw 
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://olddominion.campusdish.com/" target="_blank">
+            Dining
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://odu.campusgroups.com/login_only?redirect=https%3a%2f%2fodu.campusgroups.com%2fgroups" target="_blank">
+            Monarch Groups
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/tuition-aid" target="">
+            Tuition &amp; Aid
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/parkingservices" target="_blank">
+            Parking &amp; Transportation
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+        
+<div class="block block-layout-builder block-inline-blocklinks-with-heading">
+  
+    
+            <div class="submenu-trigger-wrapper">
+            <div class="field--name-field-title field__items">
+                <strong class="field__item">
+        Faculty &amp; Staff
+            </strong>
+          </div>
+
+      </div>
+        <ul class="field--name-field-links field__items">
+              <li class="field__item">
+          <a href="/facultystaff" target="">
+            Faculty &amp; Staff Resources
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://www.odu.edu/ts/software-services/facultyemail" target="_blank">
+            Faculty/Staff Email
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://leoonline.odu.edu/plsqlweb/twbkwbis.P_GenMenu?name=homepage" target="_blank">
+            LEO Online
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/advising/advisors" target="">
+            Academic Advisors
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://odu.edu/hr" target="_blank">
+            Human Resources
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://odu.edu/its" target="_blank">
+            Technology Services
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="/facultydevelopment" target="">
+            Center for Faculty Development
+          </a>
+        </li>
+              <li class="field__item">
+          <a href="https://clt.odu.edu/" target="_blank">
+            Center for Learning &amp; Teaching
+          </a>
+        </li>
+          </ul>
+  </div>
+
+      </div>
+    
+  </div>
+
+      </div>
+
+
+
+          </li>
+    </ul>
+
+
+  </nav>
+<div id="block-megamenucallouts" class="block block-block-content block-block-contentd781ff73-03a6-4c45-b8a4-524de1bf10e6">
+  
+    
+          <div class="field--name-field-layout field__items">
+                <div class="field__item">
+        
+<div class="paragraph-layout paragraph-section-id-6">
+      <section class="paragraph paragraph--type--layout-section paragraph--id--6 paragraph--view-mode--default">
+                <div class="layout layout--threecol-section layout--threecol-section--33-34-33">
+
+          <div  class="layout__region layout__region--first">
+          <div class="paragraph paragraph--type--mega-menu-callout-item paragraph--view-mode--default">
+          <div class="icon-link-item">
+                    <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-building-columns " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+       <a href="https://ww1.odu.edu/success/experience" target="_blank">
+           Experience Guaranteed
+        </a>
+      </div>
+          <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Enhance your college career by gaining relevant experience with the skills and knowledge needed for your future career. Discover our experiential learning opportunities.</p>
+            </div>
+          </div>
+
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--second">
+          <div class="paragraph paragraph--type--mega-menu-callout-item paragraph--view-mode--default">
+          <div class="icon-link-item">
+                    <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-handshake " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+       <a href="https://myvst.co/v/qnfzusyvuz" target="_blank">
+           Academic Days
+        </a>
+      </div>
+          <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>Picture yourself in the classroom, speak with professors in your major, and meet current students.</p>
+            </div>
+          </div>
+
+      </div>
+
+      </div>
+    
+          <div  class="layout__region layout__region--third">
+          <div class="paragraph paragraph--type--mega-menu-callout-item paragraph--view-mode--default">
+          <div class="icon-link-item">
+                    <div class="fontawesome-icons">
+      <div class="fontawesome-icon">
+  <i class="fas fa-users " data-fa-transform="" data-fa-mask="" style="--fa-primary-color: #000000; --fa-secondary-color: #000000;"></i>
+</div>
+
+  </div>
+
+       <a href="https://www.odu.edu/events" target="_blank">
+           Upcoming Events
+        </a>
+      </div>
+          <div class="clearfix text-formatted field--name-field-caption field__items">
+                <div class="field__item">
+        <p>From sports games to concerts and lectures, join the ODU community at a variety of campus events. </p>
+            </div>
+          </div>
+
+      </div>
+
+      </div>
+    
+  </div>
+
+          </section>
+  </div>
+            </div>
+          </div>
+
+  </div>
+
+  </div>
+
+  </div>
+</section>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/279131","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/legacy_css_fixes,asset_injector\/css\/legacy_css_to_be_committed,asset_injector\/css\/multiday_calendar_fixes,asset_injector\/css\/temporary_gallery_fix,blazy\/blazy,blazy\/classlist,blazy\/load,blazy\/polyfill,blazy\/promise,blazy\/raf,blazy\/webp,calendar\/calendar.theme,classy\/base,classy\/messages,classy\/node,colorbox\/colorbox,colorbox\/stockholmsyndrome,colorbox_simple_load\/load,core\/normalize,custom_module\/font-awesome-odu-pro,custom_module\/global-scripts,custom_module\/global-styling,fontawesome\/fontawesome.webfonts,fontawesome\/fontawesome.webfonts.shim,google_analytics\/google_analytics,kwall_alerts\/alert-rest,kwall_alerts\/dismissed-cookie,kwall_base\/bootstrap,kwall_base\/grayscale,kwall_custom_admin\/dragula,kwall_custom_admin\/global-scripts,kwall_custom_admin\/global-styling,layout_builder\/threecol_section,layout_builder\/twocol_section,layout_discovery\/onecol,odu\/data-tables,odu\/default,odu\/select2,paragraphs\/drupal.paragraphs.unpublished,slick\/slick.css,system\/base","theme":"odu","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"blazy":{"loadInvisible":false,"offset":100,"saveViewportOffsetDelay":50,"validateDelay":25,"container":"","loader":true,"unblazy":false},"blazyIo":{"disconnect":false,"rootMargin":"0px","threshold":[0,0.25,0.5,0.75,1]},"slick":{"regionLabel":"carousel","useGroupRole":true,"instructionsText":"","adaptiveHeight":false,"autoplay":false,"useAutoplayToggleButton":true,"pauseOnHover":true,"pauseOnDotsHover":false,"pauseOnFocus":true,"autoplaySpeed":3000,"arrows":true,"arrowsPlacement":"","downArrow":false,"downArrowTarget":"","downArrowOffset":0,"centerMode":false,"centerPadding":"50px","dots":false,"dotsClass":"slick-dots","draggable":true,"fade":false,"focusOnSelect":false,"infinite":true,"initialSlide":0,"lazyLoad":"ondemand","mouseWheel":false,"randomize":false,"rtl":false,"rows":1,"slidesPerRow":1,"slide":"","slidesToShow":1,"slidesToScroll":1,"speed":500,"swipe":true,"swipeToSlide":false,"edgeFriction":0.34999999999999998,"touchMove":true,"touchThreshold":5,"useCSS":true,"cssEase":"ease","cssEaseBezier":"","cssEaseOverride":"","useTransform":true,"easing":"linear","variableWidth":false,"vertical":false,"verticalSwiping":false,"waitForAnimate":true},"colorbox":{"transition":"elastic","speed":300,"opacity":0.69999999999999996,"slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"returnFocus":true,"maxWidth":"1000px","maxHeight":"600px","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":false,"mobiledetect":false,"mobiledevicewidth":"480px"},"google_analytics":{"account":"G-S4W7FH24Y8","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true},"gtranslate":{"gtranslate_main_lang":"en"},"kwall_map":{"overlay_path":"\/themes\/custom\/odu\/images\/ODU-map-overlay-01.png","sw_lat":"36.881534","sw_lon":"-76.318644","ne_lat":"36.891280","ne_lon":"-76.296253","style":"[\r\n    {\r\n        \u0022featureType\u0022: \u0022all\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.stroke\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#bdda82\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022all\u0022,\r\n        \u0022elementType\u0022: \u0022labels\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022visibility\u0022: \u0022off\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022landscape\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#bcd883\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022landscape.man_made\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#bdda82\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022landscape.man_made\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.stroke\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#a0c253\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022landscape.natural\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#a0c15c\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022poi\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#bdd884\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022road\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#e5f1db\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022road\u0022,\r\n        \u0022elementType\u0022: \u0022labels\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022visibility\u0022: \u0022on\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022transit\u0022,\r\n        \u0022elementType\u0022: \u0022geometry\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#e5f1db\u0022\r\n            }\r\n        ]\r\n    },\r\n    {\r\n        \u0022featureType\u0022: \u0022water\u0022,\r\n        \u0022elementType\u0022: \u0022geometry.fill\u0022,\r\n        \u0022stylers\u0022: [\r\n            {\r\n                \u0022color\u0022: \u0022#9ad7db\u0022\r\n            }\r\n        ]\r\n    }\r\n]"},"user":{"uid":0,"permissionsHash":"25a19e087d93f16f774179465141599cbaf2b653a9cc6196c248d766492253cc"}}</script>
+<script src="/sites/default/files/js/js_MBkyM1PmovrY75O_WgKloa6QXvk4JOCAHHhJP8RHj5o.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/dragula/3.7.2/dragula.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous" integrity="sha384-fQybjgWLrvvRgtW6bFlB7jaZrFsaBXjsOMm/tB9LTS58ONXgqbR9W8oWht/amnpF"></script>
+<script src="https://npmcdn.com/jquery-gray@1.7.0/js/jquery.gray.min.js"></script>
+<script src="/sites/default/files/js/js_GfWOG2NZWu7vHqop5aN9z-CoBzZRRMAWvsvYMzNyQWE.js"></script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-44d9585c76459c36da8","applicationID":"361629741","transactionName":"Y1xRMUNXDEFZVhZYXFoWcgZFXw1cF0UDVlZrWlIGWVM=","queueTime":11,"applicationTime":36,"atts":"TxtGRwtNHx4aVEALSElE","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

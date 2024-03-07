@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 18:39:58.962992 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/colin-courtney-b698901a/": net/http: timeout awaiting response headers

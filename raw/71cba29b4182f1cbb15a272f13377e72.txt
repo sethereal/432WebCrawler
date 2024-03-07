@@ -1,0 +1,208 @@
+<!doctype html>
+<html><!-- InstanceBegin template="/Templates/01_col_Forums.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta id="p7HMY" name="viewport" content="width=device-width">
+<meta charset="utf-8">
+<!-- InstanceBeginEditable name="EditRegionTitle" -->
+<title>Digital Ethology - ESForum</title>
+<link href="../p7opm/p7OPM-Core.css" rel="stylesheet" type="text/css" media="all">
+<link href="../p7opm/p7OPM-02.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7opm/p7OPMscripts.js"></script>
+<!-- InstanceEndEditable -->
+<link href="../p7hmy/p7HMY-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7hmy/p7HMYscripts.js"></script>
+<link rel="stylesheet" href="../p7typecrafters/p7Typecrafters-01.css">
+<style>
+</style>
+<link href="../p7amm/p7AMM-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7amm/p7AMMscripts.js"></script>
+<link href="../p7bam/p7BAM-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7bam/p7BAMscripts.js"></script>
+<link href="../p7bcb/p7BCB-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7bcb/p7BCBscripts.js"></script>
+<link href="../p7stt/p7STT-01.css" rel="stylesheet" type="text/css" media="all">
+<script type="text/javascript" src="../p7stt/p7STTscripts.js"></script>
+<link href="../p7stt/p7STT-01.css" rel="stylesheet" type="text/css" media="all">
+<link href="../p7tlk/p7TKL-01.css" rel="stylesheet" type="text/css" media="all">
+</head>
+<body>
+<div id="p7STT_2" class="p7STT right dark"> <a id="p7STTa_2" class="p7STT-anchor" href="#"><i></i><span>Scroll To Top</span></a>
+  <script type="text/javascript">P7_STTop('p7STT_2',150,1,450)</script>
+</div>
+<div id="p7STT_1" class="p7STT right dark"> <a id="p7STTa_1" class="p7STT-anchor" href="#"><i></i><span>Scroll To Top</span></a>
+  <script type="text/javascript">P7_STTop('p7STT_1',200,1,450)</script>
+</div>
+<div class="content bam-bg" data-bam="1,1,4,600,1,10,0,0,0,16,65">
+  <div id="p7HMY_1" class="p7HMY hmy-box-separation hmy-noscript" data-hmy-max-width="100,%">
+    <div class="hmy-section" data-hmy-basis="100,%,1">
+      <div class="hmy-content-wrapper logo">
+        <div class="hmy-content hmy-left">
+          <h1>Ernst StrÃ¼ngmann Forum</h1>
+        </div>
+      </div>
+    </div>
+    <div class="hmy-section" data-hmy-basis="80,%,1">
+      <div class="hmy-content-wrapper nav">
+        <div class="hmy-content hmy-left"> </div>
+        
+		  <div id="p7AMM_1" class="p7AMM amm-noscript amm-responsive amm-rootlinks-black amm-rootlink-borders amm-rootlinks-rounded amm-subs-gray amm-sub-borders amm-subs-rounded amm-left" data-amm="360,1,910,5,-10,0,1,0,0,5,1,1,0,0,0,0" data-amm-label="More...">
+		    <div id="p7AMMtb_1" class="amm-toolbar closed"><a title="Hide/Show Menu" href="#">&equiv;</a></div>
+            <ul class="closed" aria-label="Navigation Menu" role="menubar">
+              <li data-amm-priority="0"><a href="../index.html">Home</a></li>
+              <li data-amm-priority="0"><a href="../forums.html" class="amm-trigger">Forums</a>
+                <ul>
+                  <li><a href="ESF38_Navigation.html" class="amm-first">Navigation Research: Mapping the Future</a></li>
+                  <li><a href="ESF37_Metabolic_Neuropsychiatry.html">Metabolic Neuropsychiatry</a></li>
+                  <li><a href="ESF36_Sex_and_Gender.html">Sex and Gender</a></li>
+                  <li><a href="ESF35_Frontal_Lobe_Networks%20.html">Frontal Lobe Networks</a></li>
+                  <li><a href="ESF34_Digital_Ethology.html">Digital Ethology</a></li>
+                  <li><a href="ESF33_Genetic_Risk.html">Genetic Risk</a></li>
+                  <li><a href="ESF32_Collaboration.html">Collaboration</a></li>
+                  <li><a href="ESF31_Stigma.html">Stigma</a></li>
+                  <li><a href="ESF30_Intrusive_Thinking.html">Intrusive Thinking</a></li>
+                  <li><a href="ESF29_Deliberate_Ignorance.html">Deliberate Ignorance</a></li>
+                  <li><a href="ESF28_Youth_Mental_Health.html">Youth Mental Health</a></li>
+                  <li><a href="ESF27_Cerebral_Cortex.html">The Neocortex</a></li>
+                  <li><a href="ESF25_Emergent_Brain_Dynamics.html">Emergent Brain Dynamics</a></li>
+                  <li><a href="ESF24_Agrobiodiversity.html">Agrobiodiversity</a></li>
+                  <li><a href="ESF22_Cultural_Nature_of_Attachment.html">Cultural Nature of Attachment</a></li>
+                  <li><a href="ESF21_Benefitting_from_Other_Agentsâ_Investments.html">Investors and Exploiters</a></li>
+                  <li><a href="ESF20_Computational_Psychiatry.html">Computational Psychiatry</a></li>
+                  <li><a href="ESF17_Translational_Neuroscience.html">Translational Neuroscience</a></li>
+                  <li><a href="ESF12_Cultural_Evolution.html">Cultural Evolution</a></li>
+                  <li><a href="../forums.html" class="amm-last">Complete List</a></li>
+                </ul>
+              </li>
+              <li data-amm-priority="0"><a href="../publications.html" class="amm-trigger">PDFs of Publications</a>
+                <ul>
+                  <li><a href="../publications/sfr30_Intrusive_Thinking.html" class="amm-first">Intrusive Thinking</a></li>
+                  <li><a href="../publications/sfr29_Deliberate_Ignorance.html">Deliberate Ignorance</a></li>
+                  <li><a href="../publications/sfr28_Youth_Mental_Health.html">Youth Mental Health</a></li>
+                  <li><a href="../publications/sfr27_Neocortex.html">The Neocortex</a></li>
+                  <li><a href="../publications/sfr26_Interactive_Task_Learning.html">Interactive Task Learning</a></li>
+                  <li><a href="../publications/sfr25_Emergent_Brain_Dynamics.html">Emergent Brain Dynamics</a></li>
+                  <li><a href="../publications/sfr24_Agrobiodiversity.html">Agrobiodiversity</a></li>
+                  <li><a href="../publications/sfr22_Cultural_Nature_of_Attachment.html">Cultural Nature of Attachment</a></li>
+                  <li><a href="../publications/sfr21_Investors_and_Exploiters.html">Investors and Exploiters</a></li>
+                  <li><a href="../publications/sfr20_Computational_Psychiatry.html">Computational Psychiatry</a></li>
+                  <li><a href="../publications.html" class="amm-last">Further Publications</a></li>
+                </ul>
+              </li>
+              <li data-amm-priority="0"><a href="../about.html">About</a></li>
+              <li data-amm-priority="0"><a href="https://fias.institute/en/home/impressum/">Impressum/Imprint</a></li>
+              <li data-amm-priority="0"><a href="https://fias.institute/en/home/privacy/">Privacy Notice</a></li>
+            </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="p7BCB_1" class="p7BCB bcb-noscript bcb-sep-cln" data-bcb="1,p7AMM_1,0,0,0,6,0">
+    <ul class="bcb-root bcb-brd-solid bcb-brh-none">
+      <li class="bcb-desc">You Are Here</li>
+      <li><a href="../index.html" aria-hidden="true" class="bcb-placeholder">Home</a></li>
+    </ul>
+  </div>
+  <!-- InstanceBeginEditable name="EditRegion1" -->
+  <div id="p7OPM_1" class="p7OPM-02 p7OPM opm-noscript opm-rounded">
+    <div class="p7OPM-layout">
+      <div id="p7OPMtw_1" class="opm-tabs-wrapper left">
+        <div id="p7OPMtb_1" class="opm-tabs">
+          <ul>
+            <li><a id="p7OPMtg_1_1" href="#">Forum Description</a></li>
+            <li><a id="p7OPMtg_1_2" href="#">Forum Structure</a></li>
+            <li><a id="p7OPMtg_1_3" href="#">References</a></li>
+          </ul>
+          <div id="p7OPMtc_1" class="opm-tab-content"></div>
+        </div>
+      </div>
+      <div id="p7OPMpw_1" class="opm-panel-wrapper">
+        <div id="p7OPMww_1" class="opm-panel-layout">
+          <div id="p7OPMpn_1_1" class="opm-panel">
+            <div class="opm-panel-content">
+              <h2 align="left">Digital Ethology: From Individuals to Communities and Back</h2>
+              <p align="left"><strong>July 24â29, 2022</strong></p>
+              <p align="left"><strong>Frankfurt am Main, Germany</strong></p>
+              <p align="left"><strong>Tomas Paus and Hye-Chung Kum, Chairpersons</strong></p>
+              <p><strong>Program  Advisory Committee</strong></p>
+              <p><a href="https://people.aalto.fi/kimmo.kaski">Kimmo Kaski</a>, <a href="https://public-health.tamu.edu/hpm/faculty/kum.html">Hye-Chung Kum</a>, <a href="https://esforum.de/">Julia Lupp</a>, <a href="https://www.researchgate.net/profile/Maria_Melchior">Maria Melchior</a>, and <a href="https://hollandbloorview.ca/staff/tomas-paus-md-phd">Tomas Paus</a></p>
+              <h4>Background</h4>
+              <p>Over the past decade, large-scale genomic studies have identified common genetic variations associated with complex traits in health (e.g., educational attainment) and disease (e.g., psychiatric disorders). These genomic studies were made possible through technological and conceptual advancements sparked by the Human Genome Project and by pooling together numerous datasets to increase power (e.g., ~ 1 million individuals in a genetic study of educational attainment). Discoveries from these studies have yielded valuable insights into the molecular pathways that underlie complex traits, yet they can only explain a small amount of inter-individual variability for a given trait. Although some of the &ldquo;missing&rdquo; heritability might be carried by rare genetic variants, it is generally accepted that environmental influences contribute a much larger portion of variance.</p>
+              <p>Environment, however, is difficult to measure on a large scale. Still, the ubiquitous presence of information technology in our lives has created a vast body of digital information and provides a detailed record of many human activities. Harvesting this digital footprint for research purposes lags behind partisan and for-profit use. Some key barriers have been a much lower tolerance for error, higher ethical and legal standards for data use, and high levels of requirements of cyber infrastructure and technical skills. The potential exists for this information to be extracted from multiple sources, so that a rich picture of the human environment can be obtained and related to various phenomena (e.g., brain maturation [Parker et al. 2017], well-being [Kardan et al. 2015], obesity [Maharana and Nsoesie 2018], health [Abnousi et al. 2018], social relationships [David-Barrett et al. 2015]).</p>
+              <p>How can this potential be realized, especially in the light of differences in conceptualization and methodology across disciplines as well as national differences, governance issues, and ethical considerations? To promote greater understanding, within and between disciplines, and promote future research, the Ernst StrÃ¼ngmann Forum is convening this transdisciplinary dialogue.</p>
+              <p>This Forum will explore how digital ethologyâthe study of human behavior as captured by its digital footprintâcan be used to quantify the human environment and facilitate understanding of its impact on health and well-being. The behavior that we seek to understand can be direct (e.g., tweets) or indirect, as inferred by its effect on the physical environment (e.g., broken windows on Google Street). Key concepts will be examined, as will methods needed to quantify the human environment from existing data sources at the aggregate (e.g., neighborhood) level. Requirements for using the resultant information, in conjunction with individual-level data derived from administrative databases, will be explored, as will privacy issues and ethical, legal, and societal implications. Ways of linking aggregate- and individual-level data through geospatial coding will be examined at different levels of spatial granularity. In summary, this Forum aims to:</p>
+              <ul>
+                <li>Examine ways through which digital data can broaden research into human behavior and support future comparative behavioral studies across species</li>
+                <li>Construct a conceptual and methodological framework for integrating various data sources</li>
+                <li>Expand understanding of how the environment shapes human development across the life span</li>
+              </ul>
+              <hr width="300" size="2" />
+              <h4 align="center">This Forum is supported by the Deutsche Forschungsgemeinschaft</h4>
+              <h3 align="center">The German Research Foundation</h3>
+              <p align="center"><img src="../images/Logos/dfg_logo_blau.png" alt="DFG logo" width="100" height="35" vspace="0"></p>
+            </div>
+          </div>
+          <div id="p7OPMpn_1_2" class="opm-panel">
+            <div class="opm-panel-content">
+              <p><strong>Group 1: How concepts of ethology can be applied to large-scale digital data</strong></p>
+              <p>The ethological approach is used to study naturally occurring behavior. In the modern world, such behavior is connected to, and recorded by, a wide array of digital services (e.g., communication and social networking, on-line shopping, information search). How can ethological concepts be applied to help us characterize the modern environment in which humans live? What aspects of the ethological approach can guide us to obtain measures captured directly from digital data generated by our social activities? What kinds of models do we need to understand how human behavior can be inferred from the physical and built environment? The bidirectional nature of these relationships will be explored; namely, how individuals create their environment, and how the environment shapes the individual. </p>
+              <hr width="300" size="2" />
+              <p><strong>Group 2: Quantifying and geocoding the physical and built environment</strong></p>
+              <p>Human activities (behaviors) influence the physical environment (e.g., air, green space) and generate the built environment (e.g., roads, sidewalks, stores, service and digital infrastructures); in turn, the physical and built environment influences human behavior (e.g., by imposing barriers). Which sources of information (e.g., aerial and satellite images, Google Street) are relevant to the study of human development in these two domains? This group will explore ways to extract meaningful signals from these sources and to map these signals at different levels of spatial and temporal granularity. It will also suggest models (e.g., predictive, statistical, physical/mathematical) and platforms for sharing tools to facilitate their use. </p>
+              <hr width="300" size="2" />
+              <p><strong>Group 3: Quantifying and geocoding the social environment</strong></p>
+              <p>Individuals both create and respond to their social environment through their behavior. Which types of data from heterogeneous digital streams (e.g., Twitter, Facebook, Google search, call detail records, Smartphone locations) are relevant to the study of human environment and, in turn, human development and health across the lifespan? This group will propose ways to extract meaningful signals from these sources (e.g., natural language processing) and to map these signals at different levels of spatial and temporal granularity. It will also explore ways to analyze these measures, using modeling approaches (e.g., predictive, physical/mathematical, statistical) and platforms for sharing tools to facilitate their use. </p>
+              <hr width="300" size="2" />
+              <p><strong>Group 4:      Integrating Knowledge from Individual- and Aggregate-Level Data </strong></p>
+              <p>National- and local- (e.g., municipality) level administrative data (e.g., health, education, income, housing, civil, social services) systematically and continuously capture information relevant for health and well-being, thus providing an ideal source for research in these domains. Large population databases from these sources efficiently capture individual-level data and have increased over the last decade, albeit differently in various countries. This group will discuss how individual-level data derived from (existing) heterogeneous databases can be brought together with (newly derived) aggregate-level data about the physical, built, and social environments. Strategies for knowledge generation from this linked data will be explored (e.g., data fidelity, efficient workflow, statistical modeling and validation, high dimensionality, interpretation). Issues related to data governance and barriers to data access will be considered, as will the ethical, legal, and societal implications of this line of research.</p>
+              <hr width="300" size="2" />
+              <h4 align="center">This Forum is supported by the Deutsche Forschungsgemeinschaft</h4>
+              <h3 align="center">The German Research Foundation</h3>
+              <p align="center"><img src="../images/Logos/dfg_logo_blau.png" alt="DFG logo" width="100" height="35" vspace="0"></p>
+            </div>
+          </div>
+          <div id="p7OPMpn_1_3" class="opm-panel">
+            <div class="opm-panel-content">
+              <p>Parker, N., A. P. Wong, G. Leonard, et al. 2017. Income Inequality, Gene Expression, and Brain Maturation during Adolescence.Â <em>Sci. Rep.</em>Â <strong>7</strong>:7397</p>
+              <p>Kardan, O., P. Gozdyra, B. Misic, et al. 2015. Neighborhood Greenspace and Health in a Large Urban Center.Â <em>Sci. Rep.</em>Â <strong>5</strong>:11610</p>
+              <p>A. Maharana and E. Okanyene Nsoesie. 2018. Use of Deep Learning to Examine the Association of the Built Environment with Prevalence of Neighborhood Adult Obesity.Â <em>JAMA Network Open</em>Â <strong>1</strong>:e181535</p>
+              <p>F. Abnousi, J. S. Rumsfeld, and H. M. Krumholz. 2018. Social Determinants of Health in the Digital Age: Determining the Source Code for Nurture.Â <em>JAMA</em>Â doi:10.1001/jama.2018.19763</p>
+              <p>T. David-Barrett et al. 2016. Communication with Family and Friends across the Life Course.Â <em>PLoS One</em>Â <strong>11</strong>:e0165687</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">P7_OPMop('p7OPM_1',1,2,400,0,240,'px',0,8,0,0,1,12,0,0);</script>
+  </div>
+<!-- InstanceEndEditable --></div>
+<div class="footer">
+  <div id="p7HMY_2" class="p7HMY hmy-noscript" data-hmy-max-width="100,%">
+    <div class="hmy-section" data-hmy-basis="100,%,1">
+      <div class="hmy-content-wrapper hmy-color-content-black social">
+        <div class="hmy-content hmy-center">
+          
+        </div>
+      </div>
+    </div>
+    <div class="hmy-section" data-hmy-basis="100,%,1">
+      <div class="hmy-content-wrapper hmy-color-content-black copyright">
+        <div class="hmy-content hmy-center">
+          <p><a href="https://fias.institute/" class="p7TKL TKL tkl-LC-white tkl-HC-black tkl-BGH-white tkl-TD-L-dot tkl-TD-H-none">Frankfurt Institute for Advanced Studies</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="p7BAM_1" class="bam-list bam-noscript bam-color-white">
+  <ul id="p7BAMlist_1" class="p7bam-image-list">
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-left-top" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-right-bottom" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-center-center" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-right-top" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-right-center" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-right-bottom" title="Web_Background">Web_Background.jpg</a></li>
+    <li><a href="../images/Web_Background.jpg" class="bam-type-cover bam-pos-left-center" title="Web_Background">Web_Background.jpg</a></li>
+  </ul>
+</div>
+</body>
+<!-- InstanceEnd --></html>

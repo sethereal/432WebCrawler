@@ -1,0 +1,34 @@
+Welcome to Mohamed Aturban's Homepage
+Bio
+I received my doctorate degree from Old Dominion University (Norfolk, Virginia) in 2020. I worked under the supervision of Dr. Michele Weigle and Dr. Michael L. Nelson . My research interests include: Web Science, Digital Library, Web Archiving, Computer Security, and Web Annotation. I received my Master's degree in Computer Science in 2011 from New Mexico State University (Las Cruces, NM) and my Bachelor of Science degree from University of Tripoli ( Tripoli , Libya )
+Publications
+M. Aturban, M. L. Nelson and M. C. Weigle, "Where Did the Web Archive Go?" In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL 2021). September 13-17 2021 (Best Research Paper Award)
+M. Aturban, S. Alam, M. L. Nelson and M. C. Weigle, "Archive Assisted Archival Fixity
+Verification Framework" In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Urbana-Champaign, Illinois, June 2019 [ acm.org , Technical Report ]
+M. Aturban, M. Kelly, S. Alam, J. A. Berlin, M. L. Nelson and M. C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation" In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Fort Worth, TX, 2018 (Best Poster Award) [ acm.org , GitHub ]
+M. Aturban, M. L. Nelson and M. C. Weigle, "Quantifying Orphaned Annotations in Hypothes.is," In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Poznan, Poland, (September 2015). 
+				[ springer.com , Technical Report , Slides , Blog post ]
+B. Terzic, K. Arumugam, M. Aturban, C. Cotnoir, A. Godunov, D. Ranjan, M. Stefani, F. Lin, V. Morozov, Y. Roblin and H. Zhang, "HIGH-FIDELITY SIMULATIONS OF LONG-TERM BEAM-BEAM DYNAMICS ON GPUs", 12th International Computational Accelerator Physics Conference (ICAP) 2015, Shanghai
+          [ PDF ]
+B. Terzic, V. Morozov, Y. Roblin, F. Lin, H. Zhang, M. Aturban, D. Ranjan and M. Zubair, "GPU-Accelerated Long-Term Simulations of Beam-Beam Effects in Colliders", 5th International Particle Accelerator Conference 2014, Dresden [ PDF ]
+Y. Roblin, V. Morozov, B. Terzic, M. Aturban, D. Ranjan and M. Zubair, "GPU-optimized Code for Long-term Simulations of Beam-beam Effects in Colliders", 4th International Particle Accelerator Conference 2013, Shanghai [ PDF ]
+Teaching
+I am teaching the following courses at Columbia College, Missouri:
+Spring 2021
+CISS 245: Advanced Programming (C++)
+CISS 370: Operating Systems
+CISS 438: Object Oriented Analysis and Design
+Fall 2020
+CISS 145: Introduction To Python Programming
+CISS 240: Introduction To Programming (C++)
+CISS 375: Compiler Construction
+Workshops, Participation, and Conference Presentations
+Mohamed Aturban, "It is hard to compute fixity on archived web pages", Presented at the monthly PhD Gathering, Department of Computer Science, Old Dominion University, January 2019 [ Slides ]
+Mohamed Aturban, "Establishing and Verifying Fixity of Archived Web Pages", at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Doctoral Consortium, Fort Worth,Texas, USA, 2018 [ Slides ]
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, "It is hard to computefixity on archived web pages", Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018 [ Slides ]
+Mohamed Aturban, Justin Littman, Yu Xu, Shawn Walker, and Jessica Ogden, "End of Term Transition" , Archives Unleashed 3.0 : Web Archive Datathon, February 2017, Internet Archive, San Francisco, CA (Best Project Award)
+Mohamed Aturban, Niel Chah, Steve Marti, Imaduddin Amin, "Which States and Topics did the Two Presidential Candidates Mention?" , Archives Unleashed 2.0 : Web Archive Datathon, June 2016, Library of Congress, Washington DC
+Articles
+M. Aturban, M. L. Nelson, M. C. Weigle, M. Klein and H. Van de Sompel, "Collecting 16K archived web pages from 17 public web archives," Technical Report arXiv:1905.03836, 2019  [ PDF ]
+M. Aturban, M. L. Nelson and M. C. Weigle, "Difficulties of Timestamping Archived Web Pages," Technical Report arXiv:1712.03140, 2017  [ PDF ]
+Blog Posts

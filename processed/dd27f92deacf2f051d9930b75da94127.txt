@@ -1,0 +1,9 @@
+Back to Top ↑
+2010
+Hadi Arbabi and Michele C. Weigle, “Highway Mobility and Vehicular Ad-Hoc Networks in ns-3,” In Proceedings of the Winter Simulation Conference. Baltimore, MD, December 2010, pp. 2991-3003.
+Hadi Arbabi and Michele C. Weigle, “Using DTMon to Monitor Transient Flow Traffic,” In Proceedings of the IEEE Vehicular Networking Conference (VNC). Jersey City, NJ, December 2010, pp. 110-117.
+Mohammad S. Almalag and Michele C. Weigle, “Using Traffic Flow for Cluster Formation in Vehicular Ad-hoc Networks,” In Proceedings of the Workshop On User MObility and VEhicular Networks (ON-MOVE). Denver, CO, October 2010, pp. 631-636.
+Gongjun Yan, Weiming Yang, Michele C. Weigle, Stephan Olariu, and Danda Rawat, “Cooperative Collision Warning through Mobility and Probability Prediction,” In Proceedings of the IEEE Intelligent Vehicles Symposium. San Diego, June 2010, pp. 1172-1177.
+Gongjun Yan, Stephan Olariu, and Michele C. Weigle, “Cross-Layer Location Verification Enhancement in Vehicular Networks,” In Proceedings of the IEEE Intelligent Vehicles Symposium. San Diego, June 2010, pp. 95-100.
+Michele C. Weigle, Li Cheng, Jasleen Kaur, and V. Kulkarni, “Generalized Stochastic Performance Models for Loss-based Congestion Control,” Computer Communications, Vol. 33, No. 4, March 2010, pp. 513-525.
+Share on

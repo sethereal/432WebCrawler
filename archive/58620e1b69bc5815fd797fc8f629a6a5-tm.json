@@ -1,0 +1,175 @@
+ERROR: 2024/02/18 19:37:35.178379 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/housing/application-information/continuing-students": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/housing/application-information/continuing-students",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/housing/application-information/continuing-students",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-25T10:08:25Z",
+        "uri": "https://web.archive.org/web/20220525100825/https://odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-13T01:28:23Z",
+        "uri": "https://wayback.archive-it.org/all/20220813012823/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-13T01:28:23Z",
+        "uri": "https://web.archive.org/web/20220813012823/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-16T01:22:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220816012240/https://odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-16T01:22:40Z",
+        "uri": "https://web.archive.org/web/20220816012240/https://odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-16T01:24:59Z",
+        "uri": "https://wayback.archive-it.org/all/20220816012459/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-08-16T01:24:59Z",
+        "uri": "https://web.archive.org/web/20220816012459/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-10-31T11:18:05Z",
+        "uri": "https://web.archive.org/web/20221031111805/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-07T06:00:45Z",
+        "uri": "https://wayback.archive-it.org/all/20221107060045/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-07T06:00:45Z",
+        "uri": "https://web.archive.org/web/20221107060045/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-07T17:33:05Z",
+        "uri": "https://wayback.archive-it.org/all/20221107173305/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-07T17:33:05Z",
+        "uri": "https://web.archive.org/web/20221107173305/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-11-18T18:41:27Z",
+        "uri": "https://web.archive.org/web/20221118184127/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-12-07T11:22:11Z",
+        "uri": "https://wayback.archive-it.org/all/20221207112211/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-12-07T11:22:11Z",
+        "uri": "https://web.archive.org/web/20221207112211/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-12-08T06:57:14Z",
+        "uri": "https://web.archive.org/web/20221208065714/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-12-10T14:08:16Z",
+        "uri": "https://wayback.archive-it.org/all/20221210140816/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2022-12-10T14:08:16Z",
+        "uri": "https://web.archive.org/web/20221210140816/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-01-07T10:26:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230107102650/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-01-07T10:26:50Z",
+        "uri": "https://web.archive.org/web/20230107102650/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-01-09T12:38:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230109123839/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-01-09T12:38:39Z",
+        "uri": "https://web.archive.org/web/20230109123839/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-01-24T20:15:37Z",
+        "uri": "https://arquivo.pt/wayback/20230124201537mp_/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-02-07T08:53:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230207085329/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-02-07T08:53:29Z",
+        "uri": "https://web.archive.org/web/20230207085329/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-02-09T23:53:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230209235342/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-02-09T23:53:42Z",
+        "uri": "https://web.archive.org/web/20230209235342/http://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-02-20T00:57:37Z",
+        "uri": "https://web.archive.org/web/20230220005737/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-03-07T04:49:58Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044958/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-03-07T04:49:58Z",
+        "uri": "https://web.archive.org/web/20230307044958/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-03-27T22:33:43Z",
+        "uri": "https://web.archive.org/web/20230327223343/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-08-25T18:37:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230825183742/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-08-25T18:37:42Z",
+        "uri": "https://web.archive.org/web/20230825183742/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-11-28T03:54:21Z",
+        "uri": "https://web.archive.org/web/20231128035421/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2023-11-30T11:50:16Z",
+        "uri": "https://web.archive.org/web/20231130115016/https://www.odu.edu/housing/application-information/continuing-students"
+      },
+      {
+        "datetime": "2024-02-14T16:09:44Z",
+        "uri": "https://web.archive.org/web/20240214160944/https://www.odu.edu/housing/application-information/continuing-students"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-25T10:08:25Z",
+      "uri": "https://web.archive.org/web/20220525100825/https://odu.edu/housing/application-information/continuing-students"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:09:44Z",
+      "uri": "https://web.archive.org/web/20240214160944/https://www.odu.edu/housing/application-information/continuing-students"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/housing/application-information/continuing-students",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/housing/application-information/continuing-students",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/housing/application-information/continuing-students"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/housing/application-information/continuing-students"
+}

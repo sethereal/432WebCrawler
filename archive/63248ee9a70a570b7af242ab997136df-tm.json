@@ -1,0 +1,31 @@
+ERROR: 2024/02/18 19:02:52.218010 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T23:07:39Z",
+        "uri": "https://web.archive.org/web/20231108230739/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      },
+      {
+        "datetime": "2023-11-30T00:50:26Z",
+        "uri": "https://web.archive.org/web/20231130005026/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T23:07:39Z",
+      "uri": "https://web.archive.org/web/20231108230739/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+    },
+    "last": {
+      "datetime": "2023-11-30T00:50:26Z",
+      "uri": "https://web.archive.org/web/20231130005026/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/for-arotc-cadet-brent-pizzamiglio-odu-has-been-an-ideal-choice"
+}

@@ -1,0 +1,123 @@
+ERROR: 2024/02/18 18:23:03.249513 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2006.02487": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2006.02487",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2006.02487",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-08-30T19:47:46Z",
+        "uri": "https://web.archive.org/web/20200830194746/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2021-05-05T13:37:59Z",
+        "uri": "https://web.archive.org/web/20210505133759/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2021-06-11T05:25:52Z",
+        "uri": "https://arquivo.pt/wayback/20210611052552mp_/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2021-06-11T05:25:53Z",
+        "uri": "https://arquivo.pt/wayback/20210611052553mp_/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2021-11-01T20:22:44Z",
+        "uri": "https://arquivo.pt/wayback/20211101202244mp_/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2021-11-22T23:57:14Z",
+        "uri": "https://web.archive.org/web/20211122235714/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-03-20T07:33:40Z",
+        "uri": "https://web.archive.org/web/20220320073340/http://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-04-11T20:35:50Z",
+        "uri": "http://archive.md/20220411203550/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-08-31T02:56:16Z",
+        "uri": "https://web.archive.org/web/20220831025616/http://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-18T15:47:41Z",
+        "uri": "https://web.archive.org/web/20221118154741/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-18T19:33:49Z",
+        "uri": "https://web.archive.org/web/20221118193349/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-18T19:34:09Z",
+        "uri": "https://web.archive.org/web/20221118193409/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-18T19:34:09Z",
+        "uri": "https://web.archive.org/web/20221118193409/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-22T19:12:54Z",
+        "uri": "https://web.archive.org/web/20221122191254/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-24T00:31:42Z",
+        "uri": "https://web.archive.org/web/20221124003142/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-24T09:24:10Z",
+        "uri": "https://web.archive.org/web/20221124092410/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-24T17:45:17Z",
+        "uri": "https://web.archive.org/web/20221124174517/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-11-25T00:16:44Z",
+        "uri": "https://web.archive.org/web/20221125001644/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-06T12:49:58Z",
+        "uri": "https://web.archive.org/web/20221206124958/http://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-06T12:49:59Z",
+        "uri": "https://web.archive.org/web/20221206124959/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-08T05:38:43Z",
+        "uri": "https://web.archive.org/web/20221208053843/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-08T06:24:43Z",
+        "uri": "https://web.archive.org/web/20221208062443/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-08T06:24:43Z",
+        "uri": "https://web.archive.org/web/20221208062443/http://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-18T15:02:04Z",
+        "uri": "https://web.archive.org/web/20221218150204/https://arxiv.org/abs/2006.02487"
+      },
+      {
+        "datetime": "2022-12-20T14:18:47Z",
+        "uri": "https://web.archive.org/web/20221220141847/https://arxiv.org/abs/2006.02487"
+      }
+    ],
+    "first": {
+      "datetime": "2020-08-30T19:47:46Z",
+      "uri": "https://web.archive.org/web/20200830194746/https://arxiv.org/abs/2006.02487"
+    },
+    "last": {
+      "datetime": "2022-12-20T14:18:47Z",
+      "uri": "https://web.archive.org/web/20221220141847/https://arxiv.org/abs/2006.02487"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2006.02487",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2006.02487",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2006.02487"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2006.02487"
+}

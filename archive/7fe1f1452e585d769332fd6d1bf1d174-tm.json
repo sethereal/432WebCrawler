@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 16:06:38.123838 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/ODU/status/1643017964927459331": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/ODU/status/1643017964927459331",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/ODU/status/1643017964927459331",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-04-11T23:50:33Z",
+        "uri": "https://web.archive.org/web/20230411235033/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-05-01T05:19:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230501051959/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-05-01T05:19:59Z",
+        "uri": "https://web.archive.org/web/20230501051959/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-05-01T14:23:58Z",
+        "uri": "https://web.archive.org/web/20230501142358/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-06-01T04:46:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230601044631/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-06-01T04:46:31Z",
+        "uri": "https://web.archive.org/web/20230601044631/https://twitter.com/ODU/status/1643017964927459331"
+      },
+      {
+        "datetime": "2023-06-01T08:53:45Z",
+        "uri": "https://web.archive.org/web/20230601085345/https://twitter.com/ODU/status/1643017964927459331"
+      }
+    ],
+    "first": {
+      "datetime": "2023-04-11T23:50:33Z",
+      "uri": "https://web.archive.org/web/20230411235033/https://twitter.com/ODU/status/1643017964927459331"
+    },
+    "last": {
+      "datetime": "2023-06-01T08:53:45Z",
+      "uri": "https://web.archive.org/web/20230601085345/https://twitter.com/ODU/status/1643017964927459331"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/ODU/status/1643017964927459331",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/ODU/status/1643017964927459331",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/ODU/status/1643017964927459331"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/ODU/status/1643017964927459331"
+}

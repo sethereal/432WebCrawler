@@ -1,0 +1,399 @@
+ERROR: 2024/02/18 18:16:16.360038 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/studyabroad": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/studyabroad",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/studyabroad",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2001-07-31T10:22:03Z",
+        "uri": "https://web.archive.org/web/20010731102203/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-01-10T01:19:14Z",
+        "uri": "https://web.archive.org/web/20020110011914/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-02-15T05:42:12Z",
+        "uri": "https://web.archive.org/web/20020215054212/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-06-13T00:56:18Z",
+        "uri": "https://web.archive.org/web/20020613005618/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-08-17T22:11:03Z",
+        "uri": "https://web.archive.org/web/20020817221103/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-10-27T12:24:58Z",
+        "uri": "https://web.archive.org/web/20021027122458/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2002-12-02T02:52:53Z",
+        "uri": "https://web.archive.org/web/20021202025253/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-02-02T19:46:36Z",
+        "uri": "https://web.archive.org/web/20030202194636/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-04-21T05:04:39Z",
+        "uri": "https://web.archive.org/web/20030421050439/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-06-21T17:23:07Z",
+        "uri": "https://web.archive.org/web/20030621172307/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-08-02T12:40:22Z",
+        "uri": "https://web.archive.org/web/20030802124022/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-10-05T11:14:15Z",
+        "uri": "https://web.archive.org/web/20031005111415/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2003-12-06T19:21:27Z",
+        "uri": "https://web.archive.org/web/20031206192127/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-02-14T09:03:26Z",
+        "uri": "https://web.archive.org/web/20040214090326/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-04-19T04:14:39Z",
+        "uri": "https://web.archive.org/web/20040419041439/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-06-29T00:24:39Z",
+        "uri": "https://web.archive.org/web/20040629002439/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-08-11T11:46:42Z",
+        "uri": "https://web.archive.org/web/20040811114642/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-10-12T20:58:15Z",
+        "uri": "https://web.archive.org/web/20041012205815/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2004-12-06T17:25:18Z",
+        "uri": "https://web.archive.org/web/20041206172518/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2005-02-23T06:01:33Z",
+        "uri": "https://web.archive.org/web/20050223060133/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2005-03-10T18:06:22Z",
+        "uri": "https://web.archive.org/web/20050310180622/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2005-04-04T10:17:53Z",
+        "uri": "https://web.archive.org/web/20050404101753/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2005-11-13T19:28:02Z",
+        "uri": "https://web.archive.org/web/20051113192802/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2005-11-15T04:26:44Z",
+        "uri": "https://web.archive.org/web/20051115042644/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2006-08-30T21:37:49Z",
+        "uri": "https://web.archive.org/web/20060830213749/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2007-03-09T02:10:34Z",
+        "uri": "https://web.archive.org/web/20070309021034/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2007-12-06T03:52:31Z",
+        "uri": "https://web.archive.org/web/20071206035231/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2008-02-19T22:40:09Z",
+        "uri": "https://web.archive.org/web/20080219224009/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2008-04-20T16:50:53Z",
+        "uri": "https://web.archive.org/web/20080420165053/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2008-10-14T09:45:15Z",
+        "uri": "https://web.archive.org/web/20081014094515/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2010-05-28T04:08:34Z",
+        "uri": "https://web.archive.org/web/20100528040834/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2010-08-11T23:53:49Z",
+        "uri": "https://web.archive.org/web/20100811235349/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2011-04-11T17:24:02Z",
+        "uri": "https://web.archive.org.au/awa/20110411172402mp_/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2011-04-11T17:24:02Z",
+        "uri": "https://web.archive.org/web/20110411172402/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2011-04-11T17:24:02Z",
+        "uri": "https://web.archive.org/web/20110411172402/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2011-05-28T06:48:39Z",
+        "uri": "https://web.archive.org/web/20110528064839/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2011-08-13T03:54:29Z",
+        "uri": "https://web.archive.org/web/20110813035429/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2011-09-18T10:40:50Z",
+        "uri": "https://web.archive.org/web/20110918104050/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2012-03-03T00:58:47Z",
+        "uri": "https://web.archive.org/web/20120303005847/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2012-03-06T10:04:39Z",
+        "uri": "https://web.archive.org/web/20120306100439/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2012-04-03T19:20:21Z",
+        "uri": "https://web.archive.org.au/awa/20120403192021mp_/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2012-04-03T19:20:21Z",
+        "uri": "https://web.archive.org/web/20120403192021/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2012-09-27T00:32:14Z",
+        "uri": "https://web.archive.org/web/20120927003214/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2012-10-17T00:26:24Z",
+        "uri": "https://web.archive.org/web/20121017002624/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2012-12-09T22:54:35Z",
+        "uri": "https://web.archive.org/web/20121209225435/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2013-01-15T06:56:49Z",
+        "uri": "https://web.archive.org/web/20130115065649/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2013-01-17T18:09:04Z",
+        "uri": "https://web.archive.org/web/20130117180904/http://odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2013-04-05T04:59:53Z",
+        "uri": "https://web.archive.org/web/20130405045953/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2013-04-26T10:29:19Z",
+        "uri": "https://web.archive.org/web/20130426102919/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2013-11-22T23:01:21Z",
+        "uri": "https://web.archive.org/web/20131122230121/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2013-12-12T18:32:32Z",
+        "uri": "https://web.archive.org/web/20131212183232/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2014-01-27T01:04:48Z",
+        "uri": "https://web.archive.org/web/20140127010448/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2015-10-09T23:42:58Z",
+        "uri": "https://web.archive.org/web/20151009234258/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2016-01-30T23:01:28Z",
+        "uri": "https://web.archive.org/web/20160130230128/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2016-03-31T23:21:13Z",
+        "uri": "https://web.archive.org/web/20160331232113/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2016-06-01T00:47:59Z",
+        "uri": "https://web.archive.org/web/20160601004759/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2017-05-21T09:19:47Z",
+        "uri": "https://web.archive.org/web/20170521091947/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2017-07-22T20:29:11Z",
+        "uri": "https://web.archive.org/web/20170722202911/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2017-10-09T23:18:33Z",
+        "uri": "https://web.archive.org/web/20171009231833/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2017-12-10T09:04:14Z",
+        "uri": "https://web.archive.org/web/20171210090414/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-02-09T09:12:47Z",
+        "uri": "https://web.archive.org/web/20180209091247/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-04-11T09:54:14Z",
+        "uri": "https://web.archive.org/web/20180411095414/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-06-11T07:55:18Z",
+        "uri": "https://web.archive.org/web/20180611075518/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-08-13T00:38:18Z",
+        "uri": "https://web.archive.org/web/20180813003818/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-08-14T03:54:18Z",
+        "uri": "https://web.archive.org/web/20180814035418/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-10-13T17:23:43Z",
+        "uri": "https://web.archive.org/web/20181013172343/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2018-12-13T15:46:08Z",
+        "uri": "https://web.archive.org/web/20181213154608/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2019-02-14T11:40:44Z",
+        "uri": "https://web.archive.org/web/20190214114044/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2019-04-17T08:18:21Z",
+        "uri": "https://web.archive.org/web/20190417081821/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2019-06-17T11:15:38Z",
+        "uri": "https://web.archive.org/web/20190617111538/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2019-08-17T05:24:15Z",
+        "uri": "https://web.archive.org/web/20190817052415/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2019-11-07T12:58:11Z",
+        "uri": "https://web.archive.org/web/20191107125811/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2020-01-10T12:34:37Z",
+        "uri": "https://web.archive.org/web/20200110123437/http://www.odu.edu:80/studyabroad"
+      },
+      {
+        "datetime": "2021-01-19T14:20:37Z",
+        "uri": "https://web.archive.org/web/20210119142037/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2021-01-19T14:20:37Z",
+        "uri": "https://web.archive.org/web/20210119142037/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2021-11-07T13:33:26Z",
+        "uri": "https://web.archive.org/web/20211107133326/https://odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2022-01-21T16:18:43Z",
+        "uri": "https://web.archive.org/web/20220121161843/https://www.odu.edu/studyabroad/"
+      },
+      {
+        "datetime": "2022-01-21T16:18:43Z",
+        "uri": "https://web.archive.org/web/20220121161843/http://www.odu.edu/studyabroad/"
+      },
+      {
+        "datetime": "2022-10-31T11:20:43Z",
+        "uri": "https://web.archive.org/web/20221031112043/https://www.odu.edu/studyabroad/"
+      },
+      {
+        "datetime": "2022-10-31T11:57:06Z",
+        "uri": "https://web.archive.org/web/20221031115706/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2022-10-31T11:59:55Z",
+        "uri": "https://web.archive.org/web/20221031115955/http://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-01-24T19:51:13Z",
+        "uri": "https://arquivo.pt/wayback/20230124195113mp_/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-01-31T03:06:39Z",
+        "uri": "https://web.archive.org/web/20230131030639/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-02-05T23:40:32Z",
+        "uri": "https://web.archive.org/web/20230205234032/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-02-06T09:15:59Z",
+        "uri": "https://web.archive.org/web/20230206091559/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-02-07T06:30:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063059/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-02-07T06:30:59Z",
+        "uri": "https://web.archive.org/web/20230207063059/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-03-07T04:28:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042852/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-03-07T04:28:52Z",
+        "uri": "https://web.archive.org/web/20230307042852/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-04-02T11:38:43Z",
+        "uri": "https://web.archive.org/web/20230402113843/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-08-25T17:12:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171251/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-08-25T17:12:51Z",
+        "uri": "https://web.archive.org/web/20230825171251/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-10-04T12:57:34Z",
+        "uri": "https://web.archive.org/web/20231004125734/https://www.odu.edu/studyabroad"
+      },
+      {
+        "datetime": "2023-12-26T20:49:34Z",
+        "uri": "https://web.archive.org/web/20231226204934/https://www.odu.edu/studyabroad"
+      }
+    ],
+    "first": {
+      "datetime": "2001-07-31T10:22:03Z",
+      "uri": "https://web.archive.org/web/20010731102203/http://www.odu.edu:80/studyabroad"
+    },
+    "last": {
+      "datetime": "2023-12-26T20:49:34Z",
+      "uri": "https://web.archive.org/web/20231226204934/https://www.odu.edu/studyabroad"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/studyabroad",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/studyabroad",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/studyabroad"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/studyabroad"
+}

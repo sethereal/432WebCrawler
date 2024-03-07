@@ -1,0 +1,55 @@
+ERROR: 2024/02/18 20:23:21.448679 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/teaching/#site-nav": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/teaching/#site-nav",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/teaching/#site-nav",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-23T00:27:05Z",
+        "uri": "https://web.archive.org/web/20210923002705/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2021-10-13T14:29:57Z",
+        "uri": "https://web.archive.org/web/20211013142957/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2022-01-19T14:41:28Z",
+        "uri": "https://web.archive.org/web/20220119144128/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2022-04-27T20:30:47Z",
+        "uri": "https://web.archive.org/web/20220427203047/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2022-06-26T08:56:48Z",
+        "uri": "https://web.archive.org/web/20220626085648/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2022-09-27T08:56:37Z",
+        "uri": "https://web.archive.org/web/20220927085637/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2023-10-01T23:01:10Z",
+        "uri": "https://web.archive.org/web/20231001230110/https://weiglemc.github.io/teaching/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:20Z",
+        "uri": "https://web.archive.org/web/20240121112720/https://weiglemc.github.io/teaching/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-23T00:27:05Z",
+      "uri": "https://web.archive.org/web/20210923002705/https://weiglemc.github.io/teaching/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:20Z",
+      "uri": "https://web.archive.org/web/20240121112720/https://weiglemc.github.io/teaching/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/teaching/#site-nav",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/teaching/#site-nav",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/teaching/#site-nav"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/teaching/#site-nav"
+}

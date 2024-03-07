@@ -1,0 +1,4 @@
+Back to Top ↑
+2005
+Michele C. Weigle, Kevin Jeffay, and F. Donelson Smith, “Delay-Based Early Congestion Detection and Adaptation: Impact on web performance,” Computer Communications, Vol. 28, No. 8, May 2005, pp. 837-850.
+Share on

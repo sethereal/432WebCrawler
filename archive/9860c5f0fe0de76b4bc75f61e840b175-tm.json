@@ -1,0 +1,55 @@
+ERROR: 2024/02/18 15:37:50.373764 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/student-engagement-traditions": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/student-engagement-traditions",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-12T06:12:01Z",
+        "uri": "https://web.archive.org/web/20230712061201/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-07-14T13:52:15Z",
+        "uri": "https://web.archive.org/web/20230714135215/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-08-25T18:22:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230825182218/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-08-25T18:22:18Z",
+        "uri": "https://web.archive.org/web/20230825182218/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-09-25T19:31:18Z",
+        "uri": "https://web.archive.org/web/20230925193118/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-10-04T11:03:25Z",
+        "uri": "https://web.archive.org/web/20231004110325/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-11-28T03:54:17Z",
+        "uri": "https://web.archive.org/web/20231128035417/https://www.odu.edu/student-engagement-traditions"
+      },
+      {
+        "datetime": "2023-12-01T10:32:03Z",
+        "uri": "https://web.archive.org/web/20231201103203/https://www.odu.edu/student-engagement-traditions"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-12T06:12:01Z",
+      "uri": "https://web.archive.org/web/20230712061201/https://www.odu.edu/student-engagement-traditions"
+    },
+    "last": {
+      "datetime": "2023-12-01T10:32:03Z",
+      "uri": "https://web.archive.org/web/20231201103203/https://www.odu.edu/student-engagement-traditions"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/student-engagement-traditions",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/student-engagement-traditions"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/student-engagement-traditions"
+}

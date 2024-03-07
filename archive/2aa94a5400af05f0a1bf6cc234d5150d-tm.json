@@ -1,0 +1,135 @@
+ERROR: 2024/02/18 15:57:19.409946 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/lesley_elis": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/lesley_elis",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/lesley_elis",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-22T13:50:41Z",
+        "uri": "https://web.archive.org/web/20221122135041/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-22T18:47:17Z",
+        "uri": "https://web.archive.org/web/20221122184717/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T02:00:02Z",
+        "uri": "https://web.archive.org/web/20221123020002/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T05:05:29Z",
+        "uri": "https://web.archive.org/web/20221123050529/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T07:33:41Z",
+        "uri": "https://web.archive.org/web/20221123073341/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T12:23:53Z",
+        "uri": "https://web.archive.org/web/20221123122353/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T14:33:41Z",
+        "uri": "https://web.archive.org/web/20221123143341/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-23T20:16:07Z",
+        "uri": "https://web.archive.org/web/20221123201607/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T00:32:19Z",
+        "uri": "https://web.archive.org/web/20221124003219/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T02:58:17Z",
+        "uri": "https://web.archive.org/web/20221124025817/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T09:26:44Z",
+        "uri": "https://web.archive.org/web/20221124092644/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T11:41:04Z",
+        "uri": "https://web.archive.org/web/20221124114104/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T17:45:39Z",
+        "uri": "https://web.archive.org/web/20221124174539/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-24T23:54:20Z",
+        "uri": "https://web.archive.org/web/20221124235420/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-11-27T20:02:57Z",
+        "uri": "https://web.archive.org/web/20221127200257/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-08T01:51:38Z",
+        "uri": "https://web.archive.org/web/20221208015138/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-08T05:02:08Z",
+        "uri": "https://web.archive.org/web/20221208050208/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-18T08:41:06Z",
+        "uri": "https://web.archive.org/web/20221218084106/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-20T00:21:19Z",
+        "uri": "https://web.archive.org/web/20221220002119/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-20T16:52:31Z",
+        "uri": "https://web.archive.org/web/20221220165231/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-20T21:51:45Z",
+        "uri": "https://web.archive.org/web/20221220215145/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-21T04:12:21Z",
+        "uri": "https://web.archive.org/web/20221221041221/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2022-12-22T17:20:09Z",
+        "uri": "https://web.archive.org/web/20221222172009/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2023-03-02T14:00:10Z",
+        "uri": "http://archive.md/20230302140010/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2023-03-17T05:40:42Z",
+        "uri": "https://web.archive.org/web/20230317054042/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2023-03-17T05:42:07Z",
+        "uri": "https://web.archive.org/web/20230317054207/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2023-03-21T05:12:13Z",
+        "uri": "https://web.archive.org/web/20230321051213/https://twitter.com/lesley_elis"
+      },
+      {
+        "datetime": "2023-03-27T06:48:00Z",
+        "uri": "https://web.archive.org/web/20230327064800/https://twitter.com/lesley_elis"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-22T13:50:41Z",
+      "uri": "https://web.archive.org/web/20221122135041/https://twitter.com/lesley_elis"
+    },
+    "last": {
+      "datetime": "2023-03-27T06:48:00Z",
+      "uri": "https://web.archive.org/web/20230327064800/https://twitter.com/lesley_elis"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/lesley_elis",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/lesley_elis",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/lesley_elis"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/lesley_elis"
+}

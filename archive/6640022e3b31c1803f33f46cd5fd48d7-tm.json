@@ -1,0 +1,471 @@
+ERROR: 2024/02/18 17:59:18.699776 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://sigir.org/sigir2019/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://sigir.org/sigir2019/",
+  "self": "http://localhost:1208/timemap/json/https://sigir.org/sigir2019/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-09-12T01:01:08Z",
+        "uri": "https://web.archive.org/web/20160912010108/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2016-11-15T14:22:31Z",
+        "uri": "https://web.archive.org/web/20161115142231/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2017-02-04T14:20:51Z",
+        "uri": "https://web.archive.org/web/20170204142051/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2017-05-09T20:26:42Z",
+        "uri": "https://web.archive.org/web/20170509202642/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2017-07-11T03:35:41Z",
+        "uri": "https://web.archive.org/web/20170711033541/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2017-10-14T19:56:01Z",
+        "uri": "https://web.archive.org/web/20171014195601/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2017-10-14T19:56:01Z",
+        "uri": "https://web.archive.org/web/20171014195601/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-05-28T16:03:30Z",
+        "uri": "https://web.archive.org/web/20180528160330/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-05-28T16:03:30Z",
+        "uri": "https://web.archive.org/web/20180528160330/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-06-29T02:39:43Z",
+        "uri": "https://web.archive.org/web/20180629023943/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-06-29T02:39:43Z",
+        "uri": "https://web.archive.org/web/20180629023943/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-08-01T05:20:00Z",
+        "uri": "https://web.archive.org/web/20180801052000/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-08-01T05:20:00Z",
+        "uri": "https://web.archive.org/web/20180801052000/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-09-01T18:46:03Z",
+        "uri": "https://web.archive.org/web/20180901184603/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-09-01T18:46:03Z",
+        "uri": "https://web.archive.org/web/20180901184603/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-09-10T00:32:02Z",
+        "uri": "https://web.archive.org/web/20180910003202/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-10-05T00:26:37Z",
+        "uri": "https://web.archive.org/web/20181005002637/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-10-05T00:26:37Z",
+        "uri": "https://web.archive.org/web/20181005002637/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-11-12T04:52:23Z",
+        "uri": "https://web.archive.org/web/20181112045223/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2018-12-21T05:05:33Z",
+        "uri": "https://web.archive.org/web/20181221050533/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2018-12-21T05:05:33Z",
+        "uri": "https://web.archive.org/web/20181221050533/http://www.sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2018-12-22T18:19:27Z",
+        "uri": "https://web.archive.org/web/20181222181927/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-03-11T22:07:03Z",
+        "uri": "https://web.archive.org/web/20190311220703/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-04-10T19:43:26Z",
+        "uri": "https://web.archive.org/web/20190410194326/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2019-04-29T08:52:04Z",
+        "uri": "https://web.archive.org/web/20190429085204/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-05-11T21:19:56Z",
+        "uri": "https://web.archive.org/web/20190511211956/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-06-25T20:59:16Z",
+        "uri": "https://web.archive.org/web/20190625205916/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2019-06-29T06:52:35Z",
+        "uri": "https://web.archive.org/web/20190629065235/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2019-06-30T14:59:53Z",
+        "uri": "https://web.archive.org/web/20190630145953/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-07-14T08:49:47Z",
+        "uri": "https://web.archive.org/web/20190714084947/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-07-14T08:49:47Z",
+        "uri": "https://web.archive.org/web/20190714084947/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2019-07-15T11:57:44Z",
+        "uri": "https://web.archive.org/web/20190715115744/https://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2019-07-19T01:35:11Z",
+        "uri": "https://web.archive.org/web/20190719013511/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-07-19T01:35:11Z",
+        "uri": "https://web.archive.org/web/20190719013511/http://www.sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2019-08-30T04:06:02Z",
+        "uri": "https://web.archive.org/web/20190830040602/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-09-11T09:04:03Z",
+        "uri": "https://web.archive.org/web/20190911090403/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-09-11T09:04:03Z",
+        "uri": "https://web.archive.org/web/20190911090403/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2019-09-11T09:30:58Z",
+        "uri": "https://web.archive.org/web/20190911093058/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-09-11T09:30:58Z",
+        "uri": "https://web.archive.org/web/20190911093058/http://www.sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2019-09-13T20:29:40Z",
+        "uri": "https://web.archive.org/web/20190913202940/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-10-31T13:49:21Z",
+        "uri": "https://web.archive.org/web/20191031134921/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-11-01T01:43:25Z",
+        "uri": "https://web.archive.org/web/20191101014325/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-11-01T01:43:25Z",
+        "uri": "https://web.archive.org/web/20191101014325/http://www.sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2019-11-23T13:13:30Z",
+        "uri": "https://web.archive.org/web/20191123131330/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2019-11-30T14:34:29Z",
+        "uri": "https://web.archive.org/web/20191130143429/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2019-12-30T16:31:18Z",
+        "uri": "https://web.archive.org/web/20191230163118/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-12-31T16:38:04Z",
+        "uri": "https://web.archive.org/web/20191231163804/http://www.sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2019-12-31T16:38:04Z",
+        "uri": "https://web.archive.org/web/20191231163804/http://www.sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2020-02-06T22:56:05Z",
+        "uri": "https://arquivo.pt/wayback/20200206225605mp_/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-02-06T22:58:42Z",
+        "uri": "https://arquivo.pt/wayback/20200206225842mp_/https://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2020-02-06T22:59:03Z",
+        "uri": "https://arquivo.pt/wayback/20200206225903mp_/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-02-27T04:53:35Z",
+        "uri": "https://arquivo.pt/wayback/20200227045335mp_/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2020-04-06T07:50:08Z",
+        "uri": "https://web.archive.org/web/20200406075008/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-04-06T07:50:08Z",
+        "uri": "https://web.archive.org/web/20200406075008/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2020-04-26T17:35:32Z",
+        "uri": "https://web.archive.org/web/20200426173532/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-04-26T18:07:51Z",
+        "uri": "https://web.archive.org/web/20200426180751/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-05-05T14:08:19Z",
+        "uri": "https://web.archive.org/web/20200505140819/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-05-06T11:09:43Z",
+        "uri": "https://web.archive.org/web/20200506110943/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-05-06T11:09:43Z",
+        "uri": "https://web.archive.org/web/20200506110943/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2020-05-13T00:22:39Z",
+        "uri": "https://web.archive.org/web/20200513002239/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-06-05T14:42:31Z",
+        "uri": "https://web.archive.org/web/20200605144231/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-06-05T14:42:31Z",
+        "uri": "https://web.archive.org/web/20200605144231/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2020-06-18T13:03:35Z",
+        "uri": "https://web.archive.org/web/20200618130335/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-07-04T16:27:17Z",
+        "uri": "https://web.archive.org/web/20200704162717/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-07-05T20:36:43Z",
+        "uri": "https://web.archive.org/web/20200705203643/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-07-05T20:36:43Z",
+        "uri": "https://web.archive.org/web/20200705203643/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2020-07-31T04:37:50Z",
+        "uri": "https://web.archive.org/web/20200731043750/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2020-08-05T02:06:12Z",
+        "uri": "https://web.archive.org/web/20200805020612/http://sigir.org:80/sigir2019/"
+      },
+      {
+        "datetime": "2020-08-05T02:06:12Z",
+        "uri": "https://web.archive.org/web/20200805020612/http://sigir.org:80/sigir2019"
+      },
+      {
+        "datetime": "2021-03-07T23:38:48Z",
+        "uri": "https://web.archive.org/web/20210307233848/http://sigir.org/sigir2019//"
+      },
+      {
+        "datetime": "2021-03-08T19:36:01Z",
+        "uri": "https://arquivo.pt/wayback/20210308193601mp_/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-03-08T19:36:01Z",
+        "uri": "https://web.archive.org/web/20210308193601/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-06-22T14:31:03Z",
+        "uri": "https://web.archive.org/web/20210622143103/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-06-22T14:31:03Z",
+        "uri": "https://web.archive.org/web/20210622143103/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-08-18T20:37:43Z",
+        "uri": "https://web.archive.org/web/20210818203743/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-08-18T20:40:46Z",
+        "uri": "https://web.archive.org/web/20210818204046/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-09-16T01:17:56Z",
+        "uri": "https://arquivo.pt/wayback/20210916011756mp_/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-09-21T19:24:36Z",
+        "uri": "https://web.archive.org/web/20210921192436/http://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-11-14T13:48:47Z",
+        "uri": "https://web.archive.org/web/20211114134847/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-11-23T02:35:40Z",
+        "uri": "https://web.archive.org/web/20211123023540/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2021-12-07T03:49:45Z",
+        "uri": "https://web.archive.org/web/20211207034945/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-01-04T16:06:47Z",
+        "uri": "https://web.archive.org/web/20220104160647/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-01-23T06:54:47Z",
+        "uri": "https://web.archive.org/web/20220123065447/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-01-23T18:59:49Z",
+        "uri": "https://web.archive.org/web/20220123185949/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-01-23T18:59:49Z",
+        "uri": "https://web.archive.org/web/20220123185949/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2022-02-03T10:43:47Z",
+        "uri": "https://arquivo.pt/wayback/20220203104347mp_/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-03-16T04:31:45Z",
+        "uri": "https://web.archive.org/web/20220316043145/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-05-04T03:43:56Z",
+        "uri": "https://arquivo.pt/wayback/20220504034356mp_/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-05-28T22:07:26Z",
+        "uri": "https://web.archive.org/web/20220528220726/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-08-10T11:14:14Z",
+        "uri": "https://arquivo.pt/wayback/20220810111414mp_/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-08-11T17:46:17Z",
+        "uri": "https://web.archive.org/web/20220811174617/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-08-15T01:31:26Z",
+        "uri": "https://web.archive.org/web/20220815013126/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-09-25T19:52:23Z",
+        "uri": "https://web.archive.org/web/20220925195223/http://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-12-21T07:32:08Z",
+        "uri": "https://web.archive.org/web/20221221073208/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2022-12-21T07:32:13Z",
+        "uri": "https://web.archive.org/web/20221221073213/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-12-21T14:50:15Z",
+        "uri": "https://web.archive.org/web/20221221145015/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-12-21T14:50:15Z",
+        "uri": "https://web.archive.org/web/20221221145015/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2022-12-22T01:11:26Z",
+        "uri": "https://web.archive.org/web/20221222011126/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-12-22T11:05:05Z",
+        "uri": "https://web.archive.org/web/20221222110505/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2022-12-22T11:05:06Z",
+        "uri": "https://web.archive.org/web/20221222110506/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2022-12-22T11:54:16Z",
+        "uri": "https://web.archive.org/web/20221222115416/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-01-09T04:44:15Z",
+        "uri": "https://web.archive.org/web/20230109044415/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-01-29T03:28:13Z",
+        "uri": "https://arquivo.pt/wayback/20230129032813mp_/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-03-06T13:48:52Z",
+        "uri": "https://web.archive.org/web/20230306134852/http://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-03-06T13:49:11Z",
+        "uri": "https://web.archive.org/web/20230306134911/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-03-26T17:24:13Z",
+        "uri": "https://web.archive.org/web/20230326172413/http://sigir.org/sigir2019"
+      },
+      {
+        "datetime": "2023-10-02T03:51:43Z",
+        "uri": "https://web.archive.org/web/20231002035143/http://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-11-20T03:42:06Z",
+        "uri": "https://web.archive.org/web/20231120034206/https://www.sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-12-03T13:27:23Z",
+        "uri": "https://web.archive.org/web/20231203132723/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-12-03T14:12:35Z",
+        "uri": "https://web.archive.org/web/20231203141235/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-12-03T14:53:56Z",
+        "uri": "https://web.archive.org/web/20231203145356/https://sigir.org/sigir2019/"
+      },
+      {
+        "datetime": "2023-12-03T17:25:37Z",
+        "uri": "https://web.archive.org/web/20231203172537/https://sigir.org/sigir2019/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-09-12T01:01:08Z",
+      "uri": "https://web.archive.org/web/20160912010108/http://sigir.org:80/sigir2019"
+    },
+    "last": {
+      "datetime": "2023-12-03T17:25:37Z",
+      "uri": "https://web.archive.org/web/20231203172537/https://sigir.org/sigir2019/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://sigir.org/sigir2019/",
+    "json_format": "http://localhost:1208/timemap/json/https://sigir.org/sigir2019/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://sigir.org/sigir2019/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://sigir.org/sigir2019/"
+}

@@ -1,0 +1,1411 @@
+ERROR: 2024/02/18 19:57:56.006475 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/admission/undergraduate": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/admission/undergraduate",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/undergraduate",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T14:36:08Z",
+        "uri": "https://web.archive.org/web/20120831143608/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-01T20:12:27Z",
+        "uri": "https://web.archive.org/web/20120901201227/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-06T20:25:49Z",
+        "uri": "https://web.archive.org/web/20120906202549/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-19T00:24:34Z",
+        "uri": "https://web.archive.org/web/20120919002434/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-21T07:25:57Z",
+        "uri": "https://web.archive.org/web/20120921072557/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-21T13:25:40Z",
+        "uri": "https://web.archive.org/web/20120921132540/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-24T05:20:58Z",
+        "uri": "https://web.archive.org/web/20120924052058/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-09-26T05:02:14Z",
+        "uri": "https://web.archive.org/web/20120926050214/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-04T01:30:05Z",
+        "uri": "https://web.archive.org/web/20121004013005/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-10T13:35:19Z",
+        "uri": "https://web.archive.org/web/20121010133519/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-15T13:23:21Z",
+        "uri": "https://web.archive.org/web/20121015132321/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-19T04:56:21Z",
+        "uri": "https://web.archive.org/web/20121019045621/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-21T21:08:40Z",
+        "uri": "https://web.archive.org/web/20121021210840/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-23T07:08:49Z",
+        "uri": "https://web.archive.org/web/20121023070849/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-26T18:09:25Z",
+        "uri": "https://web.archive.org/web/20121026180925/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-10-29T15:19:14Z",
+        "uri": "https://web.archive.org/web/20121029151914/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-11-06T05:09:38Z",
+        "uri": "https://web.archive.org/web/20121106050938/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-11-18T08:06:23Z",
+        "uri": "https://web.archive.org/web/20121118080623/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-11-21T23:37:42Z",
+        "uri": "https://web.archive.org/web/20121121233742/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-11-23T23:33:28Z",
+        "uri": "https://web.archive.org/web/20121123233328/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-11-27T15:34:10Z",
+        "uri": "https://web.archive.org/web/20121127153410/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-11T11:54:53Z",
+        "uri": "https://web.archive.org/web/20121211115453/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-14T23:17:46Z",
+        "uri": "http://archive.md/20121214231746/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-15T10:02:35Z",
+        "uri": "https://web.archive.org/web/20121215100235/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-17T02:15:21Z",
+        "uri": "http://archive.md/20121217021521/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-17T10:29:24Z",
+        "uri": "https://web.archive.org/web/20121217102924/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-18T14:21:55Z",
+        "uri": "https://web.archive.org/web/20121218142155/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-25T12:20:45Z",
+        "uri": "https://web.archive.org/web/20121225122045/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2012-12-30T20:50:29Z",
+        "uri": "https://web.archive.org/web/20121230205029/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-06T05:32:04Z",
+        "uri": "https://web.archive.org/web/20130106053204/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-09T02:04:52Z",
+        "uri": "https://web.archive.org/web/20130109020452/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-15T17:17:12Z",
+        "uri": "https://web.archive.org/web/20130115171712/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-21T09:44:55Z",
+        "uri": "https://web.archive.org/web/20130121094455/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-22T19:59:00Z",
+        "uri": "https://web.archive.org/web/20130122195900/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-28T06:39:49Z",
+        "uri": "https://web.archive.org/web/20130128063949/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-31T01:22:29Z",
+        "uri": "https://web.archive.org/web/20130131012229/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-01-31T01:52:36Z",
+        "uri": "https://web.archive.org/web/20130131015236/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-02-16T09:05:16Z",
+        "uri": "https://web.archive.org/web/20130216090516/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-02-22T04:07:50Z",
+        "uri": "https://web.archive.org/web/20130222040750/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-01T10:17:47Z",
+        "uri": "https://web.archive.org/web/20130301101747/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-07T15:02:54Z",
+        "uri": "https://web.archive.org/web/20130307150254/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-12T09:35:35Z",
+        "uri": "https://web.archive.org/web/20130312093535/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-15T11:53:17Z",
+        "uri": "https://web.archive.org/web/20130315115317/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-23T00:37:16Z",
+        "uri": "https://web.archive.org/web/20130323003716/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-23T17:15:49Z",
+        "uri": "https://web.archive.org/web/20130323171549/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-03-30T00:32:44Z",
+        "uri": "https://web.archive.org/web/20130330003244/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-05T08:02:01Z",
+        "uri": "https://web.archive.org/web/20130405080201/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-06T18:19:06Z",
+        "uri": "https://web.archive.org/web/20130406181906/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-10T05:29:14Z",
+        "uri": "https://web.archive.org/web/20130410052914/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-11T20:19:23Z",
+        "uri": "https://web.archive.org/web/20130411201923/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-11T21:38:45Z",
+        "uri": "https://web.archive.org/web/20130411213845/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-14T14:34:29Z",
+        "uri": "https://web.archive.org/web/20130414143429/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-23T05:14:14Z",
+        "uri": "https://web.archive.org/web/20130423051414/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-26T13:12:31Z",
+        "uri": "https://web.archive.org/web/20130426131231/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-04-26T17:26:45Z",
+        "uri": "https://web.archive.org/web/20130426172645/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-01T06:48:45Z",
+        "uri": "https://web.archive.org/web/20130501064845/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-07T05:34:50Z",
+        "uri": "https://web.archive.org/web/20130507053450/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-10T21:20:44Z",
+        "uri": "https://web.archive.org/web/20130510212044/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-22T15:14:45Z",
+        "uri": "https://web.archive.org/web/20130522151445/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-24T07:17:15Z",
+        "uri": "https://web.archive.org/web/20130524071715/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-28T15:21:12Z",
+        "uri": "https://web.archive.org/web/20130528152112/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-05-29T19:44:10Z",
+        "uri": "https://web.archive.org/web/20130529194410/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-06-01T22:21:25Z",
+        "uri": "https://web.archive.org/web/20130601222125/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-06-28T12:42:25Z",
+        "uri": "https://web.archive.org/web/20130628124225/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-07-03T20:50:03Z",
+        "uri": "https://web.archive.org/web/20130703205003/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-07-07T00:14:17Z",
+        "uri": "https://web.archive.org/web/20130707001417/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-07-09T22:39:42Z",
+        "uri": "https://web.archive.org/web/20130709223942/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-07-16T03:19:42Z",
+        "uri": "https://web.archive.org/web/20130716031942/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-07-22T14:33:40Z",
+        "uri": "https://web.archive.org/web/20130722143340/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-08-06T05:05:43Z",
+        "uri": "https://web.archive.org/web/20130806050543/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-08-06T11:46:47Z",
+        "uri": "https://web.archive.org/web/20130806114647/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-09-06T05:11:51Z",
+        "uri": "https://web.archive.org/web/20130906051151/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-09-29T20:34:21Z",
+        "uri": "https://web.archive.org/web/20130929203421/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-10-07T01:31:10Z",
+        "uri": "https://web.archive.org/web/20131007013110/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-11-08T21:19:13Z",
+        "uri": "https://web.archive.org/web/20131108211913/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-11-09T21:26:41Z",
+        "uri": "https://web.archive.org/web/20131109212641/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-11-27T14:55:26Z",
+        "uri": "https://web.archive.org/web/20131127145526/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2013-12-10T18:23:26Z",
+        "uri": "https://web.archive.org/web/20131210182326/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-01-10T16:08:04Z",
+        "uri": "https://web.archive.org/web/20140110160804/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-02-09T04:28:47Z",
+        "uri": "https://web.archive.org/web/20140209042847/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-02-10T04:26:35Z",
+        "uri": "https://web.archive.org/web/20140210042635/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-02-13T12:06:17Z",
+        "uri": "https://web.archive.org/web/20140213120617/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-03-10T04:41:51Z",
+        "uri": "https://web.archive.org/web/20140310044151/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-03-13T16:39:53Z",
+        "uri": "https://web.archive.org/web/20140313163953/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-03-23T19:25:27Z",
+        "uri": "https://web.archive.org/web/20140323192527/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-03-30T11:58:53Z",
+        "uri": "https://web.archive.org/web/20140330115853/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-04-22T20:33:37Z",
+        "uri": "https://web.archive.org/web/20140422203337/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-05-14T12:48:24Z",
+        "uri": "https://web.archive.org/web/20140514124824/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-05-24T00:58:03Z",
+        "uri": "https://web.archive.org/web/20140524005803/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-05-25T17:25:16Z",
+        "uri": "https://web.archive.org/web/20140525172516/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-06-22T06:19:32Z",
+        "uri": "https://web.archive.org/web/20140622061932/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-06-25T05:08:49Z",
+        "uri": "https://web.archive.org/web/20140625050849/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-07-14T01:15:12Z",
+        "uri": "https://web.archive.org/web/20140714011512/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-07-23T03:34:07Z",
+        "uri": "https://web.archive.org/web/20140723033407/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-08-14T07:24:08Z",
+        "uri": "https://web.archive.org/web/20140814072408/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2014-08-23T01:40:25Z",
+        "uri": "https://web.archive.org/web/20140823014025/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-02-16T22:46:38Z",
+        "uri": "https://web.archive.org/web/20150216224638/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-08-14T22:23:48Z",
+        "uri": "https://web.archive.org/web/20150814222348/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-09-09T17:02:43Z",
+        "uri": "https://web.archive.org/web/20150909170243/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-09-12T01:00:55Z",
+        "uri": "https://web.archive.org/web/20150912010055/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-09-25T00:48:13Z",
+        "uri": "https://web.archive.org/web/20150925004813/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-10-16T03:48:47Z",
+        "uri": "https://web.archive.org/web/20151016034847/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-10-31T03:20:03Z",
+        "uri": "https://web.archive.org/web/20151031032003/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-12-11T14:42:02Z",
+        "uri": "https://web.archive.org/web/20151211144202/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2015-12-31T02:51:24Z",
+        "uri": "https://web.archive.org/web/20151231025124/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-02-07T00:06:27Z",
+        "uri": "https://web.archive.org/web/20160207000627/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-10-27T07:41:55Z",
+        "uri": "https://web.archive.org/web/20161027074155/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-11-07T06:25:01Z",
+        "uri": "https://web.archive.org/web/20161107062501/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-11-20T09:19:28Z",
+        "uri": "https://web.archive.org/web/20161120091928/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-11-21T17:32:29Z",
+        "uri": "https://web.archive.org/web/20161121173229/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2016-11-30T12:58:49Z",
+        "uri": "https://web.archive.org/web/20161130125849/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-02-03T07:14:04Z",
+        "uri": "https://web.archive.org/web/20170203071404/http://www.odu.edu:80/admission/undergraduate?"
+      },
+      {
+        "datetime": "2017-03-18T09:48:43Z",
+        "uri": "https://web.archive.org/web/20170318094843/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-03-26T06:23:12Z",
+        "uri": "https://web.archive.org/web/20170326062312/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-04-19T01:52:58Z",
+        "uri": "https://web.archive.org/web/20170419015258/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-05-01T08:35:32Z",
+        "uri": "https://web.archive.org/web/20170501083532/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-05-07T00:46:10Z",
+        "uri": "https://web.archive.org/web/20170507004610/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-05-23T04:26:55Z",
+        "uri": "https://web.archive.org/web/20170523042655/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-06-06T00:51:28Z",
+        "uri": "https://web.archive.org/web/20170606005128/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-06-07T01:53:50Z",
+        "uri": "https://web.archive.org/web/20170607015350/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-06-11T19:28:00Z",
+        "uri": "https://web.archive.org/web/20170611192800/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-06-22T17:46:28Z",
+        "uri": "https://web.archive.org/web/20170622174628/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-07-07T22:55:55Z",
+        "uri": "https://web.archive.org/web/20170707225555/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-07-09T03:42:06Z",
+        "uri": "https://web.archive.org/web/20170709034206/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-07-24T07:20:38Z",
+        "uri": "https://web.archive.org/web/20170724072038/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-08-09T16:53:57Z",
+        "uri": "https://web.archive.org/web/20170809165357/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-08-13T23:15:15Z",
+        "uri": "https://web.archive.org/web/20170813231515/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-09-09T06:46:11Z",
+        "uri": "https://web.archive.org/web/20170909064611/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-09-11T03:13:32Z",
+        "uri": "https://web.archive.org/web/20170911031332/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-09-13T14:45:01Z",
+        "uri": "https://web.archive.org/web/20170913144501/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-09-23T17:35:11Z",
+        "uri": "https://web.archive.org/web/20170923173511/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-10-14T02:26:37Z",
+        "uri": "https://web.archive.org/web/20171014022637/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-11-10T15:56:04Z",
+        "uri": "https://web.archive.org/web/20171110155604/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-11-13T23:00:05Z",
+        "uri": "https://web.archive.org/web/20171113230005/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-11-17T12:00:48Z",
+        "uri": "https://web.archive.org/web/20171117120048/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-12-14T17:44:30Z",
+        "uri": "https://web.archive.org/web/20171214174430/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2017-12-18T04:18:29Z",
+        "uri": "https://web.archive.org/web/20171218041829/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-01-14T21:00:25Z",
+        "uri": "https://web.archive.org/web/20180114210025/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-01-18T05:29:51Z",
+        "uri": "https://web.archive.org/web/20180118052951/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-02-15T03:38:02Z",
+        "uri": "https://web.archive.org/web/20180215033802/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-02-18T16:12:09Z",
+        "uri": "https://web.archive.org/web/20180218161209/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-03-19T00:18:37Z",
+        "uri": "https://web.archive.org/web/20180319001837/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-03-19T20:39:17Z",
+        "uri": "https://web.archive.org/web/20180319203917/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-03-23T11:14:43Z",
+        "uri": "https://web.archive.org/web/20180323111443/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-04-19T13:32:51Z",
+        "uri": "https://web.archive.org/web/20180419133251/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-04-24T00:25:29Z",
+        "uri": "https://web.archive.org/web/20180424002529/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-05-22T21:09:30Z",
+        "uri": "https://web.archive.org/web/20180522210930/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-05-25T10:11:09Z",
+        "uri": "https://web.archive.org/web/20180525101109/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-06-22T13:28:41Z",
+        "uri": "https://web.archive.org/web/20180622132841/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-06-26T02:30:52Z",
+        "uri": "https://web.archive.org/web/20180626023052/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-07-23T16:39:43Z",
+        "uri": "https://web.archive.org/web/20180723163943/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-07-27T07:09:21Z",
+        "uri": "https://web.archive.org/web/20180727070921/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-08-23T20:08:37Z",
+        "uri": "https://web.archive.org/web/20180823200837/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-08-27T08:42:54Z",
+        "uri": "https://web.archive.org/web/20180827084254/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-09-08T06:44:43Z",
+        "uri": "https://web.archive.org/web/20180908064443/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-09-12T08:00:57Z",
+        "uri": "https://web.archive.org/web/20180912080057/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-09-23T23:16:08Z",
+        "uri": "https://web.archive.org/web/20180923231608/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-09-27T19:12:09Z",
+        "uri": "https://web.archive.org/web/20180927191209/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-10-25T11:40:49Z",
+        "uri": "https://web.archive.org/web/20181025114049/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-10-28T17:47:49Z",
+        "uri": "https://web.archive.org/web/20181028174749/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-11-05T18:09:19Z",
+        "uri": "https://web.archive.org/web/20181105180919/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-11-25T13:17:20Z",
+        "uri": "https://web.archive.org/web/20181125131720/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-11-28T17:31:13Z",
+        "uri": "https://web.archive.org/web/20181128173113/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-12-26T12:29:35Z",
+        "uri": "https://web.archive.org/web/20181226122935/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2018-12-30T10:55:09Z",
+        "uri": "https://web.archive.org/web/20181230105509/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-01-26T18:08:56Z",
+        "uri": "https://web.archive.org/web/20190126180856/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-01-30T11:46:11Z",
+        "uri": "https://web.archive.org/web/20190130114611/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-02-26T23:53:17Z",
+        "uri": "https://web.archive.org/web/20190226235317/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-03-02T15:29:25Z",
+        "uri": "https://web.archive.org/web/20190302152925/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-03-30T04:04:39Z",
+        "uri": "https://web.archive.org/web/20190330040439/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-04-02T16:58:03Z",
+        "uri": "https://web.archive.org/web/20190402165803/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-04-08T20:22:28Z",
+        "uri": "https://web.archive.org/web/20190408202228/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-04-17T11:34:40Z",
+        "uri": "https://web.archive.org/web/20190417113440/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-04-30T04:58:07Z",
+        "uri": "https://web.archive.org/web/20190430045807/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-05-03T14:58:25Z",
+        "uri": "https://web.archive.org/web/20190503145825/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-06-01T19:47:20Z",
+        "uri": "https://web.archive.org/web/20190601194720/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-06-04T05:00:28Z",
+        "uri": "https://web.archive.org/web/20190604050028/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-06-04T20:23:20Z",
+        "uri": "https://web.archive.org/web/20190604202320/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-06-05T05:51:10Z",
+        "uri": "https://web.archive.org/web/20190605055110/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-07-03T14:58:33Z",
+        "uri": "https://web.archive.org/web/20190703145833/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-07-06T06:12:58Z",
+        "uri": "https://web.archive.org/web/20190706061258/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-08-03T19:31:52Z",
+        "uri": "https://web.archive.org/web/20190803193152/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-08-06T17:49:37Z",
+        "uri": "https://web.archive.org/web/20190806174937/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-09-04T00:01:42Z",
+        "uri": "https://web.archive.org/web/20190904000142/http://odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-09-06T19:40:09Z",
+        "uri": "https://web.archive.org/web/20190906194009/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-10-16T05:31:15Z",
+        "uri": "https://web.archive.org/web/20191016053115/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-11-08T18:51:29Z",
+        "uri": "https://web.archive.org/web/20191108185129/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2019-12-15T09:09:59Z",
+        "uri": "https://web.archive.org/web/20191215090959/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-02-13T14:38:15Z",
+        "uri": "https://web.archive.org/web/20200213143815/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-02-14T15:14:31Z",
+        "uri": "https://web.archive.org/web/20200214151431/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:27:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192744/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:27:44Z",
+        "uri": "https://web.archive.org/web/20200416192744/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:28:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192826/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:28:26Z",
+        "uri": "https://web.archive.org/web/20200416192826/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:28:50Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192850/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-16T19:28:50Z",
+        "uri": "https://web.archive.org/web/20200416192850/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-04-24T12:56:44Z",
+        "uri": "https://web.archive.org/web/20200424125644/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-05-03T11:07:29Z",
+        "uri": "https://web.archive.org/web/20200503110729/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-07-02T14:59:39Z",
+        "uri": "https://web.archive.org/web/20200702145939/http://www.odu.edu:80/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-07-12T10:50:07Z",
+        "uri": "https://web.archive.org/web/20200712105007/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-07-12T10:50:11Z",
+        "uri": "https://web.archive.org/web/20200712105011/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-07-14T00:28:24Z",
+        "uri": "https://web.archive.org/web/20200714002824/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-08-05T23:51:25Z",
+        "uri": "https://web.archive.org/web/20200805235125/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-08-30T22:13:21Z",
+        "uri": "https://web.archive.org/web/20200830221321/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-10-07T14:01:13Z",
+        "uri": "https://web.archive.org/web/20201007140113/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2020-11-02T06:53:03Z",
+        "uri": "https://web.archive.org/web/20201102065303/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-01-05T20:58:30Z",
+        "uri": "https://web.archive.org/web/20210105205830/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-08T08:14:58Z",
+        "uri": "https://web.archive.org/web/20210408081458/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-09T23:28:51Z",
+        "uri": "https://web.archive.org/web/20210409232851/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-13T17:32:40Z",
+        "uri": "https://web.archive.org/web/20210413173240/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-14T05:53:47Z",
+        "uri": "https://web.archive.org/web/20210414055347/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-14T08:33:21Z",
+        "uri": "https://web.archive.org/web/20210414083321/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-23T17:02:25Z",
+        "uri": "https://web.archive.org/web/20210423170225/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-25T20:53:21Z",
+        "uri": "https://web.archive.org/web/20210425205321/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-04-30T20:12:19Z",
+        "uri": "https://web.archive.org/web/20210430201219/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-20T23:26:10Z",
+        "uri": "https://web.archive.org/web/20210520232610/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:08Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200208/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:08Z",
+        "uri": "https://web.archive.org/web/20210526200208/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:13Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200213/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:13Z",
+        "uri": "https://web.archive.org/web/20210526200213/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:21Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200221/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-26T20:02:21Z",
+        "uri": "https://web.archive.org/web/20210526200221/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-31T00:23:07Z",
+        "uri": "https://wayback.archive-it.org/all/20210531002307/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-05-31T00:23:07Z",
+        "uri": "https://web.archive.org/web/20210531002307/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-08-11T19:22:04Z",
+        "uri": "https://web.archive.org/web/20210811192204/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-08-12T08:29:02Z",
+        "uri": "https://web.archive.org/web/20210812082902/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-08-12T22:23:13Z",
+        "uri": "https://web.archive.org/web/20210812222313/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-09-10T15:37:12Z",
+        "uri": "https://arquivo.pt/wayback/20210910153712mp_/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-10-11T08:41:08Z",
+        "uri": "https://web.archive.org/web/20211011084108/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-10-11T08:43:31Z",
+        "uri": "https://web.archive.org/web/20211011084331/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-10-20T02:56:23Z",
+        "uri": "https://web.archive.org/web/20211020025623/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-03T11:17:59Z",
+        "uri": "https://arquivo.pt/wayback/20211103111759mp_/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-03T11:18:04Z",
+        "uri": "https://arquivo.pt/wayback/20211103111804mp_/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-10T14:16:12Z",
+        "uri": "https://web.archive.org/web/20211110141612/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-22T19:25:14Z",
+        "uri": "https://web.archive.org/web/20211122192514/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-22T19:26:27Z",
+        "uri": "https://web.archive.org/web/20211122192627/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2021-11-30T22:23:31Z",
+        "uri": "https://web.archive.org/web/20211130222331/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-08T00:01:44Z",
+        "uri": "https://web.archive.org/web/20220108000144/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-08T16:37:33Z",
+        "uri": "https://web.archive.org/web/20220108163733/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-13T19:30:13Z",
+        "uri": "https://web.archive.org/web/20220113193013/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-19T00:48:18Z",
+        "uri": "https://web.archive.org/web/20220119004818/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-19T01:16:12Z",
+        "uri": "https://web.archive.org/web/20220119011612/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-21T21:46:21Z",
+        "uri": "https://web.archive.org/web/20220121214621/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-22T05:15:03Z",
+        "uri": "https://web.archive.org/web/20220122051503/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-22T10:34:42Z",
+        "uri": "https://arquivo.pt/wayback/20220122103442mp_/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-24T20:26:48Z",
+        "uri": "https://web.archive.org/web/20220124202648/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-26T05:35:57Z",
+        "uri": "https://arquivo.pt/wayback/20220126053557mp_/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-01-31T22:16:18Z",
+        "uri": "https://web.archive.org/web/20220131221618/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-02-11T07:46:26Z",
+        "uri": "https://arquivo.pt/wayback/20220211074626mp_/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-02-17T23:58:11Z",
+        "uri": "https://web.archive.org/web/20220217235811/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-03-19T20:05:38Z",
+        "uri": "https://web.archive.org/web/20220319200538/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-03-19T20:05:39Z",
+        "uri": "https://web.archive.org/web/20220319200539/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-03-19T21:56:50Z",
+        "uri": "https://web.archive.org/web/20220319215650/https://www.odu.edu/admission/undergraduate/"
+      },
+      {
+        "datetime": "2022-04-17T05:42:13Z",
+        "uri": "https://arquivo.pt/wayback/20220417054213mp_/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-04-22T17:18:03Z",
+        "uri": "https://arquivo.pt/wayback/20220422171803mp_/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-04-22T17:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20220422171807mp_/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-04-24T18:52:57Z",
+        "uri": "https://arquivo.pt/wayback/20220424185257mp_/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-05-14T05:03:45Z",
+        "uri": "https://web.archive.org/web/20220514050345/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-05-19T17:55:29Z",
+        "uri": "https://web.archive.org/web/20220519175529/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-05-25T09:47:22Z",
+        "uri": "https://web.archive.org/web/20220525094722/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-08T14:59:34Z",
+        "uri": "https://web.archive.org/web/20220608145934/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-08T14:59:41Z",
+        "uri": "https://web.archive.org/web/20220608145941/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-15T05:42:02Z",
+        "uri": "https://web.archive.org/web/20220615054202/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T00:28:35Z",
+        "uri": "https://web.archive.org/web/20220619002835/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T03:20:55Z",
+        "uri": "https://web.archive.org/web/20220619032055/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T11:21:46Z",
+        "uri": "https://web.archive.org/web/20220619112146/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T11:25:27Z",
+        "uri": "https://web.archive.org/web/20220619112527/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T23:28:37Z",
+        "uri": "https://web.archive.org/web/20220619232837/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-06-19T23:30:57Z",
+        "uri": "https://web.archive.org/web/20220619233057/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-07-30T14:50:32Z",
+        "uri": "https://arquivo.pt/wayback/20220730145032mp_/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-02T17:32:20Z",
+        "uri": "https://web.archive.org/web/20220802173220/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-02T22:34:13Z",
+        "uri": "https://web.archive.org/web/20220802223413/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-03T06:04:18Z",
+        "uri": "https://web.archive.org/web/20220803060418/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-04T01:10:34Z",
+        "uri": "https://web.archive.org/web/20220804011034/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-04T10:22:01Z",
+        "uri": "https://web.archive.org/web/20220804102201/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-04T18:41:59Z",
+        "uri": "https://web.archive.org/web/20220804184159/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-06T12:39:31Z",
+        "uri": "https://web.archive.org/web/20220806123931/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-07T23:10:41Z",
+        "uri": "https://web.archive.org/web/20220807231041/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-08T19:20:57Z",
+        "uri": "https://web.archive.org/web/20220808192057/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T10:57:16Z",
+        "uri": "https://web.archive.org/web/20220810105716/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:09:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200958/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:09:58Z",
+        "uri": "https://web.archive.org/web/20220810200958/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:10:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201017/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:10:17Z",
+        "uri": "https://web.archive.org/web/20220810201017/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:10:38Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201038/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-10T20:10:38Z",
+        "uri": "https://web.archive.org/web/20220810201038/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-14T10:08:46Z",
+        "uri": "https://web.archive.org/web/20220814100846/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-14T11:25:57Z",
+        "uri": "https://web.archive.org/web/20220814112557/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-14T12:19:27Z",
+        "uri": "https://web.archive.org/web/20220814121927/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-15T01:05:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220815010506/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-15T01:05:06Z",
+        "uri": "https://web.archive.org/web/20220815010506/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-19T13:04:57Z",
+        "uri": "https://web.archive.org/web/20220819130457/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-08-22T16:14:39Z",
+        "uri": "https://web.archive.org/web/20220822161439/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-09-22T11:49:42Z",
+        "uri": "https://web.archive.org/web/20220922114942/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-10-02T09:34:16Z",
+        "uri": "https://web.archive.org/web/20221002093416/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-10-11T02:24:39Z",
+        "uri": "https://arquivo.pt/wayback/20221011022439mp_/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-10-14T05:15:52Z",
+        "uri": "https://web.archive.org/web/20221014051552/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-10-22T06:21:02Z",
+        "uri": "https://web.archive.org/web/20221022062102/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-10-31T12:12:59Z",
+        "uri": "https://web.archive.org/web/20221031121259/http://odu.edu/admission/undergraduate/"
+      },
+      {
+        "datetime": "2022-10-31T12:13:19Z",
+        "uri": "https://web.archive.org/web/20221031121319/https://odu.edu/admission/undergraduate/"
+      },
+      {
+        "datetime": "2022-10-31T12:13:21Z",
+        "uri": "https://web.archive.org/web/20221031121321/http://www.odu.edu/admission/undergraduate/"
+      },
+      {
+        "datetime": "2022-10-31T12:13:22Z",
+        "uri": "https://web.archive.org/web/20221031121322/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-11-07T05:36:03Z",
+        "uri": "https://wayback.archive-it.org/all/20221107053603/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-11-07T05:36:03Z",
+        "uri": "https://web.archive.org/web/20221107053603/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-11-08T09:38:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221108093857/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-11-08T09:38:57Z",
+        "uri": "https://web.archive.org/web/20221108093857/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-03T22:13:56Z",
+        "uri": "https://web.archive.org/web/20221203221356/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-07T09:12:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221207091244/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-07T09:12:44Z",
+        "uri": "https://web.archive.org/web/20221207091244/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-08T05:50:35Z",
+        "uri": "https://web.archive.org/web/20221208055035/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-08T05:58:49Z",
+        "uri": "https://web.archive.org/web/20221208055849/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-08T05:59:30Z",
+        "uri": "https://web.archive.org/web/20221208055930/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-11T22:53:07Z",
+        "uri": "https://wayback.archive-it.org/all/20221211225307/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2022-12-11T22:53:07Z",
+        "uri": "https://web.archive.org/web/20221211225307/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-07T08:31:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230107083156/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-07T08:31:56Z",
+        "uri": "https://web.archive.org/web/20230107083156/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-13T08:37:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230113083724/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-13T08:37:24Z",
+        "uri": "https://web.archive.org/web/20230113083724/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-24T18:04:39Z",
+        "uri": "https://arquivo.pt/wayback/20230124180439mp_/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-26T18:16:50Z",
+        "uri": "https://web.archive.org/web/20230126181650/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-01-26T18:16:50Z",
+        "uri": "https://web.archive.org/web/20230126181650/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-02-07T06:54:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230207065427/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-02-07T06:54:27Z",
+        "uri": "https://web.archive.org/web/20230207065427/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-02-12T22:35:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230212223538/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-02-12T22:35:38Z",
+        "uri": "https://web.archive.org/web/20230212223538/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-02-20T00:51:00Z",
+        "uri": "https://web.archive.org/web/20230220005100/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-07T04:37:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043737/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-07T04:37:37Z",
+        "uri": "https://web.archive.org/web/20230307043737/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-08T10:18:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230308101802/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-08T10:18:02Z",
+        "uri": "https://web.archive.org/web/20230308101802/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-27T22:31:52Z",
+        "uri": "https://web.archive.org/web/20230327223152/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-03-29T22:10:53Z",
+        "uri": "https://web.archive.org/web/20230329221053/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-25T17:05:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230825170553/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-25T17:05:53Z",
+        "uri": "https://web.archive.org/web/20230825170553/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-25T17:56:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175626/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-25T17:56:26Z",
+        "uri": "https://web.archive.org/web/20230825175626/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-26T03:26:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230826032652/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-26T03:26:52Z",
+        "uri": "https://web.archive.org/web/20230826032652/http://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-27T02:22:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022218/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-08-27T02:22:18Z",
+        "uri": "https://web.archive.org/web/20230827022218/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-10-04T09:20:12Z",
+        "uri": "https://web.archive.org/web/20231004092012/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-11-28T03:54:18Z",
+        "uri": "https://web.archive.org/web/20231128035418/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-12-26T20:49:45Z",
+        "uri": "https://web.archive.org/web/20231226204945/https://odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2023-12-26T20:49:46Z",
+        "uri": "https://web.archive.org/web/20231226204946/https://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2024-01-17T00:36:04Z",
+        "uri": "https://web.archive.org/web/20240117003604/http://www.odu.edu/admission/undergraduate"
+      },
+      {
+        "datetime": "2024-01-17T00:36:05Z",
+        "uri": "https://web.archive.org/web/20240117003605/https://www.odu.edu/admission/undergraduate"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T14:36:08Z",
+      "uri": "https://web.archive.org/web/20120831143608/http://www.odu.edu:80/admission/undergraduate"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:36:05Z",
+      "uri": "https://web.archive.org/web/20240117003605/https://www.odu.edu/admission/undergraduate"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/undergraduate",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/undergraduate",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/undergraduate"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/undergraduate"
+}

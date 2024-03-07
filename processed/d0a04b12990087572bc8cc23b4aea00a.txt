@@ -1,0 +1,16 @@
+Back to Top ↑
+2014
+Shahram Mohrehkesh and Michele C. Weigle, “Optimizing Energy Consumption in Terahertz Band Nanonetworks,” IEEE Journal on Selected Areas in Communications, Series on Molecular, Biological, and Multi-Scale Communications, Vol. 32, No. 12, December 2014, pp. 2432-2441.
+Michele C. Weigle, “Tools for Managing the Past Web,” Talk given at the Archive-It Partners Meeting, November 2014.
+Michael Ruffing, Yang He, Jason Hallstrom, Mat Kelly, Stephan Olariu, and Michele C. Weigle, “A Retasking Framework For Wireless Sensor Networks,” In Proceedings of the Military Communications Conference (MILCOM). Baltimore, MD, October 2014.
+Xianping Wang, Aaron Walden, Michele C. Weigle, and Stephan Olariu, “Strategies for Sensor Data Aggregation in Support of Emergency Response,” In Proceedings of the Military Communications Conference (MILCOM). Baltimore, MD, October 2014.
+Shahram Mohrehkesh, Aaron Walden, Xianping Wang, Michele C. Weigle, and Stephan Olariu, “Towards Building Asset Registry in Emergency Response,” In Proceedings of the ACM Annual International Workshop on Mission-Oriented Wireless Sensor Networking (MiSeNet). Philadelphia, PA, October 2014. Best Paper Award.
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, “Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). London, September 2014, pp. 321-330. Best Student Paper Award.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “The Archival Acid Test: Evaluating Archive Performance on Advanced HTML and JavaScript,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). London, September 2014, pp. 25-28.
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “Mink: Integrating the Live and Archived Web Viewing Experience Using Web Browsers and Memento,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). London, September 2014, pp. 469-470.
+Michele C. Weigle, “Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher,” Talk given at the NEH ODH Project Directors’ Meeting, September 2014.
+Yasmin AlNoamany, Ahmed AlSum, Michele C. Weigle, and Michael L. Nelson, “Who and What Links to the Internet Archive,” International Journal of Digital Libraries (IJDL), Vol. 14, No. 3-4, August 2014, pp. 101-115.
+Ahmed AlSum, Michele C. Weigle, Michael L. Nelson, and Herbert Van de Sompel, “Profiling Web Archive Coverage for Top-Level Domain and Content Language,” International Journal of Digital Libraries (IJDL), Vol. 14, No. 3-4, August 2014, pp. 149-166.
+Shahram Mohrehkesh and Michele C. Weigle, “RIH-MAC: Receiver-Initiated Harvesting-aware MAC for NanoNetworks,” In Proceedings of the ACM International Conference on Nanoscale Computing and Communication. Atlanta, GA, May 2014.
+Stephan Olariu, Shahram Mohrehkesh, Xianping Wang, and Michele C. Weigle, “On Aggregating Information in Actor Networks,” SIGMOBILE Mobile Computing Communications Review, Vol. 18, No. 1, January 2014, pp. 85-96.
+Share on

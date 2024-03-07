@@ -1,0 +1,1451 @@
+ERROR: 2024/02/18 19:20:39.149890 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://mademistakes.com/work/jekyll-themes/minimal-mistakes/",
+  "self": "http://localhost:1208/timemap/json/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-06T22:22:06Z",
+        "uri": "https://web.archive.org/web/20221106222206/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-09T15:20:43Z",
+        "uri": "https://web.archive.org/web/20221109152043/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-09T15:20:50Z",
+        "uri": "https://web.archive.org/web/20221109152050/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-12T10:10:03Z",
+        "uri": "https://web.archive.org/web/20221112101003/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-15T14:03:30Z",
+        "uri": "https://web.archive.org/web/20221115140330/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-18T13:51:27Z",
+        "uri": "https://web.archive.org/web/20221118135127/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-23T16:10:49Z",
+        "uri": "https://web.archive.org/web/20221123161049/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-27T00:21:19Z",
+        "uri": "https://web.archive.org/web/20221127002119/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-27T00:21:23Z",
+        "uri": "https://web.archive.org/web/20221127002123/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-28T00:58:35Z",
+        "uri": "https://web.archive.org/web/20221128005835/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-28T00:58:40Z",
+        "uri": "https://web.archive.org/web/20221128005840/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-11-28T12:46:54Z",
+        "uri": "https://web.archive.org/web/20221128124654/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-01T11:22:45Z",
+        "uri": "https://web.archive.org/web/20221201112245/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-02T18:14:56Z",
+        "uri": "https://web.archive.org/web/20221202181456/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-06T21:58:43Z",
+        "uri": "https://web.archive.org/web/20221206215843/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-06T21:58:47Z",
+        "uri": "https://web.archive.org/web/20221206215847/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-07T03:49:43Z",
+        "uri": "https://web.archive.org/web/20221207034943/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-08T11:45:01Z",
+        "uri": "https://web.archive.org/web/20221208114501/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-08T22:47:43Z",
+        "uri": "https://web.archive.org/web/20221208224743/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-12T10:38:59Z",
+        "uri": "https://web.archive.org/web/20221212103859/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-12T19:25:05Z",
+        "uri": "https://web.archive.org/web/20221212192505/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-13T23:40:00Z",
+        "uri": "https://web.archive.org/web/20221213234000/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-13T23:40:07Z",
+        "uri": "https://web.archive.org/web/20221213234007/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-14T05:22:16Z",
+        "uri": "https://web.archive.org/web/20221214052216/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-16T09:43:38Z",
+        "uri": "https://web.archive.org/web/20221216094338/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-18T08:29:50Z",
+        "uri": "https://web.archive.org/web/20221218082950/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-20T02:45:09Z",
+        "uri": "https://web.archive.org/web/20221220024509/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-21T16:31:32Z",
+        "uri": "https://web.archive.org/web/20221221163132/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-22T07:16:13Z",
+        "uri": "https://web.archive.org/web/20221222071613/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-22T08:28:11Z",
+        "uri": "https://web.archive.org/web/20221222082811/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-22T15:11:40Z",
+        "uri": "https://web.archive.org/web/20221222151140/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-22T15:11:59Z",
+        "uri": "https://web.archive.org/web/20221222151159/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-22T19:50:59Z",
+        "uri": "https://web.archive.org/web/20221222195059/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-23T10:13:04Z",
+        "uri": "https://web.archive.org/web/20221223101304/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-24T14:46:40Z",
+        "uri": "https://web.archive.org/web/20221224144640/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-24T22:44:44Z",
+        "uri": "https://web.archive.org/web/20221224224444/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-24T22:44:51Z",
+        "uri": "https://web.archive.org/web/20221224224451/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-25T01:25:55Z",
+        "uri": "https://web.archive.org/web/20221225012555/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-25T12:09:14Z",
+        "uri": "https://web.archive.org/web/20221225120914/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-25T14:54:41Z",
+        "uri": "https://web.archive.org/web/20221225145441/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-25T15:34:54Z",
+        "uri": "https://web.archive.org/web/20221225153454/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-25T18:17:27Z",
+        "uri": "https://web.archive.org/web/20221225181727/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-29T07:25:32Z",
+        "uri": "https://web.archive.org/web/20221229072532/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-29T07:34:33Z",
+        "uri": "https://web.archive.org/web/20221229073433/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-31T09:33:33Z",
+        "uri": "https://web.archive.org/web/20221231093333/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2022-12-31T16:37:16Z",
+        "uri": "https://web.archive.org/web/20221231163716/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-01T00:28:37Z",
+        "uri": "https://web.archive.org/web/20230101002837/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-01T10:02:43Z",
+        "uri": "https://web.archive.org/web/20230101100243/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-02T16:27:11Z",
+        "uri": "https://web.archive.org/web/20230102162711/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-04T17:10:35Z",
+        "uri": "https://web.archive.org/web/20230104171035/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-04T22:01:33Z",
+        "uri": "https://web.archive.org/web/20230104220133/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-08T03:47:43Z",
+        "uri": "https://web.archive.org/web/20230108034743/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-09T07:14:22Z",
+        "uri": "https://web.archive.org/web/20230109071422/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-09T19:04:58Z",
+        "uri": "https://web.archive.org/web/20230109190458/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-12T19:08:40Z",
+        "uri": "https://web.archive.org/web/20230112190840/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-13T16:12:09Z",
+        "uri": "https://web.archive.org/web/20230113161209/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-14T06:17:58Z",
+        "uri": "https://web.archive.org/web/20230114061758/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-24T13:46:41Z",
+        "uri": "https://web.archive.org/web/20230124134641/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-24T22:56:39Z",
+        "uri": "https://web.archive.org/web/20230124225639/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-25T05:29:22Z",
+        "uri": "https://web.archive.org/web/20230125052922/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-25T09:09:18Z",
+        "uri": "https://web.archive.org/web/20230125090918/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-25T14:29:21Z",
+        "uri": "https://web.archive.org/web/20230125142921/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-27T17:23:41Z",
+        "uri": "https://web.archive.org/web/20230127172341/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-30T18:52:00Z",
+        "uri": "https://web.archive.org/web/20230130185200/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-31T06:35:54Z",
+        "uri": "https://web.archive.org/web/20230131063554/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-01-31T10:58:28Z",
+        "uri": "https://arquivo.pt/wayback/20230131105828mp_/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-01T05:52:47Z",
+        "uri": "https://web.archive.org/web/20230201055247/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-01T05:52:58Z",
+        "uri": "https://web.archive.org/web/20230201055258/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-02T15:42:34Z",
+        "uri": "https://web.archive.org/web/20230202154234/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-02T19:21:19Z",
+        "uri": "https://web.archive.org/web/20230202192119/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-06T06:22:53Z",
+        "uri": "https://web.archive.org/web/20230206062253/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-09T11:17:56Z",
+        "uri": "https://web.archive.org/web/20230209111756/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-10T08:08:44Z",
+        "uri": "https://web.archive.org/web/20230210080844/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-13T18:31:51Z",
+        "uri": "https://web.archive.org/web/20230213183151/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-14T00:21:47Z",
+        "uri": "https://web.archive.org/web/20230214002147/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-14T03:11:30Z",
+        "uri": "https://web.archive.org/web/20230214031130/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-14T16:45:01Z",
+        "uri": "https://web.archive.org/web/20230214164501/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-15T23:08:52Z",
+        "uri": "https://web.archive.org/web/20230215230852/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-17T02:12:10Z",
+        "uri": "http://archive.md/20230217021210/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-17T08:45:10Z",
+        "uri": "https://web.archive.org/web/20230217084510/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-20T06:01:33Z",
+        "uri": "https://web.archive.org/web/20230220060133/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-21T06:13:22Z",
+        "uri": "https://web.archive.org/web/20230221061322/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-24T19:12:48Z",
+        "uri": "https://web.archive.org/web/20230224191248/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-26T08:09:35Z",
+        "uri": "https://web.archive.org/web/20230226080935/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-28T07:52:57Z",
+        "uri": "https://web.archive.org/web/20230228075257/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-02-28T14:33:00Z",
+        "uri": "https://web.archive.org/web/20230228143300/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-01T20:22:40Z",
+        "uri": "https://web.archive.org/web/20230301202240/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-04T14:29:46Z",
+        "uri": "https://web.archive.org/web/20230304142946/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-06T14:38:32Z",
+        "uri": "https://web.archive.org/web/20230306143832/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-07T00:09:50Z",
+        "uri": "https://web.archive.org/web/20230307000950/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-07T12:23:26Z",
+        "uri": "https://web.archive.org/web/20230307122326/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-07T17:54:09Z",
+        "uri": "https://web.archive.org/web/20230307175409/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-09T00:29:40Z",
+        "uri": "https://web.archive.org/web/20230309002940/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-11T09:41:20Z",
+        "uri": "https://web.archive.org/web/20230311094120/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-16T15:36:04Z",
+        "uri": "https://web.archive.org/web/20230316153604/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-16T15:36:15Z",
+        "uri": "https://web.archive.org/web/20230316153615/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-17T23:05:40Z",
+        "uri": "https://web.archive.org/web/20230317230540/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-17T23:05:51Z",
+        "uri": "https://web.archive.org/web/20230317230551/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-18T17:29:59Z",
+        "uri": "https://web.archive.org/web/20230318172959/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-18T17:30:08Z",
+        "uri": "https://web.archive.org/web/20230318173008/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-19T14:07:44Z",
+        "uri": "https://web.archive.org/web/20230319140744/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-19T14:08:21Z",
+        "uri": "https://web.archive.org/web/20230319140821/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-20T16:46:32Z",
+        "uri": "https://web.archive.org/web/20230320164632/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-21T00:23:44Z",
+        "uri": "https://web.archive.org/web/20230321002344/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-21T00:23:53Z",
+        "uri": "https://web.archive.org/web/20230321002353/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-21T12:39:25Z",
+        "uri": "https://web.archive.org/web/20230321123925/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-24T04:36:00Z",
+        "uri": "https://web.archive.org/web/20230324043600/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-24T04:36:17Z",
+        "uri": "https://web.archive.org/web/20230324043617/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-24T09:10:38Z",
+        "uri": "https://web.archive.org/web/20230324091038/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-24T18:08:40Z",
+        "uri": "https://web.archive.org/web/20230324180840/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-25T04:27:48Z",
+        "uri": "https://web.archive.org/web/20230325042748/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-25T04:27:58Z",
+        "uri": "https://web.archive.org/web/20230325042758/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-26T03:14:36Z",
+        "uri": "https://web.archive.org/web/20230326031436/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-26T03:14:47Z",
+        "uri": "https://web.archive.org/web/20230326031447/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-27T20:15:36Z",
+        "uri": "https://web.archive.org/web/20230327201536/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-28T14:04:43Z",
+        "uri": "https://web.archive.org/web/20230328140443/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-29T03:55:26Z",
+        "uri": "https://web.archive.org/web/20230329035526/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-29T03:55:35Z",
+        "uri": "https://web.archive.org/web/20230329035535/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-03-29T14:14:09Z",
+        "uri": "https://web.archive.org/web/20230329141409/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-01T14:09:27Z",
+        "uri": "https://web.archive.org/web/20230401140927/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-03T14:33:17Z",
+        "uri": "https://web.archive.org/web/20230403143317/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-05T16:50:48Z",
+        "uri": "https://web.archive.org/web/20230405165048/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-08T07:24:05Z",
+        "uri": "https://web.archive.org/web/20230408072405/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-08T20:43:27Z",
+        "uri": "https://web.archive.org/web/20230408204327/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-09T17:54:08Z",
+        "uri": "https://web.archive.org/web/20230409175408/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-13T17:32:02Z",
+        "uri": "https://web.archive.org/web/20230413173202/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-22T23:17:33Z",
+        "uri": "https://web.archive.org/web/20230422231733/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-26T08:37:09Z",
+        "uri": "https://web.archive.org/web/20230426083709/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-04-27T05:25:17Z",
+        "uri": "https://web.archive.org/web/20230427052517/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-02T13:52:01Z",
+        "uri": "https://web.archive.org/web/20230502135201/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-04T07:42:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230504074243/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-04T07:42:43Z",
+        "uri": "https://web.archive.org/web/20230504074243/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-04T07:42:43Z",
+        "uri": "https://web.archive.org/web/20230504074243/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-04T13:22:24Z",
+        "uri": "https://web.archive.org/web/20230504132224/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-05T00:56:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230505005656/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-05T00:56:56Z",
+        "uri": "https://web.archive.org/web/20230505005656/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-07T14:43:40Z",
+        "uri": "https://web.archive.org/web/20230507144340/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-11T22:39:50Z",
+        "uri": "https://web.archive.org/web/20230511223950/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-13T23:27:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230513232733/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-13T23:27:33Z",
+        "uri": "https://web.archive.org/web/20230513232733/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-15T11:56:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230515115624/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-15T11:56:24Z",
+        "uri": "https://web.archive.org/web/20230515115624/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-16T20:53:57Z",
+        "uri": "https://web.archive.org/web/20230516205357/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-17T07:34:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230517073445/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-17T07:34:45Z",
+        "uri": "https://web.archive.org/web/20230517073445/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-20T05:15:06Z",
+        "uri": "https://web.archive.org/web/20230520051506/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-21T22:17:27Z",
+        "uri": "https://web.archive.org/web/20230521221727/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-22T09:59:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230522095945/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-22T09:59:45Z",
+        "uri": "https://web.archive.org/web/20230522095945/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-22T13:43:50Z",
+        "uri": "https://web.archive.org/web/20230522134350/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-23T12:00:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230523120051/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-23T12:00:51Z",
+        "uri": "https://web.archive.org/web/20230523120051/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-24T14:54:53Z",
+        "uri": "https://web.archive.org/web/20230524145453/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-25T21:17:45Z",
+        "uri": "https://web.archive.org/web/20230525211745/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-26T00:44:22Z",
+        "uri": "https://web.archive.org/web/20230526004422/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-26T15:20:21Z",
+        "uri": "https://web.archive.org/web/20230526152021/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-26T19:40:53Z",
+        "uri": "https://web.archive.org/web/20230526194053/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-27T21:46:53Z",
+        "uri": "https://web.archive.org/web/20230527214653/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-31T08:27:03Z",
+        "uri": "https://web.archive.org/web/20230531082703/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-31T12:25:37Z",
+        "uri": "https://web.archive.org/web/20230531122537/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-05-31T23:17:34Z",
+        "uri": "https://web.archive.org/web/20230531231734/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-01T17:50:02Z",
+        "uri": "https://web.archive.org/web/20230601175002/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-03T01:09:47Z",
+        "uri": "https://web.archive.org/web/20230603010947/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-03T14:41:02Z",
+        "uri": "https://web.archive.org/web/20230603144102/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-04T01:53:56Z",
+        "uri": "https://web.archive.org/web/20230604015356/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-05T06:09:48Z",
+        "uri": "https://web.archive.org/web/20230605060948/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-05T15:32:47Z",
+        "uri": "https://web.archive.org/web/20230605153247/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-05T15:33:11Z",
+        "uri": "https://web.archive.org/web/20230605153311/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-06T18:57:17Z",
+        "uri": "https://web.archive.org/web/20230606185717/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-07T23:45:02Z",
+        "uri": "https://web.archive.org/web/20230607234502/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-08T05:30:23Z",
+        "uri": "https://web.archive.org/web/20230608053023/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-09T01:49:32Z",
+        "uri": "https://web.archive.org/web/20230609014932/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-12T08:28:54Z",
+        "uri": "https://web.archive.org/web/20230612082854/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-13T22:53:11Z",
+        "uri": "https://web.archive.org/web/20230613225311/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-14T00:07:16Z",
+        "uri": "https://web.archive.org/web/20230614000716/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-14T10:05:15Z",
+        "uri": "https://web.archive.org/web/20230614100515/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-17T04:07:20Z",
+        "uri": "https://web.archive.org/web/20230617040720/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-17T12:39:43Z",
+        "uri": "https://web.archive.org/web/20230617123943/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-18T14:33:07Z",
+        "uri": "https://web.archive.org/web/20230618143307/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-20T06:19:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230620061928/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-20T06:19:28Z",
+        "uri": "https://web.archive.org/web/20230620061928/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-21T10:36:59Z",
+        "uri": "https://web.archive.org/web/20230621103659/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-22T04:18:29Z",
+        "uri": "https://web.archive.org/web/20230622041829/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-22T13:04:55Z",
+        "uri": "https://web.archive.org/web/20230622130455/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-26T13:52:42Z",
+        "uri": "https://web.archive.org/web/20230626135242/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-27T03:44:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230627034439/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-27T03:44:39Z",
+        "uri": "https://web.archive.org/web/20230627034439/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-28T05:22:19Z",
+        "uri": "https://web.archive.org/web/20230628052219/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-28T17:14:05Z",
+        "uri": "https://web.archive.org/web/20230628171405/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-06-29T05:23:26Z",
+        "uri": "https://web.archive.org/web/20230629052326/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-05T15:12:00Z",
+        "uri": "https://web.archive.org/web/20230705151200/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-07T13:22:22Z",
+        "uri": "https://web.archive.org/web/20230707132222/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-09T03:55:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230709035505/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-09T03:55:05Z",
+        "uri": "https://web.archive.org/web/20230709035505/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-15T14:05:29Z",
+        "uri": "https://web.archive.org/web/20230715140529/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-16T13:22:08Z",
+        "uri": "https://web.archive.org/web/20230716132208/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-18T11:43:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230718114329/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-18T11:43:29Z",
+        "uri": "https://web.archive.org/web/20230718114329/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-23T10:11:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230723101121/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-23T10:11:21Z",
+        "uri": "https://web.archive.org/web/20230723101121/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-27T02:13:43Z",
+        "uri": "https://web.archive.org/web/20230727021343/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-28T05:05:44Z",
+        "uri": "https://web.archive.org/web/20230728050544/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-07-30T05:57:30Z",
+        "uri": "https://web.archive.org/web/20230730055730/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-04T02:29:57Z",
+        "uri": "https://web.archive.org/web/20230804022957/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-05T22:03:50Z",
+        "uri": "https://web.archive.org/web/20230805220350/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-07T22:14:32Z",
+        "uri": "https://web.archive.org/web/20230807221432/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-08T18:48:42Z",
+        "uri": "https://web.archive.org/web/20230808184842/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-09T04:17:32Z",
+        "uri": "https://web.archive.org/web/20230809041732/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-09T10:55:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230809105548/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-09T10:55:48Z",
+        "uri": "https://web.archive.org/web/20230809105548/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-12T05:28:59Z",
+        "uri": "https://web.archive.org/web/20230812052859/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-12T09:38:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230812093835/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-12T09:38:35Z",
+        "uri": "https://web.archive.org/web/20230812093835/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-13T08:36:44Z",
+        "uri": "https://web.archive.org/web/20230813083644/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-18T08:58:18Z",
+        "uri": "https://web.archive.org/web/20230818085818/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-21T07:49:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230821074917/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-21T07:49:17Z",
+        "uri": "https://web.archive.org/web/20230821074917/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-29T09:55:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230829095549/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-08-29T09:55:49Z",
+        "uri": "https://web.archive.org/web/20230829095549/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-01T01:15:00Z",
+        "uri": "https://web.archive.org/web/20230901011500/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-03T07:06:06Z",
+        "uri": "https://web.archive.org/web/20230903070606/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-09T19:38:16Z",
+        "uri": "https://web.archive.org/web/20230909193816/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-11T17:27:25Z",
+        "uri": "https://web.archive.org/web/20230911172725/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-14T23:36:49Z",
+        "uri": "https://web.archive.org/web/20230914233649/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-16T18:30:19Z",
+        "uri": "https://web.archive.org/web/20230916183019/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-18T17:37:03Z",
+        "uri": "https://web.archive.org/web/20230918173703/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-18T17:37:06Z",
+        "uri": "https://web.archive.org/web/20230918173706/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-21T11:54:38Z",
+        "uri": "https://web.archive.org/web/20230921115438/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-21T13:57:49Z",
+        "uri": "https://web.archive.org/web/20230921135749/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-25T22:09:33Z",
+        "uri": "https://web.archive.org/web/20230925220933/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-29T00:07:49Z",
+        "uri": "https://web.archive.org/web/20230929000749/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-29T03:07:20Z",
+        "uri": "https://web.archive.org/web/20230929030720/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-29T07:02:34Z",
+        "uri": "https://web.archive.org/web/20230929070234/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-09-29T10:18:19Z",
+        "uri": "https://web.archive.org/web/20230929101819/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-01T08:41:57Z",
+        "uri": "https://web.archive.org/web/20231001084157/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-03T10:44:26Z",
+        "uri": "https://web.archive.org/web/20231003104426/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-03T11:40:39Z",
+        "uri": "https://web.archive.org/web/20231003114039/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-03T17:21:21Z",
+        "uri": "https://web.archive.org/web/20231003172121/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-04T11:31:54Z",
+        "uri": "https://web.archive.org/web/20231004113154/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-05T11:19:51Z",
+        "uri": "https://web.archive.org/web/20231005111951/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-05T18:19:05Z",
+        "uri": "https://web.archive.org/web/20231005181905/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-06T00:24:45Z",
+        "uri": "https://web.archive.org/web/20231006002445/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-06T13:12:36Z",
+        "uri": "https://web.archive.org/web/20231006131236/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-08T13:48:02Z",
+        "uri": "https://web.archive.org/web/20231008134802/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-09T07:09:05Z",
+        "uri": "https://web.archive.org/web/20231009070905/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-09T20:48:31Z",
+        "uri": "https://web.archive.org/web/20231009204831/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-09T23:46:20Z",
+        "uri": "https://web.archive.org/web/20231009234620/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-10T02:06:45Z",
+        "uri": "https://web.archive.org/web/20231010020645/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-10T11:06:32Z",
+        "uri": "https://web.archive.org/web/20231010110632/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-11T05:45:54Z",
+        "uri": "https://web.archive.org/web/20231011054554/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-12T16:21:40Z",
+        "uri": "https://web.archive.org/web/20231012162140/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-13T19:29:07Z",
+        "uri": "https://web.archive.org/web/20231013192907/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-16T02:39:42Z",
+        "uri": "https://web.archive.org/web/20231016023942/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-16T06:43:31Z",
+        "uri": "https://web.archive.org/web/20231016064331/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-16T20:03:01Z",
+        "uri": "https://web.archive.org/web/20231016200301/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-19T13:33:04Z",
+        "uri": "https://web.archive.org/web/20231019133304/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-19T16:24:41Z",
+        "uri": "https://web.archive.org/web/20231019162441/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-23T13:23:02Z",
+        "uri": "https://web.archive.org/web/20231023132302/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-24T18:44:37Z",
+        "uri": "https://web.archive.org/web/20231024184437/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-25T03:52:37Z",
+        "uri": "https://web.archive.org/web/20231025035237/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-25T18:45:19Z",
+        "uri": "https://web.archive.org/web/20231025184519/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-26T13:21:53Z",
+        "uri": "https://web.archive.org/web/20231026132153/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-26T19:50:45Z",
+        "uri": "https://web.archive.org/web/20231026195045/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-28T17:45:04Z",
+        "uri": "https://web.archive.org/web/20231028174504/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-28T21:12:35Z",
+        "uri": "https://web.archive.org/web/20231028211235/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-29T18:58:31Z",
+        "uri": "https://web.archive.org/web/20231029185831/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-10-30T15:53:06Z",
+        "uri": "https://web.archive.org/web/20231030155306/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-03T21:52:25Z",
+        "uri": "https://web.archive.org/web/20231103215225/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-05T01:03:36Z",
+        "uri": "https://web.archive.org/web/20231105010336/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-05T04:52:16Z",
+        "uri": "https://web.archive.org/web/20231105045216/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-05T21:22:31Z",
+        "uri": "https://web.archive.org/web/20231105212231/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-07T15:57:37Z",
+        "uri": "https://web.archive.org/web/20231107155737/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-07T19:33:12Z",
+        "uri": "https://web.archive.org/web/20231107193312/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-09T03:27:02Z",
+        "uri": "https://wayback.archive-it.org/all/20231109032702/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-13T01:39:11Z",
+        "uri": "https://web.archive.org/web/20231113013911/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-13T03:46:01Z",
+        "uri": "https://web.archive.org/web/20231113034601/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-13T06:48:13Z",
+        "uri": "https://web.archive.org/web/20231113064813/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-14T08:39:05Z",
+        "uri": "https://web.archive.org/web/20231114083905/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-18T07:39:12Z",
+        "uri": "https://web.archive.org/web/20231118073912/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-18T12:03:40Z",
+        "uri": "https://web.archive.org/web/20231118120340/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-20T20:04:51Z",
+        "uri": "https://web.archive.org/web/20231120200451/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-22T20:27:46Z",
+        "uri": "https://web.archive.org/web/20231122202746/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-23T10:23:57Z",
+        "uri": "https://web.archive.org/web/20231123102357/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-11-29T11:43:02Z",
+        "uri": "https://web.archive.org/web/20231129114302/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-02T06:02:37Z",
+        "uri": "https://web.archive.org/web/20231202060237/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-03T12:44:42Z",
+        "uri": "https://web.archive.org/web/20231203124442/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-03T15:08:59Z",
+        "uri": "https://web.archive.org/web/20231203150859/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-04T08:22:14Z",
+        "uri": "https://web.archive.org/web/20231204082214/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-07T13:48:09Z",
+        "uri": "https://web.archive.org/web/20231207134809/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-07T23:08:18Z",
+        "uri": "https://web.archive.org/web/20231207230818/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-08T05:51:45Z",
+        "uri": "https://web.archive.org/web/20231208055145/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-08T23:30:04Z",
+        "uri": "https://web.archive.org/web/20231208233004/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-09T00:33:57Z",
+        "uri": "https://web.archive.org/web/20231209003357/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-09T01:13:18Z",
+        "uri": "https://web.archive.org/web/20231209011318/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-09T06:51:09Z",
+        "uri": "https://web.archive.org/web/20231209065109/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-12T03:32:43Z",
+        "uri": "https://web.archive.org/web/20231212033243/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-12T16:35:19Z",
+        "uri": "https://web.archive.org/web/20231212163519/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-12T18:24:21Z",
+        "uri": "https://web.archive.org/web/20231212182421/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-13T05:55:21Z",
+        "uri": "https://web.archive.org/web/20231213055521/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-14T22:34:07Z",
+        "uri": "https://web.archive.org/web/20231214223407/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-15T03:27:13Z",
+        "uri": "https://web.archive.org/web/20231215032713/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-15T09:00:23Z",
+        "uri": "https://web.archive.org/web/20231215090023/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-16T22:13:15Z",
+        "uri": "https://web.archive.org/web/20231216221315/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-18T05:10:32Z",
+        "uri": "https://web.archive.org/web/20231218051032/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-19T20:40:47Z",
+        "uri": "https://web.archive.org/web/20231219204047/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-22T21:45:11Z",
+        "uri": "https://web.archive.org/web/20231222214511/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-23T14:31:17Z",
+        "uri": "https://web.archive.org/web/20231223143117/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-24T22:15:51Z",
+        "uri": "https://web.archive.org/web/20231224221551/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T03:54:07Z",
+        "uri": "https://web.archive.org/web/20231225035407/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T08:45:01Z",
+        "uri": "https://web.archive.org/web/20231225084501/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:17Z",
+        "uri": "https://web.archive.org/web/20231225150017/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:18Z",
+        "uri": "https://web.archive.org/web/20231225150018/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:19Z",
+        "uri": "https://web.archive.org/web/20231225150019/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:20Z",
+        "uri": "https://web.archive.org/web/20231225150020/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:22Z",
+        "uri": "https://web.archive.org/web/20231225150022/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:22Z",
+        "uri": "https://web.archive.org/web/20231225150022/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:23Z",
+        "uri": "https://web.archive.org/web/20231225150023/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T15:00:24Z",
+        "uri": "https://web.archive.org/web/20231225150024/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-25T23:01:07Z",
+        "uri": "https://web.archive.org/web/20231225230107/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-26T18:52:16Z",
+        "uri": "https://web.archive.org/web/20231226185216/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2023-12-29T21:59:55Z",
+        "uri": "https://web.archive.org/web/20231229215955/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-02T03:41:54Z",
+        "uri": "https://web.archive.org/web/20240102034154/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-02T14:32:26Z",
+        "uri": "https://web.archive.org/web/20240102143226/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-02T23:19:32Z",
+        "uri": "https://web.archive.org/web/20240102231932/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-04T05:13:20Z",
+        "uri": "https://web.archive.org/web/20240104051320/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-06T00:34:31Z",
+        "uri": "https://web.archive.org/web/20240106003431/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-06T00:36:32Z",
+        "uri": "https://web.archive.org/web/20240106003632/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-09T05:22:21Z",
+        "uri": "https://web.archive.org/web/20240109052221/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-11T16:26:26Z",
+        "uri": "https://web.archive.org/web/20240111162626/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-12T09:57:12Z",
+        "uri": "https://web.archive.org/web/20240112095712/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-12T22:46:52Z",
+        "uri": "https://web.archive.org/web/20240112224652/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-13T00:38:14Z",
+        "uri": "https://web.archive.org/web/20240113003814/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-13T07:10:47Z",
+        "uri": "https://web.archive.org/web/20240113071047/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-13T13:15:49Z",
+        "uri": "https://web.archive.org/web/20240113131549/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-14T10:11:07Z",
+        "uri": "https://web.archive.org/web/20240114101107/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-16T12:59:00Z",
+        "uri": "https://web.archive.org/web/20240116125900/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-17T12:06:12Z",
+        "uri": "https://web.archive.org/web/20240117120612/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-18T17:01:52Z",
+        "uri": "https://web.archive.org/web/20240118170152/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-20T14:29:27Z",
+        "uri": "https://web.archive.org/web/20240120142927/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-22T00:34:11Z",
+        "uri": "https://web.archive.org/web/20240122003411/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-23T00:32:36Z",
+        "uri": "https://web.archive.org/web/20240123003236/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-24T01:30:24Z",
+        "uri": "https://web.archive.org/web/20240124013024/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-25T14:40:54Z",
+        "uri": "https://web.archive.org/web/20240125144054/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-27T03:50:59Z",
+        "uri": "https://web.archive.org/web/20240127035059/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-01-28T08:54:18Z",
+        "uri": "https://web.archive.org/web/20240128085418/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-04T13:36:55Z",
+        "uri": "https://web.archive.org/web/20240204133655/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-05T03:51:53Z",
+        "uri": "https://web.archive.org/web/20240205035153/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-06T07:15:48Z",
+        "uri": "https://web.archive.org/web/20240206071548/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-08T15:42:57Z",
+        "uri": "https://web.archive.org/web/20240208154257/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-08T21:12:59Z",
+        "uri": "https://web.archive.org/web/20240208211259/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-09T21:39:26Z",
+        "uri": "https://web.archive.org/web/20240209213926/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-12T18:26:50Z",
+        "uri": "https://web.archive.org/web/20240212182650/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-14T14:00:09Z",
+        "uri": "https://web.archive.org/web/20240214140009/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-14T19:16:26Z",
+        "uri": "https://web.archive.org/web/20240214191626/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-16T06:03:41Z",
+        "uri": "https://web.archive.org/web/20240216060341/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-17T04:18:26Z",
+        "uri": "https://web.archive.org/web/20240217041826/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      },
+      {
+        "datetime": "2024-02-18T16:08:13Z",
+        "uri": "https://web.archive.org/web/20240218160813/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-06T22:22:06Z",
+      "uri": "https://web.archive.org/web/20221106222206/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+    },
+    "last": {
+      "datetime": "2024-02-18T16:08:13Z",
+      "uri": "https://web.archive.org/web/20240218160813/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/",
+    "json_format": "http://localhost:1208/timemap/json/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://mademistakes.com/work/jekyll-themes/minimal-mistakes/"
+}

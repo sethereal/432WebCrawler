@@ -1,0 +1,83 @@
+ERROR: 2024/02/18 17:44:54.561155 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/al.html": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/al.html",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/al.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-04-01T22:44:53Z",
+        "uri": "https://web.archive.org/web/20230401224453/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-06-02T01:01:24Z",
+        "uri": "https://web.archive.org/web/20230602010124/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:58Z",
+        "uri": "https://web.archive.org/web/20230607180458/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:58Z",
+        "uri": "https://web.archive.org/web/20230607180458/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:59Z",
+        "uri": "https://web.archive.org/web/20230607180459/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:59Z",
+        "uri": "https://web.archive.org/web/20230607180459/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-07-10T23:48:40Z",
+        "uri": "https://web.archive.org/web/20230710234840/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-07-10T23:48:41Z",
+        "uri": "https://web.archive.org/web/20230710234841/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174333/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:33Z",
+        "uri": "https://web.archive.org/web/20230825174333/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174337/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:37Z",
+        "uri": "https://web.archive.org/web/20230825174337/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-29T15:03:57Z",
+        "uri": "https://web.archive.org/web/20230829150357/http://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-08-29T15:05:36Z",
+        "uri": "https://web.archive.org/web/20230829150536/https://ww1.odu.edu/al.html"
+      },
+      {
+        "datetime": "2023-09-23T04:26:39Z",
+        "uri": "https://web.archive.org/web/20230923042639/https://ww1.odu.edu/al.html"
+      }
+    ],
+    "first": {
+      "datetime": "2023-04-01T22:44:53Z",
+      "uri": "https://web.archive.org/web/20230401224453/https://ww1.odu.edu/al.html"
+    },
+    "last": {
+      "datetime": "2023-09-23T04:26:39Z",
+      "uri": "https://web.archive.org/web/20230923042639/https://ww1.odu.edu/al.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/al.html",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/al.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/al.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/al.html"
+}

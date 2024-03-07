@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 15:16:38.385178 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/academic-success-center": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/academic-success-center",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/academic-success-center",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-26T09:01:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230826090119/https://www.odu.edu/academic-success-center"
+      },
+      {
+        "datetime": "2023-08-26T09:01:19Z",
+        "uri": "https://web.archive.org/web/20230826090119/https://www.odu.edu/academic-success-center"
+      },
+      {
+        "datetime": "2023-09-25T19:40:32Z",
+        "uri": "https://web.archive.org/web/20230925194032/https://www.odu.edu/academic-success-center"
+      },
+      {
+        "datetime": "2023-12-09T23:09:10Z",
+        "uri": "https://web.archive.org/web/20231209230910/https://www.odu.edu/academic-success-center/"
+      },
+      {
+        "datetime": "2023-12-09T23:10:44Z",
+        "uri": "https://web.archive.org/web/20231209231044/https://www.odu.edu/academic-success-center"
+      },
+      {
+        "datetime": "2024-02-14T16:08:22Z",
+        "uri": "https://web.archive.org/web/20240214160822/https://www.odu.edu/academic-success-center"
+      },
+      {
+        "datetime": "2024-02-14T16:09:17Z",
+        "uri": "https://web.archive.org/web/20240214160917/https://www.odu.edu/academic-success-center"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-26T09:01:19Z",
+      "uri": "https://wayback.archive-it.org/all/20230826090119/https://www.odu.edu/academic-success-center"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:09:17Z",
+      "uri": "https://web.archive.org/web/20240214160917/https://www.odu.edu/academic-success-center"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/academic-success-center",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/academic-success-center",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/academic-success-center"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/academic-success-center"
+}

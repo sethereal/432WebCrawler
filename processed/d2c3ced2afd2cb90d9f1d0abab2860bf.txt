@@ -1,0 +1,15 @@
+Back to Top ↑
+2015
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, “Archiving Deferred Representations Using a Two-Tiered Crawling Approach,” In Proceedings of the International Conference on Digital Preservation (iPRES). Chapel Hill, NC, November 2015.
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, “Not All Mementos Are Created Equal: Measuring the Impact of Missing Resources,” International Journal of Digital Libraries (IJDL), Vol. 16, No. 3-4, September 2015, pp. 283-301.
+Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, “Detecting Off-Topic Pages in Web Archives,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Poznan, Poland, September 2015.
+Yasmin Alnoamany, Michele C. Weigle, and Michael L. Nelson, “Characteristics of Social Media Stories,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Poznan, Poland, September 2015.
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, “Quantifying Orphaned Annotations in Hypothes.is,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Poznan, Poland, September 2015.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, “DRIH-MAC: A Distributed Receiver-Initiated Harvesting-aware MAC for NanoNetworks,” IEEE Transactions on Molecular, Biological, and Multi-Scale Communications (T-MBMC), Vol. 1, No. 1, 2015, pp. 97-110.
+Wesley Jordan, Mat Kelly, Justin F. Brunelle, Laura Vobrak, Michele C. Weigle, and Michael L. Nelson, “Mobile Mink: Merging Mobile and Desktop Archived Webs,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Knoxville, TN, June 2015, pp. 243-244, poster. Best Poster Award.
+Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, “How Well Are Arabic Websites Archived?,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Knoxville, TN, June 2015, pp. 223-–232. Best Student Paper Award.
+Michele C. Weigle, “Tools for Managing Seed URIs,” Talk given at the Columbia University Web Archiving Collaboration: New Tools and Models Workshop, June 2015.
+Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, “Trust On the Security of Wireless Vehicular Ad-hoc Networking,” Ad Hoc & Sensor Wireless Networks, Vol. 24, No. 3-4, 2015, pp. 283-305.
+Michele C. Weigle, “Tools for Managing the Past Web,” Graduate Seminar, ODU Department of Electrical and Computing Engineering, February 2015.
+Michele C. Weigle, “What’s Grad School All About?,” Talk given at the Capital Region Celebration of Women in Computing (CAPWIC), February 2015.
+Share on

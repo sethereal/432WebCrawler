@@ -1,0 +1,1159 @@
+ERROR: 2024/02/18 19:08:47.872774 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/graduateschool": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/graduateschool",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/graduateschool",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-07-11T11:33:37Z",
+        "uri": "https://web.archive.org/web/20160711113337/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-07-22T21:03:30Z",
+        "uri": "https://web.archive.org/web/20160722210330/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-08-05T13:05:40Z",
+        "uri": "https://web.archive.org/web/20160805130540/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-08-20T01:50:42Z",
+        "uri": "https://web.archive.org/web/20160820015042/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-08-23T01:36:38Z",
+        "uri": "https://web.archive.org/web/20160823013638/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-08-24T15:43:38Z",
+        "uri": "https://web.archive.org/web/20160824154338/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-09-24T18:14:30Z",
+        "uri": "https://web.archive.org/web/20160924181430/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-10-25T19:40:07Z",
+        "uri": "https://web.archive.org/web/20161025194007/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-10-27T07:38:25Z",
+        "uri": "https://web.archive.org/web/20161027073825/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2016-11-07T10:24:31Z",
+        "uri": "https://web.archive.org/web/20161107102431/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2016-11-19T13:28:56Z",
+        "uri": "https://web.archive.org/web/20161119132856/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-12-05T07:15:46Z",
+        "uri": "https://web.archive.org/web/20161205071546/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2016-12-20T23:21:38Z",
+        "uri": "https://web.archive.org/web/20161220232138/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-01-17T06:08:37Z",
+        "uri": "https://web.archive.org/web/20170117060837/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-03-18T07:59:06Z",
+        "uri": "https://web.archive.org/web/20170318075906/http://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2017-03-25T23:10:25Z",
+        "uri": "https://web.archive.org/web/20170325231025/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2017-04-17T11:19:53Z",
+        "uri": "https://web.archive.org/web/20170417111953/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2017-05-07T00:06:24Z",
+        "uri": "https://web.archive.org/web/20170507000624/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-05-07T03:33:22Z",
+        "uri": "https://web.archive.org/web/20170507033322/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-05-17T07:46:54Z",
+        "uri": "https://web.archive.org/web/20170517074654/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-06-06T04:43:04Z",
+        "uri": "https://web.archive.org/web/20170606044304/http://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2017-06-07T02:40:50Z",
+        "uri": "https://web.archive.org/web/20170607024050/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-06-07T03:16:04Z",
+        "uri": "https://web.archive.org/web/20170607031604/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-07-07T22:54:57Z",
+        "uri": "https://web.archive.org/web/20170707225457/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-07-08T00:59:41Z",
+        "uri": "https://web.archive.org/web/20170708005941/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-07-09T03:32:38Z",
+        "uri": "https://web.archive.org/web/20170709033238/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-07-09T04:57:26Z",
+        "uri": "https://web.archive.org/web/20170709045726/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-08-09T16:02:58Z",
+        "uri": "https://web.archive.org/web/20170809160258/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-08-09T16:54:01Z",
+        "uri": "https://web.archive.org/web/20170809165401/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-09-09T07:15:55Z",
+        "uri": "https://web.archive.org/web/20170909071555/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-09-09T09:19:14Z",
+        "uri": "https://web.archive.org/web/20170909091914/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-09-11T03:37:09Z",
+        "uri": "https://web.archive.org/web/20170911033709/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-09-11T03:37:39Z",
+        "uri": "https://web.archive.org/web/20170911033739/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-09-29T12:28:10Z",
+        "uri": "https://web.archive.org/web/20170929122810/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-10-29T23:28:17Z",
+        "uri": "https://web.archive.org/web/20171029232817/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-11-08T15:07:37Z",
+        "uri": "https://web.archive.org/web/20171108150737/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-11-29T20:43:57Z",
+        "uri": "https://web.archive.org/web/20171129204357/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-11-30T20:53:12Z",
+        "uri": "https://web.archive.org/web/20171130205312/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2017-12-10T07:56:57Z",
+        "uri": "https://web.archive.org/web/20171210075657/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-01-01T18:59:42Z",
+        "uri": "https://web.archive.org/web/20180101185942/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-01-10T09:03:23Z",
+        "uri": "https://web.archive.org/web/20180110090323/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-02-01T07:03:09Z",
+        "uri": "https://web.archive.org/web/20180201070309/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-02-10T01:52:14Z",
+        "uri": "https://web.archive.org/web/20180210015214/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-03-04T14:39:45Z",
+        "uri": "https://web.archive.org/web/20180304143945/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-03-12T20:58:26Z",
+        "uri": "https://web.archive.org/web/20180312205826/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-04-12T09:51:10Z",
+        "uri": "https://web.archive.org/web/20180412095110/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-04-15T21:28:08Z",
+        "uri": "https://web.archive.org/web/20180415212808/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-05-14T18:55:36Z",
+        "uri": "https://web.archive.org/web/20180514185536/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-05-16T23:21:27Z",
+        "uri": "https://web.archive.org/web/20180516232127/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-06-15T01:34:38Z",
+        "uri": "https://web.archive.org/web/20180615013438/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-06-17T08:25:00Z",
+        "uri": "https://web.archive.org/web/20180617082500/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-07-16T12:20:12Z",
+        "uri": "https://web.archive.org/web/20180716122012/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-07-18T10:07:37Z",
+        "uri": "https://web.archive.org/web/20180718100737/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-07-26T04:27:07Z",
+        "uri": "https://web.archive.org/web/20180726042707/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-08-17T02:23:25Z",
+        "uri": "https://web.archive.org/web/20180817022325/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-08-18T11:54:12Z",
+        "uri": "https://web.archive.org/web/20180818115412/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-09-12T09:12:44Z",
+        "uri": "https://web.archive.org/web/20180912091244/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2018-09-17T00:49:30Z",
+        "uri": "https://web.archive.org/web/20180917004930/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-09-19T01:31:31Z",
+        "uri": "https://web.archive.org/web/20180919013131/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-09-28T16:10:03Z",
+        "uri": "https://web.archive.org/web/20180928161003/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2018-10-17T11:34:43Z",
+        "uri": "https://web.archive.org/web/20181017113443/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-10-18T14:20:52Z",
+        "uri": "https://web.archive.org/web/20181018142052/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-10-20T08:42:29Z",
+        "uri": "https://web.archive.org/web/20181020084229/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-11-05T06:04:00Z",
+        "uri": "https://web.archive.org/web/20181105060400/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2018-11-19T04:28:49Z",
+        "uri": "https://web.archive.org/web/20181119042849/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-11-20T04:37:01Z",
+        "uri": "https://web.archive.org/web/20181120043701/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-11-20T05:50:22Z",
+        "uri": "https://web.archive.org/web/20181120055022/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-12-21T13:24:12Z",
+        "uri": "https://web.archive.org/web/20181221132412/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2018-12-21T14:46:31Z",
+        "uri": "https://web.archive.org/web/20181221144631/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-01-21T12:00:04Z",
+        "uri": "https://web.archive.org/web/20190121120004/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-01-21T12:01:55Z",
+        "uri": "https://web.archive.org/web/20190121120155/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-02-21T16:46:35Z",
+        "uri": "https://web.archive.org/web/20190221164635/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-02-21T17:12:32Z",
+        "uri": "https://web.archive.org/web/20190221171232/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-03-24T16:05:22Z",
+        "uri": "https://web.archive.org/web/20190324160522/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-03-24T16:20:03Z",
+        "uri": "https://web.archive.org/web/20190324162003/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-04-08T20:22:08Z",
+        "uri": "https://web.archive.org/web/20190408202208/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2019-04-14T21:35:55Z",
+        "uri": "https://web.archive.org/web/20190414213555/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2019-04-17T11:56:23Z",
+        "uri": "https://web.archive.org/web/20190417115623/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2019-04-24T09:12:42Z",
+        "uri": "https://web.archive.org/web/20190424091242/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-04-24T09:27:34Z",
+        "uri": "https://web.archive.org/web/20190424092734/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-05-25T08:00:28Z",
+        "uri": "https://web.archive.org/web/20190525080028/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-05-25T15:43:27Z",
+        "uri": "https://web.archive.org/web/20190525154327/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-06-04T20:23:09Z",
+        "uri": "https://web.archive.org/web/20190604202309/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2019-06-25T08:34:29Z",
+        "uri": "https://web.archive.org/web/20190625083429/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-06-25T09:30:19Z",
+        "uri": "https://web.archive.org/web/20190625093019/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-07-26T17:56:34Z",
+        "uri": "https://web.archive.org/web/20190726175634/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-07-26T18:01:51Z",
+        "uri": "https://web.archive.org/web/20190726180151/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-08-26T18:35:29Z",
+        "uri": "https://web.archive.org/web/20190826183529/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-08-26T18:40:26Z",
+        "uri": "https://web.archive.org/web/20190826184026/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-09-27T14:50:54Z",
+        "uri": "https://web.archive.org/web/20190927145054/http://odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-09-27T15:09:51Z",
+        "uri": "https://web.archive.org/web/20190927150951/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-11-04T03:36:47Z",
+        "uri": "https://web.archive.org/web/20191104033647/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-01-08T06:57:09Z",
+        "uri": "https://web.archive.org/web/20200108065709/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:19:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191923/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:19:23Z",
+        "uri": "https://web.archive.org/web/20200416191923/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:20:31Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192031/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:20:31Z",
+        "uri": "https://web.archive.org/web/20200416192031/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:21:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200416192147/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-16T19:21:47Z",
+        "uri": "https://web.archive.org/web/20200416192147/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-04-24T13:07:48Z",
+        "uri": "https://web.archive.org/web/20200424130748/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-05-02T00:14:44Z",
+        "uri": "https://web.archive.org/web/20200502001444/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2020-06-26T12:18:32Z",
+        "uri": "https://web.archive.org/web/20200626121832/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-07-01T03:44:48Z",
+        "uri": "https://web.archive.org/web/20200701034448/http://www.odu.edu:80/graduateschool"
+      },
+      {
+        "datetime": "2020-07-12T10:47:07Z",
+        "uri": "https://web.archive.org/web/20200712104707/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-07-12T10:47:17Z",
+        "uri": "https://web.archive.org/web/20200712104717/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-08-18T14:37:42Z",
+        "uri": "https://web.archive.org/web/20200818143742/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2020-08-20T13:39:36Z",
+        "uri": "https://web.archive.org/web/20200820133936/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-09-10T19:57:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200910195747/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-09-10T19:57:47Z",
+        "uri": "https://web.archive.org/web/20200910195747/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-09-10T22:06:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200910220624/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-09-10T22:06:24Z",
+        "uri": "https://web.archive.org/web/20200910220624/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-10-05T18:39:10Z",
+        "uri": "https://web.archive.org/web/20201005183910/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-10-27T23:52:38Z",
+        "uri": "https://web.archive.org/web/20201027235238/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-11-01T12:45:52Z",
+        "uri": "https://web.archive.org/web/20201101124552/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-11-01T12:45:52Z",
+        "uri": "https://web.archive.org/web/20201101124552/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2020-11-04T03:58:56Z",
+        "uri": "https://web.archive.org/web/20201104035856/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-03-21T15:32:22Z",
+        "uri": "https://web.archive.org/web/20210321153222/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-03-29T17:27:02Z",
+        "uri": "https://web.archive.org/web/20210329172702/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-13T17:36:04Z",
+        "uri": "https://web.archive.org/web/20210413173604/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-14T06:38:08Z",
+        "uri": "https://web.archive.org/web/20210414063808/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-14T10:49:36Z",
+        "uri": "https://web.archive.org/web/20210414104936/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-15T08:24:48Z",
+        "uri": "https://web.archive.org/web/20210415082448/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-19T10:28:01Z",
+        "uri": "https://web.archive.org/web/20210419102801/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-23T16:42:05Z",
+        "uri": "https://web.archive.org/web/20210423164205/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-24T04:13:55Z",
+        "uri": "https://web.archive.org/web/20210424041355/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-25T17:33:50Z",
+        "uri": "https://web.archive.org/web/20210425173350/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-04-30T20:12:31Z",
+        "uri": "https://web.archive.org/web/20210430201231/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-20T15:27:31Z",
+        "uri": "https://web.archive.org/web/20210520152731/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T19:59:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195947/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T19:59:47Z",
+        "uri": "https://web.archive.org/web/20210526195947/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T20:00:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200000/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T20:00:00Z",
+        "uri": "https://web.archive.org/web/20210526200000/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T20:00:09Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200009/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-05-26T20:00:09Z",
+        "uri": "https://web.archive.org/web/20210526200009/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-06-02T02:00:04Z",
+        "uri": "https://web.archive.org/web/20210602020004/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-08-11T19:21:57Z",
+        "uri": "https://web.archive.org/web/20210811192157/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-08-13T20:19:12Z",
+        "uri": "https://web.archive.org/web/20210813201912/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-08-14T17:53:56Z",
+        "uri": "https://web.archive.org/web/20210814175356/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-08-25T15:52:08Z",
+        "uri": "https://web.archive.org/web/20210825155208/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-09-10T15:36:26Z",
+        "uri": "https://arquivo.pt/wayback/20210910153626mp_/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-09-24T05:21:02Z",
+        "uri": "https://web.archive.org/web/20210924052102/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-09-24T05:21:03Z",
+        "uri": "https://web.archive.org/web/20210924052103/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-10-20T03:56:34Z",
+        "uri": "https://web.archive.org/web/20211020035634/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-10-21T05:06:32Z",
+        "uri": "https://arquivo.pt/wayback/20211021050632mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-11-03T11:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20211103111721mp_/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-11-03T14:15:28Z",
+        "uri": "https://arquivo.pt/wayback/20211103141528mp_/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2021-11-15T04:21:45Z",
+        "uri": "https://web.archive.org/web/20211115042145/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-12-11T14:31:35Z",
+        "uri": "https://web.archive.org/web/20211211143135/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2021-12-21T04:25:44Z",
+        "uri": "https://web.archive.org/web/20211221042544/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-07T22:21:02Z",
+        "uri": "https://web.archive.org/web/20220107222102/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-08T16:40:10Z",
+        "uri": "https://web.archive.org/web/20220108164010/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-10T17:04:20Z",
+        "uri": "https://web.archive.org/web/20220110170420/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-11T20:16:23Z",
+        "uri": "https://web.archive.org/web/20220111201623/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-12T16:57:50Z",
+        "uri": "https://web.archive.org/web/20220112165750/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-12T21:57:37Z",
+        "uri": "https://web.archive.org/web/20220112215737/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-13T00:59:30Z",
+        "uri": "https://web.archive.org/web/20220113005930/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-13T19:33:38Z",
+        "uri": "https://web.archive.org/web/20220113193338/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-16T23:34:57Z",
+        "uri": "https://web.archive.org/web/20220116233457/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-17T07:07:32Z",
+        "uri": "https://web.archive.org/web/20220117070732/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-21T21:46:26Z",
+        "uri": "https://web.archive.org/web/20220121214626/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-22T10:31:30Z",
+        "uri": "https://arquivo.pt/wayback/20220122103130mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-24T20:27:24Z",
+        "uri": "https://web.archive.org/web/20220124202724/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-26T02:02:56Z",
+        "uri": "https://web.archive.org/web/20220126020256/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-26T05:35:24Z",
+        "uri": "https://arquivo.pt/wayback/20220126053524mp_/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-01-31T22:16:39Z",
+        "uri": "https://web.archive.org/web/20220131221639/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-02-01T22:30:10Z",
+        "uri": "https://web.archive.org/web/20220201223010/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-02-03T18:59:47Z",
+        "uri": "https://web.archive.org/web/20220203185947/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-02-17T22:18:37Z",
+        "uri": "https://web.archive.org/web/20220217221837/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T20:44:14Z",
+        "uri": "https://web.archive.org/web/20220319204414/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T20:44:14Z",
+        "uri": "https://web.archive.org/web/20220319204414/http://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T21:11:06Z",
+        "uri": "https://web.archive.org/web/20220319211106/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T21:11:07Z",
+        "uri": "https://web.archive.org/web/20220319211107/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T21:37:23Z",
+        "uri": "https://web.archive.org/web/20220319213723/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-03-19T21:37:23Z",
+        "uri": "https://web.archive.org/web/20220319213723/http://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-03-19T21:37:30Z",
+        "uri": "https://web.archive.org/web/20220319213730/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T21:47:08Z",
+        "uri": "https://web.archive.org/web/20220319214708/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T21:47:09Z",
+        "uri": "https://web.archive.org/web/20220319214709/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T22:50:26Z",
+        "uri": "https://web.archive.org/web/20220319225026/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-03-19T23:11:10Z",
+        "uri": "https://web.archive.org/web/20220319231110/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-03-19T23:11:11Z",
+        "uri": "https://web.archive.org/web/20220319231111/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-06T22:21:19Z",
+        "uri": "https://web.archive.org/web/20220406222119/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-07T09:45:10Z",
+        "uri": "https://web.archive.org/web/20220407094510/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-08T05:14:39Z",
+        "uri": "https://web.archive.org/web/20220408051439/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-17T00:53:50Z",
+        "uri": "https://web.archive.org/web/20220417005350/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-17T05:38:17Z",
+        "uri": "https://arquivo.pt/wayback/20220417053817mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-20T16:02:04Z",
+        "uri": "https://arquivo.pt/wayback/20220420160204mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-22T17:17:21Z",
+        "uri": "https://arquivo.pt/wayback/20220422171721mp_/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-04-24T18:52:23Z",
+        "uri": "https://arquivo.pt/wayback/20220424185223mp_/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-05-14T05:03:14Z",
+        "uri": "https://web.archive.org/web/20220514050314/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-05-25T10:55:54Z",
+        "uri": "https://web.archive.org/web/20220525105554/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-15T05:39:33Z",
+        "uri": "https://web.archive.org/web/20220615053933/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-18T23:38:15Z",
+        "uri": "https://web.archive.org/web/20220618233815/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-19T00:21:31Z",
+        "uri": "https://web.archive.org/web/20220619002131/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-19T11:20:42Z",
+        "uri": "https://web.archive.org/web/20220619112042/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-19T11:22:51Z",
+        "uri": "https://web.archive.org/web/20220619112251/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-19T23:26:14Z",
+        "uri": "https://web.archive.org/web/20220619232614/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-19T23:29:04Z",
+        "uri": "https://web.archive.org/web/20220619232904/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-06-25T11:36:13Z",
+        "uri": "https://web.archive.org/web/20220625113613/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-07-30T14:46:36Z",
+        "uri": "https://arquivo.pt/wayback/20220730144636mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-02T18:03:27Z",
+        "uri": "https://web.archive.org/web/20220802180327/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-02T23:03:38Z",
+        "uri": "https://web.archive.org/web/20220802230338/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-04T01:28:52Z",
+        "uri": "https://web.archive.org/web/20220804012852/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-04T04:18:13Z",
+        "uri": "https://web.archive.org/web/20220804041813/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-04T13:17:07Z",
+        "uri": "https://web.archive.org/web/20220804131707/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-05T09:43:43Z",
+        "uri": "https://web.archive.org/web/20220805094343/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-06T14:47:56Z",
+        "uri": "https://web.archive.org/web/20220806144756/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-08T20:30:01Z",
+        "uri": "https://web.archive.org/web/20220808203001/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-08T20:38:24Z",
+        "uri": "https://web.archive.org/web/20220808203824/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-09T06:12:52Z",
+        "uri": "https://web.archive.org/web/20220809061252/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T16:18:04Z",
+        "uri": "https://web.archive.org/web/20220810161804/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:06:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200621/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:06:21Z",
+        "uri": "https://web.archive.org/web/20220810200621/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:06:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200648/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:06:48Z",
+        "uri": "https://web.archive.org/web/20220810200648/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:07:06Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200706/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-10T20:07:06Z",
+        "uri": "https://web.archive.org/web/20220810200706/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-14T10:27:56Z",
+        "uri": "https://web.archive.org/web/20220814102756/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-14T20:16:14Z",
+        "uri": "https://web.archive.org/web/20220814201614/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-15T01:00:25Z",
+        "uri": "https://web.archive.org/web/20220815010025/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-08-17T02:11:32Z",
+        "uri": "https://web.archive.org/web/20220817021132/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-09-22T14:22:53Z",
+        "uri": "https://web.archive.org/web/20220922142253/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-02T20:17:44Z",
+        "uri": "https://web.archive.org/web/20221002201744/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-04T04:46:12Z",
+        "uri": "https://web.archive.org/web/20221004044612/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-11T02:20:45Z",
+        "uri": "https://arquivo.pt/wayback/20221011022045mp_/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-13T17:25:47Z",
+        "uri": "https://web.archive.org/web/20221013172547/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-18T14:51:34Z",
+        "uri": "https://web.archive.org/web/20221018145134/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-21T03:37:42Z",
+        "uri": "https://web.archive.org/web/20221021033742/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-21T03:37:44Z",
+        "uri": "https://web.archive.org/web/20221021033744/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-21T03:37:45Z",
+        "uri": "https://web.archive.org/web/20221021033745/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-10-27T20:27:20Z",
+        "uri": "https://web.archive.org/web/20221027202720/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-11-07T05:32:37Z",
+        "uri": "https://wayback.archive-it.org/all/20221107053237/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-11-07T05:32:37Z",
+        "uri": "https://web.archive.org/web/20221107053237/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-11-07T13:33:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221107133344/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-11-07T13:33:44Z",
+        "uri": "https://web.archive.org/web/20221107133344/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-11-30T22:09:10Z",
+        "uri": "https://web.archive.org/web/20221130220910/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-11-30T22:09:23Z",
+        "uri": "https://web.archive.org/web/20221130220923/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-12-07T08:27:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221207082721/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-12-07T08:27:21Z",
+        "uri": "https://web.archive.org/web/20221207082721/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-12-08T05:51:05Z",
+        "uri": "https://web.archive.org/web/20221208055105/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2022-12-09T18:13:14Z",
+        "uri": "https://wayback.archive-it.org/all/20221209181314/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-12-09T18:13:14Z",
+        "uri": "https://web.archive.org/web/20221209181314/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2022-12-10T06:33:47Z",
+        "uri": "https://web.archive.org/web/20221210063347/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-01-07T08:12:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230107081216/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-01-07T08:12:16Z",
+        "uri": "https://web.archive.org/web/20230107081216/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-01-08T22:29:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230108222924/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-01-08T22:29:24Z",
+        "uri": "https://web.archive.org/web/20230108222924/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-01-24T19:29:18Z",
+        "uri": "https://arquivo.pt/wayback/20230124192918mp_/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-01-31T04:41:03Z",
+        "uri": "https://web.archive.org/web/20230131044103/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-01-31T14:31:00Z",
+        "uri": "https://web.archive.org/web/20230131143100/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-02-07T06:41:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230207064110/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-02-07T06:41:10Z",
+        "uri": "https://web.archive.org/web/20230207064110/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-02-09T15:18:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230209151825/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-02-09T15:18:25Z",
+        "uri": "https://web.archive.org/web/20230209151825/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-02-20T00:48:31Z",
+        "uri": "https://web.archive.org/web/20230220004831/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T04:34:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043428/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T04:34:28Z",
+        "uri": "https://web.archive.org/web/20230307043428/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T11:18:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230307111812/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-03-07T11:18:12Z",
+        "uri": "https://web.archive.org/web/20230307111812/https://www.odu.edu/graduateschool/"
+      },
+      {
+        "datetime": "2023-03-07T19:18:54Z",
+        "uri": "https://web.archive.org/web/20230307191854/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T19:18:55Z",
+        "uri": "https://web.archive.org/web/20230307191855/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T20:28:41Z",
+        "uri": "https://web.archive.org/web/20230307202841/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-07T20:28:42Z",
+        "uri": "https://web.archive.org/web/20230307202842/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-24T09:03:06Z",
+        "uri": "https://web.archive.org/web/20230324090306/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-03-27T22:30:59Z",
+        "uri": "https://web.archive.org/web/20230327223059/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-06-07T17:32:40Z",
+        "uri": "https://web.archive.org/web/20230607173240/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-06-07T17:32:41Z",
+        "uri": "https://web.archive.org/web/20230607173241/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-06-07T17:42:35Z",
+        "uri": "https://web.archive.org/web/20230607174235/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-06-07T17:42:36Z",
+        "uri": "https://web.archive.org/web/20230607174236/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-07-10T23:08:03Z",
+        "uri": "https://web.archive.org/web/20230710230803/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-07-10T23:08:03Z",
+        "uri": "https://web.archive.org/web/20230710230803/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-07-10T23:08:12Z",
+        "uri": "https://web.archive.org/web/20230710230812/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-08-25T17:13:40Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171340/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-08-25T17:13:40Z",
+        "uri": "https://web.archive.org/web/20230825171340/https://odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-08-25T17:47:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174728/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-08-25T17:47:28Z",
+        "uri": "https://web.archive.org/web/20230825174728/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-09-03T14:40:59Z",
+        "uri": "https://web.archive.org/web/20230903144059/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-09-03T14:43:51Z",
+        "uri": "https://web.archive.org/web/20230903144351/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2023-10-04T11:05:18Z",
+        "uri": "https://web.archive.org/web/20231004110518/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2024-01-17T00:35:52Z",
+        "uri": "https://web.archive.org/web/20240117003552/http://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2024-01-17T00:35:53Z",
+        "uri": "https://web.archive.org/web/20240117003553/https://www.odu.edu/graduateschool"
+      },
+      {
+        "datetime": "2024-02-09T22:28:29Z",
+        "uri": "https://web.archive.org/web/20240209222829/https://www.odu.edu/graduateschool"
+      }
+    ],
+    "first": {
+      "datetime": "2016-07-11T11:33:37Z",
+      "uri": "https://web.archive.org/web/20160711113337/http://www.odu.edu:80/graduateschool"
+    },
+    "last": {
+      "datetime": "2024-02-09T22:28:29Z",
+      "uri": "https://web.archive.org/web/20240209222829/https://www.odu.edu/graduateschool"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/graduateschool",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/graduateschool",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/graduateschool"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/graduateschool"
+}

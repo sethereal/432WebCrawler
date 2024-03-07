@@ -1,0 +1,647 @@
+ERROR: 2024/02/18 17:02:32.935889 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/shawnmjones": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/shawnmjones",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/shawnmjones",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-07-17T19:05:43Z",
+        "uri": "http://archive.md/20140717190543/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2015-12-05T07:17:33Z",
+        "uri": "https://web.archive.org/web/20151205071733/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-02-29T12:52:33Z",
+        "uri": "https://wayback.archive-it.org/all/20160229125233/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-02-29T12:52:33Z",
+        "uri": "https://web.archive.org/web/20160229125233/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-02-29T12:57:52Z",
+        "uri": "https://wayback.archive-it.org/all/20160229125752/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-02-29T12:57:52Z",
+        "uri": "https://web.archive.org/web/20160229125752/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-03-04T08:58:14Z",
+        "uri": "https://web.archive.org/web/20160304085814/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2016-11-09T00:47:41Z",
+        "uri": "https://web.archive.org/web/20161109004741/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-07-06T06:23:55Z",
+        "uri": "https://web.archive.org/web/20170706062355/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-08-24T06:21:06Z",
+        "uri": "https://web.archive.org/web/20170824062106/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-10-02T17:44:42Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174442/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-10-02T17:44:42Z",
+        "uri": "https://web.archive.org/web/20171002174442/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-11-02T11:20:32Z",
+        "uri": "https://web.archive.org/web/20171102112032/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-11-27T21:18:06Z",
+        "uri": "https://web.archive.org/web/20171127211806/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-12-07T11:33:15Z",
+        "uri": "https://web.archive.org/web/20171207113315/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-12-11T20:41:50Z",
+        "uri": "https://web.archive.org/web/20171211204150/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-12-18T20:36:17Z",
+        "uri": "https://web.archive.org/web/20171218203617/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-12-21T06:53:51Z",
+        "uri": "https://web.archive.org/web/20171221065351/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2017-12-25T20:36:51Z",
+        "uri": "https://web.archive.org/web/20171225203651/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-01-01T20:38:26Z",
+        "uri": "https://web.archive.org/web/20180101203826/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-01-08T20:43:20Z",
+        "uri": "https://web.archive.org/web/20180108204320/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-01-15T20:37:10Z",
+        "uri": "https://web.archive.org/web/20180115203710/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-01-22T20:46:44Z",
+        "uri": "https://web.archive.org/web/20180122204644/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-01-29T20:43:24Z",
+        "uri": "https://web.archive.org/web/20180129204324/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-02-05T20:50:18Z",
+        "uri": "https://web.archive.org/web/20180205205018/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-02-12T20:51:13Z",
+        "uri": "https://web.archive.org/web/20180212205113/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-02-26T20:49:24Z",
+        "uri": "https://web.archive.org/web/20180226204924/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-05T20:49:43Z",
+        "uri": "https://web.archive.org/web/20180305204943/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-12T20:44:45Z",
+        "uri": "https://web.archive.org/web/20180312204445/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-16T07:18:12Z",
+        "uri": "https://web.archive.org/web/20180316071812/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-16T07:56:22Z",
+        "uri": "https://web.archive.org/web/20180316075622/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-16T08:01:07Z",
+        "uri": "https://web.archive.org/web/20180316080107/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-16T08:06:30Z",
+        "uri": "https://web.archive.org/web/20180316080630/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-03-16T08:11:12Z",
+        "uri": "https://web.archive.org/web/20180316081112/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-04-02T20:40:59Z",
+        "uri": "https://web.archive.org/web/20180402204059/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-04-09T20:41:06Z",
+        "uri": "https://web.archive.org/web/20180409204106/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-04-16T20:51:57Z",
+        "uri": "https://web.archive.org/web/20180416205157/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-04-23T20:46:18Z",
+        "uri": "https://web.archive.org/web/20180423204618/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-04-30T20:51:28Z",
+        "uri": "https://web.archive.org/web/20180430205128/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-05-07T20:49:39Z",
+        "uri": "https://web.archive.org/web/20180507204939/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-05-14T21:04:26Z",
+        "uri": "https://web.archive.org/web/20180514210426/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-05-21T20:32:19Z",
+        "uri": "https://web.archive.org/web/20180521203219/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-05-28T20:52:19Z",
+        "uri": "https://web.archive.org/web/20180528205219/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-05-29T00:04:51Z",
+        "uri": "https://web.archive.org/web/20180529000451/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-06-11T20:56:30Z",
+        "uri": "https://web.archive.org/web/20180611205630/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-06-18T20:46:58Z",
+        "uri": "https://web.archive.org/web/20180618204658/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-06-25T21:07:52Z",
+        "uri": "https://web.archive.org/web/20180625210752/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-07-02T20:53:41Z",
+        "uri": "https://web.archive.org/web/20180702205341/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-07-09T21:08:56Z",
+        "uri": "https://web.archive.org/web/20180709210856/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-07-16T20:49:59Z",
+        "uri": "https://web.archive.org/web/20180716204959/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-07-23T20:56:43Z",
+        "uri": "https://web.archive.org/web/20180723205643/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-07-30T20:47:50Z",
+        "uri": "https://web.archive.org/web/20180730204750/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-08-06T20:51:24Z",
+        "uri": "https://web.archive.org/web/20180806205124/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-08-13T21:00:20Z",
+        "uri": "https://web.archive.org/web/20180813210020/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-08-20T21:07:32Z",
+        "uri": "https://web.archive.org/web/20180820210732/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-08-27T21:27:31Z",
+        "uri": "https://web.archive.org/web/20180827212731/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-09-03T20:55:32Z",
+        "uri": "https://web.archive.org/web/20180903205532/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-09-10T20:47:03Z",
+        "uri": "https://web.archive.org/web/20180910204703/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-09-17T21:04:54Z",
+        "uri": "https://web.archive.org/web/20180917210454/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-10-01T20:59:40Z",
+        "uri": "https://web.archive.org/web/20181001205940/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-10-08T21:17:44Z",
+        "uri": "https://web.archive.org/web/20181008211744/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-10-15T21:13:46Z",
+        "uri": "https://web.archive.org/web/20181015211346/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-10-24T01:27:57Z",
+        "uri": "https://web.archive.org/web/20181024012757/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-10-29T21:17:16Z",
+        "uri": "https://web.archive.org/web/20181029211716/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-11-05T22:22:38Z",
+        "uri": "https://web.archive.org/web/20181105222238/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-11-13T22:48:35Z",
+        "uri": "https://web.archive.org/web/20181113224835/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-11-26T21:06:28Z",
+        "uri": "https://web.archive.org/web/20181126210628/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-12-03T21:04:26Z",
+        "uri": "https://web.archive.org/web/20181203210426/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-12-17T20:58:57Z",
+        "uri": "https://web.archive.org/web/20181217205857/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2018-12-31T21:02:22Z",
+        "uri": "https://web.archive.org/web/20181231210222/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-01-07T20:54:09Z",
+        "uri": "https://web.archive.org/web/20190107205409/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-01-14T21:14:39Z",
+        "uri": "https://web.archive.org/web/20190114211439/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-02-11T21:30:12Z",
+        "uri": "https://web.archive.org/web/20190211213012/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-02-12T08:26:48Z",
+        "uri": "https://web.archive.org/web/20190212082648/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-03-13T19:46:20Z",
+        "uri": "https://web.archive.org/web/20190313194620/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-05-25T08:24:30Z",
+        "uri": "https://web.archive.org/web/20190525082430/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-06-15T23:47:41Z",
+        "uri": "https://web.archive.org/web/20190615234741/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-11-07T20:15:23Z",
+        "uri": "https://web.archive.org/web/20191107201523/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-11-27T15:49:06Z",
+        "uri": "https://web.archive.org/web/20191127154906/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2019-11-28T01:08:25Z",
+        "uri": "https://web.archive.org/web/20191128010825/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2020-01-01T23:20:05Z",
+        "uri": "https://web.archive.org/web/20200101232005/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2020-03-07T15:26:31Z",
+        "uri": "https://web.archive.org/web/20200307152631/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2020-03-10T02:06:54Z",
+        "uri": "https://web.archive.org/web/20200310020654/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2020-05-23T17:53:09Z",
+        "uri": "https://web.archive.org/web/20200523175309/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2020-07-27T19:44:39Z",
+        "uri": "https://web.archive.org/web/20200727194439/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-04T17:28:19Z",
+        "uri": "https://arquivo.pt/wayback/20210604172819mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-04T17:28:20Z",
+        "uri": "https://arquivo.pt/wayback/20210604172820mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-05T03:10:45Z",
+        "uri": "https://arquivo.pt/wayback/20210605031045mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-05T03:10:46Z",
+        "uri": "https://arquivo.pt/wayback/20210605031046mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-07T12:51:02Z",
+        "uri": "https://arquivo.pt/wayback/20210607125102mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-06-07T12:51:03Z",
+        "uri": "https://arquivo.pt/wayback/20210607125103mp_/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-07-01T22:26:29Z",
+        "uri": "https://web.archive.org/web/20210701222629/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-09-08T00:39:23Z",
+        "uri": "https://web.archive.org/web/20210908003923/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-10-14T17:20:40Z",
+        "uri": "https://web.archive.org/web/20211014172040/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-11-22T23:57:06Z",
+        "uri": "https://web.archive.org/web/20211122235706/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-11-23T00:05:58Z",
+        "uri": "https://web.archive.org/web/20211123000558/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-11-23T00:05:59Z",
+        "uri": "https://web.archive.org/web/20211123000559/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-11-30T19:08:30Z",
+        "uri": "https://web.archive.org/web/20211130190830/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-11-30T19:08:30Z",
+        "uri": "https://web.archive.org/web/20211130190830/http://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2021-12-17T00:09:31Z",
+        "uri": "https://web.archive.org/web/20211217000931/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-08-12T18:41:36Z",
+        "uri": "https://web.archive.org/web/20220812184136/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-18T15:45:11Z",
+        "uri": "https://web.archive.org/web/20221118154511/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-21T13:50:47Z",
+        "uri": "https://web.archive.org/web/20221121135047/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-22T19:14:23Z",
+        "uri": "https://web.archive.org/web/20221122191423/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T01:35:07Z",
+        "uri": "https://web.archive.org/web/20221123013507/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T05:56:45Z",
+        "uri": "https://web.archive.org/web/20221123055645/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T10:17:33Z",
+        "uri": "https://web.archive.org/web/20221123101733/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T12:25:12Z",
+        "uri": "https://web.archive.org/web/20221123122512/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T14:30:50Z",
+        "uri": "https://web.archive.org/web/20221123143050/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T17:19:13Z",
+        "uri": "https://web.archive.org/web/20221123171913/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T20:17:05Z",
+        "uri": "https://web.archive.org/web/20221123201705/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-23T22:55:27Z",
+        "uri": "https://web.archive.org/web/20221123225527/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T06:48:19Z",
+        "uri": "https://web.archive.org/web/20221124064819/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T09:25:01Z",
+        "uri": "https://web.archive.org/web/20221124092501/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T11:37:29Z",
+        "uri": "https://web.archive.org/web/20221124113729/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T15:24:52Z",
+        "uri": "https://web.archive.org/web/20221124152452/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T17:45:09Z",
+        "uri": "https://web.archive.org/web/20221124174509/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T19:56:21Z",
+        "uri": "https://web.archive.org/web/20221124195621/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-24T22:14:26Z",
+        "uri": "https://web.archive.org/web/20221124221426/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-25T13:44:48Z",
+        "uri": "https://web.archive.org/web/20221125134448/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-25T17:10:36Z",
+        "uri": "https://web.archive.org/web/20221125171036/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-26T21:51:37Z",
+        "uri": "https://web.archive.org/web/20221126215137/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-28T15:38:24Z",
+        "uri": "https://web.archive.org/web/20221128153824/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-28T18:19:18Z",
+        "uri": "https://web.archive.org/web/20221128181918/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-29T04:58:37Z",
+        "uri": "https://web.archive.org/web/20221129045837/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-29T10:22:03Z",
+        "uri": "https://web.archive.org/web/20221129102203/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-29T18:13:45Z",
+        "uri": "https://web.archive.org/web/20221129181345/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-11-29T21:18:10Z",
+        "uri": "https://web.archive.org/web/20221129211810/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-08T01:45:47Z",
+        "uri": "https://web.archive.org/web/20221208014547/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-08T03:46:39Z",
+        "uri": "https://web.archive.org/web/20221208034639/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-08T05:47:59Z",
+        "uri": "https://web.archive.org/web/20221208054759/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-16T23:00:56Z",
+        "uri": "https://web.archive.org/web/20221216230056/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-17T17:22:24Z",
+        "uri": "https://web.archive.org/web/20221217172224/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-18T04:02:10Z",
+        "uri": "https://web.archive.org/web/20221218040210/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-18T08:10:58Z",
+        "uri": "https://web.archive.org/web/20221218081058/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-18T10:13:14Z",
+        "uri": "https://web.archive.org/web/20221218101314/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-19T00:31:02Z",
+        "uri": "https://web.archive.org/web/20221219003102/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-19T04:36:33Z",
+        "uri": "https://web.archive.org/web/20221219043633/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-19T12:44:08Z",
+        "uri": "https://web.archive.org/web/20221219124408/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-20T05:49:59Z",
+        "uri": "https://web.archive.org/web/20221220054959/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-20T06:01:18Z",
+        "uri": "https://web.archive.org/web/20221220060118/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-21T01:05:59Z",
+        "uri": "https://web.archive.org/web/20221221010559/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-21T03:07:20Z",
+        "uri": "https://web.archive.org/web/20221221030720/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-21T05:10:29Z",
+        "uri": "https://web.archive.org/web/20221221051029/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-21T07:12:22Z",
+        "uri": "https://web.archive.org/web/20221221071222/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-22T00:23:06Z",
+        "uri": "https://web.archive.org/web/20221222002306/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-22T02:27:18Z",
+        "uri": "https://web.archive.org/web/20221222022718/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-22T04:31:34Z",
+        "uri": "https://web.archive.org/web/20221222043134/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-22T06:32:45Z",
+        "uri": "https://web.archive.org/web/20221222063245/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2022-12-22T23:53:41Z",
+        "uri": "https://web.archive.org/web/20221222235341/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-03-15T12:02:37Z",
+        "uri": "https://web.archive.org/web/20230315120237/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-03-17T08:28:00Z",
+        "uri": "https://web.archive.org/web/20230317082800/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-03-21T07:31:52Z",
+        "uri": "https://web.archive.org/web/20230321073152/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-06-30T16:53:51Z",
+        "uri": "https://web.archive.org/web/20230630165351/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-09-18T16:37:44Z",
+        "uri": "https://web.archive.org/web/20230918163744/https://twitter.com/shawnmjones"
+      },
+      {
+        "datetime": "2023-12-23T02:39:15Z",
+        "uri": "https://web.archive.org/web/20231223023915/https://twitter.com/shawnmjones"
+      }
+    ],
+    "first": {
+      "datetime": "2014-07-17T19:05:43Z",
+      "uri": "http://archive.md/20140717190543/https://twitter.com/shawnmjones"
+    },
+    "last": {
+      "datetime": "2023-12-23T02:39:15Z",
+      "uri": "https://web.archive.org/web/20231223023915/https://twitter.com/shawnmjones"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/shawnmjones",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/shawnmjones",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/shawnmjones"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/shawnmjones"
+}

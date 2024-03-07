@@ -1,0 +1,894 @@
+<!DOCTYPE html>
+<html ng-app="oduApp" ng-controller="mainCtrl" lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>MyOdu | Main view</title>    <meta name="viewport" content="width&#x3D;device-width,&#x20;initial-scale&#x3D;1.0">
+<meta http-equiv="X-UA-Compatible" content="IE&#x3D;edge">    <link href="&#x2F;css&#x2F;plugins&#x2F;slick&#x2F;slick-theme.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;plugins&#x2F;slick&#x2F;slick.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;img&#x2F;odu_icon.ico" rel="shortcut&#x20;icon" type="image&#x2F;vnd.microsoft.icon">    <link href="&#x2F;css&#x2F;plugins&#x2F;slick&#x2F;slick-theme.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;plugins&#x2F;slick&#x2F;slick.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;img&#x2F;odu_icon.ico" rel="shortcut&#x20;icon" type="image&#x2F;vnd.microsoft.icon">
+<link href="&#x2F;css&#x2F;bootstrap.min.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;font-awesome&#x2F;css&#x2F;font-awesome.min.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;animate.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;plugins&#x2F;colorpicker&#x2F;colorpicker.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;plugins&#x2F;toastr&#x2F;toastr.min.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;style2.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;oduStyle.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;css&#x2F;gmailfeed.css&#x3F;v&#x3D;1.2.2" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;&#x2F;cdn.datatables.net&#x2F;1.10.24&#x2F;css&#x2F;dataTables.bootstrap.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">
+<link href="&#x2F;&#x2F;cdn.datatables.net&#x2F;responsive&#x2F;2.2.7&#x2F;css&#x2F;responsive.bootstrap.min.css" media="screen" rel="stylesheet" type="text&#x2F;css">            <link id="theme" rel="stylesheet" href="/css/oduStyle-default.css?v=1.2.2" >
+    </head>
+
+<body>
+<div ng-init="wsBaseUrl = 'https://ws.odu.edu'"></div>
+<div id="wrapper">
+    <nav id="nav" class="navbar-default navbar-static-side hidden-xs" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav metismenu" id="side-menu">
+                            <li class="nav-header"
+                    ng-click="gotoUrl('/')" class=active>
+                    <img class="img-responsive" src="/img/odu-logo.png" alt="myodu"
+                         width="95%"
+                         style="padding: 20px 5px"/>
+                </li>
+                <li ng-click="gotoUrl('/private/authenticate')">
+                    <button class="btn btn-block btn-primary" style="margin:10px;width:90%">
+                        <i class="fa fa-sign-in"></i>
+                        &nbsp;Login
+                    </button>
+                </li>
+                <li ng-click="gotoUrl('/')"
+                    class=active>
+                    <a>
+                        <i class="fa fa-home fa-lg"></i>
+                        <span class="nav-label">Home</span>
+                    </a>
+                </li>
+                        <li >
+                <a>
+                    <i class="fa fa-mobile fa-lg" style="font-size:22px;margin-left:3px; margin-right:10px;"></i>
+                    <span class="nav-label">Apps</span>
+                    <span class="fa arrow"></span>
+                </a>
+                <ul class="nav nav-second-level" >
+                    <li >
+                        <a href="/odu-app">
+                            <span class="nav-label">All Apps</span>
+
+                        </a>
+                    </li>
+                    <li >
+                        <a href="/odu-app?sort=newest">
+                            <span class="nav-label">Newest</span>
+                        </a>
+
+                    </li>
+                    <li >
+                        <a href="/odu-app?sort=top">
+                            <span class="nav-label">Top</span>
+                        </a>
+                    </li>
+                    <li >
+                        <a href="/odu-app?sort=popular">
+                            <span class="nav-label">Popular</span>
+                        </a>
+                    </li>
+                    <li class="divider"></li>
+                                                                                                    <li >
+                                <a href="/odu-app?cat=Academics">
+                                        <span class="nav-label">
+                                            Academics                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Administrative">
+                                        <span class="nav-label">
+                                            Administrative                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Admissions">
+                                        <span class="nav-label">
+                                            Admissions                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Campus%20Life">
+                                        <span class="nav-label">
+                                            Campus Life                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Career%20Services">
+                                        <span class="nav-label">
+                                            Career Services                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Employee%20Benefits">
+                                        <span class="nav-label">
+                                            Employee Benefits                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Faculty%20Services">
+                                        <span class="nav-label">
+                                            Faculty Services                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Finances">
+                                        <span class="nav-label">
+                                            Finances                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Housing%20and%20Dining">
+                                        <span class="nav-label">
+                                            Housing and Dining                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=IT%20Services">
+                                        <span class="nav-label">
+                                            IT Services                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Library">
+                                        <span class="nav-label">
+                                            Library                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Reports%20%26%20Dashboards">
+                                        <span class="nav-label">
+                                            Reports & Dashboards                                        </span>
+                                </a>
+                            </li>
+                                                                                <li >
+                                <a href="/odu-app?cat=Transportation">
+                                        <span class="nav-label">
+                                            Transportation                                        </span>
+                                </a>
+                            </li>
+                                                            </ul>
+            </li>
+                                    <li >
+                <a ng-click="gotoUrl('/entertainment')"
+                   href="/entertainment">
+                    <i class="fa fa-video-camera" aria-hidden="true"></i>
+                    <span class="nav-label">Entertainment</span>
+                </a>
+            </li>
+                        <li >
+                <a ng-click="gotoUrl('/emergency')"
+                   href="/emergency">
+                    <i class="fa fa-plus fa-lg"></i>
+                    <span class="nav-label">Safety</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.odu.edu/a-to-z" target="_blank"><i
+                            class="fa fa-pencil-square-o"></i>A to Z</a>
+            </li>
+            <li>
+                <a href="http://www.odu.edu/directory" target="_blank"><i
+                            class="fa fa-phone-square"></i>Directories</a>
+            </li>
+            <li>
+                <a href="http://www.odu.edu/library" target="_blank"><i class="fa fa-bank"></i>Libraries</a>
+            </li>
+            <li>
+                <a href="http://www.odu.edu/calendar" target="_blank"><i
+                            class="fa fa-calendar-check-o"
+                            aria-hidden="true"></i>Calendars</a>
+            </li>
+
+        </ul>
+    </div>
+</nav>
+
+<script type="text/javascript">
+    // (function() {
+    //     var nav = document.getElementById('nav');
+    //         anchor = nav.getElementsByTagName('a');
+    //         current = window.location.pathname.split('/')[1];
+    //         for (var i = 0; i < anchor.length; i++) {
+    //         if(anchor[i].href == current) {
+    //             anchor[i].className = "active";
+    //         }
+    //     }
+    // })();
+
+</script>
+    <div id="page-wrapper" class="gray-bg">
+        <div class="row" style="border-bottom: 2px solid #b9b9b9 !important;">
+    <nav class="navbar navbar-static-top gray-bg" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header visible-xs" style="background-color: #003057; width:100%">
+            <a href="#" style="float:left;">
+                <img src="/img/odu-logo-white.png" ng-click="gotoUrl('/')"
+                     style="max-height: 60px; padding:10px 0 10px 8px" alt="myodu" class="img-responsive"/>
+            </a>
+                    </div>
+        <div class="navbar-header span-full">
+            <a class="navbar-minimalize-xs minimalize-styl-2 btn visible-xs collapsed"
+               style="color:#333333; font-size:20px;"
+               data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" href="#">
+                <i class="fa fa-bars"></i>
+            </a>
+            <a class="navbar-minimalize minimalize-styl-2 btn btn-primary hidden-xs" href="#"><i class="fa fa-bars"></i>
+            </a>
+            <form role="search" class="navbar-form-custom" ng-submit="searchResult()" id="search-app-form">
+                <div class="input-group" style="padding-top: 7px; margin-top: 5px;">
+                    <input type="text" class="form-control input-small" autocomplete="off"
+                           placeholder="Search for apps by title or keywords"
+                           title="search for apps by title or keywords"
+                           ng-keydown="searchTextKeyDown($event)"
+                           data-ng-model="mysearch"
+                           style="background-color: white; height: 34px; border: 1px solid #D3D3D3;">
+                    <span class="input-group-btn">
+								<button type="submit" class="btn btn-default">
+									<i class="fa fa-search fa-lg"></i>
+								</button>
+							</span>
+                </div>
+                <div id="myRes" class="dropdown open" data-ng-show="mysearch.length>1"
+                     style="display: none; width: 100%;">
+                    <ul class="dropdown-menu dropdown-messages" style="width: 100%;" id="search-app-ul">
+                        <li ng-repeat-start="app in searchapps"
+                            tabindex="{{$index}}"
+                            ng-class="app.selected"
+                            ng-focus="onFocus(app, $event)"
+                            ng-mouseover="onFocus(app, $event)"
+                            ng-keydown="onKeydown(app, $event)">
+                            <div class="m-b" ng-click="gotoUrl('/odu-app/details/' + app.id)" style="cursor: pointer;">
+                                <div class="dropdown-messages-box">
+                                    <a class="pull-left p-w-xs">
+                                        <img alt="image" class="img-circle" ng-src="{{app.image}}">
+                                    </a>
+                                    <div class="media-body">
+                                        <strong ng-bind-template="{{app.title}}"></strong> <br>
+                                        <small class="text-muted">{{app.categories.join(', ')}}</small>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </li>
+                        <div ng-repeat-end ng-hide="$last" class="divider"></div>
+                        <div id="noSugg" style="display: none;" ng-bind-template="No suggestions"></div>
+                    </ul>
+                </div>
+            </form>
+                            <button ng-click="gotoUrl('/private/authenticate')"
+                        class="btn btn-primary btn-block mobile-signin"><i class="fa fa-sign-in"></i>&nbsp;&nbsp;Login
+                </button>
+            
+        </div>
+
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav metismenu visible-xs" id="side-menu1">
+                                    <li ng-click="gotoUrl('/')"
+                        >
+                        <a>
+                            <i class="fa fa-home fa-lg"></i>
+                            <span class="nav-label">Home</span>
+                        </a>
+                    </li>
+                                <li >
+                    <a>
+                        <i class="fa fa-mobile fa-lg" style="font-size:22px;margin-left:3px; margin-right:10px;"></i>
+                        <span class="nav-label">Apps</span>
+                        <span class="fa arrow"></span>
+                    </a>
+                    <ul class="nav nav-second-level" >
+                        <li >
+                            <a href="/odu-app">
+                                <span class="nav-label">All Apps</span>
+
+                            </a>
+                        </li>
+                        <li >
+                            <a href="/odu-app?sort=newest">
+                                <span class="nav-label">Newest</span>
+                            </a>
+
+                        </li>
+                        <li >
+                            <a href="/odu-app?sort=top">
+                                <span class="nav-label">Top</span>
+                            </a>
+                        </li>
+                        <li >
+                            <a href="/odu-app?sort=popular">
+                                <span class="nav-label">Popular</span>
+                            </a>
+                        </li>
+                        <li class="divider"></li>
+                                                                                                                    <li >
+                                    <a href="/odu-app?cat=Academics">
+                                        <span class="nav-label">
+                                            Academics                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Administrative">
+                                        <span class="nav-label">
+                                            Administrative                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Admissions">
+                                        <span class="nav-label">
+                                            Admissions                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Campus%20Life">
+                                        <span class="nav-label">
+                                            Campus Life                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Career%20Services">
+                                        <span class="nav-label">
+                                            Career Services                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Employee%20Benefits">
+                                        <span class="nav-label">
+                                            Employee Benefits                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Faculty%20Services">
+                                        <span class="nav-label">
+                                            Faculty Services                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Finances">
+                                        <span class="nav-label">
+                                            Finances                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Housing%20and%20Dining">
+                                        <span class="nav-label">
+                                            Housing and Dining                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=IT%20Services">
+                                        <span class="nav-label">
+                                            IT Services                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Library">
+                                        <span class="nav-label">
+                                            Library                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Reports%20%26%20Dashboards">
+                                        <span class="nav-label">
+                                            Reports & Dashboards                                        </span>
+                                    </a>
+                                </li>
+                                                                                            <li >
+                                    <a href="/odu-app?cat=Transportation">
+                                        <span class="nav-label">
+                                            Transportation                                        </span>
+                                    </a>
+                                </li>
+                                                                        </ul>
+                </li>
+                                                <li >
+                    <a ng-click="gotoUrl('/entertainment')"
+                       href="/entertainment">
+                        <i class="fa fa-video-camera" aria-hidden="true"></i>
+                        <span class="nav-label">Entertainment</span>
+                    </a>
+                </li>
+                                <li >
+                    <a ng-click="gotoUrl('/emergency')"
+                       href="/emergency">
+                        <i class="fa fa-plus fa-lg"></i>
+                        <span class="nav-label">Safety</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.odu.edu/a-to-z" target="_blank" style="color: #333333;"><i
+                                class="fa fa-pencil-square-o"></i>A to Z</a>
+                </li>
+                <li>
+                    <a href="http://www.odu.edu/directory" target="_blank" style="color: #333333;"><i
+                                class="fa fa-phone-square"></i>Directories</a>
+                </li>
+                <li>
+                    <a href="http://www.odu.edu/library" target="_blank" style="color: #333333;"><i
+                                class="fa fa-bank"></i>Libraries</a>
+                </li>
+                <li>
+                    <a href="http://www.odu.edu/calendar" target="_blank" style="color: #333333;"><i
+                                class="fa fa-calendar-check-o" aria-hidden="true"></i>Calendars</a>
+                </li>
+
+            </ul>
+
+
+        </div>
+    </nav>
+</div>
+<!-- Modal hold-->
+
+<div class="modal fade" id="holdModal" tabindex="-1" role="dialog" aria-labelledby="holdModal" aria-hidden="true"
+     ng-cloak>
+    <div class="modal-dialog" role="document">
+        <div class="modal-content" style="background-color: transparent; border: none;">
+            <div class="modal-body"
+                 ng-class="holds.length == 0 ? (futureHolds.length == 0 ? 'alert alert-success' : 'alert alert-warning') : 'alert alert-danger'">
+                <div class="m-b-lg" ng-show="holdDefs.length == 0">
+                    <div class="m-b-md">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                                style="position: relative; top:-22px;">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div>
+                        <strong>You currently do not have any active holds.</strong>
+                    </div>
+                </div>
+                <div class="m-b-lg" ng-show="holdDefs.length > 0">
+                    <div class="m-b-md">
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                                style="position: relative; top:-22px;">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                </div>
+                <div ng-repeat="hold in holdDefs" class="m-b-lg" ng-show="holdDefs.length > 0">
+                    <div class="m-b-md">
+                        <h3 class="modal-title" id="hold-title">{{hold.title}}</h3>
+                    </div>
+                    <div>
+                        <span ng-bind-html="hold.text"></span>
+                        <br/><br/>
+                        <div class="m-b-xs">
+                            <span style="font-weight: bolder;" ng-if="hold.prohibits.length">Prohibits: </span>
+                            {{hold.prohibits | implode}}
+                        </div>
+                        <span style="font-weight: bolder;"
+                              ng-if="hold.primaryContactEmail || hold.primaryPhone || hold.primaryContactOffice">
+                            Contact:
+                        </span>
+                        <span ng-if="hold.primaryContactOffice">
+                            {{hold.primaryContactOffice}},
+                        </span>
+                        <span ng-if="hold.primaryAddressLine1">
+                            {{hold.primaryAddressLine1}}
+                            <span ng-if="hold.primaryAddressLine1">
+                                {{hold.primaryAddressLine2}},
+                            </span>
+                        </span>
+                        <span ng-if="hold.primaryPhone">
+                            {{hold.primaryPhone}}<span ng-if="hold.primaryContactEmail || hold.primaryContactUrl">, </span>
+                        </span>
+                        <a class="text-danger"
+                           ng-if="hold.primaryContactEmail"
+                           ng-href="mailto:{{hold.primaryContactEmail}}">
+                            {{hold.primaryContactEmail}}<span ng-if="hold.primaryContactUrl">, </span>
+                        </a>
+                        <a class="text-danger"
+                           ng-if="hold.primaryContactUrl"
+                           ng-href="{{hold.primaryContactUrl}}">
+                            {{hold.primaryContactUrl}}
+                        </a>
+                    </div>
+                    <hr/>
+                </div>
+                <div class="m-b-lg" ng-show="futureHoldDefs.length > 0">
+
+                    <div>
+                        <strong>You have a future hold coming up in the next 30 days. Click the View Holds button for
+                            more details. </strong>
+                    </div>
+                </div>
+                <div class="m-t-sm text-right">
+                    <a type="button"
+                       ng-class="holds.length == 0 ? (futureHolds.length == 0 ? 'btn btn-primary' : 'btn btn-warning') : 'btn btn-danger'"
+                       href="https://sso.odu.edu/ssomanager/c/SSB?pkg=bwskoacc.P_ViewHold" target="_blank">View
+                        Holds</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal acc balance -->
+<div class="modal fade" id="accModal" tabindex="-1" role="dialog" aria-labelledby="accModal" aria-hidden="true"
+     ng-cloak>
+    <div class="modal-dialog" role="document"
+         style="background-color: #F0F0F0; padding: 35px 25px 10px; border-radius: 5px;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                style="position: relative; top:-22px;">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-content m-t-sm" style="background-color: transparent; border: 0;"
+             ng-show="accbalDef.length == 0">
+            <div class="modal-body alert alert-success">
+                <div class="m-b-md">
+                    <h3 class="modal-title" id="account-balance-title">Account Balance</h3>
+                </div>
+                <div>
+                    You currently do not have an account balance.
+                </div>
+                <div class="m-t-sm text-right">
+                    <a type="button" class="btn btn-primary"
+                       href="https://sso.odu.edu/ssomanager/c/SSB?pkg=bwskoacc.P_ViewAcctTotal" target="_blank">View
+                        Balance</a>
+                </div>
+            </div>
+        </div>
+        <div class="modal-content m-t-sm" style="background-color: transparent; border: 0;"
+             ng-repeat="bal in accbalDef track by $index">
+            <div class="modal-body alert"
+                 ng-class="{'alert-info': bal.severity == 'Default', 'alert-warning': bal.severity == 'Informative', 'alert-danger': bal.severity == 'Critical'}">
+                <div class="m-b-md">
+                    <h3 class="modal-title" id="account-bal-def-title">{{bal.title}}</h3>
+
+                </div>
+                <div>
+                    {{bal.text}}
+                    <br/><br/>
+                    <div class="m-b-xs">
+                        <span style="font-weight: bolder;" ng-if="bal.prohibits.length">Prohibits: </span>
+                        {{bal.prohibits | implode}}
+                    </div>
+                    <span ng-if="bal.primaryContactEmail"><span style="font-weight: bolder;">Contact: </span>{{bal.primaryContactOffice}}, </span>
+                    <span ng-if="bal.primaryAddressLine1">{{bal.primaryAddressLine1}} {{bal.primaryAddressLine2}}, </span>
+                    <span ng-if="bal.primaryPhone">{{bal.primaryPhone}}, </span> <a class="text-danger"
+                                                                                    ng-href="mailto:{{bal.primaryContactEmail}}">{{bal.primaryContactEmail}}</a>
+                </div>
+                <div class="m-t-sm text-right">
+                    <a type="button" class="btn "
+                       ng-class="{'btn-danger': bal.severity == 'Critical', 'btn-warning': bal.severity == 'Informative'}"
+                       ng-href="{{bal.linkUrl}}" target="_blank">{{bal.linkTitle}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Modal financial aid -->
+<div class="modal fade" id="finaidModal" tabindex="-1" role="dialog" aria-labelledby="finaidModal" aria-hidden="true"
+     ng-cloak>
+    <div class="modal-dialog" role="document"
+         style="background-color: #F0F0F0; padding: 35px 25px 10px; border-radius: 5px;">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"
+                style="position: relative; top:-22px;">
+            <span aria-hidden="true">&times;</span>
+        </button>
+        <div class="modal-content m-t-sm" style="background-color: transparent; border: 0;" ng-show="finDefNotExists">
+            <div class="modal-body alert alert-success">
+                <div class="m-b-md">
+                    <h3 class="modal-title" id="fin-aid-title">Financial Aid Information</h3>
+                </div>
+                <div>
+                    <br/>
+                </div>
+                <div class="m-t-sm text-right">
+                    <a type="button" class="btn btn-primary"
+                       href="https://sso.odu.edu/ssomanager/c/SSB?pkg=bwrksumm.P_DispSumm?" target="_blank">View
+                        Financial Aid Status</a>
+                </div>
+            </div>
+        </div>
+        <div class="modal-content m-t-sm" style="background-color: transparent; border: 0;"
+             ng-repeat="bal in finDef track by $index">
+            <div class="modal-body alert"
+                 ng-class="{'alert-info': bal.severity == 'Default', 'alert-warning': bal.severity == 'Informative', 'alert-danger': bal.severity == 'Critical'}">
+                <div class="m-b-md">
+                    <h3 class="modal-title" id="fin-aid-def-title">{{bal.title}}</h3>
+                    <button type="button" style="float: right; position: relative; top: -15px;"
+                            ng-click="hideFinAid(bal.code, bal.aidYear, $event)" ng-if="bal.hideable"
+                            class="btn btn-warning btn-rounded btn-sm">
+                        <i class="fa fa-times" aria-hidden="true"></i>&nbsp; Hide
+                    </button>
+                </div>
+                <div>
+                    {{bal.text}}
+                    <br/><br/>
+                    <div class="m-b-xs">
+                        <span style="font-weight: bolder;" ng-if="bal.prohibits.length">Prohibits: </span>
+                        {{bal.prohibits | implode}}
+                    </div>
+                    <span ng-if="bal.primaryContactEmail"><span style="font-weight: bolder;">Contact: </span>{{bal.primaryContactOffice}}, </span>
+                    <span ng-if="bal.primaryAddressLine1">{{bal.primaryAddressLine1}} {{bal.primaryAddressLine2}}, </span>
+                    <span ng-if="bal.primaryPhone">{{bal.primaryPhone}}, </span> <a class="text-danger"
+                                                                                    ng-href="mailto:{{bal.primaryContactEmail}}">{{bal.primaryContactEmail}}</a>
+                </div>
+                <div class="m-t-sm text-right">
+                    <a type="button" class="btn "
+                       ng-class="{'btn-danger': bal.severity == 'Critical', 'btn-warning': bal.severity == 'Informative'}"
+                       ng-href="{{bal.linkUrl}}" target="_blank">{{bal.linkTitle}}</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <!-- 			<div class="wrapper wrapper-content animated fadeInRight"> -->
+        <!-- 				<div class="row"> -->
+        <!-- 					<div class="col-lg-12"> -->
+
+        <!-- 					</div> -->
+        <!-- 				</div> -->
+        <!-- 			</div> -->
+        <div style="min-height: 1000px;">
+            <div class="wrapper wrapper-content animated fadeInRight"
+     ng-controller="appsCtrl" >
+    <div style="display-block">
+        <button class="btn btn-success" type="button" ng-click="filter=!filter" style="float:left;margin-top:-16px">
+            <i class="fa fa-filter"></i>
+            <span>Filter</span>
+        </button>
+    </div>
+    <br>
+    <div id="filterDiv" class="col-xs-2 pull-left dropdown open" style="display: none;">
+        <ul class="dropdown-menu dropdown-messages" ng-show="filter">
+            <li ng-repeat-start="cat in allCats" ng-click="filterBy.category = cat; filterBy.search = true;
+            $parent.filter=!$parent.filter; filterBy.title = cat"
+                style="cursor: pointer;" ng-bind-html="cat">
+            </li>
+            <li ng-if="!$last" class="divider" ng-repeat-end></li>
+        </ul>
+
+    </div>
+    <div class="spiner" ng-show="loading">
+        <div class="sk-spinner sk-spinner-three-bounce">
+            <div class="sk-bounce1"></div>
+            <div class="sk-bounce2"></div>
+            <div class="sk-bounce3"></div>
+        </div>
+    </div>
+    <div class="row" id="appDiv" style="visibility: hidden; ">
+        <div class="col-lg-12" ng-init="pinnedApps = null">
+            <br>
+            <div class="slick-app" ng-repeat="(category,apps) in categories"
+                 ng-hide="filterBy.search">
+
+                <button class="more btn btn-w-s text-white"
+                        ng-click="filterBy.category = category; filterBy.search=true; filterBy.title = category">
+                    <span class="hidden-xs">More </span> <i class="fa fa-angle-double-right fa-lg"
+                            style="padding:5px;padding-top:3px;float:right;vertical-align:0px;"></i>
+                </button>
+                <h2 style="margin-top:3px;margin-bottom:7px">
+                     <br> {{category}}
+                </h2>
+                <div class="row appGroup">
+                    <div class="col-xs-12">
+                        <slick class="slick_demo_2" infinite="true" slides-to-show="10"
+                               slides-to-scroll="1" center-mode="false" data="apps" settings="slickConfig"
+                               ng-if="appsLoaded">
+                            <div ng-repeat="app in apps |
+                            limitTo:filterBy.limit |
+                            orderBy:filterBy.order:filterBy.reverse">
+                                <div class="ibox-content product-box">
+    <div class="product-imitation" ng-click="gotoUrl(app.linkUrl)">
+        <img alt={{app.sourceAlt}} ng-src={{app.image}} class="img-container">
+    </div>
+    <div class="product-desc">
+        <a target="_blank" ng-href="{{app.linkUrl}}" aria-label="{{app.title}}" class="product-name">
+            {{app.title}}</a>
+        <div class="m-t text-right">
+            <i ng-if="app.isMobileFriendly" class="fa fa-mobile fa-lg"
+               style="color: #222222; outline: none;">&nbsp;</i>
+                        <a ng-click="gotoUrl('/odu-app/details/' + app.id)" class="app-detail-icon">
+                <i class="fa fa-info-circle"></i>
+            </a>
+        </div>
+    </div>
+</div>                            </div>
+                        </slick>
+                    </div>
+                </div>
+            </div>
+            <div ng-show="filterBy.search" ng-repeat="(category,apps) in categories"
+                 ng-if="category === filterBy.category">
+                <button class="more btn btn-w-s hidden-xs m-t-n-lg" ng-click="filterBy.category = '';
+                filterBy.search=false; updateView();">
+                    Show All Categories
+                </button>
+                <h2> {{filterBy.title}}</h2>
+                <div class="row appGroup">
+                    <div class="col-md-4 col-xs-6 col-sm-2 col-lg-1" ng-repeat="app in apps |
+                    filter:{ title: filterBy.name}
+                    | limitTo:filterBy.limit
+                    | orderBy:filterBy.order:filterBy.reverse">
+                        <div class="ibox">
+                            <div class="ibox-content product-box">
+    <div class="product-imitation" ng-click="gotoUrl(app.linkUrl)">
+        <img alt={{app.sourceAlt}} ng-src={{app.image}} class="img-container">
+    </div>
+    <div class="product-desc">
+        <a target="_blank" ng-href="{{app.linkUrl}}" aria-label="{{app.title}}" class="product-name">
+            {{app.title}}</a>
+        <div class="m-t text-right">
+            <i ng-if="app.isMobileFriendly" class="fa fa-mobile fa-lg"
+               style="color: #222222; outline: none;">&nbsp;</i>
+                        <a ng-click="gotoUrl('/odu-app/details/' + app.id)" class="app-detail-icon">
+                <i class="fa fa-info-circle"></i>
+            </a>
+        </div>
+    </div>
+</div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .slick_demo_2 .ibox-content {
+        margin: 0 10px;
+    }
+</style>
+<!-- Additional style only for demo purpose -->
+        </div>
+        <div style="padding-top: 250px;">
+            <div class="footer">
+    <img id='footer-ornament' src="/img/footer-ornament.png" alt="footer-ornament">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 col-xs-6">
+                <address class="footGrid">
+                    <span id="uni-footer-name"> Old Dominion University </span> <br>Norfolk,
+                    VA 23529 <br>
+                    <i class="fa fa-envelope-o"></i> <a
+                            href="//www.odu.edu/about/contact">Contact &amp; Mailing Info</a> <br>
+                    <i class="fa fa-globe" style="font-size: 1.2em;"></i> <a
+                            href="//www.odu.edu/about/visitors/directions"> Directions to Campus</a>
+                </address>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div id="uni-quicklinks" class="footGrid">
+                    <h1>Quick Links</h1>
+                    <ul>
+                        <li><a href="//www.odu.edu/admission">Apply&nbsp;Now</a></li>
+                        <li><a href="//www.odu.edu/about/support-odu">Support&nbsp;ODU</a></li>
+                        <li><a href="//www.odu.edu/about/visitors">Visitor's&nbsp;Guide</a></li>
+                    </ul>
+                    <ul>
+                        <li><a href="//www.odu.edu/employment">Employment</a></li>
+                        <li><a href="//www.odu.edu/media">News&nbsp;&amp;&nbsp;Media</a></li>
+                        <li><a href="//www.odu.edu/life/health-safety/alerts">Campus&nbsp;Alerts</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div id="uni-connect" class="footGrid">
+                    <p>
+                        <a href="//www.odu.edu/link/c/connect">Connect with Old Dominion
+                            University</a>
+                    </p>
+                    <ul>
+                        <li><a href="http://www.facebook.com/Old.Dominion.University"><i
+                                        class="fa fa-facebook-official"></i><span class="sr-only">facebook</span></a></li>
+                        <li><a href="https://twitter.com/odu"><i class="fa fa-twitter-square"></i><span class="sr-only">twitter</span></a></li>
+                        <li><a href="http://pinterest.com/OldDominion/"><i class="fa fa-pinterest-square"></i><span class="sr-only">pinterest</span></a></li>
+                        <li><a href="https://plus.google.com/+olddominionuniversity"><i
+                                        class="fa fa-google-plus-square"></i><span class="sr-only">google plus</span></a></li>
+                        <li><a href="http://www.youtube.com/odu"><i class="fa fa-youtube"></i><span class="sr-only">youtube</span></a></li>
+                        <li><a href="http://itunes.odu.edu/"><i class="fa fa-music"></i><span class="sr-only">itunes</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-sm-3 col-xs-6">
+                <div id="uni-copyright" class="footGrid">
+                    <p>Copyright © 2017</p>
+                    <p>Old Dominion University</p>
+                    <p>Updated: 5/10/2017</p>
+                    <p>
+                        <a href="//www.odu.edu/about/contact">Contact Us</a> • <a
+                                href="//www.odu.edu/privacy">Privacy</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>        </div>
+
+    </div>
+</div>
+<!-- end join group Modal -->
+<!-- jQuery and Bootstrap -->
+<script src="/js/jquery/jquery-2.1.1.min.js"></script>
+<script src="/js/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="/js/bootstrap/bootstrap.min.js"></script>
+<!-- MetsiMenu -->
+<script src="/js/plugins/metisMenu/jquery.metisMenu.js"></script>
+
+<!-- SlimScroll -->
+<script src="/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+
+<!-- Peace JS -->
+<script data-pace-options='{ "elements": false, "restartOnRequestAfter": false}' src="/js/plugins/pace/pace.min.js"></script>
+
+<!-- Custom and plugin javascript -->
+<script src="/js/inspinia.js"></script>
+<script src="/js/plugins/jquery.disableAutoFill/src/jquery.disableAutoFill.min.js"></script>
+
+<!-- Main Angular scripts-->
+<script src="/js/angular/angular.min.js"></script>
+<script src="/js/angular/angular-resource.min.js"></script>
+<script src="/js/angular/angular-sanitize.min.js"></script>
+<!-- <script src="js/plugins/oclazyload/dist/ocLazyLoad.min.js"></script> -->
+<script src="/js/bootstrap/ui-bootstrap-tpls-0.12.0.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2019.3.1023/js/kendo.all.min.js"></script>
+<!-- Anglar App Script -->
+<!--[if lt IE 9]><script type="text&#x2F;javascript" src="&#x2F;js&#x2F;html5shiv.js"></script><![endif]-->
+<!--[if lt IE 9]><script type="text&#x2F;javascript" src="&#x2F;js&#x2F;respond.min.js&#x3F;v&#x3D;1.2.2"></script><![endif]-->
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;app.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;config.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;directives.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;controllers.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;services.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;filters.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;services&#x2F;appService.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;controllers&#x2F;mainController-noauth.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;services&#x2F;Utils.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;gmailFeed.jquery.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;gmailFeed.jquery.init.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;colorpicker&#x2F;bootstrap-colorpicker-module.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;slick&#x2F;slick.min.js&#x3F;v&#x3D;1.0.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;slick&#x2F;angular-slick.min.js&#x3F;v&#x3D;1.0.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;services&#x2F;appService.js&#x3F;v&#x3D;1.0.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;controllers&#x2F;appController.js&#x3F;v&#x3D;1.0.2"></script>
+<script type="text&#x2F;javascript">
+    //<!--
+    				$(document).ready(function(){
+					$('#bs-example-navbar-collapse-1').on('hide.bs.collapse', function () {
+						$('.navbar-minimalize-xs i').removeClass('fa-times').addClass('fa-bars');
+					});
+					$('#bs-example-navbar-collapse-1').on('show.bs.collapse', function () {
+						$('.navbar-minimalize-xs i').removeClass('fa-bars').addClass('fa-times');
+					});
+					/*
+					$('#bs-example-navbar-collapse-1').on('hidden.bs.collapse', function () {
+						
+					});
+					$('#bs-example-navbar-collapse-1').on('shown.bs.collapse', function () {
+						
+					});*/
+				});
+    //-->
+</script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;toastr&#x2F;toastr.min.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;sweetalert&#x2F;sweetalert.min.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;js&#x2F;plugins&#x2F;sweetalert&#x2F;angular-sweetalert.min.js&#x3F;v&#x3D;1.2.2"></script>
+<script type="text&#x2F;javascript" src="&#x2F;&#x2F;cdn.datatables.net&#x2F;1.10.24&#x2F;js&#x2F;jquery.dataTables.min.js"></script>
+<script type="text&#x2F;javascript" src="&#x2F;&#x2F;cdn.datatables.net&#x2F;1.10.24&#x2F;js&#x2F;dataTables.bootstrap.min.js"></script>
+<script type="text&#x2F;javascript" src="&#x2F;&#x2F;cdn.datatables.net&#x2F;responsive&#x2F;2.2.7&#x2F;js&#x2F;dataTables.responsive.min.js"></script>
+<script type="text&#x2F;javascript" src="&#x2F;&#x2F;cdn.datatables.net&#x2F;responsive&#x2F;2.2.7&#x2F;js&#x2F;responsive.bootstrap.min.js"></script>
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-2088428-9', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</body>
+
+</html>

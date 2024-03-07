@@ -1,0 +1,175 @@
+ERROR: 2024/02/18 17:03:23.757247 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/events": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/events",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/events",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-05-14T23:00:24Z",
+        "uri": "https://web.archive.org/web/20080514230024/http://www.odu.edu:80/events"
+      },
+      {
+        "datetime": "2008-07-04T21:25:21Z",
+        "uri": "https://web.archive.org/web/20080704212521/http://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-10-31T11:18:00Z",
+        "uri": "https://web.archive.org/web/20221031111800/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-11-07T06:37:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221107063712/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-11-07T06:37:12Z",
+        "uri": "https://web.archive.org/web/20221107063712/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-11-09T17:33:47Z",
+        "uri": "https://wayback.archive-it.org/all/20221109173347/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2022-11-09T17:33:47Z",
+        "uri": "https://web.archive.org/web/20221109173347/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2022-11-13T15:59:22Z",
+        "uri": "https://web.archive.org/web/20221113155922/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-11-18T19:28:10Z",
+        "uri": "https://web.archive.org/web/20221118192810/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-11-27T09:11:18Z",
+        "uri": "https://web.archive.org/web/20221127091118/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-12-07T14:13:49Z",
+        "uri": "https://wayback.archive-it.org/all/20221207141349/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-12-07T14:13:49Z",
+        "uri": "https://web.archive.org/web/20221207141349/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-12-08T06:00:34Z",
+        "uri": "https://web.archive.org/web/20221208060034/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2022-12-23T19:24:39Z",
+        "uri": "https://wayback.archive-it.org/all/20221223192439/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2022-12-23T19:24:39Z",
+        "uri": "https://web.archive.org/web/20221223192439/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2023-01-07T13:51:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230107135117/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-01-07T13:51:17Z",
+        "uri": "https://web.archive.org/web/20230107135117/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-01-24T20:45:33Z",
+        "uri": "https://arquivo.pt/wayback/20230124204533mp_/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-02-05T20:56:03Z",
+        "uri": "https://web.archive.org/web/20230205205603/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-02-07T12:46:38Z",
+        "uri": "https://wayback.archive-it.org/all/20230207124638/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-02-07T12:46:38Z",
+        "uri": "https://web.archive.org/web/20230207124638/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-02-20T00:38:52Z",
+        "uri": "https://web.archive.org/web/20230220003852/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-03-07T05:07:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230307050752/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-03-07T05:07:52Z",
+        "uri": "https://web.archive.org/web/20230307050752/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-03-17T16:22:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230317162216/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2023-03-17T16:22:16Z",
+        "uri": "https://web.archive.org/web/20230317162216/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-03-27T22:37:03Z",
+        "uri": "https://web.archive.org/web/20230327223703/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-03-29T23:05:20Z",
+        "uri": "https://web.archive.org/web/20230329230520/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-05-29T15:50:47Z",
+        "uri": "https://web.archive.org/web/20230529155047/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-08-25T17:28:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230825172846/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-08-25T17:28:46Z",
+        "uri": "https://web.archive.org/web/20230825172846/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-08-26T20:01:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230826200157/https://odu.edu/events"
+      },
+      {
+        "datetime": "2023-08-26T20:01:57Z",
+        "uri": "https://web.archive.org/web/20230826200157/https://odu.edu/events"
+      },
+      {
+        "datetime": "2023-08-28T04:09:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230828040907/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2023-08-28T04:09:07Z",
+        "uri": "https://web.archive.org/web/20230828040907/https://www.odu.edu/events/"
+      },
+      {
+        "datetime": "2023-10-04T13:47:11Z",
+        "uri": "https://web.archive.org/web/20231004134711/https://www.odu.edu/events"
+      },
+      {
+        "datetime": "2023-12-05T12:23:43Z",
+        "uri": "https://web.archive.org/web/20231205122343/https://www.odu.edu/events"
+      }
+    ],
+    "first": {
+      "datetime": "2008-05-14T23:00:24Z",
+      "uri": "https://web.archive.org/web/20080514230024/http://www.odu.edu:80/events"
+    },
+    "last": {
+      "datetime": "2023-12-05T12:23:43Z",
+      "uri": "https://web.archive.org/web/20231205122343/https://www.odu.edu/events"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/events",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/events",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/events"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/events"
+}

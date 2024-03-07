@@ -1,0 +1,111 @@
+ERROR: 2024/02/18 20:24:12.298402 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/business.html": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/business.html",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/business.html",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-06-02T01:43:13Z",
+        "uri": "https://web.archive.org/web/20230602014313/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:56Z",
+        "uri": "https://web.archive.org/web/20230607180456/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T18:04:57Z",
+        "uri": "https://web.archive.org/web/20230607180457/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T19:11:52Z",
+        "uri": "https://web.archive.org/web/20230607191152/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T19:11:53Z",
+        "uri": "https://web.archive.org/web/20230607191153/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T19:11:58Z",
+        "uri": "https://web.archive.org/web/20230607191158/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-06-07T19:23:37Z",
+        "uri": "https://web.archive.org/web/20230607192337/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-07-10T23:20:31Z",
+        "uri": "https://web.archive.org/web/20230710232031/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-07-10T23:20:31Z",
+        "uri": "https://web.archive.org/web/20230710232031/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174334/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:34Z",
+        "uri": "https://web.archive.org/web/20230825174334/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174350/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-25T17:43:50Z",
+        "uri": "https://web.archive.org/web/20230825174350/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-29T15:03:55Z",
+        "uri": "https://web.archive.org/web/20230829150355/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-08-29T15:05:32Z",
+        "uri": "https://web.archive.org/web/20230829150532/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-09-23T04:11:48Z",
+        "uri": "https://web.archive.org/web/20230923041148/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-12-01T09:45:54Z",
+        "uri": "https://web.archive.org/web/20231201094554/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-12-03T07:00:28Z",
+        "uri": "https://web.archive.org/web/20231203070028/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-12-07T20:24:06Z",
+        "uri": "https://web.archive.org/web/20231207202406/http://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2023-12-07T20:24:07Z",
+        "uri": "https://web.archive.org/web/20231207202407/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2024-02-14T16:09:46Z",
+        "uri": "https://web.archive.org/web/20240214160946/https://ww1.odu.edu/business.html"
+      },
+      {
+        "datetime": "2024-02-14T16:09:46Z",
+        "uri": "https://web.archive.org/web/20240214160946/http://ww1.odu.edu/business.html"
+      }
+    ],
+    "first": {
+      "datetime": "2023-06-02T01:43:13Z",
+      "uri": "https://web.archive.org/web/20230602014313/https://ww1.odu.edu/business.html"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:09:46Z",
+      "uri": "https://web.archive.org/web/20240214160946/http://ww1.odu.edu/business.html"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/business.html",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/business.html",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/business.html"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/business.html"
+}

@@ -1,0 +1,815 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://g2-ops.com/xmlrpc.php">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&amp;subset=latin-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i" rel="stylesheet">
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<script data-cfasync="false" data-pagespeed-no-defer>
+	var gtm4wp_datalayer_name = "dataLayer";
+	var dataLayer = dataLayer || [];
+</script>
+<!-- End Google Tag Manager for WordPress by gtm4wp.com -->
+	<!-- This site is optimized with the Yoast SEO plugin v21.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>G2 Ops - Cybersecurity, Engineering, and Strategic IT</title>
+	<meta name="description" content="G2 Ops provides Model-Based Systems Engineering (MBSE), cybersecurity, and Cloud Engineering in support of clients across the globe." />
+	<link rel="canonical" href="https://g2-ops.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="G2 Ops - Cybersecurity, Engineering, and Strategic IT" />
+	<meta property="og:description" content="G2 Ops provides Model-Based Systems Engineering (MBSE), cybersecurity, and Cloud Engineering in support of clients across the globe." />
+	<meta property="og:url" content="https://g2-ops.com/" />
+	<meta property="og:site_name" content="G2 Ops" />
+	<meta property="article:modified_time" content="2023-07-31T17:49:32+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://g2-ops.com/","url":"https://g2-ops.com/","name":"G2 Ops - Cybersecurity, Engineering, and Strategic IT","isPartOf":{"@id":"https://g2-ops.com/#website"},"datePublished":"2017-11-01T00:24:12+00:00","dateModified":"2023-07-31T17:49:32+00:00","description":"G2 Ops provides Model-Based Systems Engineering (MBSE), cybersecurity, and Cloud Engineering in support of clients across the globe.","breadcrumb":{"@id":"https://g2-ops.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://g2-ops.com/"]}]},{"@type":"BreadcrumbList","@id":"https://g2-ops.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://g2-ops.com/#website","url":"https://g2-ops.com/","name":"G2 Ops","description":"Smarter Intellegence","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://g2-ops.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="G2 Ops &raquo; Feed" href="https://g2-ops.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="G2 Ops &raquo; Comments Feed" href="https://g2-ops.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/g2-ops.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://g2-ops.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wa_chpcs_css_file-css' href='https://g2-ops.com/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/css/custom-style.css?ver=3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css' href='https://g2-ops.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.6' type='text/css' media='all' />
+<link rel='stylesheet' id='gdlr-core-google-font-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CUbuntu%3A300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%7COpen+Sans%3A300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic&#038;subset=greek%2Ccyrillic%2Ccyrillic-ext%2Cgreek-ext%2Clatin-ext%2Cvietnamese%2Clatin&#038;ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://g2-ops.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wpcf7-redirect-script-frontend-css' href='https://g2-ops.com/wp-content/plugins/wpcf7-redirect/build/css/wpcf7-redirect-frontend.min.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='infinite-style-core-css' href='https://g2-ops.com/wp-content/themes/infinite/css/style-core.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='infinite-child-theme-style-css' href='https://g2-ops.com/wp-content/themes/infinite-child/style.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='infinite-custom-style-css' href='https://g2-ops.com/wp-content/uploads/gdlr-style-custom.css?1641246856&#038;ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gdlr-core-plugin-css' href='https://g2-ops.com/wp-content/plugins/goodlayers-core/plugins/combine/style.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='gdlr-core-page-builder-css' href='https://g2-ops.com/wp-content/plugins/goodlayers-core/include/css/page-builder.css?ver=6.4.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.1" id="tp-tools-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.1" id="revmin-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/themes/infinite/js/html5.js?ver=6.4.2" id="infinite-html5js-js"></script>
+<![endif]-->
+<link rel="https://api.w.org/" href="https://g2-ops.com/wp-json/" /><link rel="alternate" type="application/json" href="https://g2-ops.com/wp-json/wp/v2/pages/5" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://g2-ops.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.2" />
+<link rel='shortlink' href='https://g2-ops.com/' />
+<link rel="alternate" type="application/json+oembed" href="https://g2-ops.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fg2-ops.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://g2-ops.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fg2-ops.com%2F&#038;format=xml" />
+
+<!-- Google Tag Manager for WordPress by gtm4wp.com -->
+<!-- GTM Container placement set to automatic -->
+<script data-cfasync="false" data-pagespeed-no-defer type="text/javascript">
+	var dataLayer_content = [];
+	dataLayer.push( dataLayer_content );
+</script>
+<script data-cfasync="false">
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TGHHMLK');
+</script>
+<!-- End Google Tag Manager -->
+<!-- End Google Tag Manager for WordPress by gtm4wp.com --><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by Slider Revolution 5.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://g2-ops.com/wp-content/uploads/2018/01/G2Ops_favicon_red.png" sizes="32x32" />
+<link rel="icon" href="https://g2-ops.com/wp-content/uploads/2018/01/G2Ops_favicon_red.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://g2-ops.com/wp-content/uploads/2018/01/G2Ops_favicon_red.png" />
+<meta name="msapplication-TileImage" content="https://g2-ops.com/wp-content/uploads/2018/01/G2Ops_favicon_red.png" />
+		<style type="text/css" id="wp-custom-css">
+			.cmmc a { color: #dc543b; }
+.cmmc-ml-box .gdlr-core-pbf-column-content { height: inherit; display: flex; flex-direction: column; }
+.cmmc-ml-box .gdlr-core-pbf-element:nth-child(3) { margin-bottom: auto; }
+.cmmc-ml-box .gdlr-core-pbf-element:nth-child(4) { margin-top: auto; }
+.cmmc-ml-box .box-content { margin: 0 15px; }
+.cmmc-ml-box ul.lt-check { list-style: none; padding: 0; margin: 0; }
+.cmmc-ml-box ul.lt-check > li { padding-left: 1.5em; font-weight: 300; font-size: 16px; color: #4A4B4B; }
+.cmmc-ml-box ul.lt-check > li:before { content: "\f00c"; font-family: FontAwesome; display: inline-block; margin-left: -1.5em; width: 1.5em; color: #365869; }
+.cmmc-ml-box ul.lt-check > li > ul > li { font-size: 14px; }
+
+.cmmc-form { max-width: none; }
+.cmmc-form label { color: #4A4B4B; font-size: 14px; }
+.cmmc-form label span.required { color: red; margin-left: 5px; }
+.cmmc-form input[type=submit] { padding: 10px 30px 10px 30px; width: auto; background-color: #dc543b !important; font-size: 13px !important; text-align: center; font-family: "Roboto", sans-serif !important; height: auto !important; margin: auto; }
+
+#cmmc-ml-list li { color: #757575; }
+
+.dfars-sec1 p { margin-bottom: 5px; }		</style>
+			<link rel="stylesheet" href="https://npmcdn.com/jquery-gray@1.5.0/css/gray.min.css"> 
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick-theme.css" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/css/nice-select.css" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-nice-select/1.1.0/js/jquery.nice-select.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/velocity/1.5.0/velocity.min.js"></script>
+	<meta name="google-site-verification" content="Ohd-7Y-xfD_wSM44xgkSgGEqJLr9hncSXTUjb2BNZio" />
+</head>
+
+<body class="home page-template-default page page-id-5 gdlr-core-body infinite-body infinite-body-front infinite-full  infinite-with-sticky-navigation gdlr-core-link-to-lightbox">
+	<div class="infinite-mobile-header-wrap" ><div class="infinite-mobile-header infinite-header-background infinite-style-slide" id="infinite-mobile-header" ><div class="infinite-mobile-header-container infinite-container" ><div class="infinite-logo  infinite-item-pdlr"><div class="infinite-logo-inner"><a href="https://g2-ops.com/" ><img src="https://g2-ops.com/wp-content/uploads/2017/11/logo_header-1.png" alt="" width="266" height="24" /></a></div></div><div class="infinite-mobile-menu-right" ><div class="infinite-overlay-menu infinite-mobile-menu" id="infinite-mobile-menu" ><a class="infinite-overlay-menu-icon infinite-mobile-menu-button infinite-mobile-button-hamburger" href="#" ><span></span></a><div class="infinite-overlay-menu-content infinite-navigation-font" ><div class="infinite-overlay-menu-close" ></div><div class="infinite-overlay-menu-row" ><div class="infinite-overlay-menu-cell" ><ul id="menu-main" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39"><a href="https://g2-ops.com/cyber-it-services-consulting-company/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="https://g2-ops.com/consulting-leaders/">Leadership</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301"><a href="https://g2-ops.com/?page_id=284">Press Releases</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302"><a href="https://g2-ops.com/news-events/">News and Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298"><a href="https://g2-ops.com/blog/">Blog</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312"><a href="https://g2-ops.com/contact/">Contact</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-975"><a href="https://g2-ops.com/cyber-it-services-consulting-company/#our_locations">Our Locations</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1125"><a>Services</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124"><a href="https://g2-ops.com/model-based-systems-engineering/">Model-Based Systems Engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282"><a href="https://g2-ops.com/gold-standard-methodology/">Gold Standard Methodology</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123"><a href="https://g2-ops.com/cybersecurity-services/">Cybersecurity Services</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122"><a href="https://g2-ops.com/cloud-engineering/">Cloud Engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922"><a href="https://g2-ops.com/software-engineering/">Software Engineering</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42"><a href="https://g2-ops.com/unified-risk-management-solutions/">Solutions</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="https://g2-ops.com/digital-twin-technology/">Digital Twin Technology</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333"><a href="/unified-risk-management-solutions/#solutions__tabs">Unified Risk Management</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-299"><a href="https://g2-ops.com/resources/">Resources</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-351"><a href="/resources/#datasheet">Data Sheets</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352"><a href="/resources/#whitesheet">White Papers</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="/resources/#articles">Articles</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353"><a href="/resources/#videos">Videos</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41"><a href="https://g2-ops.com/partners-contract-vehicles/">Partners</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://g2-ops.com/contract-vehicles/">Contract Vehicles</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://g2-ops.com/start-a-thriving-and-rewarding-career-at-g2-ops-com/">Careers</a></li>
+</ul></div></div></div></div></div></div></div></div><div class="infinite-body-outer-wrapper ">
+	<div class="infinite-body-wrapper clearfix  infinite-with-frame">
+	<div class="infinite-top-bar" ><div class="infinite-top-bar-background" ></div><div class="infinite-top-bar-container clearfix infinite-container " ><div class="infinite-top-bar-right infinite-item-pdlr"><div class="infinite-top-bar-right-text"><span class="top-bar__divider">|</span><a class="top-bar__text" href="https://g2-ops.com/contact/">Contact</a></div><div class="infinite-top-bar-right-social" ><a href="https://www.facebook.com/pages/G2-Ops-Inc/643633165663582" target="_blank" class="infinite-top-bar-social-icon" title="facebook" ><i class="fa fa-facebook" ></i></a><a href="https://www.linkedin.com/company/704234/" target="_blank" class="infinite-top-bar-social-icon" title="linkedin" ><i class="fa fa-linkedin" ></i></a><a href="https://twitter.com/G2Ops" target="_blank" class="infinite-top-bar-social-icon" title="twitter" ><i class="fa fa-twitter" ></i></a></div></div></div></div>	
+<header class="infinite-header-wrap infinite-header-style-plain  infinite-style-menu-right infinite-sticky-navigation infinite-style-fixed" data-navigation-offset="75px"  >
+	<div class="infinite-header-background" ></div>
+	<div class="infinite-header-container  infinite-container">
+			
+		<div class="infinite-header-container-inner clearfix">
+			<div class="infinite-logo  infinite-item-pdlr"><div class="infinite-logo-inner"><a href="https://g2-ops.com/" ><img src="https://g2-ops.com/wp-content/uploads/2017/11/logo_header-1.png" alt="" width="266" height="24" /></a></div></div>			<div class="infinite-navigation infinite-item-pdlr clearfix " >
+			<div class="infinite-main-menu" id="infinite-main-menu" ><ul id="menu-main-1" class="sf-menu"><li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-39 infinite-normal-menu"><a href="https://g2-ops.com/cyber-it-services-consulting-company/" class="sf-with-ul-pre">About</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300" data-size="60"><a href="https://g2-ops.com/consulting-leaders/">Leadership</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-301" data-size="60"></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-302" data-size="60"><a href="https://g2-ops.com/news-events/">News and Events</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-298" data-size="60"><a href="https://g2-ops.com/blog/">Blog</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-312" data-size="60"><a href="https://g2-ops.com/contact/">Contact</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-975" data-size="60"><a href="https://g2-ops.com/cyber-it-services-consulting-company/#our_locations">Our Locations</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1125 infinite-normal-menu"><a class="sf-with-ul-pre">Services</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1124" data-size="60"><a href="https://g2-ops.com/model-based-systems-engineering/">Model-Based Systems Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3282" data-size="60"><a href="https://g2-ops.com/gold-standard-methodology/">Gold Standard Methodology</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1123" data-size="60"><a href="https://g2-ops.com/cybersecurity-services/">Cybersecurity Services</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1122" data-size="60"><a href="https://g2-ops.com/cloud-engineering/">Cloud Engineering</a></li>
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1922" data-size="60"><a href="https://g2-ops.com/software-engineering/">Software Engineering</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-42 infinite-normal-menu"><a href="https://g2-ops.com/unified-risk-management-solutions/" class="sf-with-ul-pre">Solutions</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017" data-size="60"><a href="https://g2-ops.com/digital-twin-technology/">Digital Twin Technology</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-333" data-size="60"><a href="/unified-risk-management-solutions/#solutions__tabs">Unified Risk Management</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-299 infinite-normal-menu"><a href="https://g2-ops.com/resources/" class="sf-with-ul-pre">Resources</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-351" data-size="60"><a href="/resources/#datasheet">Data Sheets</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-352" data-size="60"><a href="/resources/#whitesheet">White Papers</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370" data-size="60"><a href="/resources/#articles">Articles</a></li>
+	<li  class="menu-item menu-item-type-custom menu-item-object-custom menu-item-353" data-size="60"><a href="/resources/#videos">Videos</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-41 infinite-normal-menu"><a href="https://g2-ops.com/partners-contract-vehicles/" class="sf-with-ul-pre">Partners</a>
+<ul class="sub-menu">
+	<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350" data-size="60"><a href="https://g2-ops.com/contract-vehicles/">Contract Vehicles</a></li>
+</ul>
+</li>
+<li  class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38 infinite-normal-menu"><a href="https://g2-ops.com/start-a-thriving-and-rewarding-career-at-g2-ops-com/">Careers</a></li>
+</ul></div>			</div><!-- infinite-navigation -->
+
+		</div><!-- infinite-header-inner -->
+	</div><!-- infinite-header-container -->
+</header><!-- header --><div class="infinite-page-wrapper" id="infinite-page-wrapper" ><div class="gdlr-core-page-builder-body"><div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-desktop-tablet homepage__hero-mobile-wrap" style="padding: 0px 0px 0px 0px;" ><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space" ><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 0px;"  ><div class="gdlr-core-text-box-item-content"  ><div class="homepage__hero-mobile">
+<div class="homepage__hero-mobile-1">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/home_hero_mobile_1.png" alt="hero img"></p>
+<h1>Reducing disruptions due to cyber crimes or IT system flaws is like hitting a moving target<br />
+So, our solution moves with it.</h1>
+<p><a class="btn--arial homepage__hero-mobile-btn" href="#smarter-intelligence">Learn more</a></p>
+</div>
+<div class="homepage__hero-mobile-2">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/home_hero_mobile_2.png" alt="hero img"></p>
+<h1>Intelligent risk management of your IT system starts with knowing what you don’t know.<br />
+So, our solution let’s you see what you didn’t see.</h1>
+<p><a class="btn--arial homepage__hero-mobile-btn homepage__hero-mobile-btn--white" href="#smarter-intelligence">Learn more</a></p>
+</div>
+<div class="homepage__hero-mobile-3">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/home_hero_mobile_3.png" alt="hero img"></p>
+<h1>Resolving the intangibles in your IT system starts with making them tangible.<br />
+So, using digital twin technology, we do just that.</h1>
+<p><a class="btn--arial homepage__hero-mobile-btn" href="#smarter-intelligence">Learn more</a></p>
+</div>
+</div>
+</div></div></div></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper  gdlr-core-hide-in-mobile homepage__first-section" style="padding: 0px 0px 0px 0px;" ><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space" ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-video-item gdlr-core-item-pdlr gdlr-core-item-pdb " style="padding-bottom: 0px;"  ><div class="gdlr-core-video-item-type-youtube" ><iframe src="//www.youtube.com/embed/fmIMZ_e3TRA?modestbranding=1?wmode=transparent&#038;feature=youtu.be&#038;controls=0&#038;rel=0&#038;showinfo=0&#038;loop=0&#038;autoplay=1" width="640" height="360" data-player-type="youtube" allowfullscreen ></iframe></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper  homepage__news-wrap" style="overflow: hidden;" ><div class="gdlr-core-pbf-background-wrap" style="background-color: #426b7e;"  ><div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://g2-ops.com/wp-content/uploads/2017/11/dark_bubbles_bg-1.png);background-size: cover;background-position: center left;"  data-parallax-speed="0"  ></div></div><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container" ><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js  homepage__news-slider"   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr block__title" style="padding-bottom: 10px;"  ><div class="gdlr-core-title-item-title-wrap "  ><h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 17px;font-weight: 600;text-transform: none;color: #ffffff;"  >Featured News<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div></div></div><div class="gdlr-core-pbf-element" ><div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"  ><div class="gdlr-core-text-box-item-content"  ><div class="latest-news-holder">
+<div class="latest-news-item">
+<h3>Managing the Complex Ecosystem of a New 5G DoD Smart Warehouse</h3>
+<p class="latest-news-date"><span class="gdlr-core-head"><i class="icon_clock_alt"></i></span> December 12, 2023</p>
+<p class="latest-news-text">Managing the Complex Ecosystem of a New 5G DoD Smart Warehouse Virginia Beach, VA (December 11, 2023) &#8211; 5G technology...</p>
+<p><a href="https://g2-ops.com/blog/managing-the-complex-ecosystem-of-a-new-5g-dod-smart-warehouse/">Read More &#10141;</a></div>
+<div class="latest-news-item">
+<h3>Use MBSE to Optimize Systems</h3>
+<p class="latest-news-date"><span class="gdlr-core-head"><i class="icon_clock_alt"></i></span> November 12, 2023</p>
+<p class="latest-news-text">Use MBSE to Optimize Systems Virginia Beach, VA (November 30, 2023) &#8211; As infrastructures increase in complexity to become integrated...</p>
+<p><a href="https://g2-ops.com/blog/use-mbse-to-optimize-systems/">Read More &#10141;</a></div>
+<div class="latest-news-item">
+<h3>Crowdsource DevSecOps Through the Cloud</h3>
+<p class="latest-news-date"><span class="gdlr-core-head"><i class="icon_clock_alt"></i></span> August 30, 2023</p>
+<p class="latest-news-text">Crowdsource DevSecOps Through the Cloud Virginia Beach, VA (August 29, 2023) &#8211; The DoD has been pushing for digital engineering...</p>
+<p><a href="https://g2-ops.com/blog/crowdsource-devsecops-through-the-cloud/">Read More &#10141;</a></div>
+<div class="latest-news-item">
+<h3>G2 Ops Named to Inc. 5000 For Sixth Consecutive Year</h3>
+<p class="latest-news-date"><span class="gdlr-core-head"><i class="icon_clock_alt"></i></span> August 30, 2023</p>
+<p class="latest-news-text">G2 Ops Named to Inc. 5000 For Sixth Consecutive Year Inc. Magazine Again Recognizes G2 Ops as One of America&#8217;s...</p>
+<p><a href="https://g2-ops.com/blog/g2-ops-named-to-inc-5000-for-sixth-consecutive-year/">Read More &#10141;</a></div>
+</div>
+</div></div></div></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper " style="padding: 30px 0px 30px 0px;"  data-decrease-height="450px"><div class="gdlr-core-pbf-background-wrap" style="background-color: #f1f5f7;"  ></div><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container" ><div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first gdlr-core-hide-in-mobile" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="min-height: 400px;"   data-sync-height="half-height"  ><div class="gdlr-core-pbf-background-wrap"  ><div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(https://g2-ops.com/wp-content/uploads/2017/11/home_section2_bg.png);background-repeat: no-repeat;background-position: center;"  data-parallax-speed="0"  ></div></div><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-30" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   data-decrease-height="400px" data-sync-height="half-height"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr block__title" style="padding-bottom: 0px;"  ><div class="gdlr-core-title-item-title-wrap "  ><h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 17px;font-weight: 600;text-transform: none;color: #575758;"  >Strategic View<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 24px;font-weight: 300;font-style: normal;color: #d34727;"  >G2 Ops helps companies stay ahead of 
+cyber crime and IT threats by using Model-Based Systems Engineering (MBSE), Cybersecurity, Cloud Engineering, and Digital Engineering to identify
+and measure weaknesses before 
+incidents occur, then providing remediation 
+priorities based on individual business 
+and financial risk thresholds.</span></div></div></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper  homepage__partners" style="border-width: 2px 0px 0px 0px;border-color: #c2c2c2;border-style: dotted;" ><div class="gdlr-core-pbf-background-wrap" style="background-color: #ffffff;"  ></div><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container" ><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-gallery-item gdlr-core-item-pdb clearfix  gdlr-core-gallery-item-style-grid-no-space gdlr-core-item-pdlr "  ><div class="gdlr-core-flexslider flexslider gdlr-core-js-2 " data-type="carousel" data-column="6" data-nav="none" data-nav-parent="gdlr-core-blog-item"  ><ul class="slides" ><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/AFWERX.png" alt="" width="225" height="225" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/amentum-2.png" alt="" width="463" height="284" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/NAVWAR.jpg" alt="" width="377" height="270" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/Lockheed.png" alt="" width="621" height="169" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2017/11/partners_logo_2-1.png" alt="" width="145" height="40" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><a  class="gdlr-core-ilightbox gdlr-core-js " href="https://g2-ops.com/wp-content/uploads/2023/07/V3_Emblem-1-Star.png" data-ilightbox-group="gdlr-core-img-group-1"><img src="https://g2-ops.com/wp-content/uploads/2023/07/V3_Emblem-1-Star.png" alt="" width="360" height="358" /></a></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2017/11/partners_2-2.png" alt="" width="225" height="51" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2017/11/partners_3-1.png" alt="" width="78" height="42" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/logo-vert.png" alt="" width="1511" height="625" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/NG.png" alt="" width="425" height="119" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/04/VA-Ship-Repair.png" alt="" width="428" height="118" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/06/Serco_Logo.png" alt="Serco Consulting Logo" width="1000" height="297" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/06/LinQuest-Logo-RGB-1200x560-1.jpg" alt="Linquest" width="1200" height="627" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/06/united-states-coast-guard-logo-png-transparent.png" alt="" width="2400" height="2400" /></div></li><li  ><div class="gdlr-core-gallery-list gdlr-core-media-image" ><img src="https://g2-ops.com/wp-content/uploads/2020/06/datastax.png" alt="Datastax Partner" width="612" height="250" /></div></li></ul></div></div></div></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper  home__smarter-wrap" style="padding: 70px 0px 30px 0px;"  id="smarter-intelligence" ><div class="gdlr-core-pbf-background-wrap" style="background-color: #d34727;"  ></div><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container" ><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr block__title" style="padding-bottom: 40px;"  ><div class="gdlr-core-title-item-title-wrap "  ><h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 17px;font-weight: 600;text-transform: none;color: #ffffff;"  >Smarter Intelligence<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 30px;font-weight: 300;font-style: normal;color: #92fbfa;"  >Digital Twin technology identifies weaknesses and measures impact before incidents occur.</span></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-right gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-1.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">IDENTIFY </a>how your 
+organization manages information</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js  home_smarter-center" style="padding: 0px 30px 0px 30px;"   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-2.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">MEASURE </a>resiliency and effectiveness of security controls</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-3.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">PRIORITIZE </a>system and technology trade-offs</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-right gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-4.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">IDENTIFY </a>where critical assets intersect with business processes</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js  home_smarter-center" style="padding: 0px 30px 0px 30px;"   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-5.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">MEASURE </a>system performance against operational requirements</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-20" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   data-sync-height="home_smarter_1"  data-sync-height-center ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content"   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr homepage__3rd-section-items" style="padding-bottom: 60px;"  ><div class="gdlr-core-title-item-left-image gdlr-core-media-image" style="margin: 10px 15px 0px 0px;"  ><img src="https://g2-ops.com/wp-content/uploads/2017/11/icon-6.png" alt="" width="83" height="82" /></div><div class="gdlr-core-title-item-left-image-wrap" ><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="color: #ffffff;"  ><a href="#" class="smarter__link">PRIORITIZE </a>where modernization is most needed</span></div></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js "   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align button--arial model-based-systems-engineering-datasheet"  ><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-with-border" href="https://g2-ops.com/wp-content/uploads/2018/03/G2OPS_MBSE_DataSheet_030318.pdf" target="_blank" style="font-size: 11px;color: #ffffff;padding: 16px 32px 16px 32px;text-transform: uppercase;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border-color: #ffffff;"  ><span class="gdlr-core-content" >Download Data Sheet</span></a></div></div></div></div></div></div></div></div><div class="gdlr-core-pbf-wrapper " ><div class="gdlr-core-pbf-background-wrap" style="background-color: #ffffff;"  ></div><div class="gdlr-core-pbf-wrapper-content gdlr-core-js "   ><div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container" ><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 33px 0px 33px;"   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-center-align gdlr-core-title-item-caption-bottom gdlr-core-item-pdlr block__title" style="padding-bottom: 40px;"  ><div class="gdlr-core-title-item-title-wrap "  ><h3 class="gdlr-core-title-item-title gdlr-core-skin-title" style="font-size: 17px;font-weight: 600;text-transform: none;color: #575758;"  >Unified Risk Management<span class="gdlr-core-title-item-title-divider gdlr-core-skin-divider" ></span></h3></div><span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="font-size: 30px;font-weight: 300;font-style: normal;color: #28637e;"  >Visualize comprehensive risk awareness customized for your business.</span></div></div></div></div></div><div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first" ><div class="gdlr-core-pbf-column-content-margin gdlr-core-js  homepage__charts-wrap" style="padding: 0px 0px 0px 0px;"   ><div class="gdlr-core-pbf-column-content clearfix gdlr-core-js "   ><div class="gdlr-core-pbf-element" ><div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align hide" style="padding-bottom: 50px;"  ><div class="gdlr-core-text-box-item-content"  ><div class="homepage__charts">
+<div class="homepage__charts-item">
+<div><label class="homepage__charts-label" for="homepage__tab1">By Asset</label><input id="homepage__tab1" class="homepage__charts-input" checked="checked" name="nesto" type="radio" value="input1" /></div>
+<div class="homepage__charts-tab-content">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/slider_tab1.png" alt="" /></p>
+<h3 class="homepage__charts-subtitle">Current Cyber Value-at-Risk (CyVaR)</h3>
+<div class="homepage__charts-bottom">
+<p class="homepage__charts-bottom-content">$110,162,017 <span class=" chart-item">Critical</span><span class="chart-item">High</span><span class="chart-item">Medium</span><span class="chart-item">Low</span></p>
+</div>
+</div>
+<div><label class="homepage__charts-label" for="homepage__tab2">By BUSINESS</label><input id="homepage__tab2" class="homepage__charts-input" name="nesto" type="radio" /></div>
+<div class="homepage__charts-tab-content">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/11/charts.jpg" alt="" /></p>
+<h3 class="homepage__charts-subtitle">Overall Vulnerabilities by Value-At-Risk</h3>
+<div class="homepage__charts-bottom">
+<p class="homepage__charts-bottom-content">Two-Year Historical View <span class=" chart-item">Critical</span><span class="chart-item">High</span><span class="chart-item">Medium</span><span class="chart-item">Low</span></p>
+</div>
+</div>
+<div><label class="homepage__charts-label" for="homepage__tab3">by record</label><input id="homepage__tab3" class="homepage__charts-input" name="nesto" type="radio" /></div>
+<div class="homepage__charts-tab-content">
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/slider_tab2.png" alt="" /></p>
+<h3 class="homepage__charts-subtitle">Historical Cyber Value-at-Risk (CyVaR)</h3>
+</div>
+</div>
+<div>slide 2</div>
+<div>slide 3</div>
+</div>
+</div></div></div><div class="gdlr-core-pbf-element" ><div class="gdlr-core-tab-item gdlr-core-js gdlr-core-item-pdb  gdlr-core-center-align gdlr-core-tab-style2-horizontal gdlr-core-item-pdlr homepage__charts-tab"  ><div class="gdlr-core-tab-item-title-wrap clearfix gdlr-core-title-font" ><div class="gdlr-core-tab-item-title  gdlr-core-active" data-tab-id="1" >BY VALUE-AT-RISK</div><div class="gdlr-core-tab-item-title " data-tab-id="2" >BY BUSINESS PROCESS</div><div class="gdlr-core-tab-item-title " data-tab-id="3" >BY MATURITY</div><div class="gdlr-core-tab-item-title-line gdlr-core-skin-divider"></div></div><div class="gdlr-core-tab-item-content-wrap clearfix" ><div class="gdlr-core-tab-item-content  gdlr-core-active" data-tab-id="1"  ><div>
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/slider_tab1.png" alt=""></p>
+<h3 class="homepage__charts-subtitle">Current Cyber Value-at-Risk (CyVaR)</h3>
+<div class="homepage__charts-bottom">
+<p class="homepage__charts-bottom-content">$110,162,017 <span class=" chart-item">Critical</span><span class="chart-item">High</span><span class="chart-item">Medium</span><span class="chart-item">Low</span></p>
+</div>
+</div>
+</div><div class="gdlr-core-tab-item-content " data-tab-id="2"  ><div>
+<p><img src="https://g2-ops.com/wp-content/uploads/2017/12/charts_2.png" alt=""></p>
+<div class="homepage__charts-bottom">
+<p class="homepage__charts-bottom-content">
+<p class="homepage__charts-subtitle">Business Processes by CyVaR</p>
+<p><span class=" chart-item">Critical</span><span class="chart-item">High</span><span class="chart-item">Medium</span><span class="chart-item">Low</span></p>
+</div>
+</div>
+</div><div class="gdlr-core-tab-item-content " data-tab-id="3"  ><p><img src="https://g2-ops.com/wp-content/uploads/2017/12/slider_tab2.png" alt=""></p>
+<h3 class="homepage__charts-subtitle">Historical Cyber Value-at-Risk (CyVaR)</h3>
+</div></div></div></div></div></div></div></div></div></div></div></div><footer><div class="infinite-footer-wrapper " ><div class="infinite-footer-container infinite-container clearfix" ><div class="infinite-footer-column infinite-item-pdlr infinite-column-15" ></div><div class="infinite-footer-column infinite-item-pdlr infinite-column-15" ></div><div class="infinite-footer-column infinite-item-pdlr infinite-column-15" ></div><div class="infinite-footer-column infinite-item-pdlr infinite-column-15" ><div id="nav_menu-4" class="widget widget_nav_menu infinite-widget"><div class="menu-footer-contact-container"><ul id="menu-footer-contact" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322"><a href="https://g2-ops.com/contact/">Contact</a></li>
+</ul></div></div><div id="custom_html-3" class="widget_text widget widget_custom_html infinite-widget"><div class="textwidget custom-html-widget"><p class="footer__address">2829 Guardian Lane, Virginia Beach, VA 23452<br />
+P  757-965-8330 <a class="footer-link" href="mailto:info@g2-ops.com" target="_blank" rel="noopener">info@g2-ops.com</a></p>
+<div class="footer__social">
+<a href="https://www.facebook.com/G2Ops/" target="_blank" rel="noopener"><img src="https://g2-ops.com/wp-content/uploads/2017/11/fb_grey.png" alt=""></a>
+<a href="https://twitter.com/G2Ops" target="_blank" rel="noopener"><img src="https://g2-ops.com/wp-content/uploads/2017/11/tw_grey.png" alt=""></a>
+<a href="https://www.linkedin.com/company/704234/" target="_blank" rel="noopener"><img src="https://g2-ops.com/wp-content/uploads/2017/11/in_grey.png" alt=""></a>
+</div>
+</div></div></div></div></div><div class="infinite-copyright-wrapper" ><div class="infinite-copyright-container infinite-container clearfix"><div class="infinite-copyright-right infinite-item-pdlr"><a href="/terms-of-service/">Terms of Service</a>  | <a href="/privacy-policy/"> Privacy Policy</a>  |  © G2 Ops 2022. All rights reserved.</div></div></div></footer></div></div><a href="#infinite-top-anchor" class="infinite-footer-back-to-top-button" id="infinite-footer-back-to-top-button"><i class="fa fa-angle-up" ></i></a>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.transit.min.js?ver=3.3" id="wa_chpcs_transit-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.lazyload.min.js?ver=3.3" id="wa_chpcs_lazyload-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.carouFredSel-6.2.1-packed.js?ver=3.3" id="wa_chpcs_caroufredsel_script-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/carousel-horizontal-posts-content-slider/assets/js/caroufredsel/jquery.touchSwipe.min.js?ver=3.3" id="wa_chpcs_touch_script-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/g2-ops.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.6" id="contact-form-7-js"></script>
+<script type="text/javascript" id="wpcf7-redirect-script-js-extra">
+/* <![CDATA[ */
+var wpcf7r = {"ajax_url":"https:\/\/g2-ops.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/wpcf7-redirect/build/js/wpcf7r-fe.js?ver=1.1" id="wpcf7-redirect-script-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/themes/infinite-child/js/custom.js?ver=1.2" id="custom-js-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/jquery/ui/effect.min.js?ver=1.13.2" id="jquery-effects-core-js"></script>
+<script type="text/javascript" id="infinite-script-core-js-extra">
+/* <![CDATA[ */
+var infinite_script_core = {"home_url":"https:\/\/g2-ops.com\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/themes/infinite/js/script-core.js?ver=1.0.0" id="infinite-script-core-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/goodlayers-core/plugins/combine/script.js?ver=6.4.2" id="gdlr-core-plugin-js"></script>
+<script type="text/javascript" id="gdlr-core-page-builder-js-extra">
+/* <![CDATA[ */
+var gdlr_core_pbf = {"admin":"","video":{"width":"640","height":"360"},"ajax_url":"https:\/\/g2-ops.com\/wp-admin\/admin-ajax.php","ilightbox_skin":"dark"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/goodlayers-core/include/js/page-builder.js?ver=6.4.2" id="gdlr-core-page-builder-js"></script>
+<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?render=6LcYrbgUAAAAALql0WiI_Dhb8pE-4-vshyVixGWe&amp;ver=3.0" id="google-recaptcha-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcYrbgUAAAAALql0WiI_Dhb8pE-4-vshyVixGWe","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://g2-ops.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.6" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" src="https://g2-ops.com/wp-includes/js/wp-embed.min.js?ver=6.4.2" id="wp-embed-js" defer="defer" data-wp-strategy="defer"></script>
+
+<script src="https://npmcdn.com/jquery-gray@1.5.0/js/jquery.gray.min.js"></script> 
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script>
+(function($) {
+    $(document).ready(function(){
+      $('.homepage__charts').slick({
+        dots: false,
+        infinite: true,
+        speed: 1000,
+        slidesToShow: 1,
+        arrows: true,
+        autoplay: false,
+        autoplaySpeed: 4000
+      });
+      $('.homepage__hero-mobile').slick({
+        dots: false,
+        infinite: true,
+        speed: 1000,
+        slidesToShow: 1,
+        arrows: false,
+        autoplay: true,
+        autoplaySpeed: 4000,
+        adaptiveHeight: true
+      });
+        initLeftTabsDisplay();
+    });
+
+    $('.company__posts .gdlr-core-excerpt-read-more').html("More...");
+    $('.company__blog .gdlr-core-excerpt-read-more').html("More...");
+
+    $(".nav-tabs a").click(function(e){
+        $(this).tab('show');
+    });
+
+    $('select').niceSelect();
+    $('.nice-select').addClass('wide');
+
+    /* unwrap from page-builder wraps */
+    var tabsLabel = $(".homepage__charts-label");
+    if (tabsLabel.parent().is("div")) {
+        tabsLabel.unwrap();
+    }
+
+    /* single blog post with small image */
+    // if(window.location.pathname.indexOf("blog") > -1){
+    if(window.location.pathname.match( /(blog|news-events|contract-vehicles|press-releases|in-the-news)/ )){
+        blogSinglePost();
+        $(window).resize(function(){
+            blogSinglePost();
+        });
+
+        function blogSinglePost(){
+            if (window.matchMedia("(min-width: 844px)").matches){
+                $(".infinite-single-article").css({
+                    "display": "flex",
+                    "justify-content": "center"
+                });
+                $(".infinite-single-article-thumbnail img").addClass("blog-single-img");
+                $(".infinite-single-article-content").css("width", "70%", "important");
+            }else{
+                $(".infinite-single-article").css("display", "block");
+                $(".infinite-single-article-thumbnail img").removeClass("blog-single-img");
+                $(".infinite-single-article-content").css("width", "100%", "important");
+            }
+        }
+    }
+
+    /* contract-vehicles-help tab */
+    if(window.location.pathname.indexOf("contact") > -1){
+        setTimeout(function() {
+            $("#contact__tabs .gdlr-core-tab-item-title-wrap .gdlr-core-tab-item-title").each(function(){
+                $(this).click(function(e){
+                    // window.location.hash = $(this).attr("id");
+                    e.preventDefault();
+                    history.pushState({}, '', "#" + $(this).attr("id"));
+                });
+            });
+            
+            $("#contact__tabs [data-tab-id='1']").attr('id', 'learn-more');
+            $("#contact__tabs [data-tab-id='2']").attr('id', 'partner-inquiries');
+            $("#contact__tabs [data-tab-id='3']").attr('id', 'join-our-talent-network');
+            $("#contact__tabs [data-tab-id='4']").attr('id', 'contract-vehicles-help');
+            var hash = window.location.hash.substr(1);
+            if(hash == "learn-more"){
+                $("#contact__tabs [data-tab-id='1']").trigger('click');
+            }else if(hash == "partner-inquiries"){
+                $("#contact__tabs [data-tab-id='2']").trigger('click');
+            }else if(hash == "join-our-talent-network"){
+                $("#contact__tabs [data-tab-id='3']").trigger('click');
+            }else if(hash == "contract-vehicles-help"){
+                $("#contact__tabs [data-tab-id='4']").trigger('click');
+            }
+        }, 200);
+
+        $(".top-bar__text").css("color", "#dc543b");
+    }
+
+    /* tabs */
+    if(window.location.pathname.indexOf("temp-services") > -1){
+    /* services tabs anchors */
+        setTimeout(function() {
+            /* sidebar of services tabs */
+            // var tabsSidebarTitle = $("#services__tabs .tabs__sidebar-wrap .gdlr-core-title-item-title");
+            // var tabsSidebarSubTitle = $("#services__tabs .tabs__sidebar-wrap .gdlr-core-title-item-caption");
+            
+            var servicesLink1 = $('#menu-main-1 li:first-child .sub-menu li:first-child a');
+            var servicesLink2 = $('#menu-main-1 li:first-child .sub-menu li:nth-child(2) a');
+            var servicesLink3 = $('#menu-main-1 li:first-child .sub-menu li:nth-child(3) a');
+            var servicesMenu = $('#menu-main-1 li:first-child .sub-menu');
+            servicesLink1.click(function(e){
+                e.preventDefault();
+                history.pushState({}, '', "#model-based-systems-engineering");
+                servicesMenu.css('display', 'none', 'important');
+                $("#services__tabs [data-tab-id='1']").trigger('click');
+            });
+            servicesLink2.click(function(e){
+                e.preventDefault();
+                history.pushState({}, '', "#cybersecurity-services");
+                servicesMenu.css('display', 'none', 'important');
+                $("#services__tabs [data-tab-id='2']").trigger('click');
+            });
+            servicesLink3.click(function(e){
+                e.preventDefault();
+                history.pushState({}, '', "#it-service-management");
+                servicesMenu.css('display', 'none', 'important');
+                $("#services__tabs [data-tab-id='3']").trigger('click');
+            });
+
+
+            // $("#services__tabs .gdlr-core-tab-item-title-wrap .gdlr-core-tab-item-title").each(function(){
+            //     $(this).click(function(){
+            //         alert("each services works");
+            //         window.location.hash = $(this).attr("id");
+            //     });
+            // });
+            var servicesTabTitle1 =  $("#services__tabs [data-tab-id='1']");
+            var servicesTabTitle2 =  $("#services__tabs [data-tab-id='2']");
+            var servicesTabTitle3 =  $("#services__tabs [data-tab-id='3']");
+            var servicesTabLeft1 = $('.services__left-tab1');
+            var servicesTabLeft2 = $('.services__left-tab2');
+            var servicesTabLeft3 = $('.services__left-tab3');
+
+            servicesTabTitle1.attr('id', 'model-based-systems-engineering');
+            servicesTabTitle2.attr('id', 'cybersecurity-services');
+            servicesTabTitle3.attr('id', 'it-service-management');
+            servicesTabTitle1.click(function(e){
+                e.preventDefault(e);
+                history.pushState({}, '', "#" + $(this).attr("id"));
+                servicesLink1.addClass("submenu-anchors");
+                servicesLink2.removeClass("submenu-anchors");
+                servicesLink3.removeClass("submenu-anchors");
+                servicesTabLeft1.css('display', 'block');
+                servicesTabLeft2.css('display', 'none');
+                servicesTabLeft3.css('display', 'none');
+                // tabsSidebarTitle.html("Unprecedented visibility and control");
+                // tabsSidebarSubTitle.html("The G2 Ops approach integrates systems, data, network, activities and operations.");
+            });
+            servicesTabTitle2.click(function(e){
+                e.preventDefault(e);
+                history.pushState({}, '', "#" + $(this).attr("id"));
+                servicesLink2.addClass("submenu-anchors");
+                servicesLink1.removeClass("submenu-anchors");
+                servicesLink3.removeClass("submenu-anchors");
+                servicesTabLeft1.css('display', 'none');
+                servicesTabLeft2.css('display', 'block');
+                servicesTabLeft3.css('display', 'none');
+                // tabsSidebarTitle.html("Actionable insights tuned to your infrastructure and business");
+                // tabsSidebarSubTitle.html("Model threats and risk remediation plans while maintaining accurate visibility into your current state.");
+            });
+            servicesTabTitle3.click(function(e){
+                e.preventDefault(e);
+                history.pushState({}, '', "#" + $(this).attr("id"));
+                servicesLink3.addClass("submenu-anchors");
+                servicesLink1.removeClass("submenu-anchors");
+                servicesLink2.removeClass("submenu-anchors");
+                servicesTabLeft1.css('display', 'none');
+                servicesTabLeft2.css('display', 'none');
+                servicesTabLeft3.css('display', 'block');
+                // tabsSidebarTitle.html("A process-based approach, tailor made for your organization");
+                // tabsSidebarSubTitle.html("Expert consultants can guide you to the creation of optimal future scenarios and road maps");
+            });
+            /* hash */
+            var hash = window.location.hash.substr(1);
+            if(hash == "model-based-systems-engineering"){
+                servicesLink1.addClass("submenu-anchors");
+                $("#services__tabs [data-tab-id='1']").trigger('click');
+            }else if(hash == "cybersecurity-services"){
+                servicesLink2.addClass("submenu-anchors");
+                $("#services__tabs [data-tab-id='2']").trigger('click');
+            }else if(hash == "it-service-management"){
+                servicesLink3.addClass("submenu-anchors");
+                $("#services__tabs [data-tab-id='3']").trigger('click');
+            }
+        }, 200);
+    }
+
+    function initLeftTabsDisplay(){
+        var tabTitles = jQuery('#services__tabs .gdlr-core-tab-item-title'),
+            leftTabs = jQuery('[class*="services__left-tab"]');
+        tabTitles.each(function(){
+            var tabTitle = jQuery(this),
+                tabID = tabTitle.data('tab-id'),
+                leftTab = jQuery('.services__left-tab' + tabID);
+            tabTitle.on('click', function(){
+                leftTabs.css('display', 'none');
+                leftTab.css('display', 'block');
+            });
+        });
+    }
+
+    /* services submenu active state */
+    $('#menu-main-1 li:first-child .sub-menu li a').click(function(){
+        $('#menu-main-1 li:first-child .sub-menu li a').removeClass("submenu-anchors");
+        $(this).addClass("submenu-anchors");
+    });
+
+    $("#menu-main-1 li:first-child .sub-menu li").removeClass("current-menu-item");
+
+    /* resources anchors from external page */
+    // if(window.location.pathname.indexOf("resources") > -1){
+    //     setTimeout(function() {
+    //         var resourcesLink1 = $('#menu-main-1 li:nth-child(4) .sub-menu li:first-child a');
+    //         var resourcesLink2 = $('#menu-main-1 li:nth-child(4) .sub-menu li:nth-child(2) a');
+    //         var resourcesLink3 = $('#menu-main-1 li:nth-child(4) .sub-menu li:nth-child(3) a');
+    //         var resourcesLink4 = $('#menu-main-1 li:nth-child(4) .sub-menu li:nth-child(4) a');
+    //         // var resourcesLink5 = $('#menu-main-1 li:nth-child(4) .sub-menu li:nth-child(5) a');
+    //         resourcesLink1.click(function(){
+    //             window.location.hash = '#datasheet';
+    //         });
+    //         resourcesLink2.click(function(){
+    //             window.location.hash = '#whitepapers';
+    //         });
+    //         resourcesLink3.click(function(){
+    //             window.location.hash = '#';
+    //         });
+    //         resourcesLink4.click(function(){
+    //             window.location.hash = '#podcasts';
+    //         });
+    //         // resourcesLink5.click(function(){
+    //         //     window.location.hash = '#videos';
+    //         // });
+    //     }, 200);
+    // }
+    /* resources submenu active state */
+    $('#menu-main-1 li:nth-child(4) .sub-menu li a').click(function(){
+        $('#menu-main-1 li:nth-child(4) .sub-menu li a').removeClass("submenu-anchors");
+        $(this).addClass("submenu-anchors");
+    });
+
+    $("#menu-main-1 li:nth-child(4) .sub-menu li").removeClass("current-menu-item");
+
+    $(".homepage__news-wrap .chpcs_more").parent().css("margin-top", "35px");
+    $(".homepage__news-wrap .chpcs_prev span").html("");
+    $(".homepage__news-wrap .chpcs_next span").html("");
+
+
+    /* homepage featured news slider */
+    if(window.location.pathname == "/" || window.location.pathname == "/g2ops/"){
+        homeFeaturedNews();
+        $(window).resize(function(){
+            homeFeaturedNews();
+            // console.log("resize");
+        });
+
+        function homeFeaturedNews(){
+            if (window.matchMedia("(max-width: 767px)").matches){
+                $(".homepage__news-wrap .chpcs_foo_con").parent().css({
+                    "width": "300",
+                    "margin": "0 auto"
+                });
+            }else{
+                $(".homepage__news-wrap .chpcs_foo_con").parent().css({
+                    "width": "700",
+                    "margin": "0 auto"
+                });
+            }
+        }
+
+        /* homepage overlay button for video*/
+        var homepageHero = document.querySelector(".homepage__first-section");
+        var heroBtn = document.createElement("a");
+        (function(){
+            heroBtn.classList.add("homepage__hero-btn");
+            heroBtn.setAttribute("href", "#smarter-intelligence");
+            homepageHero.appendChild(heroBtn);
+        })();
+        // heroBtn.addEventListener("click", function(){
+        //     history.pushState({}, '', "#smarter-intelligence");
+        // });
+        
+    }
+
+    /* homepage hero video */
+    $(".homepage__first-section iframe").attr("frameBorder", 0);
+
+    /* simple page */
+    if(window.location.pathname.indexOf("terms-of-service") > -1 || window.location.pathname.indexOf("privacy-policy") > -1){
+        $(".infinite-content-area h5").addClass("h5--simple-page");
+        $(".infinite-content-area a").addClass("link--simple-page");
+    }
+
+
+})(jQuery);
+
+window.onload = load();
+function load(){
+
+    /* hero overlay for tablets and mobile*/
+    // var heroOverlayWrap = document.querySelector(".gdlr-core-pbf-background-wrap");
+    // if(heroOverlayWrap != null){
+    //     var heroOverlay = document.createElement("div");
+    //     heroOverlayWrap.appendChild(heroOverlay);
+    //     heroOverlay.classList.add("hero-overlay--mobile");
+    // }
+}
+
+document.addEventListener("DOMContentLoaded", function(){
+    var home = document.querySelector(".infinite-logo-inner a");
+    if(home.href == window.location.href){
+        document.getElementById("homepage__tab1").checked = true;
+    }
+});
+
+var loadMore = document.querySelectorAll(".gdlr-core-load-more-wrap");
+for(var i = 0; i < loadMore.length; i++){
+    loadMore[i].addEventListener("click", function(){
+        setTimeout(function() {
+            var readMore = document.querySelectorAll(".company__posts .gdlr-core-excerpt-read-more");
+            for(var i = 0; i < readMore.length; i++){
+                readMore[i].innerHTML = "More...";
+            }
+            readMoreAlign();
+        }, 700);
+    });
+}
+
+function readMoreAlign(){
+    var readMoreClear = document.querySelectorAll(".company__posts div.clear");
+    for(var i = 0; i < readMoreClear.length; i++){
+        readMoreClear[i].style.display = "none";
+    }
+}
+readMoreAlign();
+
+/* partners columns */
+if(window.location.pathname.indexOf("partners") > -1) {
+    var partnersCol = document.querySelectorAll(".partners__list-content");
+    for(var i = 0; i < partnersCol.length; i++){
+        var partnersColParent = partnersCol[i].parentNode;
+        partnersColParent.style.flex = "1";
+    }
+}
+
+/* company blog section */
+if(window.location.pathname.indexOf("company") > -1) {
+    var companyBlogWrap = document.querySelector(".company__blog-wrap .gdlr-core-blog-medium-content-wrapper");
+    /* main blog title*/
+    var blogTitle = document.createElement("h2");
+    var blogTitleText = document.createTextNode("G2 Blog");
+    blogTitle.appendChild(blogTitleText);
+    blogTitle.classList.add("company__blog-wrap-title");
+    var blogItemTitle = document.querySelector(".company__blog-wrap .gdlr-core-blog-title");
+    companyBlogWrap.insertBefore(blogTitle, blogItemTitle);
+    /* all blog posts*/
+    var companyAllBlogPosts = document.createElement("a");
+    var companyAllBlogPostsText = document.createTextNode("all blog posts");
+    companyAllBlogPosts.appendChild(companyAllBlogPostsText);
+    companyAllBlogPosts.classList.add("all-posts-btn--white");
+    companyAllBlogPosts.setAttribute("href", "/blog");
+    companyBlogWrap.appendChild(companyAllBlogPosts);
+}
+
+    // var servicesTab2Link = document.querySelector("#menu-main-1 li:first-child .sub-menu li:nth-child(2) a");
+    // servicesTab2Link.addEventListener("click", function(){
+    //     var servicesTab2Title = document.querySelectorAll("[data-tab-id='2']");
+    //     for(var i = 0; i < servicesTab2Title.length; i++){
+    //         // servicesTab2Title[i].classList.add("gdlr-core-active");
+
+    //     }
+    // });
+
+    // var tabContent = document.querySelectorAll(".gdlr-core-tab-item-content-wrap .gdlr-core-tab-item-content");
+    // for(var i = 0; i < tabContent.length; i++){
+
+    // }
+
+    /* TABS cursor default if 1 tab */
+    var solutionsTabTitles = document.querySelectorAll("#solutions__tabs .gdlr-core-tab-item-title");
+    for(var i = 0; i < solutionsTabTitles.length; i++){
+        if(solutionsTabTitles.length == 1){
+            solutionsTabTitles[i].style.cursor = "default";
+        }
+    }
+
+    /* contract vehicles */
+    if(window.location.pathname.indexOf("contract-vehicles") > -1){
+        var contractDate = document.querySelector(".infinite-single-article-date-wrapper");
+        var contractInfo = document.querySelector(".infinite-blog-info-wrapper");
+        var contractSocial = document.querySelector(".infinite-single-social-share");
+        contractDate.style.display = "none";
+        contractInfo.style.display = "none";
+        contractSocial.style.display = "none";
+
+        var contractTitleWrap = document.querySelector(".infinite-single-article-head-right");
+        var contractTitle = document.createElement("h3");
+        var contractTitleText = document.createTextNode("Contract Vehicles");
+        contractTitle.appendChild(contractTitleText);
+        var contractSingleTitle = document.querySelector(".infinite-single-article-title");
+        contractTitleWrap.insertBefore(contractTitle, contractSingleTitle);
+        contractTitle.classList.add("contract-veh__single-title");
+        contractSingleTitle.setAttribute('style', 'font-weight: 300 !important');
+    }
+
+    /* Careers RegExp part of the job title */
+    if(window.location.pathname.indexOf("careers") > -1){
+        var jobTitle = document.querySelectorAll(".gdlr-core-blog-title a");
+        for(var i = 0; i < jobTitle.length; i++){
+            // console.log(jobTitle[i].innerText);
+            var jobTitlePatt = /–(.*)/;
+            var jobTitleText = jobTitlePatt.exec(jobTitle[i].innerText);
+            var jobTitleSpan = jobTitleText[0];
+            var jobTitleNewSpan = jobTitleSpan.innerHTML = "<span class='careers__subtitle'>" + jobTitleSpan + "</span>";
+            var jobTitleNew = jobTitle[i].innerText.replace(jobTitleSpan, jobTitleNewSpan); 
+            jobTitle[i].innerHTML = jobTitleNew;
+        }
+    }
+
+    
+
+
+</script>
+
+</body>
+</html>

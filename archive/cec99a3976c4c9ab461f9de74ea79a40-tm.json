@@ -1,0 +1,687 @@
+ERROR: 2024/02/18 18:44:13.035309 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/weiglemc": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/weiglemc",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/weiglemc",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-08-21T17:32:28Z",
+        "uri": "https://web.archive.org/web/20130821173228/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2013-09-20T15:29:03Z",
+        "uri": "https://web.archive.org/web/20130920152903/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2015-12-05T07:18:23Z",
+        "uri": "https://web.archive.org/web/20151205071823/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-03T03:40:02Z",
+        "uri": "https://wayback.archive-it.org/all/20160203034002/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-03T03:40:02Z",
+        "uri": "https://web.archive.org/web/20160203034002/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-29T13:58:05Z",
+        "uri": "https://wayback.archive-it.org/all/20160229135805/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-29T13:58:05Z",
+        "uri": "https://web.archive.org/web/20160229135805/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-29T14:05:03Z",
+        "uri": "https://wayback.archive-it.org/all/20160229140503/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-02-29T14:05:03Z",
+        "uri": "https://web.archive.org/web/20160229140503/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2016-12-17T12:53:50Z",
+        "uri": "https://web.archive.org/web/20161217125350/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-07-27T03:54:58Z",
+        "uri": "https://web.archive.org/web/20170727035458/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-08-31T19:44:54Z",
+        "uri": "https://web.archive.org/web/20170831194454/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-01T21:07:17Z",
+        "uri": "https://web.archive.org/web/20170901210717/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-01T22:16:12Z",
+        "uri": "https://web.archive.org/web/20170901221612/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-07T20:24:35Z",
+        "uri": "https://web.archive.org/web/20170907202435/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-14T19:54:19Z",
+        "uri": "https://web.archive.org/web/20170914195419/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-21T20:29:12Z",
+        "uri": "https://web.archive.org/web/20170921202912/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-09-28T20:18:28Z",
+        "uri": "https://web.archive.org/web/20170928201828/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-10-01T21:20:26Z",
+        "uri": "https://web.archive.org/web/20171001212026/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-10-01T22:17:51Z",
+        "uri": "https://web.archive.org/web/20171001221751/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-10-05T20:14:39Z",
+        "uri": "https://web.archive.org/web/20171005201439/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-10-12T21:56:31Z",
+        "uri": "https://web.archive.org/web/20171012215631/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-10-19T19:57:37Z",
+        "uri": "https://web.archive.org/web/20171019195737/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-12-07T07:47:20Z",
+        "uri": "https://web.archive.org/web/20171207074720/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2017-12-21T10:35:03Z",
+        "uri": "https://web.archive.org/web/20171221103503/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2018-02-19T15:41:52Z",
+        "uri": "https://web.archive.org/web/20180219154152/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2018-02-19T15:41:53Z",
+        "uri": "https://web.archive.org/web/20180219154153/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2018-05-28T23:48:09Z",
+        "uri": "https://web.archive.org/web/20180528234809/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2018-06-11T23:15:29Z",
+        "uri": "https://web.archive.org/web/20180611231529/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2018-07-03T00:11:11Z",
+        "uri": "https://web.archive.org/web/20180703001111/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-02-11T22:21:40Z",
+        "uri": "https://web.archive.org/web/20190211222140/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-03-13T19:46:38Z",
+        "uri": "https://web.archive.org/web/20190313194638/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-05-25T09:29:04Z",
+        "uri": "https://web.archive.org/web/20190525092904/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-10-29T18:25:21Z",
+        "uri": "https://web.archive.org/web/20191029182521/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-11-27T15:37:35Z",
+        "uri": "https://web.archive.org/web/20191127153735/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2019-11-28T02:48:47Z",
+        "uri": "https://web.archive.org/web/20191128024847/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-01-02T01:50:59Z",
+        "uri": "https://web.archive.org/web/20200102015059/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-05-23T20:16:01Z",
+        "uri": "https://web.archive.org/web/20200523201601/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-01T00:53:48Z",
+        "uri": "https://web.archive.org/web/20200601005348/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:17:59Z",
+        "uri": "https://web.archive.org/web/20200618211759/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:18:13Z",
+        "uri": "https://web.archive.org/web/20200618211813/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:18:26Z",
+        "uri": "https://web.archive.org/web/20200618211826/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:18:26Z",
+        "uri": "https://web.archive.org/web/20200618211826/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:19:07Z",
+        "uri": "https://web.archive.org/web/20200618211907/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:19:08Z",
+        "uri": "https://web.archive.org/web/20200618211908/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:19:41Z",
+        "uri": "https://web.archive.org/web/20200618211941/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:19:41Z",
+        "uri": "https://web.archive.org/web/20200618211941/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:20:04Z",
+        "uri": "https://web.archive.org/web/20200618212004/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:20:04Z",
+        "uri": "https://web.archive.org/web/20200618212004/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-18T21:21:27Z",
+        "uri": "https://web.archive.org/web/20200618212127/http://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-21T16:02:59Z",
+        "uri": "https://web.archive.org/web/20200621160259/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-06-26T15:05:15Z",
+        "uri": "https://web.archive.org/web/20200626150515/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-07-02T17:48:19Z",
+        "uri": "https://web.archive.org/web/20200702174819/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-07-27T19:43:48Z",
+        "uri": "https://web.archive.org/web/20200727194348/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2020-12-17T19:33:08Z",
+        "uri": "https://web.archive.org/web/20201217193308/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-03-08T05:21:31Z",
+        "uri": "https://web.archive.org/web/20210308052131/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-04-14T12:47:34Z",
+        "uri": "https://web.archive.org/web/20210414124734/https://www.twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2021-04-14T12:52:12Z",
+        "uri": "https://web.archive.org/web/20210414125212/https://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2021-04-16T10:04:33Z",
+        "uri": "https://web.archive.org/web/20210416100433/https://www.twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2021-04-25T21:12:04Z",
+        "uri": "https://web.archive.org/web/20210425211204/https://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2021-06-05T16:51:59Z",
+        "uri": "https://arquivo.pt/wayback/20210605165159mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-05T17:59:01Z",
+        "uri": "https://arquivo.pt/wayback/20210605175901mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-05T19:00:00Z",
+        "uri": "https://arquivo.pt/wayback/20210605190000mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-08T08:30:34Z",
+        "uri": "https://arquivo.pt/wayback/20210608083034mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-08T08:30:37Z",
+        "uri": "https://arquivo.pt/wayback/20210608083037mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-13T12:50:55Z",
+        "uri": "https://arquivo.pt/wayback/20210613125055mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-06-13T12:50:56Z",
+        "uri": "https://arquivo.pt/wayback/20210613125056mp_/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-07-25T21:28:27Z",
+        "uri": "http://archive.md/20210725212827/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-10-11T17:29:46Z",
+        "uri": "https://web.archive.org/web/20211011172946/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2021-11-22T23:57:45Z",
+        "uri": "https://web.archive.org/web/20211122235745/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-09-20T20:06:51Z",
+        "uri": "https://web.archive.org/web/20220920200651/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-15T22:32:29Z",
+        "uri": "https://web.archive.org/web/20221115223229/https://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2022-11-15T22:32:29Z",
+        "uri": "https://web.archive.org/web/20221115223229/http://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2022-11-16T04:19:11Z",
+        "uri": "https://web.archive.org/web/20221116041911/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-16T06:53:39Z",
+        "uri": "https://web.archive.org/web/20221116065339/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-17T00:50:42Z",
+        "uri": "https://web.archive.org/web/20221117005042/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-17T23:22:32Z",
+        "uri": "https://web.archive.org/web/20221117232232/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-18T00:21:41Z",
+        "uri": "https://web.archive.org/web/20221118002141/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-18T15:42:40Z",
+        "uri": "https://web.archive.org/web/20221118154240/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-19T17:35:23Z",
+        "uri": "https://web.archive.org/web/20221119173523/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-20T18:14:09Z",
+        "uri": "https://web.archive.org/web/20221120181409/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-20T19:11:57Z",
+        "uri": "http://archive.md/20221120191157/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-20T19:17:13Z",
+        "uri": "https://web.archive.org/web/20221120191713/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-20T21:01:55Z",
+        "uri": "https://web.archive.org/web/20221120210155/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-21T10:43:40Z",
+        "uri": "https://web.archive.org/web/20221121104340/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-21T21:11:16Z",
+        "uri": "https://web.archive.org/web/20221121211116/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-22T07:54:27Z",
+        "uri": "https://web.archive.org/web/20221122075427/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-22T18:45:08Z",
+        "uri": "https://web.archive.org/web/20221122184508/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-22T20:46:01Z",
+        "uri": "https://web.archive.org/web/20221122204601/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T00:50:43Z",
+        "uri": "https://web.archive.org/web/20221123005043/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T02:55:19Z",
+        "uri": "https://web.archive.org/web/20221123025519/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T05:04:50Z",
+        "uri": "https://web.archive.org/web/20221123050450/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T07:17:58Z",
+        "uri": "https://web.archive.org/web/20221123071758/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T11:06:56Z",
+        "uri": "https://web.archive.org/web/20221123110656/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T14:33:34Z",
+        "uri": "https://web.archive.org/web/20221123143334/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-23T18:20:57Z",
+        "uri": "https://web.archive.org/web/20221123182057/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-24T00:31:00Z",
+        "uri": "https://web.archive.org/web/20221124003100/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-24T03:00:34Z",
+        "uri": "https://web.archive.org/web/20221124030034/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-24T05:12:58Z",
+        "uri": "https://web.archive.org/web/20221124051258/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-24T09:26:43Z",
+        "uri": "https://web.archive.org/web/20221124092643/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-24T11:40:46Z",
+        "uri": "https://web.archive.org/web/20221124114046/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-25T00:15:54Z",
+        "uri": "https://web.archive.org/web/20221125001554/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-25T07:33:05Z",
+        "uri": "https://web.archive.org/web/20221125073305/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-25T10:24:03Z",
+        "uri": "https://web.archive.org/web/20221125102403/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-25T13:44:52Z",
+        "uri": "https://web.archive.org/web/20221125134452/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-26T03:39:48Z",
+        "uri": "https://web.archive.org/web/20221126033948/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-27T12:38:38Z",
+        "uri": "https://web.archive.org/web/20221127123838/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-27T20:02:40Z",
+        "uri": "https://web.archive.org/web/20221127200240/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-28T07:21:46Z",
+        "uri": "https://web.archive.org/web/20221128072146/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-29T19:14:56Z",
+        "uri": "https://web.archive.org/web/20221129191456/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-29T21:38:43Z",
+        "uri": "https://web.archive.org/web/20221129213843/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-30T09:14:02Z",
+        "uri": "https://web.archive.org/web/20221130091402/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-11-30T22:02:21Z",
+        "uri": "https://web.archive.org/web/20221130220221/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-01T16:41:55Z",
+        "uri": "https://web.archive.org/web/20221201164155/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-01T22:41:32Z",
+        "uri": "https://web.archive.org/web/20221201224132/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-03T14:21:26Z",
+        "uri": "https://web.archive.org/web/20221203142126/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-04T04:23:04Z",
+        "uri": "https://web.archive.org/web/20221204042304/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-05T19:44:36Z",
+        "uri": "https://web.archive.org/web/20221205194436/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-08T01:46:18Z",
+        "uri": "https://web.archive.org/web/20221208014618/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-08T03:48:46Z",
+        "uri": "https://web.archive.org/web/20221208034846/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-08T05:51:12Z",
+        "uri": "https://web.archive.org/web/20221208055112/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T04:02:18Z",
+        "uri": "https://web.archive.org/web/20221218040218/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T06:42:02Z",
+        "uri": "https://web.archive.org/web/20221218064202/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T08:52:16Z",
+        "uri": "https://web.archive.org/web/20221218085216/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T11:00:56Z",
+        "uri": "https://web.archive.org/web/20221218110056/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T13:09:31Z",
+        "uri": "https://web.archive.org/web/20221218130931/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T15:11:47Z",
+        "uri": "https://web.archive.org/web/20221218151147/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T20:21:56Z",
+        "uri": "https://web.archive.org/web/20221218202156/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-18T22:53:06Z",
+        "uri": "https://web.archive.org/web/20221218225306/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T01:01:35Z",
+        "uri": "https://web.archive.org/web/20221219010135/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T03:31:52Z",
+        "uri": "https://web.archive.org/web/20221219033152/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T10:11:55Z",
+        "uri": "https://web.archive.org/web/20221219101155/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T14:29:30Z",
+        "uri": "https://web.archive.org/web/20221219142930/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T19:19:21Z",
+        "uri": "https://web.archive.org/web/20221219191921/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T21:31:47Z",
+        "uri": "https://web.archive.org/web/20221219213147/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-19T23:43:15Z",
+        "uri": "https://web.archive.org/web/20221219234315/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-20T04:05:06Z",
+        "uri": "https://web.archive.org/web/20221220040506/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-20T21:51:39Z",
+        "uri": "https://web.archive.org/web/20221220215139/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T00:22:14Z",
+        "uri": "https://web.archive.org/web/20221221002214/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T03:22:50Z",
+        "uri": "https://web.archive.org/web/20221221032250/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T05:49:36Z",
+        "uri": "https://web.archive.org/web/20221221054936/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T12:07:40Z",
+        "uri": "https://web.archive.org/web/20221221120740/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T15:08:17Z",
+        "uri": "https://web.archive.org/web/20221221150817/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T19:41:58Z",
+        "uri": "https://web.archive.org/web/20221221194158/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-21T22:13:13Z",
+        "uri": "https://web.archive.org/web/20221221221313/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T00:44:13Z",
+        "uri": "https://web.archive.org/web/20221222004413/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T02:49:15Z",
+        "uri": "https://web.archive.org/web/20221222024915/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T04:58:36Z",
+        "uri": "https://web.archive.org/web/20221222045836/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T07:36:23Z",
+        "uri": "https://web.archive.org/web/20221222073623/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T11:11:52Z",
+        "uri": "https://web.archive.org/web/20221222111152/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T13:32:28Z",
+        "uri": "https://web.archive.org/web/20221222133228/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T15:42:32Z",
+        "uri": "https://web.archive.org/web/20221222154232/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T17:59:41Z",
+        "uri": "https://web.archive.org/web/20221222175941/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T20:02:05Z",
+        "uri": "https://web.archive.org/web/20221222200205/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-22T22:09:43Z",
+        "uri": "https://web.archive.org/web/20221222220943/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2022-12-31T08:59:23Z",
+        "uri": "https://web.archive.org/web/20221231085923/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-03-15T11:25:33Z",
+        "uri": "https://web.archive.org/web/20230315112533/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-03-17T16:25:49Z",
+        "uri": "https://web.archive.org/web/20230317162549/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-03-21T11:34:38Z",
+        "uri": "https://web.archive.org/web/20230321113438/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-03-25T09:44:48Z",
+        "uri": "https://web.archive.org/web/20230325094448/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-06-23T18:49:02Z",
+        "uri": "https://web.archive.org/web/20230623184902/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-08-14T23:10:55Z",
+        "uri": "https://web.archive.org/web/20230814231055/https://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2023-08-16T02:46:50Z",
+        "uri": "https://web.archive.org/web/20230816024650/https://twitter.com/weiglemc/"
+      },
+      {
+        "datetime": "2023-09-18T16:39:39Z",
+        "uri": "https://web.archive.org/web/20230918163939/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2023-11-20T06:28:07Z",
+        "uri": "https://web.archive.org/web/20231120062807/https://twitter.com/weiglemc"
+      },
+      {
+        "datetime": "2024-01-14T03:21:00Z",
+        "uri": "https://web.archive.org/web/20240114032100/https://twitter.com/weiglemc"
+      }
+    ],
+    "first": {
+      "datetime": "2013-08-21T17:32:28Z",
+      "uri": "https://web.archive.org/web/20130821173228/https://twitter.com/weiglemc"
+    },
+    "last": {
+      "datetime": "2024-01-14T03:21:00Z",
+      "uri": "https://web.archive.org/web/20240114032100/https://twitter.com/weiglemc"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/weiglemc",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/weiglemc",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/weiglemc"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/weiglemc"
+}

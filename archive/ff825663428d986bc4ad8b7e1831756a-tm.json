@@ -1,0 +1,475 @@
+ERROR: 2024/02/18 16:51:31.477757 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/housing": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/housing",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/housing",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2006-09-03T03:45:22Z",
+        "uri": "https://web.archive.org/web/20060903034522/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2007-03-12T07:55:00Z",
+        "uri": "https://web.archive.org/web/20070312075500/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2007-05-01T13:34:11Z",
+        "uri": "https://web.archive.org/web/20070501133411/http://www.odu.edu:80/housing/"
+      },
+      {
+        "datetime": "2009-11-21T20:37:09Z",
+        "uri": "https://web.archive.org/web/20091121203709/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2010-06-25T19:05:28Z",
+        "uri": "https://web.archive.org/web/20100625190528/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2011-03-27T20:22:46Z",
+        "uri": "https://web.archive.org/web/20110327202246/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2011-09-18T07:16:57Z",
+        "uri": "https://web.archive.org/web/20110918071657/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2012-04-02T18:16:38Z",
+        "uri": "https://web.archive.org/web/20120402181638/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2013-01-07T00:23:34Z",
+        "uri": "https://web.archive.org/web/20130107002334/http://odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-02-07T12:28:27Z",
+        "uri": "https://web.archive.org/web/20130207122827/http://odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-02-27T10:34:20Z",
+        "uri": "https://web.archive.org/web/20130227103420/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-03-13T21:40:14Z",
+        "uri": "https://web.archive.org/web/20130313214014/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-04-07T09:11:55Z",
+        "uri": "https://web.archive.org/web/20130407091155/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-04-24T03:53:27Z",
+        "uri": "https://web.archive.org/web/20130424035327/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-05-07T12:51:12Z",
+        "uri": "https://web.archive.org/web/20130507125112/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-05-27T13:53:15Z",
+        "uri": "https://web.archive.org/web/20130527135315/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-06-16T23:58:52Z",
+        "uri": "https://web.archive.org/web/20130616235852/http://odu.edu/housing"
+      },
+      {
+        "datetime": "2013-06-28T11:27:01Z",
+        "uri": "https://web.archive.org/web/20130628112701/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2013-07-29T05:17:59Z",
+        "uri": "https://web.archive.org/web/20130729051759/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2015-12-21T04:37:00Z",
+        "uri": "https://web.archive.org/web/20151221043700/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2016-04-16T19:26:33Z",
+        "uri": "https://web.archive.org/web/20160416192633/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2016-04-18T12:25:31Z",
+        "uri": "https://web.archive.org/web/20160418122531/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2016-06-18T09:34:11Z",
+        "uri": "https://web.archive.org/web/20160618093411/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2017-10-27T00:21:19Z",
+        "uri": "https://web.archive.org/web/20171027002119/http://www.odu.edu:80/housing"
+      },
+      {
+        "datetime": "2019-10-16T02:00:00Z",
+        "uri": "https://arquivo.pt/wayback/20191016020000mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2019-10-16T02:00:00Z",
+        "uri": "https://web.archive.org/web/20191016020000/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-03-26T23:57:41Z",
+        "uri": "https://arquivo.pt/wayback/20200326235741mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-03-26T23:57:41Z",
+        "uri": "https://web.archive.org/web/20200326235741/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-06-28T11:27:27Z",
+        "uri": "https://arquivo.pt/wayback/20200628112727mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-06-28T11:27:27Z",
+        "uri": "https://web.archive.org/web/20200628112727/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-11-01T11:17:35Z",
+        "uri": "https://web.archive.org/web/20201101111735/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2020-11-01T11:17:36Z",
+        "uri": "https://web.archive.org/web/20201101111736/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2021-03-31T18:48:22Z",
+        "uri": "https://arquivo.pt/wayback/20210331184822mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2021-03-31T18:48:22Z",
+        "uri": "https://web.archive.org/web/20210331184822/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2021-04-15T08:52:48Z",
+        "uri": "https://web.archive.org/web/20210415085248/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2021-04-26T16:32:54Z",
+        "uri": "https://web.archive.org/web/20210426163254/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-05-16T05:01:00Z",
+        "uri": "https://arquivo.pt/wayback/20220516050100mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-05-20T23:32:25Z",
+        "uri": "https://web.archive.org/web/20220520233225/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-05-26T16:29:46Z",
+        "uri": "https://web.archive.org/web/20220526162946/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-05-27T06:51:40Z",
+        "uri": "https://web.archive.org/web/20220527065140/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-05-28T04:23:04Z",
+        "uri": "https://web.archive.org/web/20220528042304/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-15T05:39:50Z",
+        "uri": "https://web.archive.org/web/20220615053950/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-18T23:22:03Z",
+        "uri": "https://web.archive.org/web/20220618232203/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-18T23:31:56Z",
+        "uri": "https://web.archive.org/web/20220618233156/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-19T11:22:07Z",
+        "uri": "https://web.archive.org/web/20220619112207/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-19T11:24:08Z",
+        "uri": "https://web.archive.org/web/20220619112408/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-19T20:42:15Z",
+        "uri": "https://web.archive.org/web/20220619204215/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-19T23:24:57Z",
+        "uri": "https://web.archive.org/web/20220619232457/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-19T23:29:03Z",
+        "uri": "https://web.archive.org/web/20220619232903/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-06-23T11:22:37Z",
+        "uri": "https://web.archive.org/web/20220623112237/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-07-12T13:36:59Z",
+        "uri": "https://web.archive.org/web/20220712133659/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-07-30T14:55:44Z",
+        "uri": "https://arquivo.pt/wayback/20220730145544mp_/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-02T21:56:18Z",
+        "uri": "https://web.archive.org/web/20220802215618/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-03T00:26:53Z",
+        "uri": "https://web.archive.org/web/20220803002653/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-03T14:53:54Z",
+        "uri": "https://web.archive.org/web/20220803145354/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-05T09:38:32Z",
+        "uri": "https://web.archive.org/web/20220805093832/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-05T10:31:52Z",
+        "uri": "https://arquivo.pt/wayback/20220805103152mp_/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-06T15:13:56Z",
+        "uri": "https://web.archive.org/web/20220806151356/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-07T22:25:58Z",
+        "uri": "https://web.archive.org/web/20220807222558/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-08T12:58:48Z",
+        "uri": "https://web.archive.org/web/20220808125848/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-08T16:10:33Z",
+        "uri": "https://web.archive.org/web/20220808161033/http://www.odu.edu/housing/"
+      },
+      {
+        "datetime": "2022-08-08T18:20:33Z",
+        "uri": "https://web.archive.org/web/20220808182033/https://www.odu.edu/housing/"
+      },
+      {
+        "datetime": "2022-08-10T20:15:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201532/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T20:15:32Z",
+        "uri": "https://web.archive.org/web/20220810201532/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T20:15:52Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201552/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T20:15:52Z",
+        "uri": "https://web.archive.org/web/20220810201552/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T20:16:13Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201613/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T20:16:13Z",
+        "uri": "https://web.archive.org/web/20220810201613/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-10T22:27:51Z",
+        "uri": "https://web.archive.org/web/20220810222751/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-11T22:59:20Z",
+        "uri": "https://web.archive.org/web/20220811225920/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-12T05:05:59Z",
+        "uri": "https://web.archive.org/web/20220812050559/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-14T10:09:23Z",
+        "uri": "https://web.archive.org/web/20220814100923/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-14T18:48:23Z",
+        "uri": "https://web.archive.org/web/20220814184823/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-15T00:47:03Z",
+        "uri": "https://web.archive.org/web/20220815004703/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-16T00:26:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220816002648/http://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-08-16T00:26:48Z",
+        "uri": "https://web.archive.org/web/20220816002648/http://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-09-21T06:54:24Z",
+        "uri": "https://web.archive.org/web/20220921065424/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-09-22T14:06:34Z",
+        "uri": "https://web.archive.org/web/20220922140634/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-10-02T19:57:48Z",
+        "uri": "https://web.archive.org/web/20221002195748/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-10-11T02:29:37Z",
+        "uri": "https://arquivo.pt/wayback/20221011022937mp_/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2022-10-13T15:32:09Z",
+        "uri": "https://web.archive.org/web/20221013153209/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-10-24T06:35:14Z",
+        "uri": "https://web.archive.org/web/20221024063514/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-11-07T05:58:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055806/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-11-07T05:58:06Z",
+        "uri": "https://web.archive.org/web/20221107055806/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-11-07T16:10:56Z",
+        "uri": "https://wayback.archive-it.org/all/20221107161056/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-11-07T16:10:56Z",
+        "uri": "https://web.archive.org/web/20221107161056/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-11-13T06:35:51Z",
+        "uri": "https://web.archive.org/web/20221113063551/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-12-07T10:49:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221207104910/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-12-07T10:49:10Z",
+        "uri": "https://web.archive.org/web/20221207104910/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-12-10T08:52:17Z",
+        "uri": "https://wayback.archive-it.org/all/20221210085217/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2022-12-10T08:52:17Z",
+        "uri": "https://web.archive.org/web/20221210085217/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-01-07T09:51:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230107095111/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-01-07T09:51:11Z",
+        "uri": "https://web.archive.org/web/20230107095111/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-01-09T07:15:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230109071537/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-01-09T07:15:37Z",
+        "uri": "https://web.archive.org/web/20230109071537/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-01-24T20:11:00Z",
+        "uri": "https://arquivo.pt/wayback/20230124201100mp_/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-02-07T08:13:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230207081333/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-02-07T08:13:33Z",
+        "uri": "https://web.archive.org/web/20230207081333/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-02-09T21:14:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230209211457/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-02-09T21:14:57Z",
+        "uri": "https://web.archive.org/web/20230209211457/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-02-20T00:54:18Z",
+        "uri": "https://web.archive.org/web/20230220005418/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-03-07T04:46:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044609/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-03-07T04:46:09Z",
+        "uri": "https://web.archive.org/web/20230307044609/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-03-27T22:32:54Z",
+        "uri": "https://web.archive.org/web/20230327223254/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-06-25T21:01:47Z",
+        "uri": "https://web.archive.org/web/20230625210147/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-25T18:15:29Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181529/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-25T18:15:29Z",
+        "uri": "https://web.archive.org/web/20230825181529/https://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-26T07:26:50Z",
+        "uri": "https://wayback.archive-it.org/all/20230826072650/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-26T07:26:50Z",
+        "uri": "https://web.archive.org/web/20230826072650/https://odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-30T23:20:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230830232004/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2023-08-30T23:20:04Z",
+        "uri": "https://web.archive.org/web/20230830232004/http://www.odu.edu/housing"
+      },
+      {
+        "datetime": "2024-02-14T22:14:55Z",
+        "uri": "https://web.archive.org/web/20240214221455/https://www.odu.edu/housing"
+      }
+    ],
+    "first": {
+      "datetime": "2006-09-03T03:45:22Z",
+      "uri": "https://web.archive.org/web/20060903034522/http://www.odu.edu/housing"
+    },
+    "last": {
+      "datetime": "2024-02-14T22:14:55Z",
+      "uri": "https://web.archive.org/web/20240214221455/https://www.odu.edu/housing"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/housing",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/housing",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/housing"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/housing"
+}

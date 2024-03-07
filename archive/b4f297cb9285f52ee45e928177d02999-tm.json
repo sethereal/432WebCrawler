@@ -1,0 +1,1555 @@
+ERROR: 2024/02/18 21:06:32.183752 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/admission/international": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/admission/international",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/international",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T01:31:39Z",
+        "uri": "https://web.archive.org/web/20120831013139/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2012-09-21T13:05:52Z",
+        "uri": "https://web.archive.org/web/20120921130552/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2012-10-10T13:16:48Z",
+        "uri": "https://web.archive.org/web/20121010131648/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2012-10-27T22:00:47Z",
+        "uri": "https://web.archive.org/web/20121027220047/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2012-11-27T06:35:47Z",
+        "uri": "https://web.archive.org/web/20121127063547/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2012-12-09T04:29:19Z",
+        "uri": "https://web.archive.org/web/20121209042919/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2012-12-11T13:02:15Z",
+        "uri": "https://web.archive.org/web/20121211130215/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2012-12-18T15:33:56Z",
+        "uri": "https://web.archive.org/web/20121218153356/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2012-12-25T13:16:48Z",
+        "uri": "https://web.archive.org/web/20121225131648/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-01-15T17:21:32Z",
+        "uri": "https://web.archive.org/web/20130115172132/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-01-18T13:32:03Z",
+        "uri": "https://web.archive.org/web/20130118133203/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-02-18T11:11:48Z",
+        "uri": "https://web.archive.org/web/20130218111148/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-03-22T03:14:59Z",
+        "uri": "https://web.archive.org/web/20130322031459/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-04-22T01:43:25Z",
+        "uri": "https://web.archive.org/web/20130422014325/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-04-23T05:11:35Z",
+        "uri": "https://web.archive.org/web/20130423051135/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-04-26T11:23:10Z",
+        "uri": "https://web.archive.org/web/20130426112310/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-05-07T04:26:40Z",
+        "uri": "https://web.archive.org/web/20130507042640/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-05-22T16:40:33Z",
+        "uri": "https://web.archive.org/web/20130522164033/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-05-31T07:09:10Z",
+        "uri": "https://web.archive.org/web/20130531070910/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-07-23T19:48:00Z",
+        "uri": "https://web.archive.org/web/20130723194800/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-08-05T14:42:09Z",
+        "uri": "https://web.archive.org/web/20130805144209/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-08-24T04:05:21Z",
+        "uri": "https://web.archive.org/web/20130824040521/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-09-24T07:32:07Z",
+        "uri": "https://web.archive.org/web/20130924073207/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2013-09-29T20:25:04Z",
+        "uri": "https://web.archive.org/web/20130929202504/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-11-08T06:20:22Z",
+        "uri": "https://web.archive.org/web/20131108062022/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2013-11-27T14:43:49Z",
+        "uri": "https://web.archive.org/web/20131127144349/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2014-02-09T03:21:27Z",
+        "uri": "https://web.archive.org/web/20140209032127/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2014-02-13T11:02:16Z",
+        "uri": "https://web.archive.org/web/20140213110216/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2014-06-25T10:16:15Z",
+        "uri": "https://web.archive.org/web/20140625101615/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2014-08-29T04:07:10Z",
+        "uri": "https://web.archive.org/web/20140829040710/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2015-02-17T03:51:55Z",
+        "uri": "https://web.archive.org/web/20150217035155/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2015-12-13T18:09:01Z",
+        "uri": "https://web.archive.org/web/20151213180901/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-06-13T18:33:44Z",
+        "uri": "https://web.archive.org/web/20160613183344/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2016-10-27T07:14:17Z",
+        "uri": "https://web.archive.org/web/20161027071417/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-10-28T18:33:36Z",
+        "uri": "https://wayback.archive-it.org/all/20161028183336/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-10-28T18:33:36Z",
+        "uri": "https://web.archive.org/web/20161028183336/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-11-07T07:18:00Z",
+        "uri": "https://web.archive.org/web/20161107071800/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-11-19T02:24:14Z",
+        "uri": "https://web.archive.org/web/20161119022414/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2016-11-20T14:47:12Z",
+        "uri": "https://web.archive.org/web/20161120144712/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2016-12-22T14:18:18Z",
+        "uri": "https://web.archive.org/web/20161222141818/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2016-12-26T11:16:33Z",
+        "uri": "https://web.archive.org/web/20161226111633/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-12-26T13:24:12Z",
+        "uri": "https://web.archive.org/web/20161226132412/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2016-12-30T20:13:13Z",
+        "uri": "https://web.archive.org/web/20161230201313/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-03-18T06:55:05Z",
+        "uri": "https://web.archive.org/web/20170318065505/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-03-25T16:00:25Z",
+        "uri": "https://web.archive.org/web/20170325160025/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-04-17T12:43:54Z",
+        "uri": "https://web.archive.org/web/20170417124354/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-05-06T20:49:11Z",
+        "uri": "https://web.archive.org/web/20170506204911/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-05-07T04:22:30Z",
+        "uri": "https://web.archive.org/web/20170507042230/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-05-08T00:41:16Z",
+        "uri": "https://web.archive.org/web/20170508004116/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-06-06T10:06:32Z",
+        "uri": "https://web.archive.org/web/20170606100632/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-06-07T01:53:45Z",
+        "uri": "https://web.archive.org/web/20170607015345/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-06-08T08:21:56Z",
+        "uri": "https://web.archive.org/web/20170608082156/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-07-07T22:19:21Z",
+        "uri": "https://web.archive.org/web/20170707221921/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-07-09T03:56:16Z",
+        "uri": "https://web.archive.org/web/20170709035616/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-07-09T14:11:57Z",
+        "uri": "https://web.archive.org/web/20170709141157/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-07-13T02:30:24Z",
+        "uri": "https://web.archive.org/web/20170713023024/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-08-09T15:37:00Z",
+        "uri": "https://web.archive.org/web/20170809153700/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-08-12T21:00:13Z",
+        "uri": "https://web.archive.org/web/20170812210013/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-08-20T16:06:53Z",
+        "uri": "https://web.archive.org/web/20170820160653/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-09T08:22:03Z",
+        "uri": "https://web.archive.org/web/20170909082203/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-11T03:37:29Z",
+        "uri": "https://web.archive.org/web/20170911033729/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-18T11:26:05Z",
+        "uri": "https://web.archive.org/web/20170918112605/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-20T16:09:36Z",
+        "uri": "https://web.archive.org/web/20170920160936/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-22T04:43:16Z",
+        "uri": "https://web.archive.org/web/20170922044316/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-09-23T17:35:52Z",
+        "uri": "https://web.archive.org/web/20170923173552/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-10-12T01:59:41Z",
+        "uri": "https://wayback.archive-it.org/all/20171012015941/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-10-12T01:59:41Z",
+        "uri": "https://web.archive.org/web/20171012015941/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-10-19T11:42:01Z",
+        "uri": "https://web.archive.org/web/20171019114201/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-11-12T02:06:00Z",
+        "uri": "https://wayback.archive-it.org/all/20171112020600/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-11-12T02:06:00Z",
+        "uri": "https://web.archive.org/web/20171112020600/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-11-19T01:47:17Z",
+        "uri": "https://web.archive.org/web/20171119014717/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-11-23T03:30:18Z",
+        "uri": "https://web.archive.org/web/20171123033018/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2017-12-12T02:13:18Z",
+        "uri": "https://wayback.archive-it.org/all/20171212021318/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-12-12T02:13:18Z",
+        "uri": "https://web.archive.org/web/20171212021318/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2017-12-20T15:54:17Z",
+        "uri": "https://web.archive.org/web/20171220155417/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-01-02T00:18:24Z",
+        "uri": "https://web.archive.org/web/20180102001824/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-01-12T04:01:18Z",
+        "uri": "https://wayback.archive-it.org/all/20180112040118/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-01-12T04:01:18Z",
+        "uri": "https://web.archive.org/web/20180112040118/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-01-23T23:14:40Z",
+        "uri": "https://web.archive.org/web/20180123231440/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-02-02T01:25:50Z",
+        "uri": "https://web.archive.org/web/20180202012550/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-02-12T03:29:13Z",
+        "uri": "https://wayback.archive-it.org/all/20180212032913/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-02-12T03:29:13Z",
+        "uri": "https://web.archive.org/web/20180212032913/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-03-05T06:08:41Z",
+        "uri": "https://web.archive.org/web/20180305060841/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-03-12T03:18:51Z",
+        "uri": "https://wayback.archive-it.org/all/20180312031851/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-03-12T03:18:51Z",
+        "uri": "https://web.archive.org/web/20180312031851/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-03-25T10:28:51Z",
+        "uri": "https://web.archive.org/web/20180325102851/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-04-04T16:50:53Z",
+        "uri": "https://web.archive.org/web/20180404165053/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-04-12T03:45:26Z",
+        "uri": "https://wayback.archive-it.org/all/20180412034526/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-04-12T03:45:26Z",
+        "uri": "https://web.archive.org/web/20180412034526/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-04-13T03:51:43Z",
+        "uri": "https://web.archive.org/web/20180413035143/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-05-08T07:05:20Z",
+        "uri": "https://web.archive.org/web/20180508070520/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-05-12T04:12:25Z",
+        "uri": "https://wayback.archive-it.org/all/20180512041225/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-05-12T04:12:25Z",
+        "uri": "https://web.archive.org/web/20180512041225/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-05-14T19:28:32Z",
+        "uri": "https://web.archive.org/web/20180514192832/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-06-08T10:50:08Z",
+        "uri": "https://web.archive.org/web/20180608105008/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-06-12T04:34:52Z",
+        "uri": "https://wayback.archive-it.org/all/20180612043452/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-06-12T04:34:52Z",
+        "uri": "https://web.archive.org/web/20180612043452/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-06-15T01:07:25Z",
+        "uri": "https://web.archive.org/web/20180615010725/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-07-09T10:49:58Z",
+        "uri": "https://web.archive.org/web/20180709104958/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-07-12T04:20:22Z",
+        "uri": "https://wayback.archive-it.org/all/20180712042022/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-07-12T04:20:22Z",
+        "uri": "https://web.archive.org/web/20180712042022/http://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-07-16T08:13:39Z",
+        "uri": "https://web.archive.org/web/20180716081339/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-08-10T04:56:10Z",
+        "uri": "https://web.archive.org/web/20180810045610/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-08-12T17:53:07Z",
+        "uri": "https://wayback.archive-it.org/all/20180812175307/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-08-12T17:53:07Z",
+        "uri": "https://web.archive.org/web/20180812175307/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-08-16T14:00:13Z",
+        "uri": "https://web.archive.org/web/20180816140013/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-09-08T04:32:24Z",
+        "uri": "https://web.archive.org/web/20180908043224/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-09-10T23:00:26Z",
+        "uri": "https://web.archive.org/web/20180910230026/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-09-12T19:45:41Z",
+        "uri": "https://wayback.archive-it.org/all/20180912194541/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-09-12T19:45:41Z",
+        "uri": "https://web.archive.org/web/20180912194541/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-09-12T20:50:23Z",
+        "uri": "https://web.archive.org/web/20180912205023/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-09-16T04:57:50Z",
+        "uri": "https://web.archive.org/web/20180916045750/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-10-12T17:16:37Z",
+        "uri": "https://web.archive.org/web/20181012171637/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-10-12T23:55:18Z",
+        "uri": "https://wayback.archive-it.org/all/20181012235518/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-10-12T23:55:18Z",
+        "uri": "https://web.archive.org/web/20181012235518/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-10-17T00:02:17Z",
+        "uri": "https://web.archive.org/web/20181017000217/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-11-05T06:26:44Z",
+        "uri": "https://web.archive.org/web/20181105062644/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-11-13T00:29:18Z",
+        "uri": "https://web.archive.org/web/20181113002918/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-11-13T20:50:32Z",
+        "uri": "https://wayback.archive-it.org/all/20181113205032/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-11-13T20:50:32Z",
+        "uri": "https://web.archive.org/web/20181113205032/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-11-17T04:22:55Z",
+        "uri": "https://web.archive.org/web/20181117042255/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-12-12T23:46:49Z",
+        "uri": "https://wayback.archive-it.org/all/20181212234649/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-12-12T23:46:49Z",
+        "uri": "https://web.archive.org/web/20181212234649/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2018-12-14T06:32:41Z",
+        "uri": "https://web.archive.org/web/20181214063241/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2018-12-18T05:49:22Z",
+        "uri": "https://web.archive.org/web/20181218054922/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-01-12T18:36:48Z",
+        "uri": "https://wayback.archive-it.org/all/20190112183648/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-01-12T18:36:48Z",
+        "uri": "https://web.archive.org/web/20190112183648/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-01-14T02:01:56Z",
+        "uri": "https://web.archive.org/web/20190114020156/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-01-18T01:49:26Z",
+        "uri": "https://web.archive.org/web/20190118014926/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-02-12T20:51:51Z",
+        "uri": "https://wayback.archive-it.org/all/20190212205151/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-02-12T20:51:51Z",
+        "uri": "https://web.archive.org/web/20190212205151/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-02-13T03:06:56Z",
+        "uri": "https://wayback.archive-it.org/all/20190213030656/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-02-13T03:06:56Z",
+        "uri": "https://web.archive.org/web/20190213030656/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-02-13T03:06:56Z",
+        "uri": "https://web.archive.org/web/20190213030656/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-02-14T00:03:20Z",
+        "uri": "https://web.archive.org/web/20190214000320/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-02-17T13:27:31Z",
+        "uri": "https://web.archive.org/web/20190217132731/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-03-12T08:43:21Z",
+        "uri": "https://wayback.archive-it.org/all/20190312084321/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-03-12T08:43:21Z",
+        "uri": "https://web.archive.org/web/20190312084321/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-03-17T13:23:00Z",
+        "uri": "https://web.archive.org/web/20190317132300/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-03-20T15:37:27Z",
+        "uri": "https://web.archive.org/web/20190320153727/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-03-27T12:13:29Z",
+        "uri": "https://arquivo.pt/wayback/20190327121329mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-03-27T12:13:29Z",
+        "uri": "https://web.archive.org/web/20190327121329/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-04-08T20:21:19Z",
+        "uri": "https://web.archive.org/web/20190408202119/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-04-12T06:58:47Z",
+        "uri": "https://wayback.archive-it.org/all/20190412065847/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-04-12T06:58:47Z",
+        "uri": "https://web.archive.org/web/20190412065847/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-04-17T08:13:05Z",
+        "uri": "https://web.archive.org/web/20190417081305/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-04-17T09:41:38Z",
+        "uri": "https://web.archive.org/web/20190417094138/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-04-20T17:21:16Z",
+        "uri": "https://web.archive.org/web/20190420172116/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-05-12T10:13:47Z",
+        "uri": "https://wayback.archive-it.org/all/20190512101347/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-05-12T10:13:47Z",
+        "uri": "https://web.archive.org/web/20190512101347/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-05-18T07:57:33Z",
+        "uri": "https://web.archive.org/web/20190518075733/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-05-18T13:47:34Z",
+        "uri": "https://wayback.archive-it.org/all/20190518134734/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-05-18T13:47:34Z",
+        "uri": "https://web.archive.org/web/20190518134734/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-05-22T21:51:36Z",
+        "uri": "https://web.archive.org/web/20190522215136/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-06-04T20:23:08Z",
+        "uri": "https://web.archive.org/web/20190604202308/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-06-12T07:00:47Z",
+        "uri": "https://wayback.archive-it.org/all/20190612070047/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-06-12T07:00:47Z",
+        "uri": "https://web.archive.org/web/20190612070047/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-06-18T14:46:44Z",
+        "uri": "https://web.archive.org/web/20190618144644/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-06-22T23:55:39Z",
+        "uri": "https://web.archive.org/web/20190622235539/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-07-12T05:44:22Z",
+        "uri": "https://wayback.archive-it.org/all/20190712054422/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-07-12T05:44:22Z",
+        "uri": "https://web.archive.org/web/20190712054422/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-07-21T14:10:25Z",
+        "uri": "https://web.archive.org/web/20190721141025/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-07-23T19:29:06Z",
+        "uri": "https://web.archive.org/web/20190723192906/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-08-12T04:05:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190812040508/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-08-12T04:05:08Z",
+        "uri": "https://web.archive.org/web/20190812040508/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-08-21T21:14:32Z",
+        "uri": "https://web.archive.org/web/20190821211432/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-08-23T16:58:46Z",
+        "uri": "https://web.archive.org/web/20190823165846/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-09-11T23:36:23Z",
+        "uri": "https://wayback.archive-it.org/all/20190911233623/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-09-11T23:36:23Z",
+        "uri": "https://web.archive.org/web/20190911233623/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-09-23T03:17:30Z",
+        "uri": "https://web.archive.org/web/20190923031730/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-09-23T10:56:32Z",
+        "uri": "https://web.archive.org/web/20190923105632/http://odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-09-28T07:10:04Z",
+        "uri": "https://arquivo.pt/wayback/20190928071004mp_/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-09-28T07:10:04Z",
+        "uri": "https://web.archive.org/web/20190928071004/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-02T07:03:46Z",
+        "uri": "https://arquivo.pt/wayback/20191002070346mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-02T07:03:46Z",
+        "uri": "https://web.archive.org/web/20191002070346/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-11T23:21:28Z",
+        "uri": "https://wayback.archive-it.org/all/20191011232128/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-11T23:21:28Z",
+        "uri": "https://web.archive.org/web/20191011232128/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-16T05:30:50Z",
+        "uri": "https://web.archive.org/web/20191016053050/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-10-18T01:11:11Z",
+        "uri": "https://wayback.archive-it.org/all/20191018011111/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-10-18T01:11:11Z",
+        "uri": "https://web.archive.org/web/20191018011111/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-11-08T18:51:51Z",
+        "uri": "https://web.archive.org/web/20191108185151/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-11-11T23:24:50Z",
+        "uri": "https://wayback.archive-it.org/all/20191111232450/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-11-11T23:24:50Z",
+        "uri": "https://web.archive.org/web/20191111232450/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-11T21:28:50Z",
+        "uri": "https://wayback.archive-it.org/all/20191211212850/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-11T21:28:50Z",
+        "uri": "https://web.archive.org/web/20191211212850/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-14T11:40:35Z",
+        "uri": "https://arquivo.pt/wayback/20191214114035mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-14T11:40:35Z",
+        "uri": "https://web.archive.org/web/20191214114035/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-15T09:09:34Z",
+        "uri": "https://web.archive.org/web/20191215090934/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2019-12-18T01:08:41Z",
+        "uri": "https://wayback.archive-it.org/all/20191218010841/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-18T01:08:41Z",
+        "uri": "https://web.archive.org/web/20191218010841/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-01-11T21:04:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200111210449/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-01-11T21:04:49Z",
+        "uri": "https://web.archive.org/web/20200111210449/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-01-18T02:53:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200118025325/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-01-18T02:53:25Z",
+        "uri": "https://web.archive.org/web/20200118025325/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-02-13T14:37:49Z",
+        "uri": "https://web.archive.org/web/20200213143749/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2020-02-14T02:43:14Z",
+        "uri": "https://wayback.archive-it.org/all/20200214024314/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-02-14T02:43:14Z",
+        "uri": "https://web.archive.org/web/20200214024314/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-02-14T15:14:06Z",
+        "uri": "https://web.archive.org/web/20200214151406/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2020-02-18T03:57:08Z",
+        "uri": "https://wayback.archive-it.org/all/20200218035708/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-02-18T03:57:08Z",
+        "uri": "https://web.archive.org/web/20200218035708/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-03-08T00:32:58Z",
+        "uri": "https://arquivo.pt/wayback/20200308003258mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-03-08T00:32:58Z",
+        "uri": "https://web.archive.org/web/20200308003258/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-03-13T04:28:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200313042823/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-03-13T04:28:23Z",
+        "uri": "https://web.archive.org/web/20200313042823/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-09T02:57:03Z",
+        "uri": "https://wayback.archive-it.org/all/20200409025703/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-09T02:57:03Z",
+        "uri": "https://web.archive.org/web/20200409025703/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:31:44Z",
+        "uri": "https://wayback.archive-it.org/all/20200416193144/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:31:44Z",
+        "uri": "https://web.archive.org/web/20200416193144/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:32:05Z",
+        "uri": "https://wayback.archive-it.org/all/20200416193205/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:32:05Z",
+        "uri": "https://web.archive.org/web/20200416193205/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:32:28Z",
+        "uri": "https://wayback.archive-it.org/all/20200416193228/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-16T19:32:28Z",
+        "uri": "https://web.archive.org/web/20200416193228/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-17T00:49:03Z",
+        "uri": "https://wayback.archive-it.org/all/20200417004903/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-17T00:49:03Z",
+        "uri": "https://web.archive.org/web/20200417004903/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-04-24T14:24:54Z",
+        "uri": "https://web.archive.org/web/20200424142454/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-05-02T23:27:17Z",
+        "uri": "https://web.archive.org/web/20200502232717/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2020-05-28T21:56:29Z",
+        "uri": "https://web.archive.org/web/20200528215629/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-06-28T11:27:23Z",
+        "uri": "https://arquivo.pt/wayback/20200628112723mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-06-28T11:27:23Z",
+        "uri": "https://web.archive.org/web/20200628112723/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-07-02T05:17:11Z",
+        "uri": "https://web.archive.org/web/20200702051711/http://www.odu.edu:80/admission/international"
+      },
+      {
+        "datetime": "2020-07-14T19:45:30Z",
+        "uri": "https://web.archive.org/web/20200714194530/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-07-14T23:02:53Z",
+        "uri": "https://web.archive.org/web/20200714230253/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-07-30T09:39:45Z",
+        "uri": "https://web.archive.org/web/20200730093945/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-08-30T22:14:17Z",
+        "uri": "https://web.archive.org/web/20200830221417/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-05T06:33:37Z",
+        "uri": "https://arquivo.pt/wayback/20200905063337mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-05T06:33:37Z",
+        "uri": "https://web.archive.org/web/20200905063337/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-10T01:08:50Z",
+        "uri": "https://wayback.archive-it.org/all/20200910010850/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-10T01:08:50Z",
+        "uri": "https://web.archive.org/web/20200910010850/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-10T10:55:15Z",
+        "uri": "https://wayback.archive-it.org/all/20200910105515/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-09-10T10:55:15Z",
+        "uri": "https://web.archive.org/web/20200910105515/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-10-05T08:46:05Z",
+        "uri": "https://web.archive.org/web/20201005084605/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-10-05T17:41:46Z",
+        "uri": "https://web.archive.org/web/20201005174146/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-11-05T14:26:58Z",
+        "uri": "https://web.archive.org/web/20201105142658/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-06T08:06:05Z",
+        "uri": "https://arquivo.pt/wayback/20201206080605mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-06T08:06:05Z",
+        "uri": "https://web.archive.org/web/20201206080605/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-11T13:52:26Z",
+        "uri": "https://wayback.archive-it.org/all/20201211135226/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-11T13:52:26Z",
+        "uri": "https://web.archive.org/web/20201211135226/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-11T15:20:14Z",
+        "uri": "https://wayback.archive-it.org/all/20201211152014/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2020-12-11T15:20:14Z",
+        "uri": "https://web.archive.org/web/20201211152014/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-01-14T01:45:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210114014525/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-01-14T01:45:25Z",
+        "uri": "https://web.archive.org/web/20210114014525/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-01-16T01:22:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210116012200/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-01-16T01:22:00Z",
+        "uri": "https://web.archive.org/web/20210116012200/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-02-26T03:24:01Z",
+        "uri": "https://web.archive.org/web/20210226032401/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-03-05T02:15:00Z",
+        "uri": "https://arquivo.pt/wayback/20210305021500mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-03-05T02:15:00Z",
+        "uri": "https://web.archive.org/web/20210305021500/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-09T23:30:29Z",
+        "uri": "https://web.archive.org/web/20210409233029/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-13T17:32:39Z",
+        "uri": "https://web.archive.org/web/20210413173239/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-14T05:51:26Z",
+        "uri": "https://web.archive.org/web/20210414055126/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-14T10:47:34Z",
+        "uri": "https://web.archive.org/web/20210414104734/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-25T18:52:38Z",
+        "uri": "https://web.archive.org/web/20210425185238/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-04-30T20:13:41Z",
+        "uri": "https://web.archive.org/web/20210430201341/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-20T15:22:01Z",
+        "uri": "https://web.archive.org/web/20210520152201/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:02:51Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200251/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:02:51Z",
+        "uri": "https://web.archive.org/web/20210526200251/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:02:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200256/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:02:56Z",
+        "uri": "https://web.archive.org/web/20210526200256/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:03:01Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200301/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-05-26T20:03:01Z",
+        "uri": "https://web.archive.org/web/20210526200301/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-06-02T02:00:27Z",
+        "uri": "https://web.archive.org/web/20210602020027/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-06-06T11:38:21Z",
+        "uri": "https://arquivo.pt/wayback/20210606113821mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-06-06T11:38:21Z",
+        "uri": "https://web.archive.org/web/20210606113821/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-07-02T11:34:46Z",
+        "uri": "https://web.archive.org/web/20210702113446/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-08-11T19:22:08Z",
+        "uri": "https://web.archive.org/web/20210811192208/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-08-12T09:09:28Z",
+        "uri": "https://web.archive.org/web/20210812090928/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-08-12T21:13:48Z",
+        "uri": "https://web.archive.org/web/20210812211348/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-09-10T15:37:23Z",
+        "uri": "https://arquivo.pt/wayback/20210910153723mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-10-11T14:46:52Z",
+        "uri": "https://arquivo.pt/wayback/20211011144652mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-10-19T05:03:47Z",
+        "uri": "https://web.archive.org/web/20211019050347/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-11-03T11:18:22Z",
+        "uri": "https://arquivo.pt/wayback/20211103111822mp_/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-11-09T16:48:31Z",
+        "uri": "https://web.archive.org/web/20211109164831/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-11-09T16:49:18Z",
+        "uri": "https://web.archive.org/web/20211109164918/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2021-11-23T23:40:55Z",
+        "uri": "https://web.archive.org/web/20211123234055/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-08T04:12:13Z",
+        "uri": "https://web.archive.org/web/20220108041213/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-08T16:39:15Z",
+        "uri": "https://web.archive.org/web/20220108163915/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-10T17:04:21Z",
+        "uri": "https://web.archive.org/web/20220110170421/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-11T20:15:26Z",
+        "uri": "https://web.archive.org/web/20220111201526/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-12T16:56:40Z",
+        "uri": "https://web.archive.org/web/20220112165640/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-12T21:57:27Z",
+        "uri": "https://web.archive.org/web/20220112215727/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-13T01:01:27Z",
+        "uri": "https://web.archive.org/web/20220113010127/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-13T19:32:33Z",
+        "uri": "https://web.archive.org/web/20220113193233/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-14T01:06:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220114010640/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-14T01:06:40Z",
+        "uri": "https://web.archive.org/web/20220114010640/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-16T23:35:06Z",
+        "uri": "https://web.archive.org/web/20220116233506/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-17T07:07:18Z",
+        "uri": "https://web.archive.org/web/20220117070718/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-21T21:46:26Z",
+        "uri": "https://web.archive.org/web/20220121214626/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-22T10:35:29Z",
+        "uri": "https://arquivo.pt/wayback/20220122103529mp_/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-24T20:27:44Z",
+        "uri": "https://web.archive.org/web/20220124202744/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-26T02:01:29Z",
+        "uri": "https://web.archive.org/web/20220126020129/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-26T05:36:20Z",
+        "uri": "https://arquivo.pt/wayback/20220126053620mp_/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-01-31T22:17:49Z",
+        "uri": "https://web.archive.org/web/20220131221749/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-02-01T22:30:47Z",
+        "uri": "https://web.archive.org/web/20220201223047/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-02-03T18:59:36Z",
+        "uri": "https://web.archive.org/web/20220203185936/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-02-11T07:53:38Z",
+        "uri": "https://arquivo.pt/wayback/20220211075338mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-02-17T22:25:43Z",
+        "uri": "https://web.archive.org/web/20220217222543/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-03-10T00:32:28Z",
+        "uri": "https://web.archive.org/web/20220310003228/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-03-19T19:55:52Z",
+        "uri": "https://web.archive.org/web/20220319195552/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-03-19T19:55:52Z",
+        "uri": "https://web.archive.org/web/20220319195552/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-03-19T22:59:48Z",
+        "uri": "https://web.archive.org/web/20220319225948/http://www.odu.edu/admission/international/"
+      },
+      {
+        "datetime": "2022-03-19T22:59:49Z",
+        "uri": "https://web.archive.org/web/20220319225949/https://www.odu.edu/admission/international/"
+      },
+      {
+        "datetime": "2022-04-17T05:42:59Z",
+        "uri": "https://arquivo.pt/wayback/20220417054259mp_/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-04-19T19:24:58Z",
+        "uri": "https://web.archive.org/web/20220419192458/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-04-22T17:18:25Z",
+        "uri": "https://arquivo.pt/wayback/20220422171825mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-04-22T17:18:29Z",
+        "uri": "https://arquivo.pt/wayback/20220422171829mp_/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-04-24T18:53:13Z",
+        "uri": "https://arquivo.pt/wayback/20220424185313mp_/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-05-14T05:03:13Z",
+        "uri": "https://web.archive.org/web/20220514050313/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-05-15T19:11:04Z",
+        "uri": "https://web.archive.org/web/20220515191104/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-05-25T10:34:00Z",
+        "uri": "https://web.archive.org/web/20220525103400/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-08T14:59:30Z",
+        "uri": "https://web.archive.org/web/20220608145930/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-18T23:28:45Z",
+        "uri": "https://web.archive.org/web/20220618232845/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-18T23:41:52Z",
+        "uri": "https://web.archive.org/web/20220618234152/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-19T11:22:02Z",
+        "uri": "https://web.archive.org/web/20220619112202/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-19T11:30:23Z",
+        "uri": "https://web.archive.org/web/20220619113023/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-19T23:20:37Z",
+        "uri": "https://web.archive.org/web/20220619232037/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-19T23:27:32Z",
+        "uri": "https://web.archive.org/web/20220619232732/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-20T21:53:43Z",
+        "uri": "https://web.archive.org/web/20220620215343/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-06-25T10:21:21Z",
+        "uri": "https://web.archive.org/web/20220625102121/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-07-04T07:35:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220704073551/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-07-04T07:35:51Z",
+        "uri": "https://web.archive.org/web/20220704073551/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-07-30T14:51:17Z",
+        "uri": "https://arquivo.pt/wayback/20220730145117mp_/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-02T19:41:44Z",
+        "uri": "https://web.archive.org/web/20220802194144/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-02T22:58:26Z",
+        "uri": "https://web.archive.org/web/20220802225826/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-03T16:49:17Z",
+        "uri": "https://web.archive.org/web/20220803164917/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-04T20:30:36Z",
+        "uri": "https://web.archive.org/web/20220804203036/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-07T21:57:34Z",
+        "uri": "https://web.archive.org/web/20220807215734/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-07T23:37:06Z",
+        "uri": "https://web.archive.org/web/20220807233706/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-08T01:56:08Z",
+        "uri": "https://web.archive.org/web/20220808015608/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-08T10:01:28Z",
+        "uri": "https://web.archive.org/web/20220808100128/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-08T17:34:29Z",
+        "uri": "https://web.archive.org/web/20220808173429/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-08T20:06:02Z",
+        "uri": "https://web.archive.org/web/20220808200602/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:02Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201102/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:02Z",
+        "uri": "https://web.archive.org/web/20220810201102/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:20Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201120/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:20Z",
+        "uri": "https://web.archive.org/web/20220810201120/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201139/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T20:11:39Z",
+        "uri": "https://web.archive.org/web/20220810201139/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-10T23:01:40Z",
+        "uri": "https://web.archive.org/web/20220810230140/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-11T08:36:36Z",
+        "uri": "https://web.archive.org/web/20220811083636/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-12T03:44:25Z",
+        "uri": "https://web.archive.org/web/20220812034425/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-14T10:27:28Z",
+        "uri": "https://web.archive.org/web/20220814102728/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-14T15:49:33Z",
+        "uri": "https://web.archive.org/web/20220814154933/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-08-19T13:04:55Z",
+        "uri": "https://web.archive.org/web/20220819130455/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-09-22T14:06:34Z",
+        "uri": "https://web.archive.org/web/20220922140634/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-10-11T02:25:27Z",
+        "uri": "https://arquivo.pt/wayback/20221011022527mp_/https://odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-10-13T15:32:03Z",
+        "uri": "https://web.archive.org/web/20221013153203/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-10-24T21:31:44Z",
+        "uri": "https://web.archive.org/web/20221024213144/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-10-31T11:21:51Z",
+        "uri": "https://web.archive.org/web/20221031112151/https://www.odu.edu/admission/international/"
+      },
+      {
+        "datetime": "2022-11-07T05:39:23Z",
+        "uri": "https://wayback.archive-it.org/all/20221107053923/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-11-07T05:39:23Z",
+        "uri": "https://web.archive.org/web/20221107053923/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-11-08T11:10:07Z",
+        "uri": "https://wayback.archive-it.org/all/20221108111007/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-11-08T11:10:07Z",
+        "uri": "https://web.archive.org/web/20221108111007/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-03T23:05:39Z",
+        "uri": "https://web.archive.org/web/20221203230539/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-05T08:57:41Z",
+        "uri": "https://web.archive.org/web/20221205085741/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-07T09:21:40Z",
+        "uri": "https://wayback.archive-it.org/all/20221207092140/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-07T09:21:40Z",
+        "uri": "https://web.archive.org/web/20221207092140/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-08T05:59:58Z",
+        "uri": "https://web.archive.org/web/20221208055958/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-11T22:55:44Z",
+        "uri": "https://wayback.archive-it.org/all/20221211225544/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2022-12-11T22:55:44Z",
+        "uri": "https://web.archive.org/web/20221211225544/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-01-07T08:57:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230107085753/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-01-07T08:57:53Z",
+        "uri": "https://web.archive.org/web/20230107085753/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-01-13T08:39:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230113083914/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-01-13T08:39:14Z",
+        "uri": "https://web.archive.org/web/20230113083914/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-01-24T19:59:42Z",
+        "uri": "https://arquivo.pt/wayback/20230124195942mp_/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-02-07T07:13:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230207071332/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-02-07T07:13:32Z",
+        "uri": "https://web.archive.org/web/20230207071332/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-02-12T22:41:25Z",
+        "uri": "https://wayback.archive-it.org/all/20230212224125/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-02-12T22:41:25Z",
+        "uri": "https://web.archive.org/web/20230212224125/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-02-20T00:52:35Z",
+        "uri": "https://web.archive.org/web/20230220005235/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-07T04:39:42Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043942/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-07T04:39:42Z",
+        "uri": "https://web.archive.org/web/20230307043942/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-08T10:23:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230308102359/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-08T10:23:59Z",
+        "uri": "https://web.archive.org/web/20230308102359/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-27T22:31:52Z",
+        "uri": "https://web.archive.org/web/20230327223152/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-03-29T23:33:45Z",
+        "uri": "https://web.archive.org/web/20230329233345/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-08-25T18:00:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230825180023/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-08-25T18:00:23Z",
+        "uri": "https://web.archive.org/web/20230825180023/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-08-27T02:22:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022220/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-08-27T02:22:20Z",
+        "uri": "https://web.archive.org/web/20230827022220/http://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2023-10-04T14:22:32Z",
+        "uri": "https://web.archive.org/web/20231004142232/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2024-01-17T00:36:03Z",
+        "uri": "https://web.archive.org/web/20240117003603/https://www.odu.edu/admission/international"
+      },
+      {
+        "datetime": "2024-01-17T00:36:03Z",
+        "uri": "https://web.archive.org/web/20240117003603/http://www.odu.edu/admission/international"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T01:31:39Z",
+      "uri": "https://web.archive.org/web/20120831013139/http://www.odu.edu:80/admission/international"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:36:03Z",
+      "uri": "https://web.archive.org/web/20240117003603/http://www.odu.edu/admission/international"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/international",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/international",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/international"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/international"
+}

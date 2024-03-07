@@ -1,0 +1,627 @@
+ERROR: 2024/02/18 19:12:11.142813 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/machawk1": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/machawk1",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/machawk1",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2013-09-20T11:57:10Z",
+        "uri": "https://web.archive.org/web/20130920115710/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2013-11-14T17:01:34Z",
+        "uri": "https://web.archive.org/web/20131114170134/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2014-01-30T16:45:20Z",
+        "uri": "https://web.archive.org/web/20140130164520/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2014-04-19T18:01:55Z",
+        "uri": "https://web.archive.org/web/20140419180155/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2014-08-07T00:11:17Z",
+        "uri": "https://web.archive.org/web/20140807001117/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:17:09Z",
+        "uri": "https://web.archive.org/web/20151205071709/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:20:57Z",
+        "uri": "https://web.archive.org/web/20151205072057/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:20:58Z",
+        "uri": "https://web.archive.org/web/20151205072058/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:55:34Z",
+        "uri": "https://web.archive.org/web/20151205075534/http://www.twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:55:35Z",
+        "uri": "https://web.archive.org/web/20151205075535/https://www.twitter.com/machawk1"
+      },
+      {
+        "datetime": "2015-12-05T07:55:36Z",
+        "uri": "https://web.archive.org/web/20151205075536/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-02-03T03:31:29Z",
+        "uri": "https://wayback.archive-it.org/all/20160203033129/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-02-03T03:31:29Z",
+        "uri": "https://web.archive.org/web/20160203033129/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-02-29T15:46:00Z",
+        "uri": "https://wayback.archive-it.org/all/20160229154600/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-02-29T15:46:00Z",
+        "uri": "https://web.archive.org/web/20160229154600/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-03-02T11:49:54Z",
+        "uri": "https://wayback.archive-it.org/all/20160302114954/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-03-02T11:49:54Z",
+        "uri": "https://web.archive.org/web/20160302114954/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-05-24T03:54:54Z",
+        "uri": "http://archive.md/20160524035454/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-12-15T11:42:50Z",
+        "uri": "https://web.archive.org/web/20161215114250/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2016-12-28T21:47:36Z",
+        "uri": "https://web.archive.org/web/20161228214736/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2017-07-06T01:17:53Z",
+        "uri": "https://web.archive.org/web/20170706011753/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2017-07-27T02:09:49Z",
+        "uri": "https://web.archive.org/web/20170727020949/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2017-12-06T22:38:56Z",
+        "uri": "https://web.archive.org/web/20171206223856/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2017-12-20T22:57:32Z",
+        "uri": "https://web.archive.org/web/20171220225732/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-02-05T21:47:21Z",
+        "uri": "https://web.archive.org/web/20180205214721/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-02-17T12:03:27Z",
+        "uri": "https://web.archive.org/web/20180217120327/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-12T22:16:42Z",
+        "uri": "https://web.archive.org/web/20180312221642/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-16T07:18:09Z",
+        "uri": "https://web.archive.org/web/20180316071809/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-16T07:56:20Z",
+        "uri": "https://web.archive.org/web/20180316075620/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-16T08:01:06Z",
+        "uri": "https://web.archive.org/web/20180316080106/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-16T08:06:28Z",
+        "uri": "https://web.archive.org/web/20180316080628/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-03-16T08:11:09Z",
+        "uri": "https://web.archive.org/web/20180316081109/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-05-28T23:56:25Z",
+        "uri": "https://web.archive.org/web/20180528235625/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-05-29T00:04:48Z",
+        "uri": "https://web.archive.org/web/20180529000448/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-07-24T00:48:27Z",
+        "uri": "https://web.archive.org/web/20180724004827/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2018-12-24T22:35:39Z",
+        "uri": "https://web.archive.org/web/20181224223539/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2019-01-25T21:41:52Z",
+        "uri": "https://web.archive.org/web/20190125214152/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2019-02-14T06:38:19Z",
+        "uri": "https://web.archive.org/web/20190214063819/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2019-03-13T19:46:30Z",
+        "uri": "https://web.archive.org/web/20190313194630/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2019-08-11T03:42:37Z",
+        "uri": "https://web.archive.org/web/20190811034237/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2019-08-11T03:42:37Z",
+        "uri": "https://web.archive.org/web/20190811034237/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-14T23:31:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200414233151/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-14T23:31:51Z",
+        "uri": "https://web.archive.org/web/20200414233151/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-14T23:31:53Z",
+        "uri": "https://wayback.archive-it.org/all/20200414233153/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-14T23:31:53Z",
+        "uri": "https://web.archive.org/web/20200414233153/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-15T16:34:54Z",
+        "uri": "https://wayback.archive-it.org/all/20200415163454/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-15T16:34:54Z",
+        "uri": "https://web.archive.org/web/20200415163454/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-15T16:34:59Z",
+        "uri": "https://wayback.archive-it.org/all/20200415163459/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-04-15T16:34:59Z",
+        "uri": "https://web.archive.org/web/20200415163459/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-07-27T19:44:01Z",
+        "uri": "https://web.archive.org/web/20200727194401/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2020-09-16T15:24:30Z",
+        "uri": "https://web.archive.org/web/20200916152430/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-01-16T02:55:41Z",
+        "uri": "https://web.archive.org/web/20210116025541/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-03-08T11:32:34Z",
+        "uri": "https://web.archive.org/web/20210308113234/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-04T18:35:03Z",
+        "uri": "https://arquivo.pt/wayback/20210604183503mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-04T19:36:51Z",
+        "uri": "https://arquivo.pt/wayback/20210604193651mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-04T19:43:29Z",
+        "uri": "https://arquivo.pt/wayback/20210604194329mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-04T19:43:30Z",
+        "uri": "https://arquivo.pt/wayback/20210604194330mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-04T20:35:35Z",
+        "uri": "https://arquivo.pt/wayback/20210604203535mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-07T14:03:59Z",
+        "uri": "https://arquivo.pt/wayback/20210607140359mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-07T15:05:59Z",
+        "uri": "https://arquivo.pt/wayback/20210607150559mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-07T16:04:32Z",
+        "uri": "https://arquivo.pt/wayback/20210607160432mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-18T00:12:39Z",
+        "uri": "https://arquivo.pt/wayback/20210618001239mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-18T00:12:40Z",
+        "uri": "https://arquivo.pt/wayback/20210618001240mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-18T00:12:40Z",
+        "uri": "https://arquivo.pt/wayback/20210618001240mp_/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-06-18T00:12:41Z",
+        "uri": "https://arquivo.pt/wayback/20210618001241mp_/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-09-08T00:31:18Z",
+        "uri": "https://web.archive.org/web/20210908003118/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-11-22T23:58:26Z",
+        "uri": "https://web.archive.org/web/20211122235826/https://twitter.com/machawk1/"
+      },
+      {
+        "datetime": "2021-11-23T00:05:07Z",
+        "uri": "https://web.archive.org/web/20211123000507/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-11-23T00:05:08Z",
+        "uri": "https://web.archive.org/web/20211123000508/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-11-23T00:10:30Z",
+        "uri": "https://web.archive.org/web/20211123001030/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-11-23T01:19:03Z",
+        "uri": "https://web.archive.org/web/20211123011903/http://www.twitter.com/machawk1"
+      },
+      {
+        "datetime": "2021-11-23T01:19:04Z",
+        "uri": "https://web.archive.org/web/20211123011904/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-03-22T03:27:28Z",
+        "uri": "https://web.archive.org/web/20220322032728/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-08-06T08:06:30Z",
+        "uri": "https://web.archive.org/web/20220806080630/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-08-06T12:11:09Z",
+        "uri": "https://web.archive.org/web/20220806121109/http://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-09-06T06:01:15Z",
+        "uri": "https://web.archive.org/web/20220906060115/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-18T15:42:56Z",
+        "uri": "https://web.archive.org/web/20221118154256/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-21T03:29:50Z",
+        "uri": "https://web.archive.org/web/20221121032950/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-21T10:44:26Z",
+        "uri": "https://web.archive.org/web/20221121104426/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-21T15:31:39Z",
+        "uri": "https://web.archive.org/web/20221121153139/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-21T18:21:04Z",
+        "uri": "https://web.archive.org/web/20221121182104/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-21T21:51:30Z",
+        "uri": "https://web.archive.org/web/20221121215130/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-22T01:46:06Z",
+        "uri": "https://web.archive.org/web/20221122014606/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-22T19:12:05Z",
+        "uri": "https://web.archive.org/web/20221122191205/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-23T04:00:45Z",
+        "uri": "https://web.archive.org/web/20221123040045/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-23T07:31:49Z",
+        "uri": "https://web.archive.org/web/20221123073149/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-23T11:07:10Z",
+        "uri": "https://web.archive.org/web/20221123110710/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-23T20:14:06Z",
+        "uri": "https://web.archive.org/web/20221123201406/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T00:30:59Z",
+        "uri": "https://web.archive.org/web/20221124003059/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T02:59:35Z",
+        "uri": "https://web.archive.org/web/20221124025935/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T06:42:38Z",
+        "uri": "https://web.archive.org/web/20221124064238/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T09:24:33Z",
+        "uri": "https://web.archive.org/web/20221124092433/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T17:44:53Z",
+        "uri": "https://web.archive.org/web/20221124174453/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-24T19:52:24Z",
+        "uri": "https://web.archive.org/web/20221124195224/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-25T02:14:33Z",
+        "uri": "https://web.archive.org/web/20221125021433/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-25T13:45:16Z",
+        "uri": "https://web.archive.org/web/20221125134516/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-25T16:20:48Z",
+        "uri": "https://web.archive.org/web/20221125162048/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-27T19:59:13Z",
+        "uri": "https://web.archive.org/web/20221127195913/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-28T16:12:48Z",
+        "uri": "https://web.archive.org/web/20221128161248/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-28T18:19:10Z",
+        "uri": "https://web.archive.org/web/20221128181910/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-29T06:36:40Z",
+        "uri": "https://web.archive.org/web/20221129063640/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-29T13:11:56Z",
+        "uri": "https://web.archive.org/web/20221129131156/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-29T21:07:58Z",
+        "uri": "https://web.archive.org/web/20221129210758/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-11-29T23:25:26Z",
+        "uri": "https://web.archive.org/web/20221129232526/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-08T01:51:17Z",
+        "uri": "https://web.archive.org/web/20221208015117/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-08T03:51:39Z",
+        "uri": "https://web.archive.org/web/20221208035139/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-08T05:55:13Z",
+        "uri": "https://web.archive.org/web/20221208055513/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-12T07:57:27Z",
+        "uri": "https://web.archive.org/web/20221212075727/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T06:36:24Z",
+        "uri": "https://web.archive.org/web/20221218063624/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T09:20:44Z",
+        "uri": "https://web.archive.org/web/20221218092044/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T11:47:35Z",
+        "uri": "https://web.archive.org/web/20221218114735/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T13:49:14Z",
+        "uri": "https://web.archive.org/web/20221218134914/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T19:16:08Z",
+        "uri": "https://web.archive.org/web/20221218191608/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T21:23:26Z",
+        "uri": "https://web.archive.org/web/20221218212326/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-18T23:31:37Z",
+        "uri": "https://web.archive.org/web/20221218233137/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T05:22:20Z",
+        "uri": "https://web.archive.org/web/20221219052220/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T07:30:54Z",
+        "uri": "https://web.archive.org/web/20221219073054/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T10:38:47Z",
+        "uri": "https://web.archive.org/web/20221219103847/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T16:10:50Z",
+        "uri": "https://web.archive.org/web/20221219161050/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T19:12:23Z",
+        "uri": "https://web.archive.org/web/20221219191223/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-19T21:27:02Z",
+        "uri": "https://web.archive.org/web/20221219212702/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T01:55:02Z",
+        "uri": "https://web.archive.org/web/20221220015502/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T06:41:28Z",
+        "uri": "https://web.archive.org/web/20221220064128/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T09:44:42Z",
+        "uri": "https://web.archive.org/web/20221220094442/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T12:37:47Z",
+        "uri": "https://web.archive.org/web/20221220123747/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T14:51:51Z",
+        "uri": "https://web.archive.org/web/20221220145151/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-20T17:51:39Z",
+        "uri": "https://web.archive.org/web/20221220175139/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T00:54:19Z",
+        "uri": "https://web.archive.org/web/20221221005419/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T03:26:36Z",
+        "uri": "https://web.archive.org/web/20221221032636/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T05:37:54Z",
+        "uri": "https://web.archive.org/web/20221221053754/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T07:42:52Z",
+        "uri": "https://web.archive.org/web/20221221074252/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T10:11:50Z",
+        "uri": "https://web.archive.org/web/20221221101150/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T16:05:28Z",
+        "uri": "https://web.archive.org/web/20221221160528/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T18:21:19Z",
+        "uri": "https://web.archive.org/web/20221221182119/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-21T23:12:43Z",
+        "uri": "https://web.archive.org/web/20221221231243/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T01:21:57Z",
+        "uri": "https://web.archive.org/web/20221222012157/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T03:37:20Z",
+        "uri": "https://web.archive.org/web/20221222033720/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T06:02:40Z",
+        "uri": "https://web.archive.org/web/20221222060240/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T08:10:58Z",
+        "uri": "https://web.archive.org/web/20221222081058/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T10:13:15Z",
+        "uri": "https://web.archive.org/web/20221222101315/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T13:11:51Z",
+        "uri": "https://web.archive.org/web/20221222131151/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T18:52:09Z",
+        "uri": "https://web.archive.org/web/20221222185209/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-22T21:22:28Z",
+        "uri": "https://web.archive.org/web/20221222212228/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2022-12-23T01:40:22Z",
+        "uri": "https://web.archive.org/web/20221223014022/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-03-17T01:16:59Z",
+        "uri": "https://web.archive.org/web/20230317011659/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-03-17T01:17:04Z",
+        "uri": "https://web.archive.org/web/20230317011704/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-03-21T02:20:07Z",
+        "uri": "https://web.archive.org/web/20230321022007/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-04-29T21:59:03Z",
+        "uri": "https://web.archive.org/web/20230429215903/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-06-30T16:54:03Z",
+        "uri": "https://web.archive.org/web/20230630165403/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-09-18T16:39:31Z",
+        "uri": "https://web.archive.org/web/20230918163931/https://twitter.com/machawk1"
+      },
+      {
+        "datetime": "2023-12-24T04:25:10Z",
+        "uri": "https://web.archive.org/web/20231224042510/https://twitter.com/machawk1/"
+      }
+    ],
+    "first": {
+      "datetime": "2013-09-20T11:57:10Z",
+      "uri": "https://web.archive.org/web/20130920115710/https://twitter.com/machawk1"
+    },
+    "last": {
+      "datetime": "2023-12-24T04:25:10Z",
+      "uri": "https://web.archive.org/web/20231224042510/https://twitter.com/machawk1/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/machawk1",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/machawk1",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/machawk1"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/machawk1"
+}

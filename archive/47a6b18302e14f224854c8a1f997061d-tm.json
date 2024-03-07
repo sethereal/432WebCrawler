@@ -1,0 +1,35 @@
+ERROR: 2024/02/18 18:31:31.148571 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/talks/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/talks/",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-27T07:52:35Z",
+        "uri": "https://web.archive.org/web/20220927075235/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2023-05-30T11:03:37Z",
+        "uri": "https://web.archive.org/web/20230530110337/https://weiglemc.github.io/talks/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:19Z",
+        "uri": "https://web.archive.org/web/20240121112719/https://weiglemc.github.io/talks/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-27T07:52:35Z",
+      "uri": "https://web.archive.org/web/20220927075235/https://weiglemc.github.io/talks/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:19Z",
+      "uri": "https://web.archive.org/web/20240121112719/https://weiglemc.github.io/talks/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/talks/",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/talks/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/talks/"
+}

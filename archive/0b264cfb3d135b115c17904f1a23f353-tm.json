@@ -1,0 +1,119 @@
+ERROR: 2024/02/18 15:45:28.282054 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://oducsreu.github.io/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://oducsreu.github.io/",
+  "self": "http://localhost:1208/timemap/json/https://oducsreu.github.io/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-03-15T18:00:28Z",
+        "uri": "https://web.archive.org/web/20220315180028/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-15T18:02:38Z",
+        "uri": "https://web.archive.org/web/20220315180238/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-15T18:02:51Z",
+        "uri": "https://web.archive.org/web/20220315180251/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-15T18:03:54Z",
+        "uri": "https://web.archive.org/web/20220315180354/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-25T00:14:55Z",
+        "uri": "https://web.archive.org/web/20220325001455/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-25T11:03:01Z",
+        "uri": "https://web.archive.org/web/20220325110301/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-25T11:03:35Z",
+        "uri": "https://web.archive.org/web/20220325110335/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-25T11:04:18Z",
+        "uri": "https://web.archive.org/web/20220325110418/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-03-25T11:07:30Z",
+        "uri": "https://web.archive.org/web/20220325110730/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-05-27T05:11:36Z",
+        "uri": "https://web.archive.org/web/20220527051136/https://oducsreu.github.io"
+      },
+      {
+        "datetime": "2022-08-19T20:41:47Z",
+        "uri": "https://arquivo.pt/wayback/20220819204147mp_/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-11-18T02:19:48Z",
+        "uri": "https://web.archive.org/web/20221118021948/http://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-11-18T19:25:47Z",
+        "uri": "https://web.archive.org/web/20221118192547/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-11-24T09:23:23Z",
+        "uri": "https://web.archive.org/web/20221124092323/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T02:35:02Z",
+        "uri": "https://web.archive.org/web/20221208023502/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-12-18T13:40:43Z",
+        "uri": "https://web.archive.org/web/20221218134043/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-12-19T08:11:31Z",
+        "uri": "https://web.archive.org/web/20221219081131/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2022-12-21T03:11:48Z",
+        "uri": "https://web.archive.org/web/20221221031148/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2023-02-19T16:39:38Z",
+        "uri": "https://web.archive.org/web/20230219163938/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2023-02-19T23:39:20Z",
+        "uri": "https://web.archive.org/web/20230219233920/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2023-02-26T22:51:34Z",
+        "uri": "https://web.archive.org/web/20230226225134/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2023-03-23T21:31:20Z",
+        "uri": "https://web.archive.org/web/20230323213120/https://oducsreu.github.io"
+      },
+      {
+        "datetime": "2023-06-03T11:05:55Z",
+        "uri": "https://web.archive.org/web/20230603110555/https://oducsreu.github.io/"
+      },
+      {
+        "datetime": "2023-12-04T08:38:57Z",
+        "uri": "https://web.archive.org/web/20231204083857/https://oducsreu.github.io"
+      }
+    ],
+    "first": {
+      "datetime": "2022-03-15T18:00:28Z",
+      "uri": "https://web.archive.org/web/20220315180028/https://oducsreu.github.io/"
+    },
+    "last": {
+      "datetime": "2023-12-04T08:38:57Z",
+      "uri": "https://web.archive.org/web/20231204083857/https://oducsreu.github.io"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://oducsreu.github.io/",
+    "json_format": "http://localhost:1208/timemap/json/https://oducsreu.github.io/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://oducsreu.github.io/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://oducsreu.github.io/"
+}

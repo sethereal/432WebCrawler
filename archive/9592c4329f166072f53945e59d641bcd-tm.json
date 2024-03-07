@@ -1,0 +1,127 @@
+ERROR: 2024/02/18 19:06:15.370549 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/about/compliance/transparency": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/about/compliance/transparency",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/compliance/transparency",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-21T17:09:44Z",
+        "uri": "https://web.archive.org/web/20161021170944/http://ww1.odu.edu:80/about/compliance/transparency"
+      },
+      {
+        "datetime": "2017-03-31T07:39:02Z",
+        "uri": "https://web.archive.org/web/20170331073902/http://ww1.odu.edu:80/about/compliance/transparency"
+      },
+      {
+        "datetime": "2017-06-01T05:41:45Z",
+        "uri": "https://web.archive.org/web/20170601054145/http://ww1.odu.edu:80/about/compliance/transparency"
+      },
+      {
+        "datetime": "2017-10-03T16:14:48Z",
+        "uri": "https://web.archive.org/web/20171003161448/http://ww1.odu.edu:80/about/compliance/transparency"
+      },
+      {
+        "datetime": "2017-10-04T23:23:56Z",
+        "uri": "https://web.archive.org/web/20171004232356/http://ww1.odu.edu:80/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-05-21T03:31:12Z",
+        "uri": "https://web.archive.org/web/20220521033112/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-11-07T04:41:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221107044130/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-11-07T04:41:30Z",
+        "uri": "https://web.archive.org/web/20221107044130/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-11-29T21:46:47Z",
+        "uri": "https://web.archive.org/web/20221129214647/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-12-07T07:06:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221207070624/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-12-07T07:06:24Z",
+        "uri": "https://web.archive.org/web/20221207070624/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2022-12-08T05:50:38Z",
+        "uri": "https://web.archive.org/web/20221208055038/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-01-07T06:44:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230107064445/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-01-07T06:44:45Z",
+        "uri": "https://web.archive.org/web/20230107064445/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-02-07T05:54:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230207055424/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-02-07T05:54:24Z",
+        "uri": "https://web.archive.org/web/20230207055424/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-02-07T12:10:08Z",
+        "uri": "https://web.archive.org/web/20230207121008/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-03-07T04:23:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042333/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-03-07T04:23:33Z",
+        "uri": "https://web.archive.org/web/20230307042333/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-03-31T21:42:13Z",
+        "uri": "https://web.archive.org/web/20230331214213/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-08-02T20:57:19Z",
+        "uri": "https://wayback.archive-it.org/all/20230802205719/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-08-02T20:57:19Z",
+        "uri": "https://web.archive.org/web/20230802205719/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-08-25T17:35:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173513/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-08-25T17:35:13Z",
+        "uri": "https://web.archive.org/web/20230825173513/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2023-11-29T18:32:02Z",
+        "uri": "https://web.archive.org/web/20231129183202/https://ww1.odu.edu/about/compliance/transparency"
+      },
+      {
+        "datetime": "2024-02-14T16:08:16Z",
+        "uri": "https://web.archive.org/web/20240214160816/https://ww1.odu.edu/about/compliance/transparency"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-21T17:09:44Z",
+      "uri": "https://web.archive.org/web/20161021170944/http://ww1.odu.edu:80/about/compliance/transparency"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:16Z",
+      "uri": "https://web.archive.org/web/20240214160816/https://ww1.odu.edu/about/compliance/transparency"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/about/compliance/transparency",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/compliance/transparency",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/about/compliance/transparency"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/about/compliance/transparency"
+}

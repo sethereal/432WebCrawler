@@ -1,0 +1,850 @@
+Material of Course Juniper JNCIA JUNOS Day1
+WS-DL’s Work towards Enabling Personal Use of Web Archives
+1. WS-DL’s Work towards Enabling
+Personal Use of Web Archives
+Michele C. Weigle, @weiglemc
+Web Sciences and Digital Libraries (WS-DL) Group, @WebSciDL
+Department of Computer Science
+Old Dominion University
+December 18, 2018 / Library of Congress
+2. @weiglemc, @WebSciDL
+ODU WS-DL Group
+• Scott Ainsworth
+• Sawood Alam
+• Lulwah Alkwai
+• Mohamed Aturban
+• Hussam Hallak
+• Shawn Jones
+• Mat Kelly
+• Corren McCoy
+• Louis Nguyen
+• Alexander Nwala
+• Nauman Siddique (MS)
+@WebSciDL
+http://ws-dl.cs.odu.edu/
+http://ws-dl.blogspot.com/
+December 18, 2018 / Library of Congress 2
+Graduate Students
+Recent Alumni
+• Maheedhar Gunnam (MS)
+• Martin Klein
+• Hany SalahEldeen
+• Surbhi Shankar (MS)
+• Erika Siregar (MS)
+• Miranda Smith (MS)
+• Plinio Vargas (MS)
+• Yasmin AlNoamany
+• Ahmed AlSum
+• Grant Atkins (MS)
+• John Berlin (MS)
+• Justin Brunelle
+• Chuck Cartledge
+• Hung Do (MS)
+• Dr. Michael L. Nelson
+• Dr. Michele C. Weigle
+• Dr. Sampath Jayarathna
+• Dr. Jian Wu
+Faculty
+3. @weiglemc, @WebSciDL
+Computer scientists are toolsmiths
+December 18, 2018 / Library of Congress 3
+Frederick P. Brooks, Jr.. 1996. The computer scientist as toolsmith II. Commun. ACM 39, 3 (March 1996), 61-68,
+http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf
+4. @weiglemc, @WebSciDL
+We want to enable the
+personal use of web
+archives…
+December 18, 2018 / Library of Congress 4
+5. @weiglemc, @WebSciDL
+We want to enable the personal use of web
+archives… by academics and scholars
+December 18, 2018 / Library of Congress 5
+Liza Potts, ODU, Michigan State
+studying communication during disasters
+6. @weiglemc, @WebSciDL
+They used screenshots to record news
+webpages and tweets
+December 18, 2018 / Library of Congress 6
+7. @weiglemc, @WebSciDL
+We can find webpages for some
+filenames
+December 18, 2018 / Library of Congress 7
+http://www.bbc.com/news/world-europe-14287822 https://www.bbc.com/news/world-europe-14276074
+8. @weiglemc, @WebSciDL
+But, it’s difficult to manage metadata
+with just a filename
+December 18, 2018 / Library of Congress 8
+9. @weiglemc, @WebSciDL
+We want to enable the personal use of web
+archives… by academics and scholars
+Columbia course in Human Rights Information Technology
+• evaluate online advocacy strategies over time
+• explore the websites’ degrees of interactivity
+• observe the variety of ways groups frame and present issues
+online
+December 18, 2018 / Library of Congress 9
+Alex Thurman and Pamela Graham
+10. @weiglemc, @WebSciDL
+They want to view how groups’ web
+presence changes over time
+December 18, 2018 / Library of Congress 10
+Alex Thurman and Pamela Graham
+https://wayback.archive-it.org/1068/*/http://amnesty.ca/
+11. @weiglemc, @WebSciDL
+Visual layout changes are important
+December 18, 2018 / Library of Congress 11
+Alex Thurman and Pamela Graham
+https://wayback.archive-it.org/1068/*/http://amnesty.ca/
+2011-03-11, 21:29:04 2012-03-02, 21:04:40
+2013-03-07, 00:03:05 2018-01-14, 20:57:13
+12. @weiglemc, @WebSciDL
+We want to enable the personal use of web
+archives… by academics and scholars
+December 18, 2018 / Library of Congress 12
+Deborah Kempe
+https://archive-it.org/collections/4544
+13. @weiglemc, @WebSciDL
+There’s a need for visual browsing of
+collection of artists’ websites
+December 18, 2018 / Library of Congress 13
+Deborah Kempe
+https://archive-it.org/collections/4544
+14. @weiglemc, @WebSciDL
+We want to enable the personal use
+of web archives… by journalists
+December 18, 2018 / Library of Congress 14
+similar to our Hurricane Katrina example: https://www.slideshare.net/phonedude/why-careaboutthepast
+https://www.nytimes.com/2016/11/17/insider/in-13-
+headlines-the-drama-of-election-night.html
+15. @weiglemc, @WebSciDL
+Wayback has gone mainstream…
+December 18, 2018 / Library of Congress 15
+"God bless you, Wayback Machine"
+- Rachel Maddow, Dec 16, 2016
+Last Week Tonight, Mar 18, 2018
+16. @weiglemc, @WebSciDL
+… but what do people think the
+Wayback Machine is?
+December 18, 2018 / Library of Congress 16
+https://www.politico.com/story/2018/04/25/joy-reid-anti-gay-posts-550213
+17. @weiglemc, @WebSciDL
+… but what do people think the
+Wayback Machine is?
+December 18, 2018 / Library of Congress 17
+https://www.cnn.com/2018/02/16/politics/richard-pinedo-guilty-plea/index.html
+https://www.politico.com/story/2018/04/25/joy-reid-anti-gay-posts-550213
+https://web.archive.org/web/20180115103952/https:/auctionessistance.com/
+18. @weiglemc, @WebSciDL
+Caches are not archives
+December 18, 2018 / Library of Congress 18
+http://ws-dl.blogspot.com/2018/01/2018-01-02-link-to-web-archives-not.html
+http://www.wired.co.uk/article/russia-propaganda-online-blog-longform-medium-posts
+https://webcache.googleusercontent.com/search?q=cache:qwqnGPqC2vsJ:https://medium.com/
+%40TheFoundingSon/huffington-post-vs-whiteness-and-white-women-
+1e67193085d4+&cd=15&hl=en&ct=clnk&gl=uk
+19. @weiglemc, @WebSciDL
+And, there’s more than just the
+Internet Archive
+December 18, 2018 / Library of Congress 19
+http://timetravel.mementoweb.org/list/20020908180610/http://blog.reidreport.com/
+20. @weiglemc, @WebSciDL
+Some folks knows this
+December 18, 2018 / Library of Congress 20
+http://archive.is/SKYbp
+https://www.nytimes.com/2018/04/24/business/media/joy-reid-homophobic-blog-posts.html
+21. @weiglemc, @WebSciDL
+Some folks knows this
+December 18, 2018 / Library of Congress 21
+http://archive.is/SKYbp
+https://www.nytimes.com/2018/04/24/business/media/joy-reid-homophobic-blog-posts.html
+http://money.cnn.com/2018/04/25/media/joy-reid-msnbc-host-wayback-machine/index.html
+22. @weiglemc, @WebSciDL
+We advocate submitting pages to
+multiple archives
+December 18, 2018 / Library of Congress 22
+https://twitter.com/phonedude_mln/status/998948823845261312
+23. @weiglemc, @WebSciDL
+We want to enable the personal use of
+web archives… by the general public
+December 18, 2018 / Library of Congress 23
+24. @weiglemc, @WebSciDL
+Web archives to the rescue!
+December 18, 2018 / Library of Congress 24
+https://twitter.com/brian3354/status/966081774194511874
+25. @weiglemc, @WebSciDL
+Is it really that important to archive
+instead of just taking a screenshot?
+December 18, 2018 / Library of Congress 25
+https://twitter.com/AngryBlackLady/status/990032514080108544
+https://twitter.com/phonedude_mln/status/990070331737100288
+26. @weiglemc, @WebSciDL
+We should be doing both
+December 18, 2018 / Library of Congress 26
+https://twitter.com/conspirator0/status/1000475042017366017
+27. @weiglemc, @WebSciDL
+What have we been doing
+to make this easier?
+December 18, 2018 / Library of Congress 27
+28. @weiglemc, @WebSciDL
+We wanted to help people
+create and access local
+archives
+December 18, 2018 / Library of Congress 28
+29. @weiglemc, @WebSciDL
+We wanted to help people create and
+access local archives
+• WARCreate – Google Chrome extension
+• WAIL – user-friendly Heritrix and
+OpenWayback
+• WAIL-Electron – adds browser-based
+crawling, pywb
+December 18, 2018 / Library of Congress 29
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2013-2017, HD-51670-13 and HK-50181-14
+30. @weiglemc, @WebSciDL
+WARCreate (2012)
+December 18, 2018 / Library of Congress 30
+Mat Kelly and Michele C. Weigle, "WARCreate - Create Wayback-Consumable WARC Files from Any
+Webpage”, JCDL 2012 demo.
+http://ws-dl.blogspot.com/2013/07/2013-07-10-warcreate-and-wail-warc.html
+Google Chrome extension
+Create local WARC file of
+currently viewed
+webpage
+http://warcreate.com
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2013-2017, HD-51670-13 and HK-50181-14
+31. @weiglemc, @WebSciDL
+WAIL (2013)
+December 18, 2018 / Library of Congress 31
+Mat Kelly, Michael L. Nelson and Michele C. Weigle, "Making Enterprise-Level Archive Tools Accessible
+for Personal Web Archiving Using XAMPP," Poster and demo at Personal Digital Archiving, 2013.
+http://ws-dl.blogspot.com/2016/06/2016-06-03-lipstick-or-ham-next-steps.html
+Stand-alone application
+Easy install of Heritrix,
+OpenWayback
+Replay local WARCs created
+with WARCreate
+http://machawk1.github.io/wail/
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2013-2017, HD-51670-13 and HK-50181-14
+32. @weiglemc, @WebSciDL
+WAIL-Electron (2017)
+December 18, 2018 / Library of Congress 32
+John Berlin, Mat Kelly, Michael L. Nelson and Michele C. Weigle, "WAIL: Collection-Based Personal Web
+Archiving," JCDL 2017, poster.
+http://ws-dl.blogspot.com/2017/02/2017-02-13-electric-wails-and-ham.html
+http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html
+Update of original WAIL
+Adds headless Chrome-based
+crawling
+OpenWayback -> pywb
+https://github.com/N0taN3rd/wail
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2013-2017, HD-51670-13 and HK-50181-14
+33. @weiglemc, @WebSciDL
+What did we learn from this?
+• We need additional Memento support for
+private web archives
+• Capturing complex webpages is hard
+December 18, 2018 / Library of Congress 33
+34. @weiglemc, @WebSciDL
+A Memento Meta Aggregator can aggregate
+public and private archives (2018)
+December 18, 2018 / Library of Congress 34
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "A Framework for Aggregating Private and Public Web
+Archives", JCDL 2018
+35. @weiglemc, @WebSciDL
+Today’s webpages are super complex
+December 18, 2018 / Library of Congress 35
+number of network requests per page
+John Berlin, "To Relive The Web: A Framework for the Transformation and Archival Replay of Web Pages,"
+ODU Master’s Thesis, 2018.
+36. @weiglemc, @WebSciDL
+Squidwarc enables high-fidelity
+browser-based archiving (2017)
+December 18, 2018 / Library of Congress 36
+John Berlin, "2017-07-24: Replacing Heritrix with Chrome in WAIL, and the release of node-warc, node-
+cdxj, and Squidwarc”
+http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html
+High fidelity archival
+crawler
+node.js based
+Uses Chrome or
+Chrome Headless
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2013-2017, HD-51670-13 and HK-50181-14
+https://github.com/N0taN3rd/Squidwarc
+37. @weiglemc, @WebSciDL
+We wanted to help people
+submit webpages to public
+archives
+December 18, 2018 / Library of Congress 37
+38. @weiglemc, @WebSciDL
+We wanted to help people submit
+webpages to public archives
+• Mink – Google Chrome extension
+• #icanhazmemento – Twitter bot
+• ArchiveNow – Python module, Docker
+container, local web service
+December 18, 2018 / Library of Congress 38
+39. @weiglemc, @WebSciDL
+Mink (2014)
+December 18, 2018 / Library of Congress 39
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2014-2017, HK-50181-14
+Mat Kelly, Michael L. Nelson and Michele C. Weigle, "Mink: Integrating the Live and Archived Web Viewing
+Experience Using Web Browsers and Memento," JCDL 2014, poster.
+http://ws-dl.blogspot.com/2014/10/2014-10-03-integrating-live-and.html
+Google Chrome extension
+Submit currently viewed
+webpage to public archives
+Access mementos from public
+archives of currently viewed
+webpage
+Inspired by LANL’s Memento
+for Chrome, http://ws-
+dl.blogspot.com/2013/10/2013-10-
+14-right-click-to-past-memento.html
+https://github.com/machawk1/Mink
+40. @weiglemc, @WebSciDL
+Mink (2014)
+December 18, 2018 / Library of Congress 40
+“Archive What I See Now: Bringing Institutional Web Archiving Tools to the Individual Researcher”,
+2014-2017, HK-50181-14
+Mat Kelly, Michael L. Nelson and Michele C. Weigle, "Mink: Integrating the Live and Archived Web Viewing
+Experience Using Web Browsers and Memento," JCDL 2014, poster.
+http://ws-dl.blogspot.com/2014/10/2014-10-03-integrating-live-and.html
+Google Chrome extension
+Submit currently viewed
+webpage to public archives
+Access mementos from public
+archives of currently viewed
+webpage
+Inspired by LANL’s Memento
+for Chrome, http://ws-
+dl.blogspot.com/2013/10/2013-10-
+14-right-click-to-past-memento.html
+https://github.com/machawk1/Mink
+41. @weiglemc, @WebSciDL
+#icanhazmemento (2015)
+December 18, 2018 / Library of Congress 41
+http://ws-dl.blogspot.com/2015/07/2015-07-22-i-can-haz-memento.html
+Twitter bot
+Include #icanhazmemento in a
+tweet with a URL
+Bot replies with a link to the
+memento of the page closest to
+the time of the tweet
+If page not archived, bot submits
+URL to multiple public archives,
+replies with a link to the
+memento in Time Travel
+Alexander Nwala, "2015-07-22: I Can Haz Memento,"
+https://github.com/anwala/icanhazmemento
+42. @weiglemc, @WebSciDL
+ArchiveNow (2017)
+December 18, 2018 / Library of Congress 42
+Mohamed Aturban, Mat Kelly, Sawood Alam, John Berlin, Michael L. Nelson and Michele C. Weigle,
+"ArchiveNow: Simplified, Extensible, Multi-Archive Preservation," JCDL 2018, poster.
+http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html
+Python module, Docker
+container
+Submit URI to multiple archives
+Generate local WARCs for
+private archives
+“Towards a Web-Centric Approach for Capturing the Scholarly Record”, 2016-2019
+https://github.com/oduwsdl/archivenow
+43. @weiglemc, @WebSciDL
+What did we learn from this?
+• People want tools to help them submit to
+public archives
+• Browser extensions are cool, but don't have
+much uptake
+• more on this later…
+December 18, 2018 / Library of Congress 43
+44. @weiglemc, @WebSciDL
+We wanted to help people
+summarize their archives
+December 18, 2018 / Library of Congress 44
+45. @weiglemc, @WebSciDL
+We wanted to help people
+summarize their archives
+• Dark and Stormy Archives (DSA) –
+Archive-It + Storify
+• MementoEmbed – web service
+• #whatdiditlooklike – Twitter bot
+• Alsummarization – algorithm and web
+service
+• TimeMap Visualization, tmvis – node.js-
+based web service of alsummarization
+December 18, 2018 / Library of Congress 45
+46. @weiglemc, @WebSciDL
+"Dark and Stormy" Archives (2016)
+December 18, 2018 / Library of Congress 46
+Characteristicsof
+human-generated
+Stories
+Characteristicsof
+Archive-It
+collections
+Exclude duplicates
+Exclude off-topic pages
+Exclude non-English Language
+Dynamically slice the collection
+Cluster the pages
+in each slice
+Select high-quality
+pages from each
+cluster
+Order pages
+by time
+Visualize
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "Generating Stories From Archived
+Collections," ACM WebSci 2017.
+http://ws-dl.blogspot.com/2016/09/2016-09-20-promising-scene-at-end-of.html
+“Combining Social Media Storytelling With Web Archives”, 2015-2019, IMLS National Leadership Grant
+Shawn Jones, "Improving Collection Understanding in Web Archives," JCDL Doctoral Consortium, 2018.
+http://ws-dl.blogspot.com/2017/12/2017-12-14-storify-will-be-gone-soon-so.html
+47. @weiglemc, @WebSciDL
+MementoEmbed (2018)
+December 18, 2018 / Library of Congress 47
+Python module, Docker
+container
+Submit URI-M
+Returns an archive-aware social
+card, with HTML embed code
+“Combining Social Media Storytelling With Web Archives”, 2015-2019, IMLS National Leadership Grant
+http://mementoembed.ws-dl.cs.odu.edu/
+https://github.com/oduwsdl/MementoEmbed
+http://ws-dl.blogspot.com/2018/04/2018-04-24-lets-get-visual-and-examine.html
+Shawn Jones, "Improving Collection Understanding in Web Archives," JCDL Doctoral Consortium, 2018.
+48. @weiglemc, @WebSciDL
+MementoEmbed (2018)
+December 18, 2018 / Library of Congress 48
+“Combining Social Media Storytelling With Web Archives”, 2015-2019, IMLS National Leadership Grant
+http://ws-dl.blogspot.com/2018/04/2018-04-24-lets-get-visual-and-examine.html
+Shawn Jones, "Improving Collection Understanding in Web Archives," JCDL Doctoral Consortium, 2018.
+Python module, Docker
+container
+Submit URI-M
+Returns an archive-aware social
+card, with HTML embed code
+http://mementoembed.ws-dl.cs.odu.edu/
+https://github.com/oduwsdl/MementoEmbed
+49. @weiglemc, @WebSciDL
+#whatdiditlooklike (2015)
+December 18, 2018 / Library of Congress 49
+http://ws-dl.blogspot.com/2015/01/2015-02-05-what-did-it-look-like.html
+Twitter bot
+Include #whatdiditlooklike in a
+tweet with a URL
+Bot generates animated GIF of first
+memento of each year
+Bot replies with a link to entry in
+Tumblr
+Tumblr:
+http://whatdiditlooklike.mementoweb.org/
+Source:
+https://github.com/anwala/wdill
+Alexander Nwala, "2015-02-05: What Did It Look Like?,"
+50. @weiglemc, @WebSciDL
+Alsummarization (2014)
+December 18, 2018 / Library of Congress 50
+Ahmed Alsum and Michael L. Nelson, "Thumbnail Summarization Techniques for Web Archives," ECIR 2014.
+Summarize TimeMap
+Compare SimHash of
+HTML, not images
+Hamming distance
+threshold of 4 characters
+“Visualizing Digital Collections of Web Archives”, 2014-2015, Columbia Libraries Web Archiving
+Incentive Program
+Mat Kelly, Michael L. Nelson, and Michele C. Weigle, "Visualizing Digital Collections of Web Archives," Web
+Archiving Collaboration, 2015, http://ws-dl.blogspot.com/2015/06/2015-06-09-web-archiving-
+collaboration.html
+700 thumbnails
+32 sampled
+thumbnails
+CoverFlow view
+https://github.com/machawk1/ArchiveThumbnails
+51. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 51
+M1
+M2
+M3
+M4
+52. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 52
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+53. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 53
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+M1
+54. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 54
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+Hamming distance (M1, M2) < 4
+reject M2
+M1
+basis
+55. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 55
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+Hamming distance (M1, M3) > 4
+select M3
+M1
+basis
+56. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 56
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+M1
+M3
+Hamming distance (M3, M4) > 4
+select M4
+basis
+57. @weiglemc, @WebSciDL
+Choosing mementos based on SimHash
+December 18, 2018 / Library of Congress 57
+8c27981eaed151cfa645ad823932eac6
+8c27981eaad951cf8645ad823932eac6
+fa3799170258494b9443b9be3977a84e
+5a1534161357da6b827ab98037db2640
+M1
+M2
+M3
+M4
+M1
+M3
+M4
+58. @weiglemc, @WebSciDL
+TimeMap Visualization, tmvis (2017)
+December 18, 2018 / Library of Congress 58
+“Visualizing Webpage Changes Over Time”, 2017-2019, HAA-256368-17
+http://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html
+Web service
+Takes URI-R or URI-T
+Performs Alsummarization and
+produces grid view, image slider
+view, and timeline view
+Will produce embeddable version,
+Wayback extension
+https://github.com/oduwsdl/tmvis
+Surbhi Shankar, "Visualizing Thumbnails Of Archived Web Pages", ODU MS Project, 2017
+Maheedhar Gunnam, "How I Changed Over Time: A webservice to summarize TimeMaps based on
+SimHashed HTML content", ODU MS Project, 2018
+59. @weiglemc, @WebSciDL
+tmvis – Grid View
+December 18, 2018 / Library of Congress 59
+“Visualizing Webpage Changes Over Time”, 2017-2019, HAA-256368-17
+http://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html
+60. @weiglemc, @WebSciDL
+tmvis– Image Slider View
+December 18, 2018 / Library of Congress 60
+“Visualizing Webpage Changes Over Time”, 2017-2019, HAA-256368-17
+http://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html
+61. @weiglemc, @WebSciDL
+tmvis – Timeline View
+December 18, 2018 / Library of Congress 61
+“Visualizing Webpage Changes Over Time”, 2017-2019, HAA-256368-17
+http://ws-dl.blogspot.com/2017/10/2017-10-16-visualizing-webpage-changes.html
+Uses Propublica’s TimelineSetter library, http://propublica.github.io/timeline-setter/
+62. @weiglemc, @WebSciDL
+What did we learn from this?
+• Webpages can go off-topic through time
+• Some mementos aren't captured well
+• Some mementos aren't replayed well
+December 18, 2018 / Library of Congress 62
+63. @weiglemc, @WebSciDL
+You don't want off-topic mementos
+in your summary
+December 18, 2018 / Library of Congress 63
+2012-01-10, 01:41:57 2012-04-10, 03:26:34 2012-04-17, 03:26:15
+2012-04-24, 03:36:58 2012-05-15, 03:47:04
+http://wayback.archive-it.org/2950/*/http://www.indyows.org
+2012-07-03, 12:18:48
+64. @weiglemc, @WebSciDL
+Identify off-topic mementos with
+Off-Topic Memento Toolkit (2018)
+December 18, 2018 / Library of Congress 64
+“Tools for Managing Seed URIs”, 2014-2015, Columbia Libraries Web Archiving Incentive Program
+“Combining Social Media Storytelling With Web Archives”, 2015-2019, IMLS National Leadership Grant
+Shawn Jones, Michele C. Weigle, and Michael L. Nelson, ”The Off-Topic Memento Toolkit," iPres 2018.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, "Detecting Off-Topic Pages Within TimeMaps in
+Web Archives," IJDL, Vol. 17, No. 3, July 2016.
+Python module
+Given a URI-T (TimeMap), identifies
+off-topic mementos
+Option of 8 different similarity
+measures
+OTMT Distribution Page:
+https://pypi.org/project/otmt/
+OTMT Source Code Page:
+https://github.com/oduwsdl/off-topic-memento-
+toolkit
+{"http://wayback.archive-
+it.org/1068/timemap/link/http://www.badil.org/": {
+"http://wayback.archive-
+it.org/1068/20130307084848/http://www. badil.org/": {
+"timemap measures": {
+"cosine": {
+"stemmed": true,
+"tokenized": true,
+"removed boilerplate": true,
+"comparison score": 0.10969941307631487,
+"topic status": "off-topic"
+},
+"bytecount": {
+"stemmed": false,
+"tokenized": false,
+"removed boilerplate": false,
+"comparison score": 0.15971409055425445,
+"topic status": "on-topic"
+} },
+"overall topic status": "off-topic" },
+...
+65. @weiglemc, @WebSciDL
+You don't want damaged mementos
+in your summary
+December 18, 2018 / Library of Congress 65
+https://wayback.archive-it.org/1068/*/http://aappb.org/
+66. @weiglemc, @WebSciDL
+Memento Damage can tell you how
+damaged your mementos are (2017)
+December 18, 2018 / Library of Congress 66
+Web service, Docker container
+Given URI-M, calculates and
+analyzes memento damage
+Service:
+http://memento-damage.cs.odu.edu
+Github:
+https://github.com/oduwsdl/web-
+memento-damage
+“Increasing the Value of Existing Web Archives,” 2015-2019, III 1526700
+Erika Siregar, “Deploying the Memento Damage Service: A Comprehensive Tool for Measuring and Analyzing
+Damage on Web Archives”, ODU MS Project, 2017.
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are
+Created Equal: Measuring the Impact of Missing Resources," IJDL, Vol. 16, No. 3-4, September 2015.
+http://ws-dl.blogspot.com/2017/11/2017-11-22-deploying-memento-damage.html
+67. @weiglemc, @WebSciDL
+Memento Damage can tell you how
+damaged your mementos are (2017)
+December 18, 2018 / Library of Congress 67
+Erika Siregar, “Deploying the Memento Damage Service: A Comprehensive Tool for Measuring and Analyzing
+Damage on Web Archives”, ODU MS Project, 2017.
+Justin Brunelle, Mat Kelly, Hany SalahEldeen, Michele C. Weigle and Michael L. Nelson, "Not All Mementos Are
+Created Equal: Measuring the Impact of Missing Resources," IJDL, Vol. 16, No. 3-4, September 2015.
+Web service, Docker container
+Given URI-M, calculates and
+analyzes memento damage
+Service:
+http://memento-damage.cs.odu.edu
+Github:
+https://github.com/oduwsdl/web-
+memento-damage
+http://ws-dl.blogspot.com/2017/11/2017-11-22-deploying-memento-damage.html
+“Increasing the Value of Existing Web Archives,” 2015-2019, III 1526700
+68. @weiglemc, @WebSciDL
+Wayback++ uses client-side rewriting to fix
+replay-based damaged mementos (2018)
+December 18, 2018 / Library of Congress 68
+Chrome, Firefox extensions
+https://github.com/N0taN3rd/
+WaybackPlusPlus
+https://www.youtube.com/watch?v=ldyidcaVXHw
+John Berlin, Michael L. Nelson, and Michele C. Weigle, "Swimming In A Sea Of JavaScript, Or: How I
+Learned To Stop Worrying And Love High-Fidelity Replay," WADL 2018.
+http://ws-dl.blogspot.com/2017/01/2017-01-20-cnncom-has-been-unarchivable.html
+http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html
+69. @weiglemc, @WebSciDL
+Where does this take us?
+December 18, 2018 / Library of Congress 69
+70. @weiglemc, @WebSciDL
+We’ve developed a lot of tools
+December 18, 2018 / Library of Congress 70
+71. @weiglemc, @WebSciDL
+But, can a full professor use them?
+December 18, 2018 / Library of Congress 71
+Frederick P. Brooks, Jr.. 1996. The computer scientist as toolsmith II. Commun. ACM 39, 3 (March 1996), 61-68.
+Fred Brooks says:
+72. @weiglemc, @WebSciDL
+So, let's think bigger
+• In a world where the web browser is the
+Internet, how can we make web archives
+ubiquitous?
+December 18, 2018 / Library of Congress 72
+73. @weiglemc, @WebSciDL
+So, let's think bigger
+• In a world where the web browser is the
+Internet, how can we make web archives
+ubiquitous?
+• Bring web archives to the browser - natively
+December 18, 2018 / Library of Congress 73
+Michele C. Weigle, Michael L. Nelson, Martin Klein, and Herbert Van de Sompel, “The Case
+for Memento-Aware Browsers”, 2017
+74. @weiglemc, @WebSciDL
+What if browsers could natively
+identify mementos?
+• Look for Memento-Datetime header in
+HTTP response
+Memento-Datetime: Tue, 08 May 2012 11:24:30 GMT
+• Use client-side rewriting (Emu) to improve
+replay
+• Use native UI elements to annotate
+composite mementos
+December 18, 2018 / Library of Congress 74
+75. @weiglemc, @WebSciDL
+Identify mementos in the address bar
+December 18, 2018 / Library of Congress 75
+76. @weiglemc, @WebSciDL
+Identify mementos in the address bar
+December 18, 2018 / Library of Congress 76
+Archive https://webarchive.loc.gov/all/20140312062533/...
+Could also identify non-HTML mementos (images, PDF, etc.)
+77. @weiglemc, @WebSciDL
+Identify temporal inconsistencies
+December 18, 2018 / Library of Congress 77
+Archive http://web.archive.org/web/20050601025530/..
+.
+Scott Ainsworth, http://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html
+78. @weiglemc, @WebSciDL
+Identify temporal inconsistencies
+December 18, 2018 / Library of Congress 78
+Archive http://web.archive.org/web/20050601025530/..
+.
+Scott Ainsworth, http://ws-dl.blogspot.com/2015/12/2015-12-08-evaluating-temporal.html
++ 5 Years, 11 months (Apr 6, 2011)
+79. @weiglemc, @WebSciDL
+What if browsers could natively
+interact with Memento aggregators?
+• Alert users of unarchived pages as they
+browse
+• Provide UI elements to summarize and
+access past versions of the current webpage
+• Integrate web archives and the past web
+into “New Tab View”
+December 18, 2018 / Library of Congress 79
+80. @weiglemc, @WebSciDL
+What if browsers could natively
+interpret and replay WARCs?
+• Users could share WARCs
+• Recipient could open the WARC directly in
+their browser
+• WARC.js (ala PDF.js for WARCs)
+December 18, 2018 / Library of Congress 80
+81. @weiglemc, @WebSciDL
+What if browsers could natively
+create mementos?
+• Push to public web
+archives
+• Create local WARCs
+December 18, 2018 / Library of Congress 81
+https://twitter.com/conspirator0/status/1000475042017366017
+Just as easily as taking
+a screenshot
+or maybe along with
+taking a screenshot
+82. @weiglemc, @WebSciDL
+Firefox Quantum has brought
+screenshots natively to the browser
+December 18, 2018 / Library of Congress 82
+83. @weiglemc, @WebSciDL
+Saving full page screenshot
+December 18, 2018 / Library of Congress 83
+84. @weiglemc, @WebSciDL
+Screenshots can be saved in the
+Mozilla cloud
+December 18, 2018 / Library of Congress 84
+85. @weiglemc, @WebSciDL
+Screenshots have a URI
+December 18, 2018 / Library of Congress 85
+https://screenshots.firefox.com/9R5KvZEbbuk1NOOS/www.loc.gov
+86. @weiglemc, @WebSciDL
+What if these screenshots were
+Memento-enabled?
+• Provide Memento HTTP headers for the
+screenshots
+• Implement Memento datetime negotiation
+for the entire screenshot cloud service
+December 18, 2018 / Library of Congress 86
+87. @weiglemc, @WebSciDL
+We could build a crowd-sourced
+archive of screenshots
+• Take screenshot and save to Memento-
+enabled screenshot cloud
+• Option to push live webpage to archive at
+same time
+• Then we have both an archived page and a
+screenshot of the page from very close to
+the same datetime
+December 18, 2018 / Library of Congress 87
+88. @weiglemc, @WebSciDL
+What about bookmarks?
+December 18, 2018 / Library of Congress 88
+submit to public web archives
+local archive saved to ~/Library/WebArchive/
+Bookmarking becomes archiving
+89. @weiglemc, @WebSciDL
+Viewing a bookmark becomes an
+opportunity to interact with archives
+December 18, 2018 / Library of Congress 89
+90. @weiglemc, @WebSciDL
+Memento Embeds for bookmark view
+December 18, 2018 / Library of Congress 90
+91. @weiglemc, @WebSciDL
+Open live web, local memento, or
+public memento
+December 18, 2018 / Library of Congress 91
+Open on live web
+Open local memento
+Open public memento
+92. @weiglemc, @WebSciDL
+It’s time for browsers to be
+Memento-aware
+• Web archives have gone mainstream.
+• We’ve learned a lot by building tools to
+enable personal use of web archives.
+• These ideas need to be integrated directly
+into browsers for general public use.
+December 18, 2018 / Library of Congress 92
+Download Now

@@ -1,0 +1,35 @@
+ERROR: 2024/02/18 18:01:51.360019 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-11-08T23:10:58Z",
+        "uri": "https://web.archive.org/web/20231108231058/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2023-11-30T00:20:02Z",
+        "uri": "https://web.archive.org/web/20231130002002/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      },
+      {
+        "datetime": "2024-01-17T00:34:39Z",
+        "uri": "https://web.archive.org/web/20240117003439/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+      }
+    ],
+    "first": {
+      "datetime": "2023-11-08T23:10:58Z",
+      "uri": "https://web.archive.org/web/20231108231058/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:34:39Z",
+      "uri": "https://web.archive.org/web/20240117003439/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/army-rotc-leader-sees-enrollment-gains"
+}

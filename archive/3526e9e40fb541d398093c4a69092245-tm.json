@@ -1,0 +1,63 @@
+ERROR: 2024/02/18 20:46:12.990229 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/wgec": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/wgec",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/wgec",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-05-14T16:37:07Z",
+        "uri": "https://web.archive.org/web/20230514163707/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-05-19T22:16:14Z",
+        "uri": "https://web.archive.org/web/20230519221614/http://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-05-29T02:59:22Z",
+        "uri": "https://web.archive.org/web/20230529025922/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-05-29T06:53:10Z",
+        "uri": "https://web.archive.org/web/20230529065310/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-06-09T04:20:30Z",
+        "uri": "https://web.archive.org/web/20230609042030/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-08-25T18:48:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230825184802/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-08-25T18:48:02Z",
+        "uri": "https://web.archive.org/web/20230825184802/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-10-01T12:03:05Z",
+        "uri": "https://web.archive.org/web/20231001120305/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-12-01T07:19:07Z",
+        "uri": "https://web.archive.org/web/20231201071907/https://www.odu.edu/wgec"
+      },
+      {
+        "datetime": "2023-12-01T10:20:38Z",
+        "uri": "https://web.archive.org/web/20231201102038/https://www.odu.edu/wgec"
+      }
+    ],
+    "first": {
+      "datetime": "2023-05-14T16:37:07Z",
+      "uri": "https://web.archive.org/web/20230514163707/https://www.odu.edu/wgec"
+    },
+    "last": {
+      "datetime": "2023-12-01T10:20:38Z",
+      "uri": "https://web.archive.org/web/20231201102038/https://www.odu.edu/wgec"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/wgec",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/wgec",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/wgec"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/wgec"
+}

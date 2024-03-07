@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 15:13:14.865751 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/shahram-m-9160602/": net/http: timeout awaiting response headers

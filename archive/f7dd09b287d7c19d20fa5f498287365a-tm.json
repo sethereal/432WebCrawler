@@ -1,0 +1,167 @@
+ERROR: 2024/02/18 14:47:48.143668 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/library": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/library",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/library",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-21T18:47:58Z",
+        "uri": "https://web.archive.org/web/20161021184758/http://ww1.odu.edu:80/library"
+      },
+      {
+        "datetime": "2017-01-20T20:38:38Z",
+        "uri": "https://web.archive.org/web/20170120203838/http://ww1.odu.edu:80/library"
+      },
+      {
+        "datetime": "2017-03-31T04:10:08Z",
+        "uri": "https://web.archive.org/web/20170331041008/http://ww1.odu.edu:80/library"
+      },
+      {
+        "datetime": "2017-06-01T05:34:36Z",
+        "uri": "https://web.archive.org/web/20170601053436/http://ww1.odu.edu:80/library"
+      },
+      {
+        "datetime": "2017-10-03T14:47:44Z",
+        "uri": "https://web.archive.org/web/20171003144744/http://ww1.odu.edu:80/library"
+      },
+      {
+        "datetime": "2022-05-21T02:59:20Z",
+        "uri": "https://web.archive.org/web/20220521025920/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-08-18T16:55:20Z",
+        "uri": "https://web.archive.org/web/20220818165520/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-10-31T11:20:44Z",
+        "uri": "https://web.archive.org/web/20221031112044/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-11-07T04:39:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221107043918/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-11-07T04:39:18Z",
+        "uri": "https://web.archive.org/web/20221107043918/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-11-27T08:57:22Z",
+        "uri": "https://web.archive.org/web/20221127085722/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-03T08:33:03Z",
+        "uri": "https://web.archive.org/web/20221203083303/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-07T07:03:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221207070304/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-07T07:03:04Z",
+        "uri": "https://web.archive.org/web/20221207070304/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-08T06:57:41Z",
+        "uri": "https://web.archive.org/web/20221208065741/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-19T02:57:18Z",
+        "uri": "https://web.archive.org/web/20221219025718/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-19T09:01:35Z",
+        "uri": "https://web.archive.org/web/20221219090135/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-22T21:31:17Z",
+        "uri": "https://web.archive.org/web/20221222213117/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2022-12-22T21:31:55Z",
+        "uri": "https://web.archive.org/web/20221222213155/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-01-07T06:42:31Z",
+        "uri": "https://wayback.archive-it.org/all/20230107064231/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-01-07T06:42:31Z",
+        "uri": "https://web.archive.org/web/20230107064231/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-02-07T05:53:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230207055318/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-02-07T05:53:18Z",
+        "uri": "https://web.archive.org/web/20230207055318/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-02-07T11:38:05Z",
+        "uri": "https://web.archive.org/web/20230207113805/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-03-07T04:22:18Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042218/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-03-07T04:22:18Z",
+        "uri": "https://web.archive.org/web/20230307042218/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-04-01T23:29:59Z",
+        "uri": "https://web.archive.org/web/20230401232959/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-05-29T01:38:02Z",
+        "uri": "https://web.archive.org/web/20230529013802/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-06-02T05:12:26Z",
+        "uri": "https://web.archive.org/web/20230602051226/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-07-10T03:47:48Z",
+        "uri": "https://web.archive.org/web/20230710034748/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-07-11T00:08:13Z",
+        "uri": "https://web.archive.org/web/20230711000813/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-08-25T17:34:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173459/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-08-25T17:34:59Z",
+        "uri": "https://web.archive.org/web/20230825173459/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-09-23T04:28:41Z",
+        "uri": "https://web.archive.org/web/20230923042841/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-11-28T03:54:19Z",
+        "uri": "https://web.archive.org/web/20231128035419/https://ww1.odu.edu/library"
+      },
+      {
+        "datetime": "2023-11-30T10:54:40Z",
+        "uri": "https://web.archive.org/web/20231130105440/https://ww1.odu.edu/library"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-21T18:47:58Z",
+      "uri": "https://web.archive.org/web/20161021184758/http://ww1.odu.edu:80/library"
+    },
+    "last": {
+      "datetime": "2023-11-30T10:54:40Z",
+      "uri": "https://web.archive.org/web/20231130105440/https://ww1.odu.edu/library"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/library",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/library",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/library"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/library"
+}

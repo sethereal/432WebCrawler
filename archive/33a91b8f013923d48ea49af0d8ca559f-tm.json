@@ -1,0 +1,35 @@
+ERROR: 2024/02/18 16:55:45.907922 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ",
+  "self": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-25T14:27:29Z",
+        "uri": "https://web.archive.org/web/20210425142729/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ"
+      },
+      {
+        "datetime": "2021-05-08T21:07:29Z",
+        "uri": "https://web.archive.org/web/20210508210729/http://scholar.google.com/citations?user=gp6cdH8AAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-05-15T07:42:40Z",
+        "uri": "https://web.archive.org/web/20210515074240/https://scholar.google.com/citations?user=gp6cdH8AAAAJ&hl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-25T14:27:29Z",
+      "uri": "https://web.archive.org/web/20210425142729/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ"
+    },
+    "last": {
+      "datetime": "2021-05-15T07:42:40Z",
+      "uri": "https://web.archive.org/web/20210515074240/https://scholar.google.com/citations?user=gp6cdH8AAAAJ&hl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.google.com/citations?hl=en&user=gp6cdH8AAAAJ"
+}

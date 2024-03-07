@@ -1,0 +1,227 @@
+ERROR: 2024/02/18 15:08:09.740720 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/correnmccoy": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/correnmccoy",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/correnmccoy",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-02-29T17:54:28Z",
+        "uri": "https://wayback.archive-it.org/all/20160229175428/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2016-02-29T17:54:28Z",
+        "uri": "https://web.archive.org/web/20160229175428/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2018-03-16T07:18:04Z",
+        "uri": "https://web.archive.org/web/20180316071804/http://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2018-03-16T07:56:17Z",
+        "uri": "https://web.archive.org/web/20180316075617/http://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2018-03-16T08:01:02Z",
+        "uri": "https://web.archive.org/web/20180316080102/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2018-03-16T08:06:25Z",
+        "uri": "https://web.archive.org/web/20180316080625/http://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2018-03-16T08:11:07Z",
+        "uri": "https://web.archive.org/web/20180316081107/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2018-05-03T19:40:19Z",
+        "uri": "https://web.archive.org/web/20180503194019/http://www.twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2018-05-03T19:40:21Z",
+        "uri": "https://web.archive.org/web/20180503194021/https://www.twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2018-05-29T00:04:03Z",
+        "uri": "https://web.archive.org/web/20180529000403/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2018-05-29T00:04:37Z",
+        "uri": "https://web.archive.org/web/20180529000437/http://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2021-06-14T14:27:52Z",
+        "uri": "https://arquivo.pt/wayback/20210614142752mp_/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2021-11-23T00:05:15Z",
+        "uri": "https://web.archive.org/web/20211123000515/http://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2021-11-23T00:05:16Z",
+        "uri": "https://web.archive.org/web/20211123000516/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2021-11-23T00:16:32Z",
+        "uri": "https://web.archive.org/web/20211123001632/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2021-11-23T01:51:51Z",
+        "uri": "https://web.archive.org/web/20211123015151/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2021-11-23T02:31:24Z",
+        "uri": "https://web.archive.org/web/20211123023124/http://www.twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2021-11-23T02:31:26Z",
+        "uri": "https://web.archive.org/web/20211123023126/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2022-11-18T15:49:33Z",
+        "uri": "https://web.archive.org/web/20221118154933/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-22T19:17:25Z",
+        "uri": "https://web.archive.org/web/20221122191725/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-23T05:05:19Z",
+        "uri": "https://web.archive.org/web/20221123050519/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-23T11:07:33Z",
+        "uri": "https://web.archive.org/web/20221123110733/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-23T20:16:41Z",
+        "uri": "https://web.archive.org/web/20221123201641/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-24T03:00:26Z",
+        "uri": "https://web.archive.org/web/20221124030026/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-24T06:47:18Z",
+        "uri": "https://web.archive.org/web/20221124064718/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-24T19:56:55Z",
+        "uri": "https://web.archive.org/web/20221124195655/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-24T23:54:26Z",
+        "uri": "https://web.archive.org/web/20221124235426/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-25T02:17:16Z",
+        "uri": "https://web.archive.org/web/20221125021716/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-11-28T18:19:11Z",
+        "uri": "https://web.archive.org/web/20221128181911/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-08T01:46:48Z",
+        "uri": "https://web.archive.org/web/20221208014648/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-08T04:03:06Z",
+        "uri": "https://web.archive.org/web/20221208040306/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-08T06:18:50Z",
+        "uri": "https://web.archive.org/web/20221208061850/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-18T04:09:58Z",
+        "uri": "https://web.archive.org/web/20221218040958/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-18T07:51:14Z",
+        "uri": "https://web.archive.org/web/20221218075114/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-18T10:41:27Z",
+        "uri": "https://web.archive.org/web/20221218104127/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-18T13:04:19Z",
+        "uri": "https://web.archive.org/web/20221218130419/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-18T21:45:39Z",
+        "uri": "https://web.archive.org/web/20221218214539/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-19T10:20:42Z",
+        "uri": "https://web.archive.org/web/20221219102042/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-19T14:51:32Z",
+        "uri": "https://web.archive.org/web/20221219145132/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-19T17:49:24Z",
+        "uri": "https://web.archive.org/web/20221219174924/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-20T18:47:54Z",
+        "uri": "https://web.archive.org/web/20221220184754/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-20T21:50:42Z",
+        "uri": "https://web.archive.org/web/20221220215042/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-21T05:22:07Z",
+        "uri": "https://web.archive.org/web/20221221052207/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-21T21:49:59Z",
+        "uri": "https://web.archive.org/web/20221221214959/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-22T13:22:09Z",
+        "uri": "https://web.archive.org/web/20221222132209/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-22T20:02:23Z",
+        "uri": "https://web.archive.org/web/20221222200223/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-22T22:27:16Z",
+        "uri": "https://web.archive.org/web/20221222222716/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2022-12-23T01:06:58Z",
+        "uri": "https://web.archive.org/web/20221223010658/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2023-03-17T06:41:05Z",
+        "uri": "https://web.archive.org/web/20230317064105/https://twitter.com/CorrenMcCoy"
+      },
+      {
+        "datetime": "2023-11-20T06:43:20Z",
+        "uri": "https://web.archive.org/web/20231120064320/https://twitter.com/correnmccoy"
+      },
+      {
+        "datetime": "2023-12-28T14:42:21Z",
+        "uri": "https://web.archive.org/web/20231228144221/https://twitter.com/CorrenMcCoy"
+      }
+    ],
+    "first": {
+      "datetime": "2016-02-29T17:54:28Z",
+      "uri": "https://wayback.archive-it.org/all/20160229175428/https://twitter.com/correnmccoy"
+    },
+    "last": {
+      "datetime": "2023-12-28T14:42:21Z",
+      "uri": "https://web.archive.org/web/20231228144221/https://twitter.com/CorrenMcCoy"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/correnmccoy",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/correnmccoy",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/correnmccoy"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/correnmccoy"
+}

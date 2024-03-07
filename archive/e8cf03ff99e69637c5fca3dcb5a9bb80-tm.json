@@ -1,0 +1,155 @@
+ERROR: 2024/02/18 20:07:15.103603 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/admission/returning-student": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/admission/returning-student",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/returning-student",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-15T04:25:39Z",
+        "uri": "https://web.archive.org/web/20220615042539/https://odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-06-15T05:40:57Z",
+        "uri": "https://web.archive.org/web/20220615054057/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-06-28T00:26:08Z",
+        "uri": "https://web.archive.org/web/20220628002608/https://odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-06-30T01:54:57Z",
+        "uri": "https://web.archive.org/web/20220630015457/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:40Z",
+        "uri": "https://wayback.archive-it.org/all/20220811071140/https://odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:40Z",
+        "uri": "https://web.archive.org/web/20220811071140/https://odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:47Z",
+        "uri": "https://wayback.archive-it.org/all/20220811071147/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:47Z",
+        "uri": "https://web.archive.org/web/20220811071147/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220811071153/http://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-08-11T07:11:53Z",
+        "uri": "https://web.archive.org/web/20220811071153/http://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-10-02T10:41:40Z",
+        "uri": "https://web.archive.org/web/20221002104140/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-11-07T05:50:01Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055001/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-11-07T05:50:01Z",
+        "uri": "https://web.archive.org/web/20221107055001/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-11-13T16:14:24Z",
+        "uri": "https://web.archive.org/web/20221113161424/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-11-16T04:57:23Z",
+        "uri": "https://arquivo.pt/wayback/20221116045723mp_/https://odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-11-18T18:19:09Z",
+        "uri": "https://web.archive.org/web/20221118181909/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-12-07T10:04:20Z",
+        "uri": "https://wayback.archive-it.org/all/20221207100420/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-12-07T10:04:20Z",
+        "uri": "https://web.archive.org/web/20221207100420/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2022-12-08T06:57:46Z",
+        "uri": "https://web.archive.org/web/20221208065746/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-01-07T09:16:32Z",
+        "uri": "https://wayback.archive-it.org/all/20230107091632/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-01-07T09:16:32Z",
+        "uri": "https://web.archive.org/web/20230107091632/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-01-24T20:05:02Z",
+        "uri": "https://arquivo.pt/wayback/20230124200502mp_/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-02-07T07:39:10Z",
+        "uri": "https://wayback.archive-it.org/all/20230207073910/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-02-07T07:39:10Z",
+        "uri": "https://web.archive.org/web/20230207073910/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-02-20T00:54:19Z",
+        "uri": "https://web.archive.org/web/20230220005419/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-03-07T04:43:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044330/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-03-07T04:43:30Z",
+        "uri": "https://web.archive.org/web/20230307044330/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-03-27T15:22:03Z",
+        "uri": "https://web.archive.org/web/20230327152203/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-03-27T22:32:55Z",
+        "uri": "https://web.archive.org/web/20230327223255/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-08-25T18:10:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181011/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-08-25T18:10:11Z",
+        "uri": "https://web.archive.org/web/20230825181011/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2023-11-28T03:54:22Z",
+        "uri": "https://web.archive.org/web/20231128035422/https://www.odu.edu/admission/returning-student"
+      },
+      {
+        "datetime": "2024-02-14T16:09:22Z",
+        "uri": "https://web.archive.org/web/20240214160922/https://www.odu.edu/admission/returning-student"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-15T04:25:39Z",
+      "uri": "https://web.archive.org/web/20220615042539/https://odu.edu/admission/returning-student"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:09:22Z",
+      "uri": "https://web.archive.org/web/20240214160922/https://www.odu.edu/admission/returning-student"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/admission/returning-student",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/admission/returning-student",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/admission/returning-student"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/admission/returning-student"
+}

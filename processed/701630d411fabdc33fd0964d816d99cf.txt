@@ -1,0 +1,56 @@
+to continue to build the community of people integrating
+  Web archiving & digital libraries
+to help attendees learn about useful methods, systems,
+  and software in this area
+to help chart future research and improved practice in this area
+to promote synergistic efforts including collaborative projects
+ and proposals
+to produce an archival publication that will help advance technology
+ and practice
+Workshop Co-chairs:
+Chair, Martin Klein, Los Alamos National Laboratory Research Library, mklein@lanl.gov ,
+Co-chair, Edward A. Fox, Professor and Director
+ Digital Library Research Laboratory, Virginia Tech, fox@vt.edu http://fox.cs.vt.edu ,
+Co-chair, Zhiwu Xie,
+ Professor, Director of
+ Digital Library Development, Virginia Tech Libraries, zhiwuxie@vt.edu ,
+Program Committee:
+Jefferson	Bailey	jefferson@archive.org	Internet Archive
+Justin Brunelle jbrunelle008@gmail.com	Old Dominion University
+Sumitra	Duncan	duncan@frick.org	Frick Art Reference Library
+Joshua	Finnell	joshfinnell@gmail.com	Colgate University
+Abbie	Grotke	abgr@loc.gov	Library of Congress
+Olga	Holownia	olga.holownia@bl.uk	British Library
+Gina	Jones	gjon@loc.gov	Library of Congress
+Lauren	Ko	lauren.ko@unt.edu	UNT Libraries
+Frank	McCown	fmccown@harding.edu	Harding University
+Michael	Nelson	mln@cs.odu.edu	Old Dominion University
+Nicholas	Taylor	ntay@stanford.edu	Stanford Libraries
+Other closely related events and results:
+Web Archiving and Digital Libraries (WADL'15), 24 June, at JCDL 2015,
+ see website and proceedings in a special issue of the IEEE TCDL Bulletin, V. 11,
+  Issue 2, Oct. 2015
+Working with Internet Archives for Research (WIRE 2014) NSF workshop,
+ 17-18 June 2014, Cambridge, MA – see http://wp.comminfo.rutgers.edu/nsfia/
+Web Archiving and Digital Libraries (WADL’13), 25-26 July, at JCDL 2013,
+ see http://www.ctrnet.net/sites/default/files/JCDL2013WorkshopWebArchiving20130603.pdf and report in SIGIR Forum http://sigir.org/files/forum/2013D/p128.pdf
+Web Archive Globalization Workshop, WAG 2011 – see http://cs.harding.edu/wag2011/ , with 4 organizers plus 5 presenters and
+ about 20 participants, held in Ottawa after JCDL 2011 (June 16-17)
+Ongoing
+ work by attendees in this area, growth in collaborative activity 
+involving the Internet Archive, and specific community building 
+successes like the Web Archive Cooperative – see http://infolab.stanford.edu/wac/
+Annual
+ meetings of the International Internet Preservation Consortium (IIPC), 
+ partner meetings of the Internet Archive (Archive-It), and ten workshops
+ held with ECDL/TPDL: International Web Archiving Workshop (IWAW), 
+ 2001-2010
+Submissions (please provide contact and supporting info in <= 2 pages):
+EasyChair submission page: https://easychair.org/conferences/?conf=wadl2018
+Due: April 2, 2018
+Please use the ACM Proceedings template .
+Categories: (pick one of the three and identify it in the submission)
+20 min. presentation + Q&A
+Poster/Demonstration  + lightning talk
+30 min. panel with interactive plenary discussion
+Copyright 2018 Edward A. Fox, Martin Klein, Zhiwu Xie

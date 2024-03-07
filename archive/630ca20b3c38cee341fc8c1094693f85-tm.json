@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 21:26:52.890723 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/ander-rogers-iii-600aa3119/": net/http: timeout awaiting response headers

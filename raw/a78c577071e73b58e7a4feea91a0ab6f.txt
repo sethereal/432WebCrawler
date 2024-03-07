@@ -1,0 +1,1863 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  <title>Shawn M. Jones | Researcher | Software Engineer</title>
+
+  <meta name='description' content="">
+  <meta name='image' content="https://www.shawnmjones.org/images/general/me_outside.jpg">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Shawn M. Jones | Researcher | Software Engineer">
+  <meta name="twitter:description" content="I am a Scientist at Los Alamos National Laboratory's Information Sciences Division. I worked as an ISTI Postdoctoral Fellow for Diane Oyen from late 2021 until 2024. I earned my PhD in Fall 2021 under the direction of Dr. Michael Nelson and Dr. Michele Weigle as a member of th...">
+  <meta name="twitter:image" content="https://www.shawnmjones.org/images/general/me_outside.jpg">
+
+  <meta property="og:title" content="Shawn M. Jones | Researcher | Software Engineer">
+  <meta property="og:description" content="I am a Scientist at Los Alamos National Laboratory's Information Sciences Division. I worked as an ISTI Postdoctoral Fellow for Diane Oyen from late 2021 until 2024. I earned my PhD in Fall 2021 under the direction of Dr. Michael Nelson and Dr. Michele Weigle as a member of th...">
+  <meta property="og:image" content="https://www.shawnmjones.org/images/general/me_outside.jpg">
+  <meta property="og:url" content="https://www.shawnmjones.org/">
+
+  <link rel="canonical" href="https://www.shawnmjones.org/">
+  <!-- <link rel="alternate" type="application/rss+xml" title="Shawn M. Jones | Researcher | Software Engineer" href="/feed.xml"> -->
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Domine:400,700" rel="stylesheet">
+
+  <!-- Ionicons -->
+  <!-- <link href="https://unpkg.com/ionicons@4.2.2/dist/css/ionicons.min.css" rel="stylesheet"> -->
+  <link href="/styles/ionicons.min.css" rel="stylesheet">
+  <link href="/styles/custom.css" rel="stylesheet">
+
+  <style>
+  
+  /*!------------------------------------------------------------------
+[MAIN STYLESHEET]
+-------------------------------------------------------------------*/.block{display:block}.inline-block{display:inline-block}.inline{display:inline}.show{display:block}.hide{display:none}.invisible{visibility:hidden}.list-reset{list-style-type:none;margin:0;padding:0}.clearfix::after,.clearfix ::before{content:"";display:table;clear:both}.screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px;word-wrap:normal !important}/*! normalize.css v8.0.0 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}h1{font-size:2em;margin:0.67em 0}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace, monospace;font-size:1em}a{background-color:transparent}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:bolder}code,kbd,samp{font-family:monospace, monospace;font-size:1em}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-0.25em}sup{top:-0.5em}img{border-style:none}button,input,optgroup,select,textarea{font-family:inherit;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,[type="button"],[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:0.35em 0.75em 0.625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{vertical-align:baseline}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details{display:block}summary{display:list-item}template{display:none}[hidden]{display:none}body,h1,h2,h3,h4,h5,h6,p,blockquote,pre,dl,dd,ol,ul,fieldset,legend,figure,hr{margin:0;padding:0}li>ul,li>ol{margin-bottom:0}table{border-collapse:collapse;border-spacing:0}h1,h2,h3,h4,h5,h6,ul,ol,dl,blockquote,p,address,hr,table,fieldset,figure,pre{margin-bottom:30px}ul,ol,dd{margin-left:20px}.highlight{background:#f8f8f8}.highlighter-rouge .highlight{background:#eef}.highlight .c{color:#998;font-style:italic}.highlight .err{color:#a61717;background-color:#e3d2d2}.highlight .k{font-weight:bold}.highlight .o{font-weight:bold}.highlight .cm{color:#998;font-style:italic}.highlight .cp{color:#999;font-weight:bold}.highlight .c1{color:#998;font-style:italic}.highlight .cs{color:#999;font-weight:bold;font-style:italic}.highlight .gd{color:#000;background-color:#fdd}.highlight .gd .x{color:#000;background-color:#faa}.highlight .ge{font-style:italic}.highlight .gr{color:#a00}.highlight .gh{color:#999}.highlight .gi{color:#000;background-color:#dfd}.highlight .gi .x{color:#000;background-color:#afa}.highlight .go{color:#888}.highlight .gp{color:#555}.highlight .gs{font-weight:bold}.highlight .gu{color:#aaa}.highlight .gt{color:#a00}.highlight .kc{font-weight:bold}.highlight .kd{font-weight:bold}.highlight .kp{font-weight:bold}.highlight .kr{font-weight:bold}.highlight .kt{color:#458;font-weight:bold}.highlight .m{color:#099}.highlight .s{color:#d14}.highlight .na{color:#008080}.highlight .nb{color:#0086B3}.highlight .nc{color:#458;font-weight:bold}.highlight .no{color:#008080}.highlight .ni{color:#800080}.highlight .ne{color:#900;font-weight:bold}.highlight .nf{color:#900;font-weight:bold}.highlight .nn{color:#555}.highlight .nt{color:#000080}.highlight .nv{color:#008080}.highlight .ow{font-weight:bold}.highlight .w{color:#bbb}.highlight .mf{color:#099}.highlight .mh{color:#099}.highlight .mi{color:#099}.highlight .mo{color:#099}.highlight .sb{color:#d14}.highlight .sc{color:#d14}.highlight .sd{color:#d14}.highlight .s2{color:#d14}.highlight .se{color:#d14}.highlight .sh{color:#d14}.highlight .si{color:#d14}.highlight .sx{color:#d14}.highlight .sr{color:#009926}.highlight .s1{color:#d14}.highlight .ss{color:#990073}.highlight .bp{color:#999}.highlight .vc{color:#008080}.highlight .vg{color:#008080}.highlight .vi{color:#008080}.highlight .il{color:#099}.container{max-width:1240px;padding-left:30px;padding-right:30px;margin:0 auto}.container-full{max-width:100%;padding-left:30px;padding-right:30px;margin:0 auto}.row{display:flex;flex-wrap:wrap;flex:0 1 auto;flex-direction:row;box-sizing:border-box;margin-left:-30px;margin-right:-30px}.col{padding-left:30px;padding-right:30px}[class^="col-"]{flex:auto}.col-0{width:0%}.col-1{width:8.3333333333%}.col-2{width:16.6666666667%}.col-3{width:25%}.col-4{width:33.3333333333%}.col-5{width:41.6666666667%}.col-6{width:50%}.col-7{width:58.3333333333%}.col-8{width:66.6666666667%}.col-9{width:75%}.col-10{width:83.3333333333%}.col-11{width:91.6666666667%}.col-12{width:100%}.push-0{margin-left:0%}.push-1{margin-left:8.3333333333%}.push-2{margin-left:16.6666666667%}.push-3{margin-left:25%}.push-4{margin-left:33.3333333333%}.push-5{margin-left:41.6666666667%}.push-6{margin-left:50%}.push-7{margin-left:58.3333333333%}.push-8{margin-left:66.6666666667%}.push-9{margin-left:75%}.push-10{margin-left:83.3333333333%}.push-11{margin-left:91.6666666667%}.push-12{margin-left:100%}.pull-0{margin-right:0%}.pull-1{margin-right:8.3333333333%}.pull-2{margin-right:16.6666666667%}.pull-3{margin-right:25%}.pull-4{margin-right:33.3333333333%}.pull-5{margin-right:41.6666666667%}.pull-6{margin-right:50%}.pull-7{margin-right:58.3333333333%}.pull-8{margin-right:66.6666666667%}.pull-9{margin-right:75%}.pull-10{margin-right:83.3333333333%}.pull-11{margin-right:91.6666666667%}.pull-12{margin-right:100%}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}@media (max-width: 992px){.col-d-0{width:0%}.col-d-1{width:8.3333333333%}.col-d-2{width:16.6666666667%}.col-d-3{width:25%}.col-d-4{width:33.3333333333%}.col-d-5{width:41.6666666667%}.col-d-6{width:50%}.col-d-7{width:58.3333333333%}.col-d-8{width:66.6666666667%}.col-d-9{width:75%}.col-d-10{width:83.3333333333%}.col-d-11{width:91.6666666667%}.col-d-12{width:100%}.push-d-0{margin-left:0%}.push-d-1{margin-left:8.3333333333%}.push-d-2{margin-left:16.6666666667%}.push-d-3{margin-left:25%}.push-d-4{margin-left:33.3333333333%}.push-d-5{margin-left:41.6666666667%}.push-d-6{margin-left:50%}.push-d-7{margin-left:58.3333333333%}.push-d-8{margin-left:66.6666666667%}.push-d-9{margin-left:75%}.push-d-10{margin-left:83.3333333333%}.push-d-11{margin-left:91.6666666667%}.push-d-12{margin-left:100%}.pull-d-0{margin-right:0%}.pull-d-1{margin-right:8.3333333333%}.pull-d-2{margin-right:16.6666666667%}.pull-d-3{margin-right:25%}.pull-d-4{margin-right:33.3333333333%}.pull-d-5{margin-right:41.6666666667%}.pull-d-6{margin-right:50%}.pull-d-7{margin-right:58.3333333333%}.pull-d-8{margin-right:66.6666666667%}.pull-d-9{margin-right:75%}.pull-d-10{margin-right:83.3333333333%}.pull-d-11{margin-right:91.6666666667%}.pull-d-12{margin-right:100%}}@media (max-width: 768px){.col-t-0{width:0%}.col-t-1{width:8.3333333333%}.col-t-2{width:16.6666666667%}.col-t-3{width:25%}.col-t-4{width:33.3333333333%}.col-t-5{width:41.6666666667%}.col-t-6{width:50%}.col-t-7{width:58.3333333333%}.col-t-8{width:66.6666666667%}.col-t-9{width:75%}.col-t-10{width:83.3333333333%}.col-t-11{width:91.6666666667%}.col-t-12{width:100%}.push-t-0{margin-left:0%}.push-t-1{margin-left:8.3333333333%}.push-t-2{margin-left:16.6666666667%}.push-t-3{margin-left:25%}.push-t-4{margin-left:33.3333333333%}.push-t-5{margin-left:41.6666666667%}.push-t-6{margin-left:50%}.push-t-7{margin-left:58.3333333333%}.push-t-8{margin-left:66.6666666667%}.push-t-9{margin-left:75%}.push-t-10{margin-left:83.3333333333%}.push-t-11{margin-left:91.6666666667%}.push-t-12{margin-left:100%}.pull-t-0{margin-right:0%}.pull-t-1{margin-right:8.3333333333%}.pull-t-2{margin-right:16.6666666667%}.pull-t-3{margin-right:25%}.pull-t-4{margin-right:33.3333333333%}.pull-t-5{margin-right:41.6666666667%}.pull-t-6{margin-right:50%}.pull-t-7{margin-right:58.3333333333%}.pull-t-8{margin-right:66.6666666667%}.pull-t-9{margin-right:75%}.pull-t-10{margin-right:83.3333333333%}.pull-t-11{margin-right:91.6666666667%}.pull-t-12{margin-right:100%}}@media (max-width: 576px){.col-m-0{width:0%}.col-m-1{width:8.3333333333%}.col-m-2{width:16.6666666667%}.col-m-3{width:25%}.col-m-4{width:33.3333333333%}.col-m-5{width:41.6666666667%}.col-m-6{width:50%}.col-m-7{width:58.3333333333%}.col-m-8{width:66.6666666667%}.col-m-9{width:75%}.col-m-10{width:83.3333333333%}.col-m-11{width:91.6666666667%}.col-m-12{width:100%}.push-m-0{margin-left:0%}.push-m-1{margin-left:8.3333333333%}.push-m-2{margin-left:16.6666666667%}.push-m-3{margin-left:25%}.push-m-4{margin-left:33.3333333333%}.push-m-5{margin-left:41.6666666667%}.push-m-6{margin-left:50%}.push-m-7{margin-left:58.3333333333%}.push-m-8{margin-left:66.6666666667%}.push-m-9{margin-left:75%}.push-m-10{margin-left:83.3333333333%}.push-m-11{margin-left:91.6666666667%}.push-m-12{margin-left:100%}.pull-m-0{margin-right:0%}.pull-m-1{margin-right:8.3333333333%}.pull-m-2{margin-right:16.6666666667%}.pull-m-3{margin-right:25%}.pull-m-4{margin-right:33.3333333333%}.pull-m-5{margin-right:41.6666666667%}.pull-m-6{margin-right:50%}.pull-m-7{margin-right:58.3333333333%}.pull-m-8{margin-right:66.6666666667%}.pull-m-9{margin-right:75%}.pull-m-10{margin-right:83.3333333333%}.pull-m-11{margin-right:91.6666666667%}.pull-m-12{margin-right:100%}}img[data-action="zoom"]{cursor:pointer;cursor:-webkit-zoom-in;cursor:-moz-zoom-in}.zoom-img,.zoom-img-wrap{position:relative;z-index:666;-webkit-transition:all 300ms;-o-transition:all 300ms;transition:all 300ms}img.zoom-img{cursor:pointer;cursor:-webkit-zoom-out;cursor:-moz-zoom-out}.zoom-overlay{z-index:420;background:#fff;position:fixed;top:0;left:0;right:0;bottom:0;pointer-events:none;opacity:0;-webkit-transition:opacity 300ms;-o-transition:opacity 300ms;transition:opacity 300ms}.zoom-overlay-open .zoom-overlay{opacity:1}.zoom-overlay-open,.zoom-overlay-transitioning{cursor:default}html{transition:margin-right 50ms}html.hide-scroll{margin-right:-14px;overflow:hidden}*,*::after,*::before{box-sizing:border-box}body{font-family:"Domine","Times New Roman",serif;font-size:16px;line-height:32px;color:#232527;background-color:#fff;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}body.is-in::after{visibility:hidden;opacity:0;pointer-events:none}body::after{content:"";position:fixed;left:0;top:0;width:100%;height:100%;background-color:#fff;z-index:15;transition:1s}body input,body textarea{border:1px solid #b7b9c2;outline:none}body input:focus:required:invalid,body textarea:focus:required:invalid{border-color:#e02f40}body input:required:valid,body textarea:required:valid{border-color:#34a74e}@media only screen and (max-width: 576px){body{font-size:16px;line-height:29px}}::placeholder{color:#666}*::selection{color:#232527;background-color:rgba(0,0,0,0.1)}h1,h2,h3,h4,h5,h6{font-family:"Domine","Times New Roman",serif;font-weight:700;line-height:1.3;color:#232527}h1{font-size:36px}h2{font-size:28px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}blockquote{padding-left:20px;font-size:21px;line-height:37px;font-weight:700;border-left:4px solid #3584f3;color:#232527}blockquote cite{font-size:16px;font-style:normal;color:#232527}blockquote cite:before{content:'\2014' '\00a0'}@media only screen and (max-width: 576px){blockquote{font-size:21px;line-height:31px}}pre{overflow:auto;padding:15px;margin-bottom:0;font-size:14px;white-space:pre-wrap;word-wrap:break-word;word-break:break-all}img,.zoom-img-wrap{max-width:100%;height:auto;vertical-align:middle}img+em,.zoom-img-wrap+em{display:block;margin-top:20px;font-size:12px;line-height:1;font-style:normal;font-weight:normal;text-align:center;color:#b7b9c2}a{text-decoration:none;color:#232527;transition:all 0.35s}a:hover{color:#3584f3}hr{display:block;height:1px;margin:50px 0;border:0;background:#f0f0f0}main.content{margin-top:160px}@media only screen and (max-width: 576px){main.content{margin-top:140px}}.gallery-box{margin-bottom:30px}.gallery-box em{display:block;margin-top:20px;font-size:12px;line-height:1;font-style:normal;font-weight:normal;text-align:center;color:#b7b9c2}.gallery-box em a{text-decoration:underline;color:#b7b9c2}.gallery-box em a:hover{color:#3584f3}.gallery{display:grid;grid-template-columns:repeat(3, auto);justify-content:center;align-content:center;grid-gap:10px}.gallery img{width:100%;height:auto}.top{position:fixed;bottom:40px;right:-100px;z-index:5;width:40px;height:40px;line-height:40px;text-align:center;border-radius:15px;background-color:#f0f0f0;color:#232527;cursor:pointer;transition:all .25s ease}.top.is-active{right:30px}@media only screen and (max-width: 768px){.top{bottom:25px}.top.is-active{right:25px}}.header{position:fixed;top:0;left:0;z-index:10;width:100%;height:auto;border-bottom:1px solid #f0f0f0;background-color:#fff;transition:all 0.35s;color:#232527}.header.is-hide{top:-80px}.header__inner{position:relative;display:flex;justify-content:space-between;align-items:center;min-height:80px}.header__overlay{position:fixed;top:0;right:0;bottom:0;left:0;z-index:10;background-color:rgba(17,17,17,0.7);cursor:pointer;opacity:0;visibility:hidden;transition:all 0.5s ease}.header__overlay.is-visible{opacity:1;visibility:visible}.logo__link{font-size:27px;line-height:33px;font-weight:700;color:inherit;transition:none}.logo__link:hover{color:#232527}.logo__image{max-height:50px}.main-nav{width:100%;max-width:1300px;margin:0 auto}.main-nav__box{display:flex;align-items:center;width:80%;padding-top:90px;margin:0 auto}.main-nav__box .nav__icon-close{position:absolute;top:20px;right:40px;z-index:5;display:flex;align-items:center;justify-content:center;font-size:27px;width:40px;height:40px;text-align:center;line-height:40px;color:#232527;transition:all .25s ease;cursor:pointer}.main-nav__box .nav__icon-close:hover{transform:rotate(90deg)}@media only screen and (max-width: 768px){.main-nav__box .nav__icon-close{top:25px;right:30px}}.navigation{display:flex;align-items:center}.top-nav{margin-right:30px}.top-nav .nav__list .nav__item{display:inline-block;margin-right:20px}.top-nav .nav__list .nav__item:last-child{margin-right:0}.top-nav .nav__list .nav__item .nav__link{position:relative;font-size:13px;line-height:23px;text-transform:uppercase;color:#232527}.top-nav .nav__list .nav__item .nav__link:hover{color:#3584f3}@media only screen and (max-width: 992px){.top-nav{display:none}}.left-nav .nav__list .nav__item{display:block;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid #f0f0f0}.left-nav .nav__list .nav__item:last-child{margin-bottom:0}.left-nav .nav__list .nav__item .nav__link{position:relative;font-size:14px;line-height:24px;text-transform:uppercase;color:#232527}.left-nav .nav__list .nav__item .nav__link:hover{color:#3584f3}@media only screen and (max-width: 576px){.left-nav .nav__list .nav__item{margin-bottom:10px}}.nav-buttons{display:flex;align-items:center;font-size:24px;color:inherit}.nav-buttons .nav__icon{cursor:pointer}.nav-buttons .nav__icon:first-child{margin-right:15px}.menu-overlay{position:fixed;top:0;right:-500px;bottom:0;width:500px;z-index:100;background-color:#fff;transition:all 0.5s cubic-bezier(0.7, 0.4, 0, 1)}.menu-overlay.is-open{right:0}@media only screen and (max-width: 576px){.menu-overlay{right:-90%;width:90%}}.nav-grid{width:100%;height:85vh;overflow-y:auto}.nav-grid__item{margin-bottom:60px}.nav-grid__item:first-child{display:none}@media only screen and (max-width: 992px){.nav-grid__item:first-child{display:block}}.nav-grid__item:last-child{margin-bottom:30px}@media only screen and (max-width: 768px){.nav-grid__item{height:auto}}.nav-grid__title{position:relative;margin-bottom:20px;padding-bottom:15px;font-size:21px;font-weight:700}.nav-grid__title::after{content:"";position:absolute;bottom:0;transform:translateY(-50%);display:block;width:25px;height:2px;background-color:#232527}@media only screen and (max-width: 768px){.nav-grid__title{margin-bottom:30px}}.nav-grid__item .newsletter-title,.nav-grid__item .newsletter-subtitle{text-align:left}.nav-grid__item .newsletter-subtitle{max-width:100%;margin:0 0 25px}.avatar{margin-bottom:10px}.avatar__image{position:relative;display:inline-block;width:100%;height:100%;min-height:240px;border-radius:5px;background-size:cover;background-position:center;background-repeat:no-repeat}.avatar__image:hover::after{opacity:1;visibility:visible}.avatar__image::after{content:"";display:block;position:absolute;top:0;left:0;width:100%;height:100%;border-radius:15px;background-color:rgba(255,255,255,0.1);pointer-events:none;transition:.3s ease-in-out;opacity:0;visibility:hidden}.author-bio{margin-bottom:10px;font-size:16px}.author-btn{position:relative;display:inline-block;font-size:12px;line-height:1;letter-spacing:1px;text-transform:uppercase}.author-btn::after{content:'';position:absolute;top:50%;right:-18%;transform:translateY(-50%);z-index:-1;display:block;width:40px;height:40px;border-radius:50%;border:4px solid #f0f0f0;transition:all .2s}.author-btn:hover{color:#3584f3}.widget-story{display:flex;justify-content:space-between;flex-wrap:wrap;width:100%}@media only screen and (max-width: 768px){.widget-story{height:auto}}.widget-story__posts{width:calc(50% - 10px);margin-bottom:20px}.widget-story__title{margin:10px 0 0;font-size:14px}.widget-story__title a{color:#232527}.widget-story__title a:hover{color:#3584f3}.widget-story__image{position:relative;display:block;border-radius:5px;background-size:cover;background-position:center;background-repeat:no-repeat}.widget-story__image:hover:before{opacity:1;visibility:visible}.widget-story__image::after{content:"";display:table;padding-top:65%}.widget-story__image:before{content:"";display:block;position:absolute;top:0;left:0;width:100%;height:100%;border-radius:5px;transition:300ms ease-in-out;background-color:rgba(255,255,255,0.1);opacity:0;visibility:hidden}.search{position:fixed;top:0;right:-500px;bottom:0;width:500px;z-index:100;background-color:#fff;transition:all 0.5s cubic-bezier(0.7, 0.4, 0, 1)}.search.is-visible{right:0}@media only screen and (max-width: 576px){.search{right:-90%;width:90%}}.search__box{width:90%;margin:0 auto;padding-top:200px}@media only screen and (max-width: 768px){.search__box{width:80%;padding-top:100px}}@media only screen and (max-width: 576px){.search__box{width:100%;padding-top:100px}}.search__group{position:relative;margin-bottom:30px}.search__group .search__close{position:absolute;top:0;right:0;z-index:5;display:flex;align-items:center;justify-content:center;font-size:27px;width:20px;text-align:center;color:#232527;transition:all .25s ease;cursor:pointer}.search__group .search__close:hover{transform:rotate(90deg)}.search__group .search__text{width:100%;height:auto;padding:0 20px 15px 0;font-size:27px;font-weight:700;line-height:1;border:0;border-bottom:1px solid #f0f0f0;color:#232527}.search__group .search__text::-webkit-input-placeholder{font-weight:700;color:#232527}.search__group .search__text::placeholder{font-weight:700;color:#232527}.search__group .search__text::-ms-clear{display:none}@media only screen and (max-width: 576px){.search__group .search__text{font-size:30px}}.search-results-list{height:55vh;padding:0 0 25px 0;font-weight:700;color:#232527;overflow:auto;white-space:normal}.search-results-list .search-results__item{display:flex;align-items:center;padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #f0f0f0}.search-results-list .search-results__image{position:relative;display:inline-block;margin-right:15px;min-width:80px;height:80px;border-radius:5px;background-size:cover;background-color:#f0f0f0;background-position:center;background-repeat:no-repeat}.search-results-list .search-results__image:hover::after{opacity:1;visibility:visible}.search-results-list .search-results__image::after{content:"";display:block;position:absolute;left:0;top:0;width:100%;height:100%;border-radius:5px;transition:300ms ease-in-out;background-color:rgba(255,255,255,0.1);opacity:0;visibility:hidden}.search-results-list .search-results__link{display:block;font-size:16px;line-height:24px;font-weight:700}.search-results-list .search-results__link:hover{color:#3584f3}.search-results-list .search-results-date{font-size:11px;line-height:1;font-weight:700;text-transform:uppercase;color:#b7b9c2}.search-results-list .no-results{margin-left:-10px;list-style:none}.search-results-list .no-results h3{font-size:18px}.load-more-section{margin:20px 0;text-align:center}.load-more-section button i{margin-left:5px}@media only screen and (max-width: 576px){.load-more-section{margin:0}}.footer-widgets{margin-top:60px}.widgets-box{position:relative;padding:50px 0;border-top:1px solid #f0f0f0;border-bottom:1px solid #f0f0f0}.widgets-box::before{content:'';position:absolute;top:-1px;left:0;display:block;width:30px;height:1px;background-color:#232527}.widgets-box::after{content:'';position:absolute;bottom:-1px;left:0;display:block;width:30px;height:1px;background-color:#232527}.widget__title{position:relative;padding:15px 0;margin-bottom:30px;font-size:14px;text-align:center;letter-spacing:1.3px;text-transform:uppercase;background-color:#f0f0f0}@media only screen and (max-width: 992px){.widget{margin-bottom:60px}}@media only screen and (max-width: 576px){.widget{margin-bottom:50px}}.recent-posts{position:relative;display:flex;margin-left:4px;margin-bottom:25px}.recent-posts:last-child{margin-bottom:0}.recent-posts:hover .recent-posts__count{color:#3584f3}.recent-posts__header{margin-right:15px}.recent-posts__image{position:relative;display:block;margin-right:15px;min-width:80px;height:80px;border-radius:5px;background-size:cover;background-position:center;background-repeat:no-repeat}.recent-posts__image:hover::after{opacity:1;visibility:visible}.recent-posts__image::before{content:"";position:absolute;top:-4px;left:-4px;z-index:-1;display:block;width:88px;height:88px;border:1px solid #f0f0f0;border-radius:5px}.recent-posts__image::after{content:"";display:block;position:absolute;left:0;top:0;width:100%;height:100%;border-radius:5px;transition:300ms ease-in-out;background-color:rgba(255,255,255,0.1);opacity:0;visibility:hidden}.recent-posts__title{margin-bottom:0;font-size:16px;line-height:24px}.recent-posts__date{margin-bottom:5px;font-size:12px;line-height:16px;letter-spacing:-0.2px;text-transform:uppercase;color:#b7b9c2}.recent-posts__count{position:absolute;top:-12px;left:-4px;display:block;width:25px;height:25px;font-size:12px;line-height:25px;text-align:center;border-radius:50%;color:#232527;background-color:#fff;box-shadow:0 2px 4px rgba(0,0,0,0.15);transition:350ms}@media only screen and (max-width: 992px){.widget-newsletter{margin-bottom:0}}.newsletter-title{margin:0 0 15px;font-size:21px;line-height:1;text-align:center}.newsletter-subtitle{max-width:290px;width:100%;margin:0 auto 25px;font-size:14px;line-height:24px;text-align:center}.newsletter-email{position:relative;width:100%;height:50px;margin:0 0 25px;padding:8px 15px;font-size:13px;text-align:center;line-height:30px;color:#959595;background-color:#fff;border:1px solid #c6c6c6;border-radius:3px;outline:0;-webkit-appearance:none;box-sizing:border-box;transition:border-color .2s ease-in-out;cursor:text}.newsletter-email::placeholder{font-size:12px;text-transform:uppercase}.newsletter-email:focus{color:#232527;border-color:#3584f3}.footer{position:relative;margin:50px 0}.footer .footer__inner{display:flex;flex-direction:column;align-items:center}@media only screen and (max-width: 768px){.footer .footer__inner{flex-direction:column}}.copyright{font-size:12px;text-align:center;color:#232527}.copyright a{color:#232527}.copyright a:hover{color:#3584f3}.contact{text-align:center}.contact .contact__item{display:inline-block;margin-left:20px}.contact .contact__item:first-child{margin-left:0}.contact .contact__link{font-size:18px;line-height:30px;color:#232527}.contact .contact__link:hover{color:#3584f3}@media only screen and (max-width: 768px){.contact .contact__item{margin-left:15px}}.button{display:inline-block;padding:0 1.8rem;font-size:12px;letter-spacing:1.3px;font-weight:700;white-space:nowrap;vertical-align:middle;border:none;border-radius:3px;outline:none;-webkit-appearance:none;text-align:center;text-decoration:none;text-transform:uppercase;color:#fff;transition:all 0.2s ease;cursor:pointer}.button--primary{height:50px;font-size:12px;font-weight:700;line-height:50px;color:#fff !important;background-color:#232527}.button--primary:hover{background-color:#1d75f2}.button--brand{border-radius:5px;background-color:#3584f3}.button--brand:hover{background-color:#277bf2}.button--middle{height:50px;width:100%;max-width:280px;line-height:50px;font-weight:700}.button--big{display:block;width:100%}.button--dark{background-color:#232527}.button--dark:hover{background-color:#3584f3}.article{flex-grow:1;margin-bottom:60px;animation:animateElement cubic-bezier(0.3, 0.45, 0.45, 0.95) 0.75s;animation-duration:0.75s;animation-iteration-count:1}@keyframes animateElement{0%{opacity:0;transform:translate(0px, 50px)}100%{opacity:1;transform:translate(0px, 0px)}}.article.article--first{display:flex;align-items:center;margin-bottom:60px;animation:none}.article.article--first .article__image{order:2;width:66.666%;padding-top:41%;margin-left:30px}.article.article--first .article__content{order:1;width:33.333%;padding-right:30px}.article.article--first .article__content .article__title{margin:15px 0;font-size:36px;line-height:56px}@media only screen and (max-width: 992px){.article.article--first{flex-direction:column;align-items:normal}.article.article--first .article__image{order:0;width:100%;padding-top:55%;margin-left:0}.article.article--first .article__content{order:1;width:100%;padding-right:0;margin-top:20px}.article.article--first .article__content .article__title{font-size:31px;line-height:51px}}@media only screen and (max-width: 1100px){.article.article--first .article__content .article__title{font-size:33px;line-height:53px}}@media only screen and (max-width: 576px){.article.article--first .article__image{padding-top:75%}.article.article--first .article__content{margin-top:25px}.article.article--first .article__content .article__title{margin:10px 0;font-size:26px;line-height:36px}}.article__title{margin:10px 0;font-size:21px;line-height:28px;letter-spacing:-0.5px}@media only screen and (max-width: 576px){.article__title{font-size:26px;line-height:36px}}.article__image{position:relative;display:inline-block;width:100%;padding-top:75%;border-radius:5px;overflow:hidden}.article__image:hover:after{transition:.4s ease-in-out;opacity:1;visibility:visible}.article__image:after{content:"";display:block;position:absolute;top:0;left:0;width:100%;height:100%;border-radius:15px;background-color:rgba(255,255,255,0.1);pointer-events:none;transition:300ms ease-in-out;opacity:0;visibility:hidden}.article__image img{position:absolute;top:0;width:100%;height:100%;object-fit:cover}.article__content{margin-top:15px}.article__excerpt{margin-bottom:20px;font-size:14px;line-height:24px}.article__meta{display:flex;align-items:center;margin-bottom:10px;line-height:initial;color:#f0f0f0}.article__meta .article-tags__box{display:flex}.article__meta .article__tag,.article__meta .article__date{flex-grow:1;font-size:12px;text-transform:uppercase;letter-spacing:-0.2px;color:#b7b9c2}.article__meta .article__tag:hover{color:#3584f3}.article__meta .article__tag::after{content:",";margin-right:2px;display:inline-block}.article__meta .article__tag:last-child:after{content:"";position:relative;bottom:0.25rem;display:inline-block;height:3px;width:3px;margin:0 .5rem 0 .5rem;border-radius:50%;background-color:#b7b9c2}.article__bottom{display:flex;justify-content:space-between}.article__bottom .article__share .share__item{display:inline-block;margin-left:10px}.article__bottom .article__share .share__link{font-size:16px}.article__bottom .article__share .share__facebook i{color:#3b5999}.article__bottom .article__share .share__twitter i{color:#55acee}.article__bottom .article__share .share__pinterest i{color:#bd081c}.read-more{position:relative;display:inline-block;font-size:12px;line-height:1;letter-spacing:1px;text-transform:uppercase;color:#232527}.read-more::after{content:'';position:absolute;top:50%;right:-18%;transform:translateY(-50%);z-index:-1;display:block;width:40px;height:40px;border-radius:50%;border:4px solid #f0f0f0;transition:all 200ms}.post{position:relative;padding:50px 50px 0 50px;margin-top:-70px;border-radius:5px;background-color:#fff;animation:animateElement cubic-bezier(0.3, 0.45, 0.45, 0.95) 0.75s;animation-duration:0.75s;animation-iteration-count:1}@keyframes animateElement{0%{opacity:0;transform:translate(0px, 50px)}100%{opacity:1;transform:translate(0px, 0px)}}@media only screen and (max-width: 992px){.post{padding:0;margin-top:0;border-radius:0}}.post-image{position:absolute;top:0;width:100%;height:100%;border-radius:5px;object-fit:cover}.image-box{position:relative;padding-top:45%}@media only screen and (max-width: 992px){.image-box{padding-top:65%;margin-bottom:30px}}@media only screen and (max-width: 576px){.image-box{padding-top:100%}}.post-info{display:flex;justify-content:center;align-items:center;line-height:12px;margin-bottom:20px}@media only screen and (max-width: 576px){.post-info{margin-bottom:10px}}.post-tags .post-tags__tag,.post-date{font-size:12px;text-transform:uppercase;letter-spacing:-0.2px;color:#b7b9c2}.post-tags .post-tags__tag:hover{color:#3584f3}.post-tags .post-tags__tag:after{content:",";display:inline-block}.post-tags .post-tags__tag:last-child:after{content:"";position:relative;bottom:0.25rem;display:inline-block;height:3px;width:3px;margin:0 .5rem 0 .5rem;border-radius:50%;background-color:#b7b9c2}.post-head{max-width:600px;margin:0 auto}@media only screen and (max-width: 576px){.post-head{max-width:100%}}.post-title{font-size:37px;line-height:57px;margin-bottom:20px;text-align:center}@media only screen and (max-width: 768px){.post-title{font-size:26px;line-height:36px;margin-bottom:20px}}.post__share{display:flex;align-items:center}.post__share .share__title{font-size:12px;font-weight:700;line-height:initial;text-transform:uppercase;letter-spacing:1.3px}.post__share .share__list{position:relative;display:flex;width:100%;align-items:center;margin-left:10px}.post__share .share__list:after{content:"";position:absolute;top:50%;right:0;transform:translateY(-50%);display:block;width:calc(100% - 145px);height:1px;background:#f0f0f0}.post__share .share__list .share__item{display:inline-block;margin:0 10px;line-height:0}.post__share .share__list .share__link{display:inline-block;font-size:17px;transition:all .2s}.post__share .share__list .share__link.share__facebook{color:#3b5998}.post__share .share__list .share__link.share__twitter{color:#55acee}.post__share .share__list .share__link.share__linkedin{color:#0077b5}.post__share .share__list .share__link.share__pinterest{color:#bd081c}.post-author{display:flex;padding:50px 0;margin-bottom:60px;border-bottom:1px solid #f0f0f0}.post-author .post-author__image{position:relative;display:block;min-width:110px;height:110px;margin-right:20px;border-radius:15px;text-decoration:none;background-size:cover;background-position:center;background-repeat:no-repeat;background-color:#b7b9c2}.post-author .post-author__image:hover::after{opacity:1;visibility:visible}.post-author .post-author__image::after{content:"";display:block;position:absolute;left:0;top:0;width:100%;height:100%;border-radius:15px;transition:300ms ease-in-out;background-color:rgba(255,255,255,0.1);opacity:0;visibility:hidden}.post-author .post-author__name{display:inline-block;margin-bottom:10px;font-size:18px;line-height:18px;font-weight:700}.post-author .post-author__bio{font-size:16px;line-height:24px;margin-bottom:10px}.post-author .post-author__meta{line-height:initial}.post-author .post-author__link{margin-right:10px;font-size:12px;line-height:1;color:#b7b9c2}.post-author .post-author__link:hover{color:#3584f3}.post-author .post-author__link:last-child{margin-right:0}@media only screen and (max-width: 576px){.post-author{flex-direction:column;align-items:center;text-align:center}.post-author .post-author__image{margin-right:0}.post-author .post-author__image,.post-author .post-author__name,.post-author .post-author__bio{margin-bottom:15px}}.show-comments{text-align:center}.page{position:relative;padding:50px 50px 0 50px;margin-top:-70px;border-radius:5px;background-color:#fff;animation:animateElement cubic-bezier(0.3, 0.45, 0.45, 0.95) 0.75s;animation-duration:0.75s;animation-iteration-count:1}@keyframes animateElement{0%{opacity:0;transform:translate(0px, 50px)}100%{opacity:1;transform:translate(0px, 0px)}}@media only screen and (max-width: 992px){.page{padding:0;margin-top:0;border-radius:0}}.page-title{font-size:37px;line-height:57px;margin-bottom:20px;text-align:center}@media only screen and (max-width: 768px){.page-title{font-size:27px;line-height:37px;margin-bottom:20px}}.page-image{position:absolute;top:0;width:100%;height:100%;border-radius:5px;object-fit:cover}.image-box{position:relative;padding-top:45%}@media only screen and (max-width: 992px){.image-box{padding-top:65%;margin-bottom:30px}}@media only screen and (max-width: 576px){.image-box{padding-top:100%}}.archive-box{margin:0 0 50px;text-align:center}.archive-title{position:relative;margin:0;padding-bottom:20px;font-size:47px;line-height:57px}.archive-title::after{content:"";position:absolute;bottom:0;left:50%;transform:translate(-50%, -50%);display:block;width:10px;height:2px;background-color:#232527}@media only screen and (max-width: 576px){.archive-title{font-size:40px;line-height:52px}}
+
+  </style>
+  <style>
+    a {
+      text-decoration: underline;
+    }
+
+    a.article__tag {
+      text-decoration: none;
+    }
+
+    a.title_link{
+      text-decoration: none;
+    }
+  </style>
+  
+</head>
+
+
+<body>
+  
+
+  <!-- begin header -->
+<header class="header">
+  <div class="container">
+    <div class="row">
+      <div class="header__inner col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+
+      <div class="logo">
+        <a class="logo__link title_link" href="/">
+        
+          Shawn M. Jones
+          <br>
+          
+<!-- <style>
+  .social_logo {
+    width:100%;
+    background-image: url(/images/general/orcid-logo.svg);
+    background-size: cover;
+    height: 0;
+    padding: 0; /* reset */
+    padding-bottom: calc(100% * 3 / 4);
+  }
+  .social_logo:hover {
+    filter: invert(47%) sepia(71%) saturate(3661%) hue-rotate(200deg) brightness(99%) contrast(93%);
+  }
+</style> -->
+<div class="contact">
+  <ul class="contact__list list-reset">
+    <li class="contact__item" style="margin-left: 0px;">
+      <a rel="me" class="contact__link" href="https://hachyderm.io/@shawnmjones" title="Mastodon">
+        <img width="16px" class="ion" src="/images/general/logo-mastodon.svg">
+      </a>
+    </li>
+    <li class="contact__item">
+      <a class="contact__link" href="https://bsky.app/profile/shawnmjones.org" title="Bluesky">
+        <img width="16px" class="ion" src="/images/general/logo-bluesky.png">
+      </a>
+    </li>
+    <li class="contact__item">
+      <a class="contact__link" href="https://www.threads.net/@shawnmjones" title="Threads">
+        <img width="16px" class="ion" src="/images/general/logo-threads.svg">
+      </a>
+    </li>
+
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://twitter.com/shawnmjones" title="Twitter"><i class="ion ion-logo-twitter"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://github.com/shawnmjones" title="GitHub"><i class="ion ion-logo-github"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://www.linkedin.com/in/shawnmorganjones" title="LinkedIn"><i class="ion ion-logo-linkedin"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en" title="Google Scholar"><i class="ion ion-md-school"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://orcid.org/0000-0002-4372-870X" title="ORCID">
+        <!-- <i class="social_logo" style="height: 100px;"></i> -->
+      <img width="16px" src="/images/general/orcid-logo.svg">
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+        
+        </a>
+      </div>
+        
+      <div class="menu-overlay">
+        <nav class="main-nav">
+          <div class="main-nav__box">
+            <div class="nav__icon-close">
+              <i class="ion ion-md-close"></i>
+            </div>
+            <div class="nav-grid">
+
+              <div class="nav-grid__item">
+                <h2 class="nav-grid__title">Menu</h2>
+                <div class="left-nav">
+                  <ul class="nav__list list-reset">
+  <!-- <li class="nav__item">
+    <a href="/" class="nav__link">Home</a>
+  </li> -->
+  <!-- 
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/about/" class="nav__link">About Shawn M. Jones</a>
+      </li>
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/cv-resume/" class="nav__link">Shawn M. Jones -- Curriculum Vitae/Resume</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/software-projects/" class="nav__link">Shawn M. Jones - Software Projects</a>
+      </li>
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/styleguide/" class="nav__link">Style Guide</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+   -->
+  <li class="nav__item">
+    <a href="/tag/blog-post/" class="nav__link title_link">Blog Posts</a>
+  </li>
+  <li class="nav__item">
+    <a href="/tag/publication/" class="nav__link title_link">Publications</a>
+  </li>
+  <li class="nav__item">
+    <a href="/tag/presentation/" class="nav__link title_link">Presentations</a>
+  </li>
+  <li class="nav__item">
+    <a href="/software-projects/" class="nav__link title_link">Software Projects</a>
+  </li>
+  <li class="nav__item">
+    <!-- <a href="/downloads/cv/shawnmjones-cv-full.pdf" class="nav__link title_link">CV/Resume</a> -->
+    <a href="/cv-resume/" class="nav__link title_link">CV/Resume</a>
+  </li>
+  <li class="nav__item">
+    <a href="/about/" class="nav__link title_link">About</a>
+  </li>
+</ul>
+
+                </div>
+              </div>
+
+              <div class="nav-grid__item">
+                <h2 class="nav-grid__title">Shawn M. Jones, PhD</h2>
+                <div class="widget-about">
+                  <div class="avatar"><a href="/about" class="avatar__image"
+                      style="background-image: url(/images/general/me_outside.jpg)"></a></div>
+                  <p class="author-bio">I am a Scientist at Los Alamos National Laboratory's Information Sciences Division. I worked as an ISTI Postdoctoral Fellow for Diane Oyen from late 2021 until 2024. I earned my PhD in Fall 2021 under the direction of Dr. Michael Nelson and Dr. Michele Weigle as a member of the Web Science and Digital Libraries Research Group at Old Dominion University. At the same time I worked as a Graduate Research Assistant for Dr. Martin Klein as a member of the Los Alamos National Laboratory's Research Library Prototyping Team.</p>
+                  <a href="/about" class="author-btn">Read more <i class="ion ion-ios-arrow-forward"></i></a>
+                </div>
+              </div>
+
+              <div class="nav-grid__item">
+                <h2 class="nav-grid__title">Recent Posts</h2>
+                <div class="widget-story">
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/2023/11/07/deeppatent2/">DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding</a></h6>
+                      </div>
+                    </div>
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/2023/09/26/lessons-from-mining-web-archives/">Synthesizing Web Archive Collections Into Big Data: Lessons From Mining Data From Web Archives</a></h6>
+                      </div>
+                    </div>
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/2023/07/03/tweb/">Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars</a></h6>
+                      </div>
+                    </div>
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/2023/06/26/flatten-the-curve/">Discovering Image Usage Online: A Case Study With "Flatten the Curve"</a></h6>
+                      </div>
+                    </div>
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/external/blog-posts/2022-12-23-eccv-2022-and-dira-2022-trip-report">ECCV 2022 and DIRA 2022 Trip Report</a></h6>
+                      </div>
+                    </div>
+                  
+                    <div class="widget-story__posts">
+                      
+                      <div class="widget-story__content">
+                        <h6 class="widget-story__title"><a href="/2022/10/24/abstract-images-search-engine/">Abstract Images Have Different Levels of Retrievability Per Reverse Image Search Engine</a></h6>
+                      </div>
+                    </div>
+                  
+                </div>
+              </div>
+
+              
+
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <div class="navigation">
+        <div class="top-nav">
+          <ul class="nav__list list-reset">
+  <!-- <li class="nav__item">
+    <a href="/" class="nav__link">Home</a>
+  </li> -->
+  <!-- 
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/about/" class="nav__link">About Shawn M. Jones</a>
+      </li>
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/cv-resume/" class="nav__link">Shawn M. Jones -- Curriculum Vitae/Resume</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/software-projects/" class="nav__link">Shawn M. Jones - Software Projects</a>
+      </li>
+      
+    
+  
+    
+      
+      <li class="nav__item">
+        <a href="/styleguide/" class="nav__link">Style Guide</a>
+      </li>
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+   -->
+  <li class="nav__item">
+    <a href="/tag/blog-post/" class="nav__link title_link">Blog Posts</a>
+  </li>
+  <li class="nav__item">
+    <a href="/tag/publication/" class="nav__link title_link">Publications</a>
+  </li>
+  <li class="nav__item">
+    <a href="/tag/presentation/" class="nav__link title_link">Presentations</a>
+  </li>
+  <li class="nav__item">
+    <a href="/software-projects/" class="nav__link title_link">Software Projects</a>
+  </li>
+  <li class="nav__item">
+    <!-- <a href="/downloads/cv/shawnmjones-cv-full.pdf" class="nav__link title_link">CV/Resume</a> -->
+    <a href="/cv-resume/" class="nav__link title_link">CV/Resume</a>
+  </li>
+  <li class="nav__item">
+    <a href="/about/" class="nav__link title_link">About</a>
+  </li>
+</ul>
+
+        </div>
+        <div class="nav-buttons">
+          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
+          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
+        </div>
+      </div>
+
+      </div>
+    </div>
+  </div>
+  <div class="header__overlay"></div>
+</header>
+<!-- end header -->
+
+<div class="search">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="search__box">
+          <div class="search__group">
+            <div class="search__close">
+              <i class="ion ion-md-close"></i>
+            </div>
+            <label for="js-search-input" class="screen-reader-text">Search for Blog</label>
+            <input type="text" id="js-search-input" class="search__text" autocomplete="off" placeholder="Type to search...">
+          </div>
+          <div id="js-results-container" class="search-results-list"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <!-- begin content -->
+  <main class="content" aria-label="Content">
+    <div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
+      <div class="container__inner">
+        <div class="contaniner__inner-box">
+          <div class="row grid">
+            
+            <div class="article col col-12 article--first grid__post">
+              <a class="article__image" href="images/general/me_presenting-frontpage.jpeg">
+                <img src="images/general/me_presenting-frontpage.jpeg" alt="Me presenting at CEDWARC 2019">
+              </a>
+              <div class="article__content">
+                <!-- <div class="article_meta"></div> -->
+                <!-- <h1>
+                  Shawn M. Jones, PhD
+                </h1> -->
+                <div> 
+                <!-- style="height: 32px"> -->
+                  <ul>
+                    <li style="font-size: 18pt;">Researcher</li>
+                    <li style="font-size: 18pt;">Software Engineer</li>
+                    <li style="font-size: 18pt;">Cat Parent</li>
+                    <li style="font-size: 18pt;">Child of the '80s</li>
+                    <li style="font-size: 18pt;"><a href="/about/" class="title_link">and more...</a></li>
+                  </ul>
+                </div>
+              <div class="article__bottom">
+                <div class="article__btn">
+                  <!-- <a href="/about/" class="read-more">Learn more<i class="ion ion-ios-arrow-forward"></i></a> -->
+                </div>
+              </div>
+            </div>
+                      
+            </div> 
+            
+            
+              
+                
+                <!-- <div class="article col col-12 article--first grid__post"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1038/s41597-023-02653-7">
+    
+      <img src="/images/post-specific/publications/deeppatent2-thumbnail.png" alt="DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/journal-article" class="article__tag" style="color: #232527;">journal-article</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2023-11-07T00:00:00-07:00">Nov 7, 2023</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://www.nature.com/sdata" target="_blank" title="Nature Scientific Data" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        Nature Scientific Data
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1038/s41597-023-02653-7"  class="title_link">DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Kehinde Ajayi, Xin Wei, Martin Gryder, Winston Shields, Jian Wu, Shawn M. Jones, Michal Kucer, and Diane Oyen</p>
+    
+    <p class="article__excerpt">Recent advances in computer vision (CV) and natural language processing have been driven by exploiting big data on practical applications. However, these research fields are still limited by the sheer volume, versatility, and diversity of the available datasets. CV tasks, such...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1038/s41597-023-02653-7" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2023/11/07/deeppatent2/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1038/s41597-023-02653-7"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=DeepPatent2:%20A%20Large-Scale%20Benchmarking%20Corpus%20for%20Technical%20Drawing%20Understanding+by+@shawnmjones&url=https://doi.org/10.1038/s41597-023-02653-7"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1038/s41597-023-02653-7&amp;media=https://www.shawnmjones.org/images/post-specific/publications/deeppatent2-thumbnail.png&amp;description=DeepPatent2:%20A%20Large-Scale%20Benchmarking%20Corpus%20for%20Technical%20Drawing%20Understanding"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/11/07/deeppatent2/&amp;media=https://www.shawnmjones.org&amp;description=DeepPatent2:%20A%20Large-Scale%20Benchmarking%20Corpus%20for%20Technical%20Drawing%20Understanding"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1007/978-3-031-43849-3_19">
+    
+      <img src="/images/post-specific/publications/tpdl2023-table-sm.png" alt="Synthesizing Web Archive Collections Into Big Data: Lessons From Mining Data From Web Archives" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/conference-paper" class="article__tag" style="color: #232527;">conference-paper</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2023-09-26T00:00:00-06:00">Sep 26, 2023</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://tpdl2023.dei.unipd.it" target="_blank" title="The 27th International Conference on Theory and Practice of Digital Libraries" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        TPDL 2023
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1007/978-3-031-43849-3_19"  class="title_link">Synthesizing Web Archive Collections Into Big Data: Lessons From Mining Data From Web Archives</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Shawn M. Jones, Himarsha Jayanetti, Martin Klein, Michele C. Weigle, and Michael L. Nelson</p>
+    
+    <p class="article__excerpt">Web archives are sources of big data. When presenting human visitors with archived web pages, or mementos, web archives often apply user interface augmentations to assist them. Unfortunately, these augmentations present challenges for natural language processing, computer visi...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1007/978-3-031-43849-3_19" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2023/09/26/lessons-from-mining-web-archives/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1007/978-3-031-43849-3_19"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Synthesizing%20Web%20Archive%20Collections%20Into%20Big%20Data:%20Lessons%20From%20Mining%20Data%20From%20Web%20Archives+by+@shawnmjones&url=https://doi.org/10.1007/978-3-031-43849-3_19"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1007/978-3-031-43849-3_19&amp;media=https://www.shawnmjones.org/images/post-specific/publications/tpdl2023-table-sm.png&amp;description=Synthesizing%20Web%20Archive%20Collections%20Into%20Big%20Data:%20Lessons%20From%20Mining%20Data%20From%20Web%20Archives"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/09/26/lessons-from-mining-web-archives/&amp;media=https://www.shawnmjones.org&amp;description=Synthesizing%20Web%20Archive%20Collections%20Into%20Big%20Data:%20Lessons%20From%20Mining%20Data%20From%20Web%20Archives"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1145/3606030">
+    
+      <img src="/images/post-specific/publications/covid-19-story-flowchart-sm.png" alt="Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/journal-article" class="article__tag" style="color: #232527;">journal-article</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2023-07-03T00:00:00-06:00">Jul 3, 2023</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://2023.jcdl.org/" target="_blank" title="ACM Transactions on the Web" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        ACM TWEB
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1145/3606030"  class="title_link">Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Shawn M. Jones, Martin Klein, Michele C. Weigle, and Michael L. Nelson</p>
+    
+    <p class="article__excerpt">People often create themed collections to make sense of an ever-increasing number of archived web pages. Some of these collections contain hundreds of thousands of documents. Thousands of collections exist, many covering the same topic. Few collections include standardized met...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1145/3606030" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2023/07/03/tweb/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1145/3606030"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Summarizing%20Web%20Archive%20Corpora%20Via%20Social%20Media%20Storytelling%20By%20Automatically%20Selecting%20and%20Visualizing%20Exemplars+by+@shawnmjones&url=https://doi.org/10.1145/3606030"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1145/3606030&amp;media=https://www.shawnmjones.org/images/post-specific/publications/covid-19-story-flowchart-sm.png&amp;description=Summarizing%20Web%20Archive%20Corpora%20Via%20Social%20Media%20Storytelling%20By%20Automatically%20Selecting%20and%20Visualizing%20Exemplars"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/07/03/tweb/&amp;media=https://www.shawnmjones.org&amp;description=Summarizing%20Web%20Archive%20Corpora%20Via%20Social%20Media%20Storytelling%20By%20Automatically%20Selecting%20and%20Visualizing%20Exemplars"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1109/JCDL57899.2023.00064">
+    
+      <img src="/images/post-specific/publications/flatten-curve-sm.png" alt="Discovering Image Usage Online: A Case Study With "Flatten the Curve"" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/poster" class="article__tag" style="color: #232527;">poster</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2023-06-26T00:00:00-06:00">Jun 26, 2023</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://2023.jcdl.org/" target="_blank" title="ACM/IEEE Joint Conference on Digital Libraries" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        ACM/IEEE JCDL 2023
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1109/JCDL57899.2023.00064"  class="title_link">Discovering Image Usage Online: A Case Study With "Flatten the Curve"</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Shawn M. Jones and Diane Oyen</p>
+    
+    <p class="article__excerpt">Understanding the spread of images across the web helps us understand the reuse of scientific visualizations and their relationship with the public. The “Flatten the Curve” graphic was heavily used during the COVID-19 pandemic to convey a complex concept in a simple form. It d...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1109/JCDL57899.2023.00064" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2023/06/26/flatten-the-curve/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1109/JCDL57899.2023.00064"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Discovering%20Image%20Usage%20Online:%20A%20Case%20Study%20With%20%22Flatten%20the%20Curve%22+by+@shawnmjones&url=https://doi.org/10.1109/JCDL57899.2023.00064"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1109/JCDL57899.2023.00064&amp;media=https://www.shawnmjones.org/images/post-specific/publications/flatten-curve-sm.png&amp;description=Discovering%20Image%20Usage%20Online:%20A%20Case%20Study%20With%20%22Flatten%20the%20Curve%22"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/06/26/flatten-the-curve/&amp;media=https://www.shawnmjones.org&amp;description=Discovering%20Image%20Usage%20Online:%20A%20Case%20Study%20With%20%22Flatten%20the%20Curve%22"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html">
+    
+      <img src="/images/post-specific/blog-posts/eccv.jpg" alt="ECCV 2022 and DIRA 2022 Trip Report" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/blog-post" class="article__tag" style="color: #232527;">blog-post</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-12-22T17:00:00-07:00">Dec 22, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://ws-dl.blogspot.com" target="_blank" title="Web Science and Digital Libraries Research Group Blog" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        WS-DL Blog
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html"  class="title_link">ECCV 2022 and DIRA 2022 Trip Report</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p class="article__excerpt">I had a paper accepted to the Drawings and abstract Imagery: Representation and Analysis (DIRA) workshop, allowing me to attend the 17 th European Conference on Computer Vision 2022 (ECCV 2022) in Tel Aviv, Israel, from October 23 - 27. ECCV 2022 is a large conference with att...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/external/blog-posts/2022-12-23-eccv-2022-and-dira-2022-trip-report" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=ECCV%202022%20and%20DIRA%202022%20Trip%20Report+by+@shawnmjones&url=https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://ws-dl.blogspot.com/2022/12/2022-12-23-eccv-2022-and-dira-2022-trip.html&amp;media=https://www.shawnmjones.org/images/post-specific/blog-posts/eccv.jpg&amp;description=ECCV%202022%20and%20DIRA%202022%20Trip%20Report"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/external/blog-posts/2022-12-23-eccv-2022-and-dira-2022-trip-report&amp;media=https://www.shawnmjones.org&amp;description=ECCV%202022%20and%20DIRA%202022%20Trip%20Report"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884">
+    
+      <img src="/images/post-specific/presentations/abstract-images-search-engine-sm.png" alt="Abstract Images Have Different Levels of Retrievability Per Reverse Image Search Engine" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/presentation" class="article__tag" style="color: #232527;">presentation</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-10-24T00:00:00-06:00">Oct 24, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://sites.google.com/view/eccv-dira/home" target="_blank" title="Drawings and abstract Imagery:  Representation and Analysis Workshop 2022" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        DIRA 2022
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884"  class="title_link">Abstract Images Have Different Levels of Retrievability Per Reverse Image Search Engine</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p class="article__excerpt">Much computer vision research has focused on natural images, but technical documents typically consist of abstract images, such as charts, drawings, diagrams, and schematics. How well do general web search engines discover abstract images? Recent advancements in computer visio...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2022/10/24/abstract-images-search-engine/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine+by+@shawnmjones&url=https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.slideshare.net/shawnmjones/abstract-images-have-different-levels-of-retrievability-per-reverse-image-search-engine-253775884&amp;media=https://www.shawnmjones.org/images/post-specific/presentations/abstract-images-search-engine-sm.png&amp;description=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2022/10/24/abstract-images-search-engine/&amp;media=https://www.shawnmjones.org&amp;description=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1007/978-3-031-25085-9_12">
+    
+      <img src="/images/post-specific/publications/dira2022-sm.png" alt="Abstract Images Have Different Levels of Retrievability Per Reverse Image Search Engine" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/conference-paper" class="article__tag" style="color: #232527;">conference-paper</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-10-23T00:00:00-06:00">Oct 23, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://sites.google.com/view/eccv-dira/home" target="_blank" title="Drawings and abstract Imagery: Representation and Analysis (DIRA) 2022" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        DIRA 2022
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1007/978-3-031-25085-9_12"  class="title_link">Abstract Images Have Different Levels of Retrievability Per Reverse Image Search Engine</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Shawn M. Jones, Diane Oyen</p>
+    
+    <p class="article__excerpt">Much computer vision research has focused on natural images, but technical documents typically consist of abstract images, such as charts, drawings, diagrams, and schematics. How well do general web search engines discover abstract images? Recent advancements in computer visio...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1007/978-3-031-25085-9_12" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2022/10/23/dira2022/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1007/978-3-031-25085-9_12"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine+by+@shawnmjones&url=https://doi.org/10.1007/978-3-031-25085-9_12"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1007/978-3-031-25085-9_12&amp;media=https://www.shawnmjones.org/images/post-specific/publications/dira2022-sm.png&amp;description=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2022/10/23/dira2022/&amp;media=https://www.shawnmjones.org&amp;description=Abstract%20Images%20Have%20Different%20Levels%20of%20Retrievability%20Per%20Reverse%20Image%20Search%20Engine"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://doi.org/10.1007/978-3-031-16802-4_45">
+    
+      <img src="/images/post-specific/publications/creating-structure-in-web-archives-with-collections-sm.png" alt="Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/conference-paper" class="article__tag" style="color: #232527;">conference-paper</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-09-20T00:00:00-06:00">Sep 20, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="http://tpdl2022.dei.unipd.it/" target="_blank" title="Theory and Practice of Digital Libraries" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        TPDL 2022
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://doi.org/10.1007/978-3-031-16802-4_45"  class="title_link">Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Himarsha R. Jayanetti, Shawn M. Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, Michele Weigle</p>
+    
+    <p class="article__excerpt">As web archives’ holdings grow, archivists subdivide them into collections so they are easier to understand and manage. In this work, we review the collection structures of eight web archive platforms. We note a plethora of different approaches to web archive collection struct...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://doi.org/10.1007/978-3-031-16802-4_45" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2022/09/20/creating-structure-in-web-archives-with-collections/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://doi.org/10.1007/978-3-031-16802-4_45"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Creating%20Structure%20in%20Web%20Archives%20With%20Collections:%20Different%20Concepts%20From%20Web%20Archivists+by+@shawnmjones&url=https://doi.org/10.1007/978-3-031-16802-4_45"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://doi.org/10.1007/978-3-031-16802-4_45&amp;media=https://www.shawnmjones.org/images/post-specific/publications/creating-structure-in-web-archives-with-collections-sm.png&amp;description=Creating%20Structure%20in%20Web%20Archives%20With%20Collections:%20Different%20Concepts%20From%20Web%20Archivists"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2022/09/20/creating-structure-in-web-archives-with-collections/&amp;media=https://www.shawnmjones.org&amp;description=Creating%20Structure%20in%20Web%20Archives%20With%20Collections:%20Different%20Concepts%20From%20Web%20Archivists"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file">
+    
+      <img src="/images/post-specific/publications/robustifying-links-with-zotero-sm.png" alt="Robustifying Links With Zotero" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/conference-paper" class="article__tag" style="color: #232527;">conference-paper</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-09-12T00:00:00-06:00">Sep 12, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://ipres2022.scot/" target="_blank" title="International Conference on Digital Preservation" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        iPres 2022
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file"  class="title_link">Robustifying Links With Zotero</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Martin Klein, Shawn M. Jones</p>
+    
+    <p class="article__excerpt">Referencing resources on the web has become an integral part of our digital scholarship. However, the long-term availability and accessibility of these resources has rarely been the focus of significant research and development efforts. In this paper we introduce the Zotero Ro...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2022/09/12/robustifying-links-with-zotero/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Robustifying%20Links%20With%20Zotero+by+@shawnmjones&url=https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.dpconline.org/docs/miscellaneous/events/2022-events/2791-ipres-2022-proceedings/file&amp;media=https://www.shawnmjones.org/images/post-specific/publications/robustifying-links-with-zotero-sm.png&amp;description=Robustifying%20Links%20With%20Zotero"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2022/09/12/robustifying-links-with-zotero/&amp;media=https://www.shawnmjones.org&amp;description=Robustifying%20Links%20With%20Zotero"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+                
+                <!-- <div class="article col col-4 col-d-6 col-m-12 grid__post animate"> -->
+<div class="article col col-4 col-d-6 col-m-12 grid__post animate">
+  
+    
+    <a class="article__image" href="https://journal.code4lib.org/articles/16441">
+    
+      <img src="/images/post-specific/publications/dsa-toolkit-storytelling-model-thumbnail.png" alt="The DSA Toolkit Shines Light Into Dark and Stormy Archives" style="border: 1px solid black;">
+    
+    </a>
+    
+  
+  <div class="article__content">
+    <div class="article__meta">
+      <div class="article-tags">
+        
+          <div class="article-tags__box">
+            
+              <a href="/tag/publication" class="article__tag" style="color: #232527;">publication</a>
+            
+              <a href="/tag/journal-article" class="article__tag" style="color: #232527;">journal-article</a>
+            
+          </div>
+        
+      </div>
+      <span class="article__date" style="color: #232527;"><time datetime="2022-05-09T00:00:00-06:00">May 9, 2022</time></span>
+    </div>
+    
+    <div style="width: 100%; background-color: #b7b9c2;">
+      <p><a
+        href="https://journal.code4lib.org/" target="_blank" title="code{4}lib Journal" class="title_link"
+        style='font-family: Domine,"Times New Roman",serif; font-weight: bold; color: #ffffff; padding: 10px;font-size: 12px'>
+        code{4}lib Journal
+      </a></p>
+    </div>
+    
+    
+    <h2 class="article__title">
+      
+      
+      <a href="https://journal.code4lib.org/articles/16441"  class="title_link">The DSA Toolkit Shines Light Into Dark and Stormy Archives</a>
+      <img
+        style="width: 28px;"
+        src="/images/general/black-external-link.png">
+      
+    </h2>
+    
+    
+    <p>by Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin, Martin Klein, Michele C. Weigle, and Michael L. Nelson</p>
+    
+    <p class="article__excerpt">The Dark and Stormy Archives (DSA) Project applies social media storytelling to a subset of a collection to facilitate collection understanding at a glance. As part of this work, we developed the DSA Toolkit, which helps archivists and visitors leverage this capability. As par...</p>
+    
+    <div class="article__bottom">
+      <div class="article__btn">
+        
+        <a href="https://journal.code4lib.org/articles/16441" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a>
+        <!-- TODO: something when we are not trying to redirect -->
+        <!-- <a href="/2022/05/09/the-dsa-toolkit-shines-light-into-dark-and-stormy-archives/" class="read-more title_link">Read More <i class="ion ion-ios-arrow-forward"></i></a> -->
+        
+      </div>
+      <div class="article__share">
+        <ul class="share__list list-reset">
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://journal.code4lib.org/articles/16441"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
+            </li>
+
+            <li class="share__item">
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=The%20DSA%20Toolkit%20Shines%20Light%20Into%20Dark%20and%20Stormy%20Archives+by+@shawnmjones&url=https://journal.code4lib.org/articles/16441"
+                onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+                title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
+            </li>
+
+            
+
+            <li class="share__item">
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://journal.code4lib.org/articles/16441&amp;media=https://www.shawnmjones.org/images/post-specific/publications/dsa-toolkit-storytelling-model-thumbnail.png&amp;description=The%20DSA%20Toolkit%20Shines%20Light%20Into%20Dark%20and%20Stormy%20Archives"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+            </li>
+
+            
+
+            
+
+            <!-- <li class="share__item">
+              <a class="share__link share__linkedin" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2022/05/09/the-dsa-toolkit-shines-light-into-dark-and-stormy-archives/&amp;media=https://www.shawnmjones.org&amp;description=The%20DSA%20Toolkit%20Shines%20Light%20Into%20Dark%20and%20Stormy%20Archives"
+              onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+              rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
+            </li> -->
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+              
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      
+      
+      
+      <div class="load-more-section">
+        <button class="load-more-posts button button--primary button--brand">Load More Posts <i class="ion ion-ios-arrow-down"></i></button>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+  </main> 
+  <!-- end content -->
+  
+  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
+  <!-- begin footer-widgets -->
+<!--
+<section class="footer-widgets">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+        <div class="widgets-box">
+          <div class="row">
+            <div class="col col-4 col-d-12 col-m-12">
+              <div class="widget widget-recent">
+                <div class="widget__head">
+                  <h4 class="widget__title">Recent Work</h4>
+                </div>
+                
+                <div class="recent-posts">
+                  
+                  
+                  <span class="recent-posts__count">1</span>
+                  <div class="recent-posts__content">
+                    <div class="recent-posts__date">
+                      <time datetime="2023-11-07T00:00:00-07:00">Nov 7, 2023</time>
+                    </div>
+                    <li class="share__item">
+                      <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/11/07/deeppatent2/&amp;media=https://www.shawnmjones.org&amp;description=DeepPatent2:%20A%20Large-Scale%20Benchmarking%20Corpus%20for%20Technical%20Drawing%20Understanding"
+                      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+                      rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+                    </li>  <h6 class="recent-posts__title"><a href="/2023/11/07/deeppatent2/">DeepPatent2: A Large-Scale Benchmarking Corpus for Technical Drawing Understanding</a></h6>
+                  </div>
+                </div>
+                
+                <div class="recent-posts">
+                  
+                  
+                  <span class="recent-posts__count">2</span>
+                  <div class="recent-posts__content">
+                    <div class="recent-posts__date">
+                      <time datetime="2023-09-26T00:00:00-06:00">Sep 26, 2023</time>
+                    </div>
+                    <li class="share__item">
+                      <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/09/26/lessons-from-mining-web-archives/&amp;media=https://www.shawnmjones.org&amp;description=Synthesizing%20Web%20Archive%20Collections%20Into%20Big%20Data:%20Lessons%20From%20Mining%20Data%20From%20Web%20Archives"
+                      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+                      rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+                    </li>  <h6 class="recent-posts__title"><a href="/2023/09/26/lessons-from-mining-web-archives/">Synthesizing Web Archive Collections Into Big Data: Lessons From Mining Data From Web Archives</a></h6>
+                  </div>
+                </div>
+                
+                <div class="recent-posts">
+                  
+                  
+                  <span class="recent-posts__count">3</span>
+                  <div class="recent-posts__content">
+                    <div class="recent-posts__date">
+                      <time datetime="2023-07-03T00:00:00-06:00">Jul 3, 2023</time>
+                    </div>
+                    <li class="share__item">
+                      <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://www.shawnmjones.org/2023/07/03/tweb/&amp;media=https://www.shawnmjones.org&amp;description=Summarizing%20Web%20Archive%20Corpora%20Via%20Social%20Media%20Storytelling%20By%20Automatically%20Selecting%20and%20Visualizing%20Exemplars"
+                      onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
+                      rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
+                    </li>  <h6 class="recent-posts__title"><a href="/2023/07/03/tweb/">Summarizing Web Archive Corpora Via Social Media Storytelling By Automatically Selecting and Visualizing Exemplars</a></h6>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
+            <div class="col col-4 col-d-12 col-m-12">
+            
+            <div class="widget widget-gallery">
+              <div class="widget__head">
+                <h4 class="widget__title">Gallery</h4>
+              </div>
+              <div class="gallery-box">
+                <div class="gallery">
+                  
+                  <img src="/images/17.jpg" alt="Minimalism">
+                  
+                  <img src="/images/07.jpg" alt="Minimalism">
+                  
+                  <img src="/images/08.jpg" alt="Minimalism">
+                  
+                  <img src="/images/22.jpg" alt="Minimalism">
+                  
+                  <img src="/images/10.jpg" alt="Minimalism">
+                  
+                  <img src="/images/21.jpg" alt="Minimalism">
+                  
+                  <img src="/images/29.jpg" alt="Minimalism">
+                  
+                  <img src="/images/30.jpg" alt="Minimalism">
+                  
+                  <img src="/images/31.jpg" alt="Minimalism">
+                  
+                </div>
+              </div>
+            </div>
+            
+            </div>
+            <div class="col col-4 col-d-12 col-m-12">
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+-->
+<!-- end footer-widgets -->
+
+<!-- begin footer -->
+<footer class="footer">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <div class="footer__inner">
+        
+<!-- <style>
+  .social_logo {
+    width:100%;
+    background-image: url(/images/general/orcid-logo.svg);
+    background-size: cover;
+    height: 0;
+    padding: 0; /* reset */
+    padding-bottom: calc(100% * 3 / 4);
+  }
+  .social_logo:hover {
+    filter: invert(47%) sepia(71%) saturate(3661%) hue-rotate(200deg) brightness(99%) contrast(93%);
+  }
+</style> -->
+<div class="contact">
+  <ul class="contact__list list-reset">
+    <li class="contact__item" style="margin-left: 0px;">
+      <a rel="me" class="contact__link" href="https://hachyderm.io/@shawnmjones" title="Mastodon">
+        <img width="16px" class="ion" src="/images/general/logo-mastodon.svg">
+      </a>
+    </li>
+    <li class="contact__item">
+      <a class="contact__link" href="https://bsky.app/profile/shawnmjones.org" title="Bluesky">
+        <img width="16px" class="ion" src="/images/general/logo-bluesky.png">
+      </a>
+    </li>
+    <li class="contact__item">
+      <a class="contact__link" href="https://www.threads.net/@shawnmjones" title="Threads">
+        <img width="16px" class="ion" src="/images/general/logo-threads.svg">
+      </a>
+    </li>
+
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://twitter.com/shawnmjones" title="Twitter"><i class="ion ion-logo-twitter"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://github.com/shawnmjones" title="GitHub"><i class="ion ion-logo-github"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://www.linkedin.com/in/shawnmorganjones" title="LinkedIn"><i class="ion ion-logo-linkedin"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://scholar.google.com/citations?user=97KuWzQAAAAJ&hl=en" title="Google Scholar"><i class="ion ion-md-school"></i></a>
+    </li>
+    
+    <li class="contact__item">
+      <a class="contact__link" href="https://orcid.org/0000-0002-4372-870X" title="ORCID">
+        <!-- <i class="social_logo" style="height: 100px;"></i> -->
+      <img width="16px" src="/images/general/orcid-logo.svg">
+      </a>
+    </li>
+  </ul>
+</div>
+
+
+        <div class="copyright">2024 &copy; <a href="/"><strong>Shawn M. Jones | Researcher | Software Engineer</strong></a>.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- end footer -->
+  <script src="/js/vendors/jquery-3.3.1.min.js"></script>
+<script src="/js/vendors/simple-jekyll-search.min.js"></script>
+<script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById("js-search-input"),
+    resultsContainer: document.getElementById("js-results-container"),
+    json: "/search.json",
+    searchResultTemplate: '<div class="search-results__item"><a class="search-results__image" href="" style="background-image: url({image})"></a><a class="search-results__link" href="{url}"><span class="search-results-date"> <time datetime="{date}">{date}</time></span> <div class="result-title">{title}</div></a></div>',
+    noResultsText: '<li class="no-results"><h3>No results found</h3></li>'
+  });
+</script>
+<script src="/js/vendors/jquery.fitvids.js"></script>
+<script src="/js/vendors/transition.js"></script>
+<script src="/js/vendors/zoom.min.js"></script>
+<script src="/js/common.js"></script>
+<script>
+  var base_url = "",
+    pagination_next_url = base_url + '/page2',
+    pagination_next_page_number = '2',
+    pagination_available_pages_number = '11';
+</script>
+
+</body>
+
+</html>

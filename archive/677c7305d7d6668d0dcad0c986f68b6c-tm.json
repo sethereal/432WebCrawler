@@ -1,0 +1,1531 @@
+ERROR: 2024/02/18 20:26:44.651538 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/academics/programs": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/academics/programs",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/programs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-05-07T03:23:24Z",
+        "uri": "https://web.archive.org/web/20140507032324/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2014-06-25T06:43:43Z",
+        "uri": "https://web.archive.org/web/20140625064343/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2014-07-06T13:46:29Z",
+        "uri": "https://web.archive.org/web/20140706134629/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2014-07-08T18:26:23Z",
+        "uri": "https://web.archive.org/web/20140708182623/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2014-08-06T03:26:33Z",
+        "uri": "https://web.archive.org/web/20140806032633/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2015-02-16T15:52:53Z",
+        "uri": "https://web.archive.org/web/20150216155253/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2015-02-17T00:48:15Z",
+        "uri": "https://web.archive.org/web/20150217004815/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2015-12-12T10:30:45Z",
+        "uri": "https://web.archive.org/web/20151212103045/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-10-27T07:26:17Z",
+        "uri": "https://web.archive.org/web/20161027072617/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-10-28T18:35:39Z",
+        "uri": "https://wayback.archive-it.org/all/20161028183539/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-10-28T18:35:39Z",
+        "uri": "https://web.archive.org/web/20161028183539/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-11-07T09:00:55Z",
+        "uri": "https://web.archive.org/web/20161107090055/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-11-19T03:37:04Z",
+        "uri": "https://web.archive.org/web/20161119033704/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2016-11-20T06:48:02Z",
+        "uri": "https://web.archive.org/web/20161120064802/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2016-11-21T05:36:03Z",
+        "uri": "https://web.archive.org/web/20161121053603/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2016-12-26T11:09:23Z",
+        "uri": "https://web.archive.org/web/20161226110923/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2016-12-26T13:15:11Z",
+        "uri": "https://web.archive.org/web/20161226131511/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-03-18T09:56:56Z",
+        "uri": "https://web.archive.org/web/20170318095656/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-03-26T03:24:56Z",
+        "uri": "https://web.archive.org/web/20170326032456/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-04-17T12:19:06Z",
+        "uri": "https://web.archive.org/web/20170417121906/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-05-05T02:55:21Z",
+        "uri": "https://web.archive.org/web/20170505025521/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-05-06T20:44:14Z",
+        "uri": "https://web.archive.org/web/20170506204414/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-05-07T23:57:08Z",
+        "uri": "https://web.archive.org/web/20170507235708/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-06-05T09:26:57Z",
+        "uri": "https://web.archive.org/web/20170605092657/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-06-06T04:28:58Z",
+        "uri": "https://web.archive.org/web/20170606042858/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-06-08T11:22:42Z",
+        "uri": "https://web.archive.org/web/20170608112242/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-06-22T00:37:14Z",
+        "uri": "https://web.archive.org/web/20170622003714/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-07-06T08:17:37Z",
+        "uri": "https://web.archive.org/web/20170706081737/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-07-09T14:16:01Z",
+        "uri": "https://web.archive.org/web/20170709141601/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-07-15T12:46:42Z",
+        "uri": "https://web.archive.org/web/20170715124642/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-08-01T14:23:21Z",
+        "uri": "https://web.archive.org/web/20170801142321/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-08-15T12:20:26Z",
+        "uri": "https://web.archive.org/web/20170815122026/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-08-31T05:53:46Z",
+        "uri": "https://web.archive.org/web/20170831055346/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-09-16T03:15:43Z",
+        "uri": "https://web.archive.org/web/20170916031543/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-09-23T18:52:24Z",
+        "uri": "https://web.archive.org/web/20170923185224/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-09-27T06:14:21Z",
+        "uri": "https://web.archive.org/web/20170927061421/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-10-12T02:00:31Z",
+        "uri": "https://wayback.archive-it.org/all/20171012020031/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-10-12T02:00:31Z",
+        "uri": "https://web.archive.org/web/20171012020031/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-10-28T05:20:28Z",
+        "uri": "https://web.archive.org/web/20171028052028/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-11-12T02:07:56Z",
+        "uri": "https://wayback.archive-it.org/all/20171112020756/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-11-12T02:07:56Z",
+        "uri": "https://web.archive.org/web/20171112020756/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-11-15T14:56:28Z",
+        "uri": "https://web.archive.org/web/20171115145628/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-11-22T00:10:16Z",
+        "uri": "https://web.archive.org/web/20171122001016/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-11-24T16:55:52Z",
+        "uri": "https://web.archive.org/web/20171124165552/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-11-26T10:08:16Z",
+        "uri": "https://web.archive.org/web/20171126100816/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-11-29T02:56:02Z",
+        "uri": "https://web.archive.org/web/20171129025602/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-12-12T02:13:30Z",
+        "uri": "https://wayback.archive-it.org/all/20171212021330/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-12-12T02:13:30Z",
+        "uri": "https://web.archive.org/web/20171212021330/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2017-12-20T17:33:55Z",
+        "uri": "https://web.archive.org/web/20171220173355/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2017-12-23T01:43:19Z",
+        "uri": "https://web.archive.org/web/20171223014319/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-01-12T04:01:10Z",
+        "uri": "https://wayback.archive-it.org/all/20180112040110/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-01-12T04:01:10Z",
+        "uri": "https://web.archive.org/web/20180112040110/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-01-20T23:55:38Z",
+        "uri": "https://web.archive.org/web/20180120235538/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-01-23T06:56:04Z",
+        "uri": "https://web.archive.org/web/20180123065604/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-02-09T20:55:17Z",
+        "uri": "https://web.archive.org/web/20180209205517/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-02-12T03:29:46Z",
+        "uri": "https://wayback.archive-it.org/all/20180212032946/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-02-12T03:29:46Z",
+        "uri": "https://web.archive.org/web/20180212032946/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-02-23T02:22:43Z",
+        "uri": "https://web.archive.org/web/20180223022243/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-03-06T10:42:53Z",
+        "uri": "https://web.archive.org/web/20180306104253/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-03-12T03:20:40Z",
+        "uri": "https://wayback.archive-it.org/all/20180312032040/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-03-12T03:20:40Z",
+        "uri": "https://web.archive.org/web/20180312032040/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-03-25T14:00:27Z",
+        "uri": "https://web.archive.org/web/20180325140027/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-03-27T13:26:54Z",
+        "uri": "https://web.archive.org/web/20180327132654/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-04-04T17:07:54Z",
+        "uri": "https://web.archive.org/web/20180404170754/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-04-12T03:46:12Z",
+        "uri": "https://wayback.archive-it.org/all/20180412034612/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-04-12T03:46:12Z",
+        "uri": "https://web.archive.org/web/20180412034612/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-04-27T16:19:47Z",
+        "uri": "https://web.archive.org/web/20180427161947/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-04-28T06:15:36Z",
+        "uri": "https://web.archive.org/web/20180428061536/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-05-12T04:12:16Z",
+        "uri": "https://wayback.archive-it.org/all/20180512041216/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-05-12T04:12:16Z",
+        "uri": "https://web.archive.org/web/20180512041216/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-05-27T08:55:51Z",
+        "uri": "https://web.archive.org/web/20180527085551/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-05-30T04:53:54Z",
+        "uri": "https://web.archive.org/web/20180530045354/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-06-12T04:33:24Z",
+        "uri": "https://wayback.archive-it.org/all/20180612043324/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-06-12T04:33:24Z",
+        "uri": "https://web.archive.org/web/20180612043324/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-06-29T22:27:48Z",
+        "uri": "https://web.archive.org/web/20180629222748/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-07-01T18:15:01Z",
+        "uri": "https://web.archive.org/web/20180701181501/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-07-12T04:21:24Z",
+        "uri": "https://wayback.archive-it.org/all/20180712042124/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-07-12T04:21:24Z",
+        "uri": "https://web.archive.org/web/20180712042124/http://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-07-31T03:16:04Z",
+        "uri": "https://web.archive.org/web/20180731031604/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-08-02T09:31:14Z",
+        "uri": "https://web.archive.org/web/20180802093114/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-08-12T17:53:19Z",
+        "uri": "https://wayback.archive-it.org/all/20180812175319/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-08-12T17:53:19Z",
+        "uri": "https://web.archive.org/web/20180812175319/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-08-31T22:27:24Z",
+        "uri": "https://web.archive.org/web/20180831222724/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-09-02T20:45:16Z",
+        "uri": "https://web.archive.org/web/20180902204516/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-09-03T21:35:04Z",
+        "uri": "https://web.archive.org/web/20180903213504/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-09-08T02:37:21Z",
+        "uri": "https://web.archive.org/web/20180908023721/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-09-12T19:44:59Z",
+        "uri": "https://wayback.archive-it.org/all/20180912194459/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-09-12T19:44:59Z",
+        "uri": "https://web.archive.org/web/20180912194459/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-09-13T02:28:10Z",
+        "uri": "https://web.archive.org/web/20180913022810/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-10-02T10:48:58Z",
+        "uri": "https://web.archive.org/web/20181002104858/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-10-03T13:46:47Z",
+        "uri": "https://web.archive.org/web/20181003134647/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-10-04T11:39:11Z",
+        "uri": "https://web.archive.org/web/20181004113911/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-10-12T23:55:24Z",
+        "uri": "https://wayback.archive-it.org/all/20181012235524/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-10-12T23:55:24Z",
+        "uri": "https://web.archive.org/web/20181012235524/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-11-04T00:24:35Z",
+        "uri": "https://web.archive.org/web/20181104002435/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-11-04T12:12:57Z",
+        "uri": "https://web.archive.org/web/20181104121257/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-11-05T06:20:36Z",
+        "uri": "https://web.archive.org/web/20181105062036/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-11-13T20:50:50Z",
+        "uri": "https://wayback.archive-it.org/all/20181113205050/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-11-13T20:50:50Z",
+        "uri": "https://web.archive.org/web/20181113205050/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-12-05T20:09:26Z",
+        "uri": "https://web.archive.org/web/20181205200926/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-12-05T21:28:43Z",
+        "uri": "https://web.archive.org/web/20181205212843/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2018-12-12T23:45:43Z",
+        "uri": "https://wayback.archive-it.org/all/20181212234543/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2018-12-12T23:45:43Z",
+        "uri": "https://web.archive.org/web/20181212234543/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-01-05T23:17:42Z",
+        "uri": "https://web.archive.org/web/20190105231742/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-01-06T13:18:11Z",
+        "uri": "https://web.archive.org/web/20190106131811/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-01-12T18:35:56Z",
+        "uri": "https://wayback.archive-it.org/all/20190112183556/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-01-12T18:35:56Z",
+        "uri": "https://web.archive.org/web/20190112183556/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-02-06T00:55:35Z",
+        "uri": "https://web.archive.org/web/20190206005535/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-02-06T12:53:44Z",
+        "uri": "https://web.archive.org/web/20190206125344/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-02-12T20:53:01Z",
+        "uri": "https://wayback.archive-it.org/all/20190212205301/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-02-12T20:53:01Z",
+        "uri": "https://web.archive.org/web/20190212205301/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-02-13T03:06:45Z",
+        "uri": "https://wayback.archive-it.org/all/20190213030645/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-02-13T03:06:45Z",
+        "uri": "https://web.archive.org/web/20190213030645/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-02-13T03:06:45Z",
+        "uri": "https://web.archive.org/web/20190213030645/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-03-09T08:10:33Z",
+        "uri": "https://web.archive.org/web/20190309081033/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-03-09T08:22:23Z",
+        "uri": "https://web.archive.org/web/20190309082223/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-03-12T08:43:25Z",
+        "uri": "https://wayback.archive-it.org/all/20190312084325/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-03-12T08:43:25Z",
+        "uri": "https://web.archive.org/web/20190312084325/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-03-27T12:13:57Z",
+        "uri": "https://arquivo.pt/wayback/20190327121357mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-03-27T12:13:57Z",
+        "uri": "https://web.archive.org/web/20190327121357/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-04-08T20:21:56Z",
+        "uri": "https://web.archive.org/web/20190408202156/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-04-09T15:23:39Z",
+        "uri": "https://web.archive.org/web/20190409152339/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-04-09T16:36:32Z",
+        "uri": "https://web.archive.org/web/20190409163632/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-04-12T06:58:48Z",
+        "uri": "https://wayback.archive-it.org/all/20190412065848/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-04-12T06:58:48Z",
+        "uri": "https://web.archive.org/web/20190412065848/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-04-14T21:36:37Z",
+        "uri": "https://web.archive.org/web/20190414213637/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-04-17T13:11:02Z",
+        "uri": "https://web.archive.org/web/20190417131102/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-05-10T19:59:03Z",
+        "uri": "https://web.archive.org/web/20190510195903/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-05-10T20:10:35Z",
+        "uri": "https://web.archive.org/web/20190510201035/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-05-12T10:13:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190512101308/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-05-12T10:13:08Z",
+        "uri": "https://web.archive.org/web/20190512101308/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-05-18T13:47:21Z",
+        "uri": "https://wayback.archive-it.org/all/20190518134721/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-05-18T13:47:21Z",
+        "uri": "https://web.archive.org/web/20190518134721/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-06-04T20:23:30Z",
+        "uri": "https://web.archive.org/web/20190604202330/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-06-11T02:41:40Z",
+        "uri": "https://web.archive.org/web/20190611024140/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-06-11T03:10:15Z",
+        "uri": "https://web.archive.org/web/20190611031015/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-06-12T07:01:04Z",
+        "uri": "https://wayback.archive-it.org/all/20190612070104/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-06-12T07:01:04Z",
+        "uri": "https://web.archive.org/web/20190612070104/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-07-12T05:44:08Z",
+        "uri": "https://wayback.archive-it.org/all/20190712054408/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-07-12T05:44:08Z",
+        "uri": "https://web.archive.org/web/20190712054408/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-07-21T14:43:09Z",
+        "uri": "https://web.archive.org/web/20190721144309/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-07-21T15:18:33Z",
+        "uri": "https://web.archive.org/web/20190721151833/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-08-12T04:05:00Z",
+        "uri": "https://wayback.archive-it.org/all/20190812040500/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-08-12T04:05:00Z",
+        "uri": "https://web.archive.org/web/20190812040500/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-08-21T19:43:38Z",
+        "uri": "https://web.archive.org/web/20190821194338/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-08-21T20:08:44Z",
+        "uri": "https://web.archive.org/web/20190821200844/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-09-11T23:36:57Z",
+        "uri": "https://wayback.archive-it.org/all/20190911233657/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-09-11T23:36:57Z",
+        "uri": "https://web.archive.org/web/20190911233657/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-09-22T17:15:33Z",
+        "uri": "https://web.archive.org/web/20190922171533/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-09-23T01:40:57Z",
+        "uri": "https://web.archive.org/web/20190923014057/http://odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-09-28T07:09:25Z",
+        "uri": "https://arquivo.pt/wayback/20190928070925mp_/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-09-28T07:09:25Z",
+        "uri": "https://web.archive.org/web/20190928070925/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-02T07:03:28Z",
+        "uri": "https://arquivo.pt/wayback/20191002070328mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-02T07:03:28Z",
+        "uri": "https://web.archive.org/web/20191002070328/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-11T23:21:10Z",
+        "uri": "https://wayback.archive-it.org/all/20191011232110/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-11T23:21:10Z",
+        "uri": "https://web.archive.org/web/20191011232110/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-16T05:30:20Z",
+        "uri": "https://web.archive.org/web/20191016053020/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-10-18T01:11:13Z",
+        "uri": "https://wayback.archive-it.org/all/20191018011113/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-10-18T01:11:13Z",
+        "uri": "https://web.archive.org/web/20191018011113/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-11-11T23:24:46Z",
+        "uri": "https://wayback.archive-it.org/all/20191111232446/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-11-11T23:24:46Z",
+        "uri": "https://web.archive.org/web/20191111232446/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-11T21:29:11Z",
+        "uri": "https://wayback.archive-it.org/all/20191211212911/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-11T21:29:11Z",
+        "uri": "https://web.archive.org/web/20191211212911/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-14T11:40:39Z",
+        "uri": "https://arquivo.pt/wayback/20191214114039mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-14T11:40:39Z",
+        "uri": "https://web.archive.org/web/20191214114039/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-15T09:08:37Z",
+        "uri": "https://web.archive.org/web/20191215090837/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2019-12-18T01:08:14Z",
+        "uri": "https://wayback.archive-it.org/all/20191218010814/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2019-12-18T01:08:14Z",
+        "uri": "https://web.archive.org/web/20191218010814/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-01-11T21:04:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200111210452/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-01-11T21:04:52Z",
+        "uri": "https://web.archive.org/web/20200111210452/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-01-18T02:51:32Z",
+        "uri": "https://wayback.archive-it.org/all/20200118025132/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-01-18T02:51:32Z",
+        "uri": "https://web.archive.org/web/20200118025132/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-02-13T14:36:53Z",
+        "uri": "https://web.archive.org/web/20200213143653/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2020-02-14T02:39:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200214023943/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-02-14T02:39:43Z",
+        "uri": "https://web.archive.org/web/20200214023943/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-02-14T23:18:11Z",
+        "uri": "https://web.archive.org/web/20200214231811/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2020-02-18T03:56:47Z",
+        "uri": "https://wayback.archive-it.org/all/20200218035647/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-02-18T03:56:47Z",
+        "uri": "https://web.archive.org/web/20200218035647/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-03-08T00:33:07Z",
+        "uri": "https://arquivo.pt/wayback/20200308003307mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-03-08T00:33:07Z",
+        "uri": "https://web.archive.org/web/20200308003307/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-03-13T04:27:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200313042749/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-03-13T04:27:49Z",
+        "uri": "https://web.archive.org/web/20200313042749/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-09T02:40:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200409024042/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-09T02:40:42Z",
+        "uri": "https://web.archive.org/web/20200409024042/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:11:48Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191148/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:11:48Z",
+        "uri": "https://web.archive.org/web/20200416191148/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:14:04Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191404/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:14:04Z",
+        "uri": "https://web.archive.org/web/20200416191404/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:16:26Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191626/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-16T19:16:26Z",
+        "uri": "https://web.archive.org/web/20200416191626/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-17T00:47:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200417004725/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-17T00:47:25Z",
+        "uri": "https://web.archive.org/web/20200417004725/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-04-24T15:23:24Z",
+        "uri": "https://web.archive.org/web/20200424152324/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-05-03T16:47:53Z",
+        "uri": "https://web.archive.org/web/20200503164753/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2020-05-28T21:49:42Z",
+        "uri": "https://web.archive.org/web/20200528214942/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-06-27T05:26:03Z",
+        "uri": "https://web.archive.org/web/20200627052603/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-06-28T11:27:09Z",
+        "uri": "https://arquivo.pt/wayback/20200628112709mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-06-28T11:27:09Z",
+        "uri": "https://web.archive.org/web/20200628112709/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-07-02T19:09:49Z",
+        "uri": "https://web.archive.org/web/20200702190949/http://www.odu.edu:80/academics/programs"
+      },
+      {
+        "datetime": "2020-07-14T22:58:43Z",
+        "uri": "https://web.archive.org/web/20200714225843/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-07-30T09:39:41Z",
+        "uri": "https://web.archive.org/web/20200730093941/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-08-20T17:40:10Z",
+        "uri": "https://web.archive.org/web/20200820174010/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2020-09-05T06:33:44Z",
+        "uri": "https://arquivo.pt/wayback/20200905063344mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-05T06:33:44Z",
+        "uri": "https://web.archive.org/web/20200905063344/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-08T22:38:23Z",
+        "uri": "https://web.archive.org/web/20200908223823/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T01:08:24Z",
+        "uri": "https://wayback.archive-it.org/all/20200910010824/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T01:08:24Z",
+        "uri": "https://web.archive.org/web/20200910010824/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T10:52:22Z",
+        "uri": "https://wayback.archive-it.org/all/20200910105222/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T10:52:22Z",
+        "uri": "https://web.archive.org/web/20200910105222/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T21:51:43Z",
+        "uri": "https://wayback.archive-it.org/all/20200910215143/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-09-10T21:51:43Z",
+        "uri": "https://web.archive.org/web/20200910215143/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-10-06T16:47:29Z",
+        "uri": "https://web.archive.org/web/20201006164729/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-11-01T01:44:47Z",
+        "uri": "https://web.archive.org/web/20201101014447/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-06T08:05:54Z",
+        "uri": "https://arquivo.pt/wayback/20201206080554mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-06T08:05:54Z",
+        "uri": "https://web.archive.org/web/20201206080554/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-11T13:51:15Z",
+        "uri": "https://wayback.archive-it.org/all/20201211135115/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-11T13:51:15Z",
+        "uri": "https://web.archive.org/web/20201211135115/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-11T15:19:21Z",
+        "uri": "https://wayback.archive-it.org/all/20201211151921/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2020-12-11T15:19:21Z",
+        "uri": "https://web.archive.org/web/20201211151921/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-01-14T01:44:20Z",
+        "uri": "https://wayback.archive-it.org/all/20210114014420/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-01-14T01:44:20Z",
+        "uri": "https://web.archive.org/web/20210114014420/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-01-16T00:38:28Z",
+        "uri": "https://wayback.archive-it.org/all/20210116003828/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-01-16T00:38:28Z",
+        "uri": "https://web.archive.org/web/20210116003828/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-01-25T17:29:50Z",
+        "uri": "https://web.archive.org/web/20210125172950/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-03-05T02:15:20Z",
+        "uri": "https://arquivo.pt/wayback/20210305021520mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-03-05T02:15:20Z",
+        "uri": "https://web.archive.org/web/20210305021520/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-03-21T15:31:29Z",
+        "uri": "https://web.archive.org/web/20210321153129/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-09T23:30:18Z",
+        "uri": "https://web.archive.org/web/20210409233018/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-13T17:34:00Z",
+        "uri": "https://web.archive.org/web/20210413173400/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-14T05:55:15Z",
+        "uri": "https://web.archive.org/web/20210414055515/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-14T11:00:11Z",
+        "uri": "https://web.archive.org/web/20210414110011/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-19T07:18:18Z",
+        "uri": "https://web.archive.org/web/20210419071818/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2021-04-23T16:42:02Z",
+        "uri": "https://web.archive.org/web/20210423164202/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-25T18:48:14Z",
+        "uri": "https://web.archive.org/web/20210425184814/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-04-30T20:13:44Z",
+        "uri": "https://web.archive.org/web/20210430201344/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-20T14:58:42Z",
+        "uri": "https://web.archive.org/web/20210520145842/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:36Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195836/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:36Z",
+        "uri": "https://web.archive.org/web/20210526195836/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195844/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:44Z",
+        "uri": "https://web.archive.org/web/20210526195844/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:54Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195854/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-05-26T19:58:54Z",
+        "uri": "https://web.archive.org/web/20210526195854/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-06-02T01:57:55Z",
+        "uri": "https://web.archive.org/web/20210602015755/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-06-06T11:38:11Z",
+        "uri": "https://arquivo.pt/wayback/20210606113811mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-06-06T11:38:11Z",
+        "uri": "https://web.archive.org/web/20210606113811/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-08-11T19:21:43Z",
+        "uri": "https://web.archive.org/web/20210811192143/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-08-13T02:47:48Z",
+        "uri": "https://web.archive.org/web/20210813024748/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-08-13T10:08:50Z",
+        "uri": "https://web.archive.org/web/20210813100850/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-09-10T15:35:56Z",
+        "uri": "https://arquivo.pt/wayback/20210910153556mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-09-10T15:40:31Z",
+        "uri": "https://arquivo.pt/wayback/20210910154031mp_/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2021-09-15T05:22:27Z",
+        "uri": "https://web.archive.org/web/20210915052227/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-10-11T14:47:06Z",
+        "uri": "https://arquivo.pt/wayback/20211011144706mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-10-19T16:39:40Z",
+        "uri": "https://web.archive.org/web/20211019163940/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-11-03T11:16:53Z",
+        "uri": "https://arquivo.pt/wayback/20211103111653mp_/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-11-03T14:17:45Z",
+        "uri": "https://arquivo.pt/wayback/20211103141745mp_/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2021-11-22T18:09:03Z",
+        "uri": "https://web.archive.org/web/20211122180903/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2021-11-28T01:51:48Z",
+        "uri": "https://web.archive.org/web/20211128015148/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-07T22:30:42Z",
+        "uri": "https://web.archive.org/web/20220107223042/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-08T16:38:28Z",
+        "uri": "https://web.archive.org/web/20220108163828/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-10T17:04:09Z",
+        "uri": "https://web.archive.org/web/20220110170409/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-11T20:16:00Z",
+        "uri": "https://web.archive.org/web/20220111201600/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-12T16:59:05Z",
+        "uri": "https://web.archive.org/web/20220112165905/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-12T21:58:10Z",
+        "uri": "https://web.archive.org/web/20220112215810/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-13T00:59:29Z",
+        "uri": "https://web.archive.org/web/20220113005929/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-13T19:29:59Z",
+        "uri": "https://web.archive.org/web/20220113192959/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-14T01:07:48Z",
+        "uri": "https://wayback.archive-it.org/all/20220114010748/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-14T01:07:48Z",
+        "uri": "https://web.archive.org/web/20220114010748/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-16T23:35:06Z",
+        "uri": "https://web.archive.org/web/20220116233506/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-17T07:07:35Z",
+        "uri": "https://web.archive.org/web/20220117070735/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-21T21:46:29Z",
+        "uri": "https://web.archive.org/web/20220121214629/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-22T10:29:27Z",
+        "uri": "https://arquivo.pt/wayback/20220122102927mp_/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-24T20:25:30Z",
+        "uri": "https://web.archive.org/web/20220124202530/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-26T02:01:48Z",
+        "uri": "https://web.archive.org/web/20220126020148/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-26T05:35:02Z",
+        "uri": "https://arquivo.pt/wayback/20220126053502mp_/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-01-31T22:16:40Z",
+        "uri": "https://web.archive.org/web/20220131221640/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-02-01T22:30:19Z",
+        "uri": "https://web.archive.org/web/20220201223019/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-02-03T18:58:52Z",
+        "uri": "https://web.archive.org/web/20220203185852/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-02-11T07:53:23Z",
+        "uri": "https://arquivo.pt/wayback/20220211075323mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-02-17T23:24:01Z",
+        "uri": "https://web.archive.org/web/20220217232401/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-02-24T15:40:57Z",
+        "uri": "https://web.archive.org/web/20220224154057/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-03-19T21:05:13Z",
+        "uri": "https://web.archive.org/web/20220319210513/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-03-19T23:49:04Z",
+        "uri": "https://web.archive.org/web/20220319234904/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-03-20T02:33:13Z",
+        "uri": "https://web.archive.org/web/20220320023313/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-03-20T02:33:13Z",
+        "uri": "https://web.archive.org/web/20220320023313/http://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-04-17T05:35:59Z",
+        "uri": "https://arquivo.pt/wayback/20220417053559mp_/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-04-22T17:16:48Z",
+        "uri": "https://arquivo.pt/wayback/20220422171648mp_/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-04-22T19:30:17Z",
+        "uri": "https://arquivo.pt/wayback/20220422193017mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-04-24T18:52:00Z",
+        "uri": "https://arquivo.pt/wayback/20220424185200mp_/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-05-14T05:03:48Z",
+        "uri": "https://web.archive.org/web/20220514050348/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-05-16T05:24:32Z",
+        "uri": "https://arquivo.pt/wayback/20220516052432mp_/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-05-21T13:25:25Z",
+        "uri": "https://web.archive.org/web/20220521132525/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-05-25T09:43:45Z",
+        "uri": "https://web.archive.org/web/20220525094345/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-08T15:00:33Z",
+        "uri": "https://web.archive.org/web/20220608150033/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-18T23:41:48Z",
+        "uri": "https://web.archive.org/web/20220618234148/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T01:04:13Z",
+        "uri": "https://web.archive.org/web/20220619010413/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T11:20:43Z",
+        "uri": "https://web.archive.org/web/20220619112043/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T11:21:40Z",
+        "uri": "https://web.archive.org/web/20220619112140/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T12:34:03Z",
+        "uri": "https://web.archive.org/web/20220619123403/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T23:20:06Z",
+        "uri": "https://web.archive.org/web/20220619232006/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-06-19T23:28:03Z",
+        "uri": "https://web.archive.org/web/20220619232803/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-07-04T07:35:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220704073518/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-07-04T07:35:18Z",
+        "uri": "https://web.archive.org/web/20220704073518/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-07-30T14:44:22Z",
+        "uri": "https://arquivo.pt/wayback/20220730144422mp_/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-02T18:19:41Z",
+        "uri": "https://web.archive.org/web/20220802181941/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-03T00:23:02Z",
+        "uri": "https://web.archive.org/web/20220803002302/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-03T13:16:34Z",
+        "uri": "https://web.archive.org/web/20220803131634/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-04T11:09:38Z",
+        "uri": "https://web.archive.org/web/20220804110938/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-05T01:36:57Z",
+        "uri": "https://web.archive.org/web/20220805013657/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-05T12:27:59Z",
+        "uri": "https://web.archive.org/web/20220805122759/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-08T19:02:17Z",
+        "uri": "https://web.archive.org/web/20220808190217/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-08T19:19:47Z",
+        "uri": "https://web.archive.org/web/20220808191947/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T17:36:55Z",
+        "uri": "https://web.archive.org/web/20220810173655/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200421/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:21Z",
+        "uri": "https://web.archive.org/web/20220810200421/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:36Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200436/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:36Z",
+        "uri": "https://web.archive.org/web/20220810200436/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200457/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-10T20:04:57Z",
+        "uri": "https://web.archive.org/web/20220810200457/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-08-12T16:26:03Z",
+        "uri": "https://web.archive.org/web/20220812162603/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-09-22T13:48:54Z",
+        "uri": "https://web.archive.org/web/20220922134854/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-10-02T20:17:16Z",
+        "uri": "https://web.archive.org/web/20221002201716/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-10-11T02:18:30Z",
+        "uri": "https://arquivo.pt/wayback/20221011021830mp_/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-10-13T16:45:00Z",
+        "uri": "https://web.archive.org/web/20221013164500/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-10-22T02:06:39Z",
+        "uri": "https://web.archive.org/web/20221022020639/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-11-07T07:05:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221107070521/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-11-07T07:05:21Z",
+        "uri": "https://web.archive.org/web/20221107070521/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-11-07T08:58:08Z",
+        "uri": "https://wayback.archive-it.org/all/20221107085808/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-11-07T08:58:08Z",
+        "uri": "https://web.archive.org/web/20221107085808/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-11-09T17:09:04Z",
+        "uri": "https://wayback.archive-it.org/all/20221109170904/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-11-09T17:09:04Z",
+        "uri": "https://web.archive.org/web/20221109170904/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-11-18T19:31:59Z",
+        "uri": "https://web.archive.org/web/20221118193159/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-07T16:28:00Z",
+        "uri": "https://wayback.archive-it.org/all/20221207162800/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-07T16:28:00Z",
+        "uri": "https://web.archive.org/web/20221207162800/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-07T23:19:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221207231906/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-07T23:19:06Z",
+        "uri": "https://web.archive.org/web/20221207231906/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-08T06:57:12Z",
+        "uri": "https://web.archive.org/web/20221208065712/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-08T06:57:13Z",
+        "uri": "https://web.archive.org/web/20221208065713/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-18T12:19:10Z",
+        "uri": "https://web.archive.org/web/20221218121910/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2022-12-23T17:09:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221223170906/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2022-12-23T17:09:06Z",
+        "uri": "https://web.archive.org/web/20221223170906/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2023-01-07T16:51:48Z",
+        "uri": "https://wayback.archive-it.org/all/20230107165148/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-01-07T16:51:48Z",
+        "uri": "https://web.archive.org/web/20230107165148/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-01-07T20:45:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230107204533/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-01-07T20:45:33Z",
+        "uri": "https://web.archive.org/web/20230107204533/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-01-24T19:48:34Z",
+        "uri": "https://arquivo.pt/wayback/20230124194834mp_/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-01-26T18:16:50Z",
+        "uri": "https://web.archive.org/web/20230126181650/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-02-07T15:50:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207155044/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-02-07T15:50:44Z",
+        "uri": "https://web.archive.org/web/20230207155044/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-02-07T20:05:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230207200515/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-02-07T20:05:15Z",
+        "uri": "https://web.archive.org/web/20230207200515/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-03-07T05:27:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230307052754/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-03-07T05:27:54Z",
+        "uri": "https://web.archive.org/web/20230307052754/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-03-07T05:43:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230307054323/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-03-07T05:43:23Z",
+        "uri": "https://web.archive.org/web/20230307054323/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-03-17T23:14:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230317231402/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2023-03-17T23:14:02Z",
+        "uri": "https://web.archive.org/web/20230317231402/https://www.odu.edu/academics/programs/"
+      },
+      {
+        "datetime": "2023-06-01T17:59:59Z",
+        "uri": "https://web.archive.org/web/20230601175959/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-06-09T04:51:36Z",
+        "uri": "https://web.archive.org/web/20230609045136/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T16:57:04Z",
+        "uri": "https://wayback.archive-it.org/all/20230825165704/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T16:57:04Z",
+        "uri": "https://web.archive.org/web/20230825165704/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T19:24:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230825192420/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T19:24:20Z",
+        "uri": "https://web.archive.org/web/20230825192420/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T19:51:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230825195141/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-08-25T19:51:41Z",
+        "uri": "https://web.archive.org/web/20230825195141/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-10-01T12:06:57Z",
+        "uri": "https://web.archive.org/web/20231001120657/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-10-01T22:12:20Z",
+        "uri": "https://web.archive.org/web/20231001221220/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-12-26T20:49:30Z",
+        "uri": "https://web.archive.org/web/20231226204930/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2023-12-26T20:49:30Z",
+        "uri": "https://web.archive.org/web/20231226204930/https://odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-01-17T00:35:57Z",
+        "uri": "https://web.archive.org/web/20240117003557/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-01-17T00:35:57Z",
+        "uri": "https://web.archive.org/web/20240117003557/http://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-01-25T03:29:33Z",
+        "uri": "https://web.archive.org/web/20240125032933/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:09:10Z",
+        "uri": "https://web.archive.org/web/20240214160910/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:12:49Z",
+        "uri": "https://web.archive.org/web/20240214161249/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:12:50Z",
+        "uri": "https://web.archive.org/web/20240214161250/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:12:50Z",
+        "uri": "https://web.archive.org/web/20240214161250/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:12:51Z",
+        "uri": "https://web.archive.org/web/20240214161251/https://www.odu.edu/academics/programs"
+      },
+      {
+        "datetime": "2024-02-14T16:12:52Z",
+        "uri": "https://web.archive.org/web/20240214161252/https://www.odu.edu/academics/programs"
+      }
+    ],
+    "first": {
+      "datetime": "2014-05-07T03:23:24Z",
+      "uri": "https://web.archive.org/web/20140507032324/http://www.odu.edu:80/academics/programs"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:12:52Z",
+      "uri": "https://web.archive.org/web/20240214161252/https://www.odu.edu/academics/programs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/academics/programs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/academics/programs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/academics/programs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/academics/programs"
+}

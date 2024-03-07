@@ -1,0 +1,84 @@
+<html>
+    <head>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript">
+if (typeof jQuery == 'undefined') {
+    document.write(unescape("%3Cscript src='/etc/designs/odu/clientlibs/libs/jquery-1.7.2.min.js' type='text/javascript'%3E%3C/script%3E"));
+}
+</script>
+<link rel="stylesheet" href="/etc/designs/odu/clientlibs/libs/slick.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/odu/clientlibs.min.css" type="text/css">
+<script src="/etc/designs/odu/clientlibs/libs/slick.min.js"></script>
+<script src="/etc/designs/odu/clientlibs.min.js"></script>
+<link href="/etc/designs/odu.css" rel="stylesheet" type="text/css">
+
+    <style type="text/css">
+        html {
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body style="background-color: white;"><article>
+
+
+
+
+
+
+
+
+
+<h1 class="entry-title">ECE Graduate Seminar</h1>
+    
+
+<link rel="stylesheet" href="/etc.clientlibs/wcm/foundation/clientlibs/accessibility.min.css" type="text/css">
+
+
+    &lt;p&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Department of Electrical &amp;amp; Computer Engineering&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Old Dominion University&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	&amp;nbsp;GRADUATE SEMINAR&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Tools for Managing the Past Web&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	By&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Dr. Michele Weigle&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Department of Computer Science&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Old Dominion University&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Host:&amp;nbsp; Dr. Dimitrie Popescu&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	Friday, February 20, 2015&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	3:00 p.m. KH 224&lt;/p&gt;
+&lt;p align=&#34;center&#34;&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+	Our cultural discourse is increasingly carried on the web. However, the web is dynamic, with the average lifetime of a web page being only 100 days. Thus, web archives have become a significant repository of our recent history and cultural heritage. The Web Sciences and Digital Libraries (WS-DL) research group at ODU has been studying web archives and building tools to help bridge the gap between the live web and the past web. This talk will highlight the importance of web archiving and outline several research projects currently in progress.&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;Bio:&lt;/p&gt;
+&lt;p&gt;
+	&amp;nbsp;Michele C. Weigle is an Associate Professor of Computer Science at Old Dominion University. Her research interests include digital preservation, web science, information visualization, and mobile networking. Dr. Weigle&amp;#39;s current research projects include an NEH-funded digital humanities project to allow users to archive dynamic or personalized web pages as they appear in the browser and an exploration of the use of web archives to enrich the live web experience through storytelling. She has published over 50 articles in peer-reviewed conferences and journals and co-edited one of the first books on vehicular networks, Vehicular Networks: From Theory to Practice, published in 2009 by CRC Press. She has served as PI or Co-PI on external research grants totaling over $2 million from NSF and NEH. Dr. Weigle received her PhD in computer science from the University of North Carolina in 2003. From 2004-2006, she was an Assistant Professor in the Department of Computer Science at Clemson University. She joined ODU in 2006.&lt;/p&gt;
+
+
+
+				
+<p>
+    Posted By: LINDA MARSHALL<br />
+    Date: Mon Feb 16 10:08:48 EST 2015<br />
+</p>
+				
+</article>
+</body>
+</html>

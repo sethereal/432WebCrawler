@@ -1,0 +1,13 @@
+Back to Top ↑
+2009
+Gongjun Yan, Stephan Olariu, and Michele C. Weigle, “Providing Location Security in Vehicular Ad-hoc Networks,” IEEE Wireless Communications, Special Issue on On-the-Road Communications, Vol. 16, No. 6, December 2009, pp. 48-55.
+Danda Rawat, Gongjun Yan, Dimitrie C. Popescu, Michele C. Weigle, and Stephan Olariu, “Dynamic Adaptation of Joint Transmission Power and Contention Window in VANET,” In Proceedings of the IEEE Vehicular Technology Conference - Fall. Anchorage, Alaska, September 2009, pp. 1-5.
+Hadi Arbabi and Michele C. Weigle, “Using Vehicular Networks to Collect Common Traffic Data,” In Proceedings of the ACM International Workshop on Vehicular Internetworking (VANET). Beijing, September 2009, pp. 117-118.
+Gongjun Yan, Michele C. Weigle, and Stephan Olariu, “A Novel Parking Service Using Wireless Networks,” In Proceedings of the IEEE International Conference on Service Operations, Logistics and Informatics. Chicago, July 2009, pp. 406-411. Best Student Paper Award.
+Michele C. Weigle, “Tmix: Internet Traffic Generation,” The ns Manual, June 2009.
+Khaled Ibrahim, Michele C. Weigle, and Mahmoud Abuelela, “p-IVG: Probabilistic Inter-Vehicle Geocast for Dense Vehicular Networks,” In Proceedings of the IEEE Vehicular Technology Conference - Spring. Barcelona, Spain, April 2009, pp. 1-5.
+Richard R. Brooks, Brijesh Pillai, Matthew Pirretti, and Michele C. Weigle, “Multicast Encryption Infrastructure for Security in Sensor Networks,” International Journal of Distributed Sensor Networks (IJDSN), Vol. 5, No. 2, April 2009, pp. 139 - 157.
+Gongjun Yan, Khaled Ibrahim, and Michele C. Weigle, “Vehicular Network Simulators,” In Vehicular Networks: From Theory to Practice. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
+Michele C. Weigle, Stephan Olariu, Mahmoud Abuelela, and Gongjun Yan, “Use of Infrastructure in VANETs,” In Vehicular Networks: From Theory to Practice. (Stephan Olariu and Michele C. Weigle, Eds.), CRC Press / Taylor & Francis, 2009.
+Stephan Olariu and Michele C. Weigle, Eds., Vehicular Networks: From Theory to Practice, CRC Press / Taylor & Francis, 2009.
+Share on

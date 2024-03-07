@@ -1,0 +1,131 @@
+ERROR: 2024/02/18 15:27:39.830797 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/tuition-aid/tuition": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/tuition-aid/tuition",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/tuition-aid/tuition",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-06-25T07:12:38Z",
+        "uri": "https://web.archive.org/web/20220625071238/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-10-31T11:18:17Z",
+        "uri": "https://web.archive.org/web/20221031111817/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-11-07T05:51:10Z",
+        "uri": "https://wayback.archive-it.org/all/20221107055110/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-11-07T05:51:10Z",
+        "uri": "https://web.archive.org/web/20221107055110/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-11-13T04:18:03Z",
+        "uri": "https://web.archive.org/web/20221113041803/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-11-13T04:18:03Z",
+        "uri": "https://web.archive.org/web/20221113041803/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-11-27T08:08:11Z",
+        "uri": "https://web.archive.org/web/20221127080811/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-12-06T06:17:55Z",
+        "uri": "https://web.archive.org/web/20221206061755/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-12-07T10:06:03Z",
+        "uri": "https://wayback.archive-it.org/all/20221207100603/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-12-07T10:06:03Z",
+        "uri": "https://web.archive.org/web/20221207100603/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2022-12-08T05:51:51Z",
+        "uri": "https://web.archive.org/web/20221208055151/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-01-07T09:17:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230107091754/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-01-07T09:17:54Z",
+        "uri": "https://web.archive.org/web/20230107091754/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-02-07T07:40:41Z",
+        "uri": "https://wayback.archive-it.org/all/20230207074041/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-02-07T07:40:41Z",
+        "uri": "https://web.archive.org/web/20230207074041/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-03-07T04:43:51Z",
+        "uri": "https://wayback.archive-it.org/all/20230307044351/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-03-07T04:43:51Z",
+        "uri": "https://web.archive.org/web/20230307044351/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-03-24T08:51:38Z",
+        "uri": "https://web.archive.org/web/20230324085138/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-06-09T03:44:13Z",
+        "uri": "https://web.archive.org/web/20230609034413/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-08-25T18:10:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181056/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-08-25T18:10:56Z",
+        "uri": "https://web.archive.org/web/20230825181056/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-09-22T20:39:02Z",
+        "uri": "https://web.archive.org/web/20230922203902/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-10-04T11:10:53Z",
+        "uri": "https://web.archive.org/web/20231004111053/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-11-29T18:52:34Z",
+        "uri": "https://web.archive.org/web/20231129185234/https://ww1.odu.edu/tuition-aid/tuition"
+      },
+      {
+        "datetime": "2023-12-09T22:59:58Z",
+        "uri": "https://web.archive.org/web/20231209225958/https://ww1.odu.edu/tuition-aid/tuition/"
+      },
+      {
+        "datetime": "2023-12-09T23:01:43Z",
+        "uri": "https://web.archive.org/web/20231209230143/http://ww1.odu.edu/tuition-aid/tuition/"
+      },
+      {
+        "datetime": "2023-12-20T15:40:10Z",
+        "uri": "https://web.archive.org/web/20231220154010/https://ww1.odu.edu/tuition-aid/tuition"
+      }
+    ],
+    "first": {
+      "datetime": "2022-06-25T07:12:38Z",
+      "uri": "https://web.archive.org/web/20220625071238/https://ww1.odu.edu/tuition-aid/tuition"
+    },
+    "last": {
+      "datetime": "2023-12-20T15:40:10Z",
+      "uri": "https://web.archive.org/web/20231220154010/https://ww1.odu.edu/tuition-aid/tuition"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/tuition-aid/tuition",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/tuition-aid/tuition",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/tuition-aid/tuition"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/tuition-aid/tuition"
+}

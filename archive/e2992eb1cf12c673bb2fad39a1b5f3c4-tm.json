@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 20:10:38.456104 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ",
+  "self": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-07-31T17:09:31Z",
+        "uri": "https://arquivo.pt/wayback/20170731170931mp_/http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2017-07-31T17:09:31Z",
+        "uri": "https://web.archive.org/web/20170731170931/http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-04-25T11:07:01Z",
+        "uri": "https://web.archive.org/web/20210425110701/https://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-05-08T15:21:56Z",
+        "uri": "https://web.archive.org/web/20210508152156/http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-09-08T00:38:34Z",
+        "uri": "https://web.archive.org/web/20210908003834/https://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2021-09-08T00:38:34Z",
+        "uri": "https://web.archive.org/web/20210908003834/http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T07:05:29Z",
+        "uri": "https://web.archive.org/web/20221208070529/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ"
+      }
+    ],
+    "first": {
+      "datetime": "2017-07-31T17:09:31Z",
+      "uri": "https://arquivo.pt/wayback/20170731170931mp_/http://scholar.google.com/citations?user=ehg7mloAAAAJ&hl=en"
+    },
+    "last": {
+      "datetime": "2022-12-08T07:05:29Z",
+      "uri": "https://web.archive.org/web/20221208070529/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.google.com/citations?hl=en&user=ehg7mloAAAAJ"
+}

@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html  lang="en-US">
+<head id="Head"><meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+<meta name="REVISIT-AFTER" content="1 DAYS" />
+<meta name="RATING" content="GENERAL" />
+<meta name="RESOURCE-TYPE" content="DOCUMENT" />
+<meta content="text/javascript" http-equiv="Content-Script-Type" />
+<meta content="text/css" http-equiv="Content-Style-Type" /><title>
+	Innovating Interdisciplinary Methods for Hard-to-Reach Environments > Minerva Research Initiative > Awarded Projects
+</title><meta id="MetaDescription" name="DESCRIPTION" content="Project title: What’s Missing? Innovating Interdisciplinary Methods for Hard-to-Reach EnvironmentsPrincipal Investigator: Erika Frydenlund, Old Dominion University , This page provides descriptions and links to project pages of Minerva-funded researchers." /><meta id="MetaKeywords" name="KEYWORDS" content="Minerva, Research, Initiative" /><meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW" /><link href="/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/DesktopModules/ArticleCSDashboard/module.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/DesktopModules/ArticleCS/module.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Skins/DOD2/skin.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DOD2/container.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Portals/_default/Containers/DarkKnightMobile/container.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Portals/47/portal.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/DesktopModules/SharedLibrary/Plugins/aos/aos.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/all.min.css?cdv=3950" type="text/css" rel="stylesheet"/><link href="/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/v4-shims.min.css?cdv=3950" type="text/css" rel="stylesheet"/><script src="/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=3950" type="text/javascript"></script><script src="/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=3950" type="text/javascript"></script><script src="/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=3950" type="text/javascript"></script><link id="RobotoSlab" rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto+Slab" /><link rel='SHORTCUT ICON' href='/Portals/47/favicon.ico?ver=Egk9ckSKv2hOeElgPzF5DQ%3d%3d' type='image/x-icon' /><meta name='host' content='DMA Public Web' /><meta name='contact' content='dma.meade.web-mil-service-desk@mail.mil' /><link rel="stylesheet" type="text/css" href="/DesktopModules/SharedLibrary/Controls/Banner/CSS/usa-banner.css" /><script  src="/Desktopmodules/SharedLibrary/Plugins/GoogleAnalytics/Universal-Federated-Analytics-6.8.js?agency=DOD&subagency=NDU&sitetopic=dma.web&dclink=true"  id="_fed_an_ua_tag" ></script><style type="text/css">/*Start Dynamic Skin Css*/
+.skin-header-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/header-back.png) !important; }
+.skin-footer-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/footer-back.png) !important; }
+</style><meta name='twitter:site' content='@DoDMinerva' /><meta name='twitter:creator' content='@DoDMinerva' /><meta name='twitter:card' content='summary_large_image' /><meta name='twitter:title' content='Innovating Interdisciplinary Methods for Hard-to-Reach Environments' /><meta name='twitter:description' content='Project title: What’s Missing? Innovating Interdisciplinary Methods for Hard-to-Reach EnvironmentsPrincipal Investigator: Erika Frydenlund, Old Dominion University ' /><meta property='og:site_name' content='Minerva Research Initiative' /><meta property='og:type' content='article' /><meta property='og:title' content='Innovating&#32;Interdisciplinary&#32;Methods&#32;for&#32;Hard-to-Reach&#32;Environments'><meta property='og:description' content='Project&#32;title:&#32;What&#8217;s&#32;Missing?&#32;Innovating&#32;Interdisciplinary&#32;Methods&#32;for&#32;Hard-to-Reach&#32;EnvironmentsPrincipal&#32;Investigator:&#32;Erika&#32;Frydenlund,&#32;Old&#32;Dominion&#32;University&#32;'><meta property='og:image' content=''><meta property='og:url' content='https%3A%2F%2Fminerva.defense.gov%2FResearch%2FFunded-Projects%2FArticle%2F2957187%2Finnovating-interdisciplinary-methods-for-hard-to-reach-environments%2F'><meta name="viewport" content="width=device-width,initial-scale=1" /></head>
+<body id="Body">
+    
+    <form method="post" action="/Research/Funded-Projects/Article/2957187/innovating-interdisciplinary-methods-for-hard-to-reach-environments/" id="Form" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="mR99bcdKavNMnD1rXkY5d9s8JgEpCLg4OYxaL4DRLNqCyWeHPx3L3WzL+/+qefgg9U+OEoGTpwarRVUMMNkza0ZHVT5EQlFU38bM7bTyVoVF253IxqX7HJ2qFp/X0CRZlcNLY19f2zRt/oFI469+m309PWUUJsTMEAKm+o1PzM7MxiOtAgSnAphfBvW+CEfaDVYodwR/GD5XKz7coE0/XWt3yFHsow1C7qW8+KGPzXYFc2Qu9bJ1QvqBOmDivRxiWlGxPpPQNGUnrmgF2hiYd34L3zl+CYwugUhruGnxPuzdsmgNXFGfF77XC0kPz6MCBaXNUZz8L3/CMoBhHUh9LDEV38g+z6eJATumJYxLxQvgGzCJjINvfUkFKmf4FeZm4UmBECvHhO2acaP1bO3Xw8W8Tmt6f5jkCoeck0doFDpiR7TxRNe09KfGXvkrGqHS+u5mUg/yLRUPg/M121CPeGYINiv1Fekz14TysVCI8Qt9p52PvdjGTGP2b50ZGHZXXY5Ih5fA2AMjL4Zc09Cm7BUs56lKt62ZOUsb70VG7gqpKzvXe+ZiaV0ehbj+JDEeq9r78L+O/zzD43HZ/MB8J/wOL51FXN99IjBNs/xWabs85/fRjmU9XvCs/qCWaKJLNMzunY6L/PTTaYkUEiHAh6nZY77tsiVFjnisLQKFz8YBHrZ8zsci41eOoGRqq79MFzHrDMsSoN+2eYFBMJBIzqYvoI8xM0/J1PGmTl7OiWxvR7lHc2BRJujsKXME4OVtUY9Iu1yAIimVKx/7NAucd+U+HO+19uvYm1NmX4PkJdEgMQaWvMqyxwGn6OsmxpmwmKMLYOJZLoof02OnbiHvDMk6S85/hiWoc3WyaJSrekdUkT/tRxHf6l7McR4vuJdwmprDEtFVRfu0I8YRIsVpt15Lc3klAE2GM9x9iHAtuUKSt0Y6T6lUQcD3Pxz0kDlHgKBGsV6TIEUEzWyHzSUUO5RYyxA7XcgWsg9wvaxXpHmAIZiN4H6grC2eELdYGzq4vpQwVIELo90pLQc3xajFeQqT7Ba2nOdJcVYQJHW7OqutHr6Wew5goUqPuWJZeHtN01l7YrZFIejuRvms/u1tewYhx0Y1TbnRQNSZrsFTiHA4NdvzoKAAUgtGskLLsooB3LOHCyJOuiWAV8FQx2LUV16qpPvyaqdgBCwZ9/CWtuhPZIag64IY6u7Y+jhvDoTCwHeZN86i1Xe4w1IG17UwBCTv68df5bWt9ClVPLdA83b88KwKqNCX8OLrIQfAgKqmR4Up8vqEC9BP26oUecsRrsqixkCtgMIPax+ocAxdFAkgZ7g7i2Q9YvsAd1k/5eys2V7sp7km2egeQ/ryQMrRCywjDuqbhxqjq+mOrL0ossiBRhlTKLbjuzkqvT3GmB6ArC8H+rlCFEl/43RJcrsnEDYkCJpAGPfb1b0q9jnMv+y2oGGHfv54V4qqeHrO8H1EzmTx2gETPR6efP1ECBvzwETV+nVQDVHh7B7r0l9OkuLwGs735uo63828yKs9wISK8nBm042Q8ArCpO6leAIDZDbmEac=" />
+</div>
+
+
+<script src="/ScriptResource.axd?d=NJmAwtEo3IrZZmhJbgLN7n1FwhuTJbajvmySO9QBr6i6zzzRyl6QF-8j0H4S-sD0hixqDz0d-Vujdi3MvDRr6hXBsdDKcKa7NksbEQY7g6k3ZSEstlgnEP2q9p_Nl5yEr2VDGw2&amp;t=20e3ff6b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=dwY9oWetJoIvUjxxH4p9bCJMmUDv-qgwxoAeD0W0JDFhvrbEUP41TpnqX4tfMCTuBVtMAY5BK7CMtCDqlACCH4GKtxFEd7YXvMw-KQEYwFXFhcauGEnIF2TD_CxRkDQLLPMbFuQe5XPVhKch0&amp;t=20e3ff6b" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CA0B0334" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="48yPeM8GsL4owwtWyPL8ugA1Eu9OskyOAtZJvaJByjAnLS4kFx4YGUR6wZsMkmqV5mNzmNGGQgCLVCU2ciYWelZ1ygicsw9YeIPlqPYLJpAq6+SU+ExL/8ds9TmW30QY1m0du/eItkOljudEwjx/Q7CdNa0=" />
+</div><script src="/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=3950" type="text/javascript"></script><script src="/js/dnn.js?cdv=3950" type="text/javascript"></script><script src="/js/dnn.modalpopup.js?cdv=3950" type="text/javascript"></script><script src="/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3950" type="text/javascript"></script><script src="/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=3950" type="text/javascript"></script><script src="/js/dnncore.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3950" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=3950" type="text/javascript"></script><script src="/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=3950" type="text/javascript"></script><script src="/js/dnn.servicesframework.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3950" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'Form', ['tdnn$ctr3456$Article$desktopmodules_articlecs_article_ascx$UpdatePanel1','dnn_ctr3456_Article_desktopmodules_articlecs_article_ascx_UpdatePanel1'], [], [], 90, '');
+//]]>
+</script>
+
+        
+        
+        
+
+
+<!--CDF(Javascript|/Portals/_default/Skins/DOD2/resources/js/skin.js?cdv=3950|DnnBodyProvider|100)-->
+
+
+<script type="text/javascript">
+$('#personaBar-iframe').load(function() {$('#personaBar-iframe').contents().find("head").append($("<style type='text/css'>.personabar .personabarLogo {}</style>")); });
+</script>
+<div id="dnn_ctl05_header_banner_container" class="header_banner_container">
+    <span class="header_banner_inner">
+        <div class="header_banner_flag">
+            An official website of the United States government 
+        <div class="header_banner_accordion" tabindex="0"><u>Here's how you know 
+        <span class="expand-more-container"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                <path d="M0 0h24v24H0z" fill="none" />
+                <path class="expand-more" d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z" />
+            </svg></span></u></div>
+        </div>
+        <div class="header_banner_panel" style="">
+            <div class="header_banner_panel_item">
+                <span class="header_banner_dotgov"></span>
+                <div id="dnn_ctl05_bannerContentLeft" class="header_banner_content"><p class="banner-contentLeft-text"><strong> Official websites use .gov </strong></p>A <strong>.gov</strong> website belongs to an official government organization in the United States.</div>
+            </div>
+            <div class="header_banner_panel_item https">
+                <span class="header_banner_https"></span>
+                <div id="dnn_ctl05_bannerContentRight" class="header_banner_content"><p class="banner-contentRight-text"><strong>Secure .gov websites use HTTPS</strong></p><div> A <strong>lock (<span class='header_banner_icon_lock'><svg xmlns = 'http://www.w3.org/2000/svg' width='52' height='64' viewBox='0 0 52 64'><title>lock </title><path class='icon_lock' fill-rule='evenodd' d='M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z' /> </svg></span>)</strong> or <strong> https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.</div></div>
+            </div>
+
+        </div>
+    </span>
+</div><style> .header_banner_container{ background-color: #15263b; color: #FFF; } .icon_lock { fill: #FFF;} .header_banner_container .header_banner_content .banner-contentLeft-text, .header_banner_container .header_banner_content .banner-contentRight-text { color: #FFF;} </style>
+<script type="text/javascript">
+
+jQuery(document).ready(function() {
+initializeSkin();
+});
+
+</script>
+
+<script type="text/javascript">
+var skinvars = {"SiteName":"Minerva Research Initiative","SiteShortName":"Minerva Research Initiative","SiteSubTitle":"Supporting social science for a safer world","aid":"Minerva","IsSecureConnection":false,"IsBackEnd":false,"DisableShrink":false,"IsAuthenticated":false,"SearchDomain":"search.usa.gov","SiteUrl":"http://minerva.defense.gov/","LastLogin":null,"IsLastLoginFail":false,"IncludePiwik":false,"PiwikSiteID":-1,"SocialLinks":{"Facebook":{"Url":"https://www.facebook.com/The-Minerva-Initiative-244059966020631/","Window":"_blank","Relationship":"noopener"},"Twitter":{"Url":"http://twitter.com/DoDMinerva","Window":"_blank","Relationship":"noopener"},"YouTube":{"Url":"","Window":"","Relationship":""},"Flickr":{"Url":"","Window":"","Relationship":""},"Pintrest":{"Url":"","Window":"","Relationship":""},"Instagram":{"Url":"","Window":"","Relationship":""},"Blog":{"Url":"","Window":"","Relationship":""},"RSS":{"Url":"","Window":"","Relationship":""},"Podcast":{"Url":"","Window":"","Relationship":""},"Email":{"Url":"","Window":"_blank","Relationship":"noopener"},"LinkedIn":{"Url":"","Window":"","Relationship":""},"Snapchat":{"Url":"","Window":"","Relationship":""}},"SiteLinks":null,"LogoffTimeout":3300000,"SiteAltLogoText":""};
+</script>
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","logo":"http://minerva.defense.gov/Portals/47/MinervaLogo-minerva copy2.png?ver=lolTTwtxNDglT1UUz4cSZA%3d%3d","name":"Minerva Research Initiative","url":"http://minerva.defense.gov/","sameAs":["https://www.facebook.com/The-Minerva-Initiative-244059966020631/","http://twitter.com/DoDMinerva"]}</script><style type="text/css">/*Start Dynamic Skin Css*/
+.skin-header-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/header-back.png) !important; }
+.skin-footer-background { background-image: url(/Portals/_default/Skins/DOD2/resources/img/footer-back.png) !important; }
+</style>
+
+
+
+<div class="wrapper container nopad">
+    
+
+<div id="skip-link-holder"><a id="skip-link" href="#skip-target">Skip to main content (Press Enter).</a></div>
+<header id="main-header" role="banner">
+    <div class="skin-header skin-header-background">
+        <div class="skin-header-left">
+            <button type="button" class="navbar-toggle pull-left skin-nav-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="fa fa-bars"></span>
+            </button>
+            <div class="skin-logo">
+                <a href="http://minerva.defense.gov/" rel="" target="">
+                    <img src="/Portals/47/MinervaLogo-minerva copy2.png?ver=lolTTwtxNDglT1UUz4cSZA%3d%3d" alt="Home Logo: Minerva Research Initiative" title="Minerva Research Initiative" class="img-responsive" /></a>
+            </div>
+            <div class="skin-title">
+                <div class="hidden-xs">
+                    
+                    <span class="title-text withsub">Minerva Research Initiative</span>
+                    <span class="subtitle-text">Supporting social science for a safer world</span>
+                    
+                </div>
+                <div class="visible-xs title-text">
+                    Minerva Research Initiative
+                </div>
+            </div>
+        </div>
+        <div class="skin-header-right">
+            <div class="skin-search">
+                <div class="mobile-search visible-xs pull-right" hidden>
+                    <a class="mobile-search-link" href="#" title="Search"><span class="search-icon fa closed fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                    <div class="mobile-search-popup">
+                        <label for="mobileSearch" class="visuallyhidden">Search Minerva Research Initiative: </label>
+                        <input type="text" name="mobileSearch" class="skin-search-input usagov-search-autocomplete" maxlength="255" aria-label="Search Minerva Research Initiative" />
+                        <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-inverse fa-lg"></span>
+                            <span class="sr-only">Search</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="desktop-search hidden-xs">
+                    <label for="desktopSearch" class="visuallyhidden">Search Minerva Research Initiative: </label>
+                    <input type="text" name="desktopSearch" class="skin-search-input usagov-search-autocomplete" maxlength="255" aria-label="Search Minerva Research Initiative" />
+                    <a class="skin-search-go" href="#" title="Search"><span class="fa fa-search fa-lg"></span>
+                        <span class="sr-only">Search</span>
+                    </a>
+                </div>
+            </div>
+            
+            
+        </div>
+    </div>
+    <div class="navbar-collapse nav-main-collapse collapse otnav nopad">
+        <div class="container nopad menu new-menu" data-autoexpand="false">
+            <nav class="nav-main" role="application">
+<ul class="nav nav-main" id="main-nav">
+	
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/About/" >About
+		</a>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/" >Home
+		</a>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" aria-expanded="false">Programs<span class="fa fa-sm fa-angle-down"></span>
+	</a> 
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Programs/University-Research-Grants/"  style="display:flex;align-items:center" >University Research Grants
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Programs/DECUR-Partnership/"  style="display:flex;align-items:center" >DECUR Partnership
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Programs/US-Institute-of-Peace-Collaboration/"  style="display:flex;align-items:center" >US Institute of Peace Collaboration
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Programs/Bilateral-Academic-Research-Initiative-BARI-Social-Science-Program/"  style="display:flex;align-items:center" >Bilateral Academic Research Initiative (BARI) Social Science Program
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class="dropdown  top-level ">
+    
+        <a href="javascript:void(0)" class="dropdown-toggle" aria-expanded="false">Research<span class="fa fa-sm fa-angle-down"></span>
+	</a> 
+        <ul class="dropdown-menu">
+        
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Research/Research-Priorities/"  style="display:flex;align-items:center" >Research Priorities
+            </a>
+        
+    </li>
+
+    <li class=" dm  ">
+        
+			<a href="http://minerva.defense.gov/Research/Awarded-Projects/Awarded-Projects-Copy/"  style="display:flex;align-items:center" >Awarded Projects
+            </a>
+        
+    </li>
+
+        </ul>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/Voices/The-Owl-and-Olive/" >Owl In the Olive Tree
+		</a>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/Minerva-News/" >Minerva News
+		</a>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/FAQ/" >FAQ
+		</a>
+    
+    </li>
+
+    <li class=" top-level ">
+    
+        <a href="http://minerva.defense.gov/Contact/" >Contact
+		</a>
+    
+    </li>
+
+</ul>
+</nav>
+
+
+
+
+        </div>
+    </div>
+</header>
+<p id="skip-target-holder"><a id="skip-target" name="skip-target" class="skip" tabindex="-1"></a></p>
+
+    <div id="content" role="main">
+        <div class="container nopad">
+            <div id="dnn_CarouselPane"><div class="DnnModule DnnModule-DNN_HTML DnnModule-11057"><a name="11057"></a>
+<div class="empty-container">
+    <div id="dnn_ctr11057_ContentPane"><!-- Start_Module_11057 --><div id="dnn_ctr11057_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr11057_HtmlModule_lblContent" class="Normal">
+	<img alt="" src="/portals/47/banner10.jpg?ver=2018-10-31-162040-303" />
+</div>
+
+</div><!-- End_Module_11057 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+        </div>
+        <span class="skin-addpad">
+            
+
+<div class="skin-breadcrumb-container container-fluid nopad" role="navigation" aria-label="Breadcrumb Navigation">
+  <span id="dnn_Breadcrumb_Breadcrumb_lblBreadCrumb" itemprop="breadcrumb" itemscope="" itemtype="https://schema.org/breadcrumb"><span itemscope itemtype="http://schema.org/BreadcrumbList"><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://minerva.defense.gov/" class="skin-breadcrumb" itemprop="item" ><span itemprop="name">Home</span></a><meta itemprop="position" content="1" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><span class="skin-breadcrumb" itemprop="name">Research</span><meta itemprop="position" content="2" /></span><span class='fa fa-angle-right skin-breadcrumb-separator'></span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem"><a href="http://minerva.defense.gov/Research/Funded-Projects/" class="skin-breadcrumb" itemprop="item"><span itemprop="name">Awarded Projects Search</span></a><meta itemprop="position" content="3" /></span></span></span>
+  <script type="text/javascript">
+    jQuery(".skin-breadcrumb-container a").last().removeAttr("href").css("text-decoration", "none");
+  </script>
+</div>
+
+        </span>
+        <div class="container skin-addpad">
+
+            <div class="row">
+                <div id="dnn_ContentPane" class="col-md-12"><div class="DnnModule DnnModule-ArticleCSDashboard DnnModule-3674"><a name="3674"></a>
+<div class="empty-container-no-pad">
+    <div id="dnn_ctr3674_ContentPane"><!-- Start_Module_3674 --><div id="dnn_ctr3674_ModuleContent" class="DNNModuleContent ModArticleCSDashboardC">
+	<div id="dnn_ctr3674_Dashboard_ph">
+		
+<div class='form-horizontal afilter'>
+    
+    <div class="form-group">
+        <label class="col-sm-2 control-label hidden-xs" for="dnn_ctr3674_Dashboard_keyword3674">Keyword: </label>
+        
+        
+        <div class="col-sm-7 col-xs-7">
+            <div class="field-outer keyword text-box">
+			<input name="dnn$ctr3674$Dashboard$keyword3674" type="text" id="dnn_ctr3674_Dashboard_keyword3674" title="Keyword" class="form-control" aria-label="Keyword Control" />
+		</div>
+        </div>
+        <div class="col-sm-3 col-xs-5">
+            <input type="submit" name="dnn$ctr3674$Dashboard$ctl02" value="Search" title="Search" class="btn btn-primary advanced-search-btn" />
+        </div>
+        
+        
+    </div>
+    
+</div>
+<script>
+    $('.keyword input').keydown(function (event) {
+        var keypressed = event.keyCode || event.which;
+        if (keypressed == 13) {
+            $('.advanced-search-btn').click();
+            return false;
+        }
+    });
+</script>
+	</div>
+
+
+</div><!-- End_Module_3674 --></div>
+    <div class="clearfix"></div>
+</div>
+</div><div class="DnnModule DnnModule-ArticleCS DnnModule-3456"><a name="3456"></a>
+<div class="empty-container-no-pad">
+    <div id="dnn_ctr3456_ContentPane"><!-- Start_Module_3456 --><div id="dnn_ctr3456_ModuleContent" class="DNNModuleContent ModArticleCSC">
+	<div id="dnn_ctr3456_Article_desktopmodules_articlecs_article_ascx_UpdatePanel1" class="article-view">
+		
+        <div class="adetail bio">
+    
+    
+    <div class="gallery-wrapper">
+        
+    </div>
+
+    <div class="article-body">
+        <div class="header">
+            <h1 class="title">Innovating Interdisciplinary Methods for Hard-to-Reach Environments</h1>
+            <h2 class="subtitle">
+                PI: Erika Frydenlund, Old Dominion University
+            </h2>
+            <h2 class="subtitle">Year selected for award: 2021</h2>
+            
+        </div>
+        <div class="social">
+            <div class="social-inner">
+                
+                
+                
+            </div>
+        </div>
+
+        
+
+        <div class="body">
+
+            <p><strong>What&rsquo;s Missing? Innovating Interdisciplinary Methods for Hard-to-Reach Environments</strong></p>
+
+<p>Principal Investigator: <strong>Erika Frydenlund</strong>, Old Dominion University</p>
+
+<p>Years of award: 2022-2025</p>
+
+<p>Managing service agency: <a href="http://www.afrl.af.mil/AFOSR/">Air Force Office of Scientific Research</a></p>
+
+<p><strong>Project description:</strong><br />
+By focusing on informal settlements as a hard-to-reach site, this project establishes repeatable approaches for conducting research in hard-to-reach environments that combine different methods and epistemology, to create a many-models approach to evolving social science methods and evaluating available knowledge in complex, hard-to-reach environments.</p>
+
+            <div style="clear: both;"></div>
+        </div>
+
+        <div class="share-bottom">
+            <div>
+                
+                <a class="share-link a2a_dd">
+                    <i class="fa fa-share-alt fa-2x"></i>
+                    <br />
+                    SHARE
+                </a>
+                <script defer type="text/javascript" src="https://static.addtoany.com/menu/page.js"></script>
+                
+            </div>
+            <div>
+                
+                <a class="print-link" href='https://minerva.defense.gov/DesktopModules/ArticleCS/Print.aspx?PortalId=47&ModuleId=3456&Article=2957187' target="_blank" rel="noopener">
+                    <i class="fa fa-print fa-2x"></i>
+                    <br />
+                    PRINT
+                </a>
+                
+            </div>
+        </div>
+
+        <div class="related">
+            
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        </div>
+
+        
+
+        
+
+    </div>
+</div>
+
+
+    
+	</div>
+
+
+
+
+<script type="text/javascript">
+
+    var displayNextPrevNav = false
+    var loggedIn = false;
+    var articleId = 2957187;
+    var moduleId = 3456;
+    var mejPlayer;
+
+    $(function () {
+        if (!window.delayInitMediaElementJs)
+            initMediaElementJs();
+    });
+
+    function initMediaElementJs() {
+        mejPlayer = $(".article-view video").not(".noplayer").mediaelementplayer({
+            pluginPath: "/desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/",
+            videoWidth: '100%',
+            videoHeight: '100%',
+            success: function (mediaElement, domObject)
+            {
+                var aDefaultOverlay = jQuery(mediaElement).parents('.media-inline-video, .video-control').find('.defaultVideoOverlay.a-video-button');
+                var aHoverOverlay = jQuery(mediaElement).parents('.media-inline-video, .video-control').find('.hoverVideoOverlay.a-video-button');
+                var playing = false;
+                $("#" + mediaElement.id).parents('.media-inline-video, .video-control').find('.mejs__controls').hide();
+                if (typeof GalleryResize === "function")
+                    GalleryResize();
+                mediaElement.addEventListener('play',
+                    function (e) {
+                        playing = true;
+                        jQuery(".gallery").trigger("pause", false, false);
+                        $("#" + e.detail.target.id).parents('.media-inline-video, .video-control').find('.mejs__controls').show();                       
+                        $("#" + e.detail.target.id).parents('.media-inline-video, .video-control').find('.duration').hide();
+                        if (aDefaultOverlay.length) {
+                            aDefaultOverlay.hide();
+                            aHoverOverlay.hide();
+                        }
+                        //place play trigger for DVIDS Analytics
+                    }, false);
+                mediaElement.addEventListener('pause',
+                    function (e) {
+                        playing = false;
+                        if (aDefaultOverlay.length) {
+                            aDefaultOverlay.removeAttr("style");
+                            aHoverOverlay.removeAttr("style");
+                        }
+                    }, false);
+                mediaElement.addEventListener('ended',
+                    function (e) {
+                        playing = false;
+                    }, false);
+
+                if (aDefaultOverlay.length) {
+                    aDefaultOverlay.click(function () {
+                        if (!playing) {
+                            mediaElement.play();
+                            playing = true;
+                        }
+                    });
+                    aHoverOverlay.click(function () {
+                        if (!playing) {
+                            mediaElement.play();
+                            playing = true;
+                        }
+                    });
+                }
+            },
+            features: ["playpause", "progress", "current", "duration", "tracks", "volume", "fullscreen"]
+        });
+
+        if (displayNextPrevNav) {
+            DisplayNextPreviousNav(moduleId, articleId, loggedIn);
+        }
+    }
+
+    $(window).load(function () {
+        if (displayNextPrevNav) {
+            var winWidth = $(document).width();
+            if (winWidth > 1024) {
+                $('#footerExtender').css('height', '0px');
+                $('.article-navbtn .headline').addClass('contentPubDate');
+            }
+            else {
+                $('#footerExtender').css('height', $('.article-navbtn .headline').html().length > 0 ? $('.bottomNavContainer').height() + 'px' : '0px');
+                $('.article-navbtn .headline').removeClass('contentPubDate');
+            }
+        }
+    });
+
+
+    $(window).resize(function () {
+        if (displayNextPrevNav) {
+            var winWidth = $(document).width();
+
+            if (winWidth < 1024) {
+                $('#footerExtender').css('height', $('.article-navbtn .headline').html().length > 0 ? $('.bottomNavContainer').height() + 'px' : '0px');
+                $('.article-navbtn .headline').removeClass('contentPubDate');
+            }
+            else {
+                $('#footerExtender').css('height', '0px');
+                $('.article-navbtn .headline').addClass('contentPubDate');
+            }
+        }
+
+    });
+
+</script>
+
+
+
+
+</div><!-- End_Module_3456 --></div>
+    <div class="clearfix"></div>
+</div>
+</div></div>
+            </div>
+
+            <div class="row">
+                <div id="dnn_ContentPaneLeft" class="col-md-9"><div class="DnnModule DnnModule-DNN_HTML DnnModule-13114"><a name="13114"></a></div></div>
+                <div id="dnn_RightPane" class="col-md-3 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_EvenLeft" class="col-md-4 DNNEmptyPane"></div>
+                <div id="dnn_EvenMiddle" class="col-md-4 DNNEmptyPane"></div>
+                <div id="dnn_EvenRight" class="col-md-4 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_SmallSideLeft" class="col-md-3 DNNEmptyPane"></div>
+                <div id="dnn_SmallSideMiddle" class="col-md-6 DNNEmptyPane"></div>
+                <div id="dnn_SmallSideRight" class="col-md-3 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_LeftPane" class="col-md-3 DNNEmptyPane"></div>
+                <div id="dnn_ContentPaneRight" class="col-md-9 DNNEmptyPane"></div>
+            </div>
+            <div class="row">
+                <div id="dnn_BottomPane" class="col-md-12 DNNEmptyPane"></div>
+            </div>
+        </div>
+    </div>
+    <footer role="contentinfo" class="footer-default">
+        <div class="skin-footer-background">
+            <div class="container">
+                <div class="row">
+                    <div id="dnn_FooterLinks" class="col-md-6 col-footerlinks">
+                        
+
+
+                    </div>
+                    <div class="col-md-6 col-sociallinks">
+                        
+
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterContentLeftPane" class="col-md-8"><div class="DnnModule DnnModule-DNN_HTML DnnModule-3499"><a name="3499"></a>
+<div class="dnnPEMContNotitle"><div id="dnn_ctr3499_ContentPane" class="dnnPEMContNotitleBody"><!-- Start_Module_3499 --><div id="dnn_ctr3499_ModuleContent" class="DNNModuleContent ModDNNHTMLC">
+	<div id="dnn_ctr3499_HtmlModule_lblContent" class="Normal">
+	<div class="footlinks">
+<ul class="fleft box">
+    <li><a href="http://www.defense.gov/Resources/Privacy">Web Privacy &amp; Security&nbsp; </a> </li>
+    <li><a href="http://www.defense.gov/Resources/External-Link-Disclaimer" target="_self">Link Disclaimer</a>&nbsp; </li>
+    <li><a href="/FOIA.aspx">FOIA</a></li>
+</ul>
+<ul class="fleft box">
+    <li><a href="http://dodcio.defense.gov/dodwebpolicy" target="_blank">Web Policy</a> </li>
+    <li><a href="http://prhome.defense.gov/nofear" target="_self">No FEAR Act</a></li>
+    <li><a href="/About/OfficeofPrivacyandCivilLiberties.aspx">Office of Privacy &amp; Civil Liberties</a> </li>
+</ul>
+<ul class="fleft box">
+    <li><a href="http://dodcio.defense.gov/DoDSection508/Std_Stmt.aspx" target="_blank">Accessibility/Section 508</a> </li>
+    <li><a href="http://www.defense.gov/" target="_blank">Defense.gov</a> </li>
+    <li><a href="http://www.usa.gov/" target="_blank">USA.gov</a> </li>
+</ul>
+<div class="clr"></div>
+</div>
+</div>
+
+</div><!-- End_Module_3499 --></div></div></div></div>
+                    <div id="dnn_FooterRightPane" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterRowLeft" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowMiddle" class="col-md-4 DNNEmptyPane"></div>
+                    <div id="dnn_FooterRowRight" class="col-md-4 DNNEmptyPane"></div>
+                </div>
+                <div class="row">
+                    <div id="dnn_FooterPane" class="col-md-12 DNNEmptyPane"></div>
+                </div>
+            </div>
+            
+
+<div class="skin-footer-banner">
+      <a target="_blank" rel="noreferrer noopener" href="https://www.web.dma.mil/">Hosted by Defense Media Activity - WEB.mil</a>
+      
+</div>
+
+        </div>
+    </footer>
+</div>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable" autocomplete="off" value="`{`__scdoff`:`1`,`sf_siteRoot`:`/`,`sf_tabId`:`1500`}" />
+        <script src="/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=3950" type="text/javascript"></script><script src="/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=3950" type="text/javascript"></script><script src="/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=3950" type="text/javascript"></script>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+try{ a2a.init('page'); }catch(e){}//]]>
+</script>
+</form>
+    <!--CDF(Javascript|/js/dnncore.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/js/dnn.modalpopup.js?cdv=3950|DnnBodyProvider|50)--><!--CDF(Css|/Resources/Shared/stylesheets/dnndefault/7.0.0/default.css?cdv=3950|DnnPageHeaderProvider|5)--><!--CDF(Css|/Portals/_default/Skins/DOD2/skin.css?cdv=3950|DnnPageHeaderProvider|15)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=3950|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=3950|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCSDashboard/module.css?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=3950|DnnPageHeaderProvider|25)--><!--CDF(Css|/DesktopModules/ArticleCS/module.css?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Css|/DesktopModules/ArticleCS/module.css?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Css|/Portals/_default/Containers/DOD2/container.css?cdv=3950|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/_default/Containers/DarkKnightMobile/container.css?cdv=3950|DnnPageHeaderProvider|25)--><!--CDF(Css|/Portals/47/portal.css?cdv=3950|DnnPageHeaderProvider|35)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Skin/js/common.js?cdv=3950|DnnBodyProvider|101)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Mobile-Detect/mobile-detect.min.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/SocialIcons/css/fa-social-icons.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Skin/SkipNav/css/skipnav.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Css|/DesktopModules/SharedLibrary/Plugins/aos/aos.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Plugins/aos/aos.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/ArticleCS/Resources/ArticleCS/js/ArticleCS.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/jquery.carouFredSel-6.2.1.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/carouFredSel/base.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelement-and-player.js?cdv=3950|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/MediaElement4.2.9/mediaelementplayer.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/DVIDSVideoAnalytics.min.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/DVIDSAnalytics/analyticsParamsForDVIDSAnalyticsAPI.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/TouchSwipe/jquery.touchSwipe.min.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/ColorBox/colorbox.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/ColorBox/jquery.colorbox.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/slimbox/slimbox2.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/BodyScrollLock/bodyScrollLock.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.js?cdv=3950|DnnBodyProvider|10)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Slick/1.9.0/slick.min.css?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Css|/desktopmodules/ArticleCS/styles/DOD2/style.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/js/dnn.js?cdv=3950|DnnBodyProvider|12)--><!--CDF(Javascript|/js/dnn.servicesframework.js?cdv=3950|DnnBodyProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/Controls/Banner/JS/GovBanner.js?cdv=3950|DnnFormBottomProvider|1)--><!--CDF(Javascript|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/js/bootstrap.min.js?cdv=3950|DnnFormBottomProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/Plugins/Bootstrap/css/bootstrap.min.css?cdv=3950|DnnPageHeaderProvider|14)--><!--CDF(Css|/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/all.min.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Css|/Desktopmodules/SharedLibrary/ValidatedPlugins/font-awesome6/css/v4-shims.min.css?cdv=3950|DnnPageHeaderProvider|100)--><!--CDF(Javascript|/DesktopModules/SharedLibrary/ValidatedPlugins/dompurify//purify.min.js?cdv=3950|DnnFormBottomProvider|100)--><!--CDF(Javascript|/Resources/Shared/Scripts/jquery/jquery.hoverIntent.min.js?cdv=3950|DnnBodyProvider|55)--><!--CDF(Javascript|/Resources/libraries/jQuery-UI/01_12_01/jquery-ui.js?cdv=3950|DnnPageHeaderProvider|10)--><!--CDF(Javascript|/Resources/libraries/jQuery/03_05_01/jquery.js?cdv=3950|DnnPageHeaderProvider|5)--><!--CDF(Javascript|/Resources/libraries/jQuery-Migrate/03_02_00/jquery-migrate.js?cdv=3950|DnnPageHeaderProvider|6)-->
+    
+</body>
+</html>

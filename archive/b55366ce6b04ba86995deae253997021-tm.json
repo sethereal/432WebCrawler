@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 21:54:49.919250 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/cv/#site-nav": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/cv/#site-nav",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/cv/#site-nav",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-22T23:37:33Z",
+        "uri": "https://web.archive.org/web/20210922233733/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2021-10-13T14:30:38Z",
+        "uri": "https://web.archive.org/web/20211013143038/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2022-01-19T13:50:44Z",
+        "uri": "https://web.archive.org/web/20220119135044/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2022-04-27T20:31:17Z",
+        "uri": "https://web.archive.org/web/20220427203117/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2022-06-26T08:09:43Z",
+        "uri": "https://web.archive.org/web/20220626080943/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2022-09-27T08:02:07Z",
+        "uri": "https://web.archive.org/web/20220927080207/https://weiglemc.github.io/cv/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:18Z",
+        "uri": "https://web.archive.org/web/20240121112718/https://weiglemc.github.io/cv/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-22T23:37:33Z",
+      "uri": "https://web.archive.org/web/20210922233733/https://weiglemc.github.io/cv/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:18Z",
+      "uri": "https://web.archive.org/web/20240121112718/https://weiglemc.github.io/cv/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/cv/#site-nav",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/cv/#site-nav",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/cv/#site-nav"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/cv/#site-nav"
+}

@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 15:40:23.119795 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/tarannum-zaki-930b14118/": net/http: timeout awaiting response headers

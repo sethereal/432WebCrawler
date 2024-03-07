@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 16:53:13.183876 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/transportation-parking-services/parking": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/transportation-parking-services/parking",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/transportation-parking-services/parking",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-02-14T16:08:50Z",
+        "uri": "https://web.archive.org/web/20240214160850/https://www.odu.edu/transportation-parking-services/parking"
+      }
+    ],
+    "first": {
+      "datetime": "2024-02-14T16:08:50Z",
+      "uri": "https://web.archive.org/web/20240214160850/https://www.odu.edu/transportation-parking-services/parking"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:50Z",
+      "uri": "https://web.archive.org/web/20240214160850/https://www.odu.edu/transportation-parking-services/parking"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/transportation-parking-services/parking",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/transportation-parking-services/parking",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/transportation-parking-services/parking"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/transportation-parking-services/parking"
+}

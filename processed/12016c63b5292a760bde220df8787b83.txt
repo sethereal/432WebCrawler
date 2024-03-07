@@ -1,0 +1,12 @@
+2012
+Michele C. Weigle, “Visualizing Digital Collections at Archive-It,” Talk given at the Archive-It Partners Meeting, December 2012.
+Michele C. Weigle, “Communications and Energy-Harvesting in Nanosensor Networks,” Talk given at BioCom2: NSF Workshop on Biological Computations and Communications, November 2012.
+Michele C. Weigle, “Information Visualization - Visualizing Digital Collections at Archive-It,” Faculty Lightning Talk given at the Grace Hopper Celebration of Women in Computing, October 2012.
+Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, “Context-Aware Content Adaptation at the Access Point,” In Proceedings of the International Workshop on Context-Awareness for Self-Managing Systems (Casemans). September 2012, pp. 758-761.
+Mat Kelly and Michele C. Weigle, “WARCreate - Create Wayback-Consumable WARC Files from Any Webpage (demo),” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Washington, DC, June 2012, pp. 437-438.
+Kalpesh Padia, Yasmin AlNoamany, and Michele C. Weigle, “Visualizing Digital Collections at Archive-It,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Washington, DC, June 2012, pp. 15-18.
+Mohammad Almalag, Stephan Olariu, and Michele C. Weigle, “TDMA Cluster-based MAC for VANETs (TC-MAC),” In Proceedings of the IEEE Workshop on VANETs From Theory to Practice (VTP). San Francisco, CA, June 2012.
+Shahram Mohrehkesh, Shuiwang Ji, Tamer Nadeem, and Michele C. Weigle, “Demographic Prediction of Mobile User from Phone Usage,” In Proceedings of the Nokia Mobile Data Challenge Workshop. Newcastle, UK, June 2012.
+C.K. Toh, T. Higashino, J.-C. Cano, and M. C. Weigle, “Highlights: IEEE ITS Society Technical Committee on Mobile Communications Networks for ITS,” IEEE ITS Magazine, Vol. 4, No. 1, 2012.
+Shahram Mohrehkesh, Tamer Nadeem, and Michele C. Weigle, “Efficient Context-Aware Content Adaptation for Mobile Devices,” Poster presented at IEEE INFOCOM, March 2012.
+Share on

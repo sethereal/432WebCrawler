@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 19:17:15.971190 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=pXQRYsAAAAJ": net/http: timeout awaiting response headers

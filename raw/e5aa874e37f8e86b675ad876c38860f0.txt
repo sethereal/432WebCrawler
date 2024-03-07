@@ -1,0 +1,881 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"NRJS-6b53be0d94491620b86",applicationID:"781537153"};;/*! For license information please see nr-loader-rum-1.251.1.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,DL:()=>w,OP:()=>S,lF:()=>T,Yu:()=>x,Dg:()=>m,CX:()=>c,GE:()=>_,sU:()=>R});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o);const r=(0,n.ek)(e);r&&(r.info=a[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{domain:void 0,expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,sampling_rate:50,error_sampling_rate:50,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A={};function w(e){if(!e)throw new Error("All loader-config objects require an agent identifier!");if(!A[e])throw new Error("LoaderConfig for ".concat(e," was never set"));return A[e]}function _(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");A[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=A[e])}const x=(0,n.mF)().o;var E=r(385),D=r(6818);const k={buildEnv:D.Re,customTransaction:void 0,disabled:!1,distMethod:D.gF,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,offset:Math.floor(E._A?.performance?.timeOrigin||E._A?.performance?.timing?.navigationStart||Date.now()),onerror:void 0,origin:""+E._A.location,ptid:void 0,releaseIds:{},session:void 0,xhrWrappable:"function"==typeof E._A.XMLHttpRequest?.prototype?.addEventListener,version:D.q4,denyList:void 0},j={};function S(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!j[e])throw new Error("Runtime for ".concat(e," was never set"));return j[e]}function R(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");j[e]=(0,i.D)(t,k);const r=(0,n.ek)(e);r&&(r.runtime=j[e])}function T(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.251.1",i="PROD",o="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>o,cv:()=>l,iS:()=>a,il:()=>n,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),a=Boolean("hidden"===o?.document?.visibilityState),s=/iPad|iPhone|iPod/.test(o.navigator?.userAgent),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=o.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!o.navigator?.sendBeacon,l=Math.floor(o?.performance?.timeOrigin||o?.performance?.timing?.navigationStart||Date.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(50);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occured while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{L:()=>d,R:()=>c});var n=r(8325),i=r(1284),o=r(4322),a=r(3325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};u(e),s[e].get(t)||s[e].set(t,r)}function u(e){e&&(s[e]||(s[e]=new Map))}function d(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature";if(u(e),!e||!s[e].get(t))return a(t);s[e].get(t).staged=!0;const r=[...s[e]];function a(t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)l(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}r.every((e=>{let[t,r]=e;return r.staged}))&&(r.sort(((e,t)=>e[1].priority-t[1].priority)),r.forEach((t=>{let[r]=t;s[e].delete(r),a(r)})))}function l(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),o=r(234);class a{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},f=!1;try{f=16===r.length&&(0,o.OP)(r).isolatedBacklog}catch(e){}var g={on:h,addEventListener:h,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=p(n),c=v(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var f=b()[s[e]];f&&f.push([g,e,r,a]);return a},get:m,listeners:v,context:p,buffer:function(e,t){const r=b();if(t=t||"feature",g.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:l,aborted:!1,isBuffering:function(e){return!!b()[s[e]]},debugId:r,backlog:f?{}:t&&"object"==typeof t.backlog?t.backlog:{}};return g;function p(e){return e&&e instanceof a?e:e?(0,i.X)(e,c,(()=>new a(c))):new a(c)}function h(e,t){n[e]=v(e).concat(t)}function v(e){return n[e]||[]}function m(t){return d[t]=d[t]||e(g,t)}function b(){return g.backlog}}(void 0,"globalEE"),d=(0,n.fP)();function l(){u.aborted=!0,u.backlog={}}d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(5546);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(385);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>a,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>o,IK:()=>c,oD:()=>i,uT:()=>s,wO:()=>a});const n="NRBA",i=144e5,o=18e5,a={PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},s={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},c={OFF:0,FULL:1,ERROR:2}},7894:(e,t,r)=>{"use strict";function n(){return Math.round(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>d,T:()=>l});var n=r(8325),i=r(5546),o=r(3325),a=r(385);const s="newrelic";const c={stn:[o.D.sessionTrace],err:[o.D.jserrors,o.D.metrics],ins:[o.D.pageAction],spa:[o.D.spa],sr:[o.D.sessionReplay,o.D.sessionTrace]},u=new Set;function d(e,t){const r=n.ee.get(t);e&&"object"==typeof e&&(u.has(t)||(Object.entries(e).forEach((e=>{let[t,n]=e;c[t]?c[t].forEach((e=>{n?(0,i.p)("feat-"+t,[],void 0,e,r):(0,i.p)("block-"+t,[],void 0,e,r),(0,i.p)("rumresp-"+t,[Boolean(n)],void 0,e,r)})):n&&(0,i.p)("feat-"+t,[],void 0,void 0,r),l[t]=Boolean(n)})),Object.keys(c).forEach((e=>{void 0===l[e]&&(c[e]?.forEach((t=>(0,i.p)("rumresp-"+e,[!1],void 0,t,r))),l[e]=!1)})),u.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{a._A.dispatchEvent(new CustomEvent(s,{detail:e}))}catch(e){}}({loaded:!0})))}const l={}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>o});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>a,b2:()=>o});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>o,ek:()=>u,fP:()=>a,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(7894),i=r(385);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return i._A.NREUM||(i._A.NREUM={}),void 0===i._A.newrelic&&(i._A.newrelic=i._A.NREUM),i._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:i._A.setTimeout,SI:i._A.setImmediate,CT:i._A.clearTimeout,XHR:i._A.XMLHttpRequest,REQ:i._A.Request,EV:i._A.Event,PR:i._A.Promise,MO:i._A.MutationObserver,FETCH:i._A.fetch}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,n.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>o,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>a});const n=r(3325).D.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},7530:(e,t,r)=>{"use strict";r.d(t,{j:()=>b});var n=r(3325),i=r(234),o=r(5546),a=r(8325),s=r(7894),c=r(8e3),u=r(3960),d=r(385),l=r(50),f=r(3081),g=r(8632);function p(){const e=(0,g.gG)();["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay"].forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&o.push(e.api[t](...n))})),o.length>1?o:o[0]}(t,...n)}}))}var h=r(2825);const v=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let m=!1;function b(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},b=arguments.length>2?arguments[2]:void 0,y=arguments.length>3?arguments[3]:void 0,{init:A,info:w,loader_config:_,runtime:x={loaderType:b},exposed:E=!0}=t;const D=(0,g.gG)();w||(A=D.init,w=D.info,_=D.loader_config),(0,i.Dg)(e.agentIdentifier,A||{}),(0,i.GE)(e.agentIdentifier,_||{}),w.jsAttributes??={},d.v6&&(w.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,w);const k=(0,i.P_)(e.agentIdentifier),j=[w.beacon,w.errorBeacon];m||(k.proxy.assets&&(v(k.proxy.assets),j.push(k.proxy.assets)),k.proxy.beacon&&j.push(k.proxy.beacon),p(),(0,g.EZ)("activatedFeatures",h.T)),x.denyList=[...k.ajax.deny_list||[],...k.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,x),void 0===e.api&&(e.api=function(e,t){t||(0,c.R)(e,"api");const g={};var p=a.ee.get(e),h=p.get("tracer"),v="api-",m=v+"ixn-";function b(t,r,n,o){const a=(0,i.C5)(e);return null===r?delete a.jsAttributes[t]:(0,i.CX)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),w(v,n,!0,o||null===r?"session":void 0)(t,r)}function y(){}["setErrorHandler","finished","addToTrace","addRelease"].forEach((e=>{g[e]=w(v,e,!0,"api")})),g.addPageAction=w(v,"addPageAction",!0,n.D.pageAction),g.setCurrentRouteName=w(v,"routeName",!0,n.D.spa),g.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,w(v,"setPageViewName",!0)()},g.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return b(e,t,"setCustomAttribute",r);(0,l.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,l.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setUserId=function(e){if("string"==typeof e||null===e)return b("enduser.id",e,"setUserId",!0);(0,l.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},g.setApplicationVersion=function(e){if("string"==typeof e||null===e)return b("application.version",e,"setApplicationVersion",!1);(0,l.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},g.start=e=>{try{const t=e?"defined":"undefined";(0,o.p)(f.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,p);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,l.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{p.emit("".concat(e,"-opt-in"))}))}catch(e){(0,l.Z)("An unexpected issue occurred",e)}},g.recordReplay=function(){(0,o.p)(f.xS,["API/recordReplay/called"],void 0,n.D.metrics,p),(0,o.p)("recordReplay",[],void 0,n.D.sessionReplay,p)},g.pauseReplay=function(){(0,o.p)(f.xS,["API/pauseReplay/called"],void 0,n.D.metrics,p),(0,o.p)("pauseReplay",[],void 0,n.D.sessionReplay,p)},g.interaction=function(){return(new y).get()};var A=y.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(f.xS,["API/createTracer/called"],void 0,n.D.metrics,p),(0,o.p)(m+"tracer",[(0,s.z)(),e,r],i,n.D.spa,p),function(){if(h.emit((a?"":"no-")+"fn-start",[(0,s.z)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){throw h.emit("fn-err",[arguments,this,e],r),e}finally{h.emit("fn-end",[(0,s.z)()],r)}}}};function w(e,t,r,i){return function(){return(0,o.p)(f.xS,["API/"+t+"/called"],void 0,n.D.metrics,p),i&&(0,o.p)(e+t,[(0,s.z)(),...arguments],r?null:this,i,p),r?void 0:this}}function _(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,c.L)(e,"api")})).catch((()=>(0,l.Z)("Downloading runtime APIs failed...")))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{A[e]=w(m,e,void 0,n.D.spa)})),g.noticeError=function(e,t){"string"==typeof e&&(e=new Error(e)),(0,o.p)(f.xS,["API/noticeError/called"],void 0,n.D.metrics,p),(0,o.p)("err",[e,(0,s.z)(),!1,t],void 0,n.D.jserrors,p)},d.il?(0,u.b2)((()=>_()),!0):_(),g}(e.agentIdentifier,y)),void 0===e.exposed&&(e.exposed=E),m=!0}},1926:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.sessionReplay]:9}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.251.1.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.251.1.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={75:"sha512-se+MgwtmnbdP/MASClg+GOgpTkSpcEndd09loplWI8jtivCRtbuBQGqwgSDauFr6FUmrBsb2ccq/Hk5NZDAKMQ=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.251.1.PROD"]=self["webpackChunk:NRBA-1.251.1.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(1926);var e=i(50);class t{#e(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];if("function"==typeof this.api?.[t])return this.api[t](...n);(0,e.Z)("Call to agent api ".concat(t," failed. The API is not currently initialized."))}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e("recordReplay")}pauseReplay(){return this.#e("pauseReplay")}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}}var r=i(3325),n=i(234);const o=Object.values(r.D);function a(e){const t={};return o.forEach((r=>{t[r]=function(e,t){return!1!==(0,n.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var s=i(7530);var c=i(8e3),u=i(5938),d=i(3960),l=i(385);class f extends u.W{constructor(e,t,r){let i=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=i,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,n.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto&&(0,c.R)(e,r)}importAggregator(){let t=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate)return;if(!this.auto)return void this.ee.on("".concat(this.featureName,"-opt-in"),(()=>{(0,c.R)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()}));const r=l.il&&!0===(0,n.Mt)(this.agentIdentifier,"privacy.cookies_enabled");let o;this.onAggregateImported=new Promise((e=>{o=e}));const a=async()=>{let n;try{if(r){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,957));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t)}try{if(!this.shouldImportAgg(this.featureName,n))return(0,c.L)(this.agentIdentifier,this.featureName),void o(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:r}=await e(this.featureName,"aggregate");this.featAggregate=new r(this.agentIdentifier,this.aggregator,t),o(!0)}catch(t){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),t),this.abortHandler?.(),(0,c.L)(this.agentIdentifier,this.featureName),o(!1)}};l.il?(0,d.b2)((()=>a()),!0):a()}shouldImportAgg(e,t){return e!==r.D.sessionReplay||!!n.Yu.MO&&(!1!==(0,n.Mt)(this.agentIdentifier,"session_trace.enabled")&&(!!t?.isNew||!!t?.state.sessionReplayMode))}}var g=i(7633);class p extends f{static featureName=g.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,g.t,r),this.importAggregator()}}var h=i(1117),v=i(1284);class m extends h.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,v.D)(e,(function(e,r){t[e]=b(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,v.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=b(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=y(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=b(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=A(this.aggregatedData[r]),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function b(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=y(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function y(e){return{t:e,min:e,max:e,sos:e*e,c:1}}function A(e){return"object"!=typeof e?[]:(0,v.D)(e,w)}function w(e,t){return t}var _=i(8632),x=i(4402),E=i(4351);var D=i(5546),k=i(7956),j=i(3239),S=i(7894),R=i(9251);class T extends f{static featureName=R.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,R.t,r),l.il&&((0,k.N)((()=>(0,D.p)("docHidden",[(0,S.z)()],void 0,R.t,this.ee)),!0),(0,j.bP)("pagehide",(()=>(0,D.p)("winPagehide",[(0,S.z)()],void 0,R.t,this.ee))),this.importAggregator())}}var I=i(3081);class P extends f{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends t{constructor(t){let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:(0,x.ky)(16);super(),l._A?(this.agentIdentifier=r,this.sharedAggregator=new m({agentIdentifier:this.agentIdentifier}),this.features={},(0,_.h5)(r,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(p),(0,s.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initial the agent. Could not determine the runtime environment.")}get config(){return{info:(0,n.C5)(this.agentIdentifier),init:(0,n.P_)(this.agentIdentifier),loader_config:(0,n.DL)(this.agentIdentifier),runtime:(0,n.OP)(this.agentIdentifier)}}run(){try{const t=a(this.agentIdentifier),n=[...this.desiredFeatures];n.sort(((e,t)=>r.p[e.featureName]-r.p[t.featureName])),n.forEach((n=>{if(t[n.featureName]||n.featureName===r.D.pageViewEvent){const i=function(e){switch(e){case r.D.ajax:return[r.D.jserrors];case r.D.sessionTrace:return[r.D.ajax,r.D.pageViewEvent];case r.D.sessionReplay:return[r.D.sessionTrace];case r.D.pageViewTiming:return[r.D.pageViewEvent];default:return[]}}(n.featureName);i.every((e=>t[e]))||(0,e.Z)("".concat(n.featureName," is enabled but one or more dependent features has been disabled (").concat((0,E.P)(i),"). This may cause unintended consequences or missing data...")),this.features[n.featureName]=new n(this.agentIdentifier,this.sharedAggregator)}}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,_.fP)();return delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator,r.ee?.abort(),delete r.ee?.get(this.agentIdentifier),!1}}}({features:[p,T,P],loaderType:"lite"})})()})();</script>
+  <title>Department of Computer Science - Computer Science</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<link rel="canonical" href="https://cs.unc.edu/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Department of Computer Science - Computer Science" />
+	<meta property="og:description" content="News Events View All Events" />
+	<meta property="og:url" content="https://cs.unc.edu/" />
+	<meta property="og:site_name" content="Computer Science" />
+	<meta property="article:publisher" content="https://www.facebook.com/unccompsci/" />
+	<meta property="article:modified_time" content="2023-12-21T14:21:09+00:00" />
+	<meta property="og:image" content="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/05/student.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@unccs" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://cs.unc.edu/","url":"https://cs.unc.edu/","name":"Department of Computer Science - Computer Science","isPartOf":{"@id":"https://cs.unc.edu/#website"},"about":{"@id":"https://cs.unc.edu/#organization"},"primaryImageOfPage":{"@id":"https://cs.unc.edu/#primaryimage"},"image":{"@id":"https://cs.unc.edu/#primaryimage"},"thumbnailUrl":"https://cs.unc.edu/wp-content/uploads/sites/1265/2021/05/student.jpg","datePublished":"2015-12-04T15:01:10+00:00","dateModified":"2023-12-21T14:21:09+00:00","breadcrumb":{"@id":"https://cs.unc.edu/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://cs.unc.edu/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://cs.unc.edu/#primaryimage","url":"https://cs.unc.edu/wp-content/uploads/sites/1265/2021/05/student.jpg","contentUrl":"https://cs.unc.edu/wp-content/uploads/sites/1265/2021/05/student.jpg","width":720,"height":942,"caption":"smiling student with a laptop"},{"@type":"BreadcrumbList","@id":"https://cs.unc.edu/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://cs.unc.edu/#website","url":"https://cs.unc.edu/","name":"UNC Computer Science","description":"","publisher":{"@id":"https://cs.unc.edu/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://cs.unc.edu/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://cs.unc.edu/#organization","name":"UNC Computer Science","url":"https://cs.unc.edu/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://cs.unc.edu/#/schema/logo/image/","url":"https://cs.unc.edu/wp-content/uploads/sites/1265/2021/07/ComputerScience_logo_rgb_h.png","contentUrl":"https://cs.unc.edu/wp-content/uploads/sites/1265/2021/07/ComputerScience_logo_rgb_h.png","width":1186,"height":151,"caption":"UNC Computer Science"},"image":{"@id":"https://cs.unc.edu/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/unccompsci/","https://twitter.com/unccs"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cs.unc.edu' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//its.unc.edu' />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/cs.unc.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-cookie-banner/./dist/cookie-banner.css?ver=349e4245aac024692757">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=6.2.4">
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel="stylesheet" href="https://cs.unc.edu/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-utility-bar/blocks/alert-banner/build/frontend/alert-banner-frontend.css?ver=7c4aadf73ce21e08e1ee">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.4.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/wp-views/public/css/views-frontend.css?ver=3.6.11">
+<style id='view_editor_gutenberg_frontend_assets-inline-css' type='text/css'>
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-utility-bar/build/frontend/index.css?ver=2.0.8">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-easy-bootstrap-shortcode/dist/libs/libs.css?ver=1.1.11">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-easy-bootstrap-shortcode/dist/public/public.css?ver=1.1.11">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/unc-easy-bootstrap-shortcode/dist/shortcodes.css?ver=1.1.11">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/themes/heelium/assets/css/main.min.css?ver=1b0ce61c5fc3fcb15a852afd3b55d43d">
+<style id='roots_main-inline-css' type='text/css'>
+
+body{
+background-color:#ffffff;
+background-image: url();
+background-attachment: fixed;
+background-size: cover;
+}
+.abovefold {
+background-color:#4b9cd3;
+background-image: url();
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+width: 100%;
+}
+.abovefold a{color:#020202;}
+</style>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/wp-views/vendor/toolset/common-es/public/toolset-common-es-frontend.js?ver=168000" id="toolset-common-es-frontend-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca" id="wp-dom-ready-js"></script>
+<script type="text/javascript" id="alert-banner-frontend-script-js-extra">
+/* <![CDATA[ */
+var alertBannerFrontendScriptVars = {"restUrl":"https:\/\/cs.unc.edu\/wp-json\/utility-bar-alert-service\/v1\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/unc-utility-bar/blocks/alert-banner/build/frontend/alert-banner-frontend.js?ver=7c4aadf73ce21e08e1ee" id="alert-banner-frontend-script-js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/container-query-polyfill@1/dist/container-query-polyfill.modern.js?ver=2.0.8" id="container-query-polyfill-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/unc-easy-bootstrap-shortcode/dist/libs/libs.js?ver=1.1.11" id="unc-ebs-libs-js"></script>
+<script id="unc-ub-script" type="text/javascript" src="https://its.unc.edu/web-assets/utility-bar/utility-bar.min.js" id="unc-ub-script-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/themes/heelium/assets/js/vendor/modernizr-2.7.0.min.js" id="modernizr-js"></script>
+<link rel="https://api.w.org/" href="https://cs.unc.edu/wp-json/" /><link rel="alternate" type="application/json" href="https://cs.unc.edu/wp-json/wp/v2/pages/5" /><link rel="alternate" type="application/json+oembed" href="https://cs.unc.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcs.unc.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://cs.unc.edu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fcs.unc.edu%2F&#038;format=xml" />
+	<style>
+	#wp-admin-bar-asu_support_enabled {
+		background-color: #E00000!important;
+	}
+	</style>
+<meta name="id" content="5" /><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://cs.unc.edu"><link rel="alternate" href="https://cs.unc.edu/wp-json/tribe/events/v1/" />    <style type="text/css">
+
+        .bg-primary, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus, .label-primary, .nav-tabs li a:hover{
+            background-color: #007fae;
+		}
+		.btn-primary {
+			background-color: #007fae;
+		}
+		.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus{
+			background-color: #007fae;
+		}
+        .panel-primary {
+            border-color: #007fae;
+        }
+        .btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active, .progress-bar, .pagination>.active>a, .pagination>.active>span, .pagination>.active>a:hover, .pagination>.active>span:hover, .pagination>.active>a:focus, .pagination>.active>span:focus, a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus, .panel-primary>.panel-heading {
+            background-color:;
+            border-color:;
+        }
+
+        .navbar-default {
+            background-color:#007fae;
+            border-color:#007fae;
+        }
+
+         .text-primary, .btn-primary .badge, .btn-link, .pagination>li>a, .pagination>li>span, a.list-group-item.active>.badge, .nav-pills>.active>a>.badge, .navbar-inverse .navbar-brand, .navbar-inverse .caret, .header-logo a:hover, .brand-logo a:hover, footer .widget ul>li:last-child a, footer ol.vcalendar li a, footer .widget ul li a, footer .widget ul li a:link, .widget ul.dropdown-menu li.active a:hover, footer.content-info a:hover, footer.content-info a {
+            color:#007fae;
+		}
+
+		a {
+			color:;
+		}
+		.widget ul li a:hover {
+			color:;
+		}
+
+        .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+            border-top-color: #007fae;
+            border-right-color-value: #007fae;
+            border-bottom-color: #007fae;
+            border-left-color-value: #007fae;
+        }
+
+        footer .widget ul>li a:hover, footer .widget ul>li:last-child a:hover {color: #fff;}
+
+        .btn-primary:hover,<div class="btn-primary:focus">	</div> {
+            background-color:#007fae;
+        }
+
+        .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li.active > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+            background-color:;
+        }
+
+        .navbar-default .navbar-toggle {
+            border-color: ;
+        }
+
+        a:hover, a:focus, footer.content-info a:hover {
+            color: #007fae;
+        }
+
+
+
+
+    </style>
+                    
+          <style type="text/css">
+              .single #feat-img-h, article.media #feat-img-h {display: none;}
+              .abovefold-container .search-form {}
+          </style>
+
+      					<!-- Google Analytics tracking code output by Beehive Analytics -->
+						<script async src="https://www.googletagmanager.com/gtag/js?id=G-B08WQY3TDW&l=beehiveDataLayer"></script>
+		<script>
+						window.beehiveDataLayer = window.beehiveDataLayer || [];
+			function beehive_ga() {beehiveDataLayer.push(arguments);}
+			beehive_ga('js', new Date())
+						beehive_ga('config', 'G-B08WQY3TDW', {
+				'anonymize_ip': false,
+				'allow_google_signals': false,
+			})
+						beehive_ga('config', 'G-QJ1J5K2LGD', {
+				'anonymize_ip': false,
+				'allow_google_signals': false,
+			})
+					</script>
+		 <script> window.addEventListener("load",function(){ var c={script:false,link:false}; function ls(s) { if(!['script','link'].includes(s)||c[s]){return;}c[s]=true; var d=document,f=d.getElementsByTagName(s)[0],j=d.createElement(s); if(s==='script'){j.async=true;j.src='https://cs.unc.edu/wp-content/plugins/wp-views/vendor/toolset/blocks/public/js/frontend.js?v=1.6.9';}else{ j.rel='stylesheet';j.href='https://cs.unc.edu/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css?v=1.6.9';} f.parentNode.insertBefore(j, f); }; function ex(){ls('script');ls('link')} window.addEventListener("scroll", ex, {once: true}); if (('IntersectionObserver' in window) && ('IntersectionObserverEntry' in window) && ('intersectionRatio' in window.IntersectionObserverEntry.prototype)) { var i = 0, fb = document.querySelectorAll("[class^='tb-']"), o = new IntersectionObserver(es => { es.forEach(e => { o.unobserve(e.target); if (e.intersectionRatio > 0) { ex();o.disconnect();}else{ i++;if(fb.length>i){o.observe(fb[i])}} }) }); if (fb.length) { o.observe(fb[i]) } } }) </script>
+	<noscript>
+		<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css">
+	</noscript><!-- Begin Custom CSS -->
+<style type="text/css">
+body{font-family:'Open Sans';font-size:16px;line-height:26px;color:#000}h1{font-size:55px}h2{font-size:40px}h4{font-size:24px}h3{color:#0A1D3C;font-weight:normal;font-size:30px;line-height:45px}h1,h2,h4,h5{color:#3e96d0;font-weight:normal}h4,h5{color:#0A1D3C}li{margin-bottom:5px}.content{padding-top:0}.input-group-btn:last-child>.btn,.input-group-btn:last-child>.btn-group{background:#C4D600}#copyright{background:#0A1D3C;color:#fff}.navbar-default{background-color:#13294b;border-color:#13294b}navbar-brand,.navbar-nav>li>a{text-shadow:none}.navbar-default .navbar-nav>li>a{color:#fff;text-transform:uppercase}.nav>li{padding:0 5px 0 5px;font-size:16px}.navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li.active>a:hover,.navbar-default .navbar-nav>li>a:focus,.navbar-default .navbar-nav>.open>a,.navbar-default .navbar-nav>.open>a:hover,.navbar-default .navbar-nav>.open>a:focus{background:#DAEB18;color:#0A1D3C}.navbar-default .navbar-nav>li>a:focus{border:1px solid #4B9CD3!important}@media (max-width:781px){.navbar-default .navbar-nav .open .dropdown-menu>li>a{color:#0A1D3C;font-size:16px}}.navbar-default .navbar-nav .open .dropdown-menu>li>a{font-size:16px}.dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus{background:#C4D600;color:#0A1D3C;font-weight:bold}.dropdown-menu>li>a:hover,.dropdown-menu>li>a:focus{background:#E5FA85;color:#0A1D3C;font-weight:bold}.navbar-default li.dropdown.open{background:#DAEB18;color:#0A1D3C}.dropdown-menu,.dropdown-menu>li>a{background:#DAEB18;color:#0A1D3C}.breadcrumbs a{color:#0A1D3C;text-decoration:underline}.breadcrumbs{font-weight:bold;margin-top:50px}.full-width-full,.full-width-boxed,.full-width-contained{border-top:solid 0 #ddd;border-bottom:solid 0 #ddd}footer.content-info{background:#13294B;margin-top:-20px;color:#4B9CD3}footer.content-info .widget h3{color:#4B9CD3;text-align:left;font-size:18px;padding:10px 0 10px 0}footer.content-info .widget a{text-decoration:underline;color:#fff}footer.content-info .widget a:hover,footer.content-info .widget a:focus{text-decoration:none}.textwidget{margin:0}.page-header{margin:50px 0 50px 0;border-bottom:0 solid #4b9cd3}.page-header h1{font-weight:normal}#feat-img-h{display:none}.pages{color:#fff;padding-top:30px}.quote{border-top:5px solid #4B9CD3;margin:60px;padding-top:20px}.pages-img img{border-radius:15px;margin-top:50px}.pages ol,.pages ul{list-style:none;counter-reset:li}.pages ul li::before{content:"\2022";color:#4B9CD3;display:inline-block;width:.8em;font-weight:bold;font-size:2.2rem}.widget ul li a{border-bottom:2px solid #C4D600;color:#13294B}.widget ul li a:link{color:#007FAE}h2.widgettitle{font-size:30px;line-height:40px}.sidebar .widget{margin-top:20px;margin-right:20px}.sidebar .widget::marker{color:transparent}.fa,.fa-brands,.fa-classic,.fa-regular,.fa-sharp,.fa-solid,.fab,.far,.fas{background:#4B9CD3;border-radius:50%;padding:12px;margin:15px 5px 0 5px;color:#13294B;font-size:25px;float:left}.fa:hover,.fa-brands:hover,.fa-classic:hover,.fa-regular:hover,.fa-sharp:hover,.fa-solid:hover,.fab:hover,.far:hover,.fas:hover{background:#C4D600}#parallax-section,#feat-img-h{height:680px;background-position:top}.tagline-section{background-color:#13294B;color:#C4D600;opacity:.95;margin:460px -20px 0 -20px}.tagline-text{padding:40px 20% 0 20%;text-align:center;color:#C4D600;font-size:40px}.btn-group-homepage{padding-bottom:150px;margin-left:150px;margin-top:-50px;line-height:22px;text-decoration:underline}.btn-group-homepage a{color:#13294B;text-decoration:none}.btn-group-homepage p{width:170px}.btn-group-homepage .blue1,.btn-group-homepage .blue2,.btn-group-homepage .blue3,.btn-group-homepage .blue4{padding:20px 20px;cursor:pointer;float:left;font-size:18px;text-transform:uppercase;letter-spacing:2px}.blue1{background:#4B9CD3;border:1px solid #4B9CD3;border-radius:8px 0 0 8px}.blue2{background:#55ABE6;border:1px solid #55ABE6}.blue3{background:#4B9CD3;border:1px solid #4B9CD3}.blue4{background:#55ABE6;border:1px solid #55ABE6;border-radius:0 8px 8px 0}.blue1:hover,.blue2:hover,.blue3:hover,.blue4:hover{background:#DAEB18;text-decoration:underline}@media only screen and (max-width:600px){.tagline-section{height:300px}.tagline-text{font-size:22px;line-height:40px}.btn-group-homepage{margin:75px auto;min-height:350px;width:200px}.blue1{border-radius:8px 8px 0 0}.blue4{border-radius:0 0 8px 8px}}@media only screen and (min-width:601px){.tagline-section{height:250px}.tagline-text{font-size:35px;line-height:45px}#parallax-section,#feat-img-h{background-attachment:inherit}.btn-group-homepage{padding-bottom:150px;width:430px;margin:40px auto;padding-bottom:150px}.blue1{border-radius:8px 0 0 0}.blue2{border-radius:0 8px 0 0}.blue3{border-radius:0 0 0 8px}.blue4{border-radius:0 0 8px 0}}@media only screen and (min-width:1000px){.btn-group-homepage{width:850px;margin:20px auto}.blue1{border-radius:8px 0 0 8px}.blue2,.blue3{border-radius:0}.blue4{border-radius:0 8px 8px 0}}.whycs h2{color:#fff;margin-left:50px}.whycs p{font-size:27px;color:#fff;letter-spacing:.07em;line-height:38px;padding-top:24px;margin-left:50px}.events h2{color:#13294B}.events{margin-top:80px;margin-bottom:80px}.tribe-mini-calendar-event{width:32%!important;float:left;border-bottom:0!important;margin-bottom:50px!important;padding-right:1%}.tribe-mini-calendar-event .list-date{background:#13294B!important;color:#C4D600!important;padding:0!important;border-radius:5px}.list-daynumber{color:#C4D600!important;background:#13294B}.list-dayname{background:#4B9CD3!important;color:#13294B!important}@media only screen and (max-width:601px){.tribe-mini-calendar-event{width:100%!important}}p.tribe-events-widget-link{display:none}.tribe-events-duration{text-transform:uppercase}.tribe-mini-calendar-event .list-info h2,.tribe-mini-calendar-event .list-info h2 a{text-transform:none;line-height:22px;text-decoration:none;font-size:18px;font-weight:normal}.tribe-mini-calendar-event .list-info h2 a:hover{text-decoration:underline}h1.tribe-events-single-event-title,.tribe-events-schedule h2,h2.tribe-events-single-section-title,.tribe-events-related-events-title{color:#13294B}#tribe-events .tribe-events-before-html{display:none}section#comments{display:none}.tribe-events .tribe-events-calendar-day__event-featured-image-link,.tribe-events .tribe-events-calendar-list__event-featured-image{border-radius:5px}.tribe-events-event-image img{border-radius:5px}.single-tribe_events .tribe-events-single-event-title{font-size:2.7em}.single-tribe_events .tribe-events-event-meta{background:#fff}.green{font-size:18px;text-transform:uppercase;margin-top:20px;letter-spacing:2px;background:#C4D600;padding:10px 15px 10px 15px;border-radius:10px;color:#13294B;border:0;text-align:center;width:200px}.green a{color:#13294B;text-decoration:none}.green:hover,button.green:hover a{color:#13294B;background:#DAEB18;text-decoration:underline}.blue{font-size:18px;text-transform:uppercase;margin-top:20px;letter-spacing:2px;background:#13294B;padding:10px 20px 10px 20px;border-radius:10px;color:#fff;border:0;text-align:center}.blue a{color:#fff;text-decoration:none}.blue:hover,.blue:hover a{color:#13294B;background:#4B9CD3;text-decoration:underline}.carolinablue{background:#4B9CD3;padding:10px 20px 10px 20px;border-radius:10px;font-size:18px;text-transform:uppercase;margin-top:20px;letter-spacing:2px;border:1px solid #4B9CD3;width:170px;float:left;text-align:center}.carolinablue a{color:#13294B!important;text-decoration:none!important}.carolinablue:hover,.carolinablue:hover a{text-decoration:underline!important;background:#C4D600}.alumni h2{color:#C4D600}.alumnievents{min-height:300px}.alumnievents h2,.alumni-join h2{color:#13294B}.alumni-join h2{font-weight:bold}.btn-group-green{font-size:18px;text-transform:uppercase;margin:-40px auto;letter-spacing:2px}.greenpanel1,.greenpanel2{padding:40px 40px;font-size:25px;width:280px;float:left;letter-spacing:4px}.greenpanel1 a,.greenpanel2 a{color:#13294B;text-decoration:none;text-align:center}.greenpanel1 p,.greenpanel2 p{text-align:center}.greenpanel1{background:#CEE108;border-left:2px solid #DAEB18;border-right:1px solid transparent;border-top:1px solid #DAEB18;border-bottom:1px solid transparent}.greenpanel2{background:#DAEB18;border:1px solid #CEE108}.greenpanel1:hover,.greenpanel2:hover{background:#4B9CD3;text-decoration:underline}.btn-group-green hr{margin-top:28px;margin-bottom:28px;border-top:5px solid #fff}@media only screen and (max-width:600px){.greenpanel1,.greenpanel2{margin-left:40px}.btn-group-green{min-height:785px;width:360px;margin:0 auto;margin-top:-40px}}@media only screen and (min-width:601px){.btn-group-green{min-height:370px;margin:0 auto;width:565px;margin-top:-40px}}@media only screen and (min-width:1200px){.btn-group-green{margin-left:0;min-height:165px;width:100%;margin-top:-40px}}.rowcs .col-12.col-md-6{margin-bottom:50px}.rowcs h2{text-transform:uppercase;margin-left:50px;color:#000}.rowcs p{margin-left:50px;font-size:18px;line-height:30px}.rowcs img{border-radius:20px}@media only screen and (max-width:600px){.rowcs h2{font-size:40px}}.news-section h2{color:#fff}.headlines h3,.headlines h3 a{color:#13294B;font-weight:normal;margin-bottom:5px;font-size:25px;line-height:35px}.newsdate{color:#007eb5;text-transform:uppercase;margin:10px 0}button.tribe-common-c-btn.tribe-events-c-search__button{background:#C4D600;color:#13294B;text-transform:uppercase}button.tribe-common-c-btn.tribe-events-c-search__button:hover{color:#13294B;background:#DAEB18;text-decoration:underline}.panel-default>.panel-heading{background-color:transparent}.accordion-toggle.oscitas-bootstrap-container{width:auto}.panel.panel-default.oscitas-bootstrap-container{border-color:#3e96d0;width:fit-content}.panel-group content-toggle oscitas-bootstrap-container{padding:0}.panel-default>.panel-heading+.panel-collapse>.panel-body{border:1px solid transparent!important}main{margin-bottom:40px}.homepage-events .tribe-event-image{height:200px;overflow:hidden;position:relative}.homepage-events .tribe-event-image img{position:absolute;top:50%;transform:translate(0,-50%)}.news-template .news-image .wp-post-image{width:1095px;height:400px}.news-image img{object-fit:scale-down}.homepage-featured-news-img{max-height:250px;object-fit:contain}.single-tribe_events .tribe-events-event-image img{max-height:400px;object-fit:contain}.single-tribe_events p.tribe-events-back{margin-top:20px}.page-id-24359 .featured-event img{max-height:450px;object-fit:contain;margin-bottom:0}.wp-caption.alignleft{margin:15px 15px 15px 0}.wp-caption.alignright{margin:15px 0 15px 15px}th.job-postings{padding:8px;font-size:11pt;font-weight:bold;color:#fff;background-color:#13294b}td.job-postings{padding:8px;font-size:11pt}tr.job-postings:nth-child(even){background-color:#f2f2f2}.page-id-26877 .form-group select.height-120{margin-top:0;height:120px}.home h3.tribe-events-widget-events-list__event-title a{color:#007fae}.single-tribe_events a{color:#007fae}.res-area-icon{float:left;max-width:25%;padding-right:20px;padding-bottom:5px}</style><!-- End Custom CSS -->
+
+  <link rel="alternate" type="application/rss+xml" title="Computer Science Feed" href="https://cs.unc.edu/feed/">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="https://cs.unc.edu/wp-content/themes/heelium/assets/img/ss_img_unc_favicon.ico" />
+</head>
+<body class="home page-template page-template-templates page-template-front-page page-template-templatesfront-page-php page utility-bar-displayed alert-unpublished unc-utility-bar-plugin-enabled tribe-no-js page-template-heelium">
+
+
+<!--[if lt IE 8]>
+<div class="alert alert-warning">
+    You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+<![endif]-->
+<div class="container-fluid">
+    <div class="row">
+        		<a class="skiptarget" href="#maincontent">Skip to main content</a>
+		<div id="abovefold" class="abovefold" role="banner">
+	<div class="abovefold-container container">
+		<div class="row">
+			<div class="col-sm-8">
+	
+	<div class="header-logo">
+		<a href='https://cs.unc.edu' title='Computer Science' rel='home'><img src='https://cs.unc.edu/wp-content/uploads/sites/1265/2021/06/ComputerScience_logo_white_h-smaller.png' alt='Computer Science'></a>
+		</div>
+
+		</div>
+
+
+		<div class="col-sm-4">
+		<form role="search" method="get" class="search-form form-inline" action="https://cs.unc.edu/">
+	<div class="input-group">
+		<input type="search" aria-label="Search this site" id="search" value="" name="s" class="search-field form-control" placeholder="Search this site...">
+		<span class="input-group-btn">
+			<button aria-labelledby="header-search" id="Submit" class="search-submit btn btn-default"><span class="glyphicon glyphicon-search"></span><span id="header-search" class="hidden">Submit Search</span>
+			</button>
+		</span>
+	</div>
+</form>			</div>
+		</div>
+	</div>
+</div>
+
+<header>
+<div id="nav"  role="navigation" aria-label="main" class="dualheader banner navbar navbar-default navbar-static-top ">
+	<div class="navbar-container container">
+		<div class="">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+				<a class="navbar-brand" href="https://cs.unc.edu/">Computer Science</a>
+				</div>
+
+		<div class="row">
+			<nav class="collapse navbar-collapse">
+			<!-- start primary navigation --><ul id="menu-primary-navigation" class="nav navbar-nav"><li class="dropdown menu-about"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">About <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-people"><a href="https://cs.unc.edu/about/people/">People</a></li>
+	<li class="menu-rankings"><a href="https://cs.unc.edu/about/rankings/">Rankings</a></li>
+	<li class="menu-why-unc-cs"><a href="https://cs.unc.edu/about/why-cs/">Why UNC CS?</a></li>
+	<li class="menu-awards"><a href="https://cs.unc.edu/about/awards/">Awards</a></li>
+	<li class="menu-diversity-equity-inclusion"><a href="https://cs.unc.edu/about/dei/">Diversity, Equity &amp; Inclusion</a></li>
+	<li class="menu-faculty-hiring"><a href="https://cs.unc.edu/about/faculty-hiring/">Faculty Hiring</a></li>
+	<li class="menu-history"><a href="https://www.cs.unc.edu/History/index.html">History</a></li>
+</ul>
+</li>
+<li class="dropdown menu-research"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">Research <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-research-philosophy"><a href="https://cs.unc.edu/research/philosophy/">Research Philosophy</a></li>
+	<li class="menu-research-areas"><a href="https://cs.unc.edu/research/areas/">Research Areas</a></li>
+	<li class="menu-research-groups"><a href="https://cs.unc.edu/research/groups/">Research Groups</a></li>
+	<li class="menu-laboratories-facilities"><a href="https://cs.unc.edu/research/facilities/">Laboratories &amp; Facilities</a></li>
+	<li class="menu-entrepreneurship"><a href="https://cs.unc.edu/research/entrepreneurship/">Entrepreneurship</a></li>
+	<li class="menu-research-support"><a href="https://cs.unc.edu/research/research-support/">Research Support</a></li>
+	<li class="menu-results-products-intellectual-property"><a href="https://cs.unc.edu/research/ip/">Results, Products &amp; Intellectual Property</a></li>
+	<li class="menu-undergraduate-research"><a href="https://cs.unc.edu/undergraduate/undergraduate-research/">Undergraduate Research</a></li>
+</ul>
+</li>
+<li class="dropdown menu-graduate"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">Graduate <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-overview"><a href="https://cs.unc.edu/graduate/graduate-overview/">Overview</a></li>
+	<li class="menu-course-offerings"><a href="https://cs.unc.edu/graduate/course-offerings/">Course Offerings</a></li>
+	<li class="menu-admission-to-graduate-programs"><a href="https://cs.unc.edu/graduate/graduate-admissions/">Admission to Graduate Programs</a></li>
+	<li class="menu-doctor-of-philosophy"><a href="https://cs.unc.edu/graduate/phd/">Doctor of Philosophy</a></li>
+	<li class="menu-master-of-science"><a href="https://cs.unc.edu/graduate/ms/">Master of Science</a></li>
+	<li class="menu-graduate-minor-in-computer-science"><a href="https://cs.unc.edu/graduate/graduate-overview#gradminor">Graduate Minor in Computer Science</a></li>
+</ul>
+</li>
+<li class="dropdown menu-undergraduate"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">Undergraduate <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-overview"><a href="https://cs.unc.edu/undergraduate/">Overview</a></li>
+	<li class="menu-course-offerings"><a href="https://cs.unc.edu/graduate/course-offerings/">Course Offerings</a></li>
+	<li class="menu-major-minor-admissions"><a href="https://cs.unc.edu/undergraduate/cs-admissions/">Major / Minor Admissions</a></li>
+	<li class="menu-degrees-and-requirements"><a href="https://cs.unc.edu/undergraduate/degrees/">Degrees and Requirements</a></li>
+	<li class="menu-undergraduate-advising"><a href="https://cs.unc.edu/undergraduate/ug-advising/">Undergraduate Advising</a></li>
+	<li class="menu-undergraduate-courses-for-non-cs-majors"><a href="https://cs.unc.edu/undergraduate/courses-for-non-majors/">Undergraduate Courses for Non-CS Majors</a></li>
+	<li class="menu-undergraduate-research"><a href="https://cs.unc.edu/undergraduate/undergraduate-research/">Undergraduate Research</a></li>
+	<li class="menu-learning-contracts-and-internships"><a href="https://cs.unc.edu/undergraduate/learning-contracts/">Learning Contracts and Internships</a></li>
+	<li class="menu-course-lecture-recordings"><a href="https://cs.unc.edu/undergraduate/lecture-archive/">Course Lecture Recordings</a></li>
+</ul>
+</li>
+<li class="dropdown menu-student-experience"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">Student Experience <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-overview"><a href="https://cs.unc.edu/experience/">Overview</a></li>
+	<li class="menu-unc-cs-clubs"><a href="https://cs.unc.edu/experience/cs-clubs/">UNC CS Clubs</a></li>
+	<li class="menu-career-services"><a href="https://cs.unc.edu/experience/career/">Career Services</a></li>
+	<li class="menu-cs-experience-labs-csxl"><a href="https://cs.unc.edu/experience/experience-labs/">CS Experience Labs (CSXL)</a></li>
+	<li class="menu-study-abroad-program"><a href="https://cs.unc.edu/experience/study-abroad/">Study Abroad Program</a></li>
+</ul>
+</li>
+<li class="dropdown menu-news"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">News <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-news-headlines"><a href="https://cs.unc.edu/news/news-headlines/">News Headlines</a></li>
+	<li class="menu-media-contacts"><a href="https://cs.unc.edu/news/media-contacts/">Media Contacts</a></li>
+	<li class="menu-publications"><a href="https://cs.unc.edu/news/publications/">Publications</a></li>
+	<li class="menu-commencement"><a href="https://cs.unc.edu/commencement/">Commencement</a></li>
+</ul>
+</li>
+<li class="dropdown menu-engage"><a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="false" data-target="#" href="#">Engage <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-events"><a href="/events/">Events</a></li>
+	<li class="menu-alumni"><a href="https://cs.unc.edu/alumni/">Alumni</a></li>
+	<li class="menu-industry-partners"><a href="https://cs.unc.edu/partners/">Industry Partners</a></li>
+	<li class="menu-community-outreach"><a href="https://cs.unc.edu/news/community-outreach/">Community Outreach</a></li>
+	<li class="menu-visiting-unc-cs"><a href="https://cs.unc.edu/about/visiting/">Visiting UNC CS</a></li>
+	<li class="menu-contact-us"><a href="https://cs.unc.edu/about/contact-us/">Contact Us</a></li>
+	<li class="menu-give-to-unc-cs"><a href="https://cs.unc.edu/give/">Give to UNC CS</a></li>
+</ul>
+</li>
+</ul><!-- end primary navigation -->			</nav>
+		</div>
+	</div>
+		</div>
+</header>    </div>
+        <div class="row">
+            <script>
+
+    (function($) {
+        $("body, html").addClass("heels_full_width_overflow");
+    })(jQuery);
+
+   </script>
+   <div style="background-color:#f5f5f5; background-image: url(https://cs.unc.edu/wp-content/uploads/sites/1265/2023/03/sitt_entrance_wide.jpg);" data-speed="18" id="parallax-section" data-type="background" class="full-width-contained whitebackground "><div class="tagline-section"><div class="tagline-text">World-class research and exceptional graduate<br>and undergraduate education</div></div></div>
+        </div>
+
+    <div class="wrap row">
+
+        <div class="content container">
+                        <div class="row ">
+				<div class="skiptarget"><a id="maincontent" tabindex="-1"></a></div>
+                <main class="main col-sm-12">
+                      
+
+
+<div id="wpv-view-layout-424-TCPID5" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-424-TCPID5" data-viewnumber="424-TCPID5" data-pagination="{&quot;id&quot;:&quot;424&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://cs.unc.edu/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=424-TCPID5&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=424-TCPID5">
+
+	
+	
+	
+		<div class="btn-group-homepage">
+   <div class="blue1"><a href="https://cs.unc.edu/experience/career/"><p><img loading="lazy" decoding="async" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/06/people.png"  alt="computer icon" width="30" height="30" style="float:left; margin-right:5px" /> Career Services</p></a></div>
+   <div class="blue2"><a href="https://cs.unc.edu/graduate/course-offerings/"><p><img loading="lazy" decoding="async" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/06/schedule.png" alt="schedule icon" width="30" height="30" style="float:left; margin-right:5px" /> Course Schedules</p></a></div>
+   <div class="blue3"><a href="/about/faculty-hiring/"><p><img loading="lazy" decoding="async" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/06/people.png" alt="people icon" width="30" height="30" style="float:left; margin-right:5px" /> Faculty Hiring</p></a></div>
+   <div class="blue4"><a href="/events/"><p><img loading="lazy" decoding="async" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/06/calendar.png" alt="calendar icon" width="30" height="30" style="float:left; margin-right:5px" /> Upcoming Events</p></a></div></div>
+	
+	
+	
+	
+</div>
+
+
+<h2>News</h2>
+
+
+
+<div id="wpv-view-layout-25790" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-25790" data-viewnumber="25790" data-pagination="{&quot;id&quot;:&quot;25790&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://cs.unc.edu/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=25790&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=25790">
+
+	
+	
+	
+		<div class="featured-news">
+  <div class="row">
+    <div class="col-6 col-sm-4"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-1024x768.jpg" class="attachment-large size-large homepage-featured-news-img wp-post-image" alt="" srcset="https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-1024x768.jpg 1024w, https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-300x225.jpg 300w, https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-768x576.jpg 768w, https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-1536x1152.jpg 1536w, https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/jialu-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px"></div>
+   <div class="col-6 col-sm-8"><h3><a href="https://cs.unc.edu/news-article/unc-css-impactful-contributions-at-neurips-2023/">UNC CS’s impactful contributions at NeurIPS 2023</a></h3>January 23, 2024
+     <p>UNC Computer Science researchers made a splash at the 2023 Conference and Workshop on Neural Information Processing Systems (NeurIPS). Current and future UNC CS personnel had 14 papers accepted.</p>
+</div>
+  </div></div>
+
+
+
+	
+		<div class="featured-news">
+  <div class="row">
+    <div class="col-6 col-sm-4"><img loading="lazy" decoding="async" width="702" height="487" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/robot.jpg" class="attachment-large size-large homepage-featured-news-img wp-post-image" alt="" srcset="https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/robot.jpg 702w, https://cs.unc.edu/wp-content/uploads/sites/1265/2024/01/robot-300x208.jpg 300w" sizes="(max-width: 702px) 100vw, 702px"></div>
+   <div class="col-6 col-sm-8"><h3><a href="https://www.nature.com/articles/s41591-023-02740-7">The next generation of robotic surgery is emerging: but is it better than a human?</a></h3>January 19, 2024 | Nature Medicine
+     <p>High financial costs and limited evidence restrict the adoption of robotic surgery, but new uses for robots and attempts to assess efficacy could widen access.</p>
+</div>
+  </div></div>
+
+
+
+	
+		<div class="featured-news">
+  <div class="row">
+    <div class="col-6 col-sm-4"><img loading="lazy" decoding="async" width="935" height="223" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/rPPG-motion-augmentation.jpg" class="attachment-large size-large homepage-featured-news-img wp-post-image" alt="A composite image shows a single frame from three different videos: a training video with a man constraining his motion, a driving video of a woman speaking, and a motion-augmented video of the man from the first video speaking" srcset="https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/rPPG-motion-augmentation.jpg 935w, https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/rPPG-motion-augmentation-300x72.jpg 300w, https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/rPPG-motion-augmentation-768x183.jpg 768w" sizes="(max-width: 935px) 100vw, 935px"></div>
+   <div class="col-6 col-sm-8"><h3><a href="https://cs.unc.edu/news-article/unc-cs-presents-computer-vision-research-at-wacv-2024/">UNC CS presents computer vision research at WACV 2024</a></h3>December 18, 2023
+     <p>UNC CS researchers had two publications accepted at WACV 2023, one of which was selected for an oral presentation, a distinction reserved for the top 2.6 percent of papers at the conference.</p>
+</div>
+  </div></div>
+
+
+
+	
+		<div class="featured-news">
+  <div class="row">
+    <div class="col-6 col-sm-4"><img loading="lazy" decoding="async" width="1024" height="576" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/Pramit-1024x576.jpg" class="attachment-large size-large homepage-featured-news-img wp-post-image" alt="Pramit Thapa" srcset="https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/Pramit-1024x576.jpg 1024w, https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/Pramit-300x169.jpg 300w, https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/Pramit-768x432.jpg 768w, https://cs.unc.edu/wp-content/uploads/sites/1265/2023/12/Pramit.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px"></div>
+   <div class="col-6 col-sm-8"><h3><a href="https://www.unc.edu/discover/community-connections-drive-career/#new_tab">Community connections drive career [CS major Pramit Thapa featured by UNC]</a></h3>December 14, 2023 | UNC Discover
+     <p>Winter graduate Pramit Thapa hopes to use his computer science experience to give back to the Nepalese community.</p>
+</div>
+  </div></div>
+
+
+
+	
+	
+	
+	
+</div>
+    <div align="center"><button class="green" style="margin-bottom:40px; margin-left: auto; margin-right: 20px;"><a href="/news/news-headlines/">View All News</a></button><button class="green" style="margin-bottom:40px; margin-left: 20px; margin-right: auto;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSev6Mt7h1ybmfW0OeMrk_84lrg9nJuOR3j4bd0vZO8IQfUkDQ/viewform?usp=sf_link">Share News</a></button></div>
+<script>
+
+    (function($) {
+        $("body, html").addClass("heels_full_width_overflow");
+    })(jQuery);
+
+   </script>
+   <div style="background-color:#13294b;" class="full-width-contained whitebackground whycs">
+<div class="row">
+<div class="col-xs-12 col-md-6">
+<h2 style="margin-top: 48px">Why Computer Science</h2>
+<p>UNC Computer Science faculty and students describe the department in their own words.</p>
+</div>
+<div class="col-xs-12 col-md-6">
+<!-- iframe plugin v.4.9 wordpress.org/plugins/iframe/ -->
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/u4FBRxHk5po" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 0="allowfullscreen" scrolling="yes" class="iframe-class"></iframe>
+</div>
+</div>
+</div>
+<script>
+
+    (function($) {
+        $("body, html").addClass("heels_full_width_overflow");
+    })(jQuery);
+
+   </script>
+   <div style="background-color:#4B9CD3;" class="full-width-contained whitebackground ">
+<div class="rowcs">
+<div class="col-12 col-md-7">
+<h2 style="font-size: 36px;margin-top: 60px">We Are UNC Computer Science</h2>
+<p style="font-weight: 400">The Department of Computer Science at UNC-Chapel Hill, a top-4 public research university, drives positive impact through groundbreaking research by award-winning faculty. By emphasizing interdisciplinary collaboration and real-world applications, our robust research connections across campus provide unmatched opportunities for study, research, and professional growth. We work to advocate for equitable opportunities to increase accessibility, visibility, and belonging within the department and the field.</p>
+<p style="font-weight: 400">We invite you to join UNC Computer Science in shaping the future of technology.</p>
+</div>
+<div class="col-12 col-md-5">
+<p><img loading="lazy" decoding="async" class="alignnone" src="https://cs.unc.edu/wp-content/uploads/sites/1265/2021/05/student.jpg" alt="Charlie Helms (Class of 2020) in Sitterson Hall" width="720" height="942" /></p>
+<div style="text-align: right;font-size: 13px;line-height: 1.3"><em>Charlie Helms (Class of 2020)<br />
+Co-founder, UNC Black in Technology Club | Program Manager, Microsoft</em></div>
+</div>
+</div>
+<div style="clear: both"></div>
+</div>
+
+
+
+<div id="wpv-view-layout-429-TCPID5" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-429-TCPID5" data-viewnumber="429-TCPID5" data-pagination="{&quot;id&quot;:&quot;429&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://cs.unc.edu/wp-content/plugins/wp-views/embedded/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;enabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=429-TCPID5&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=429-TCPID5">
+
+	
+	
+	
+		<script>
+
+    (function($) {
+        $("body, html").addClass("heels_full_width_overflow");
+    })(jQuery);
+
+   </script>
+   <div style="background-color:#E4F52E;" class="full-width-contained whitebackground ">
+<div class="btn-group-green">
+<div class="greenpanel1"><hr /><p><a href="/experience/career/">Career Services</a></p></div>
+<div class="greenpanel2"><hr /><p><a href="/experience/study-abroad">Study Abroad</a></p></div>
+  <div class="greenpanel1"><hr /><p><a href="/experience/student-services/">Student Services</a></p></div>
+  <div class="greenpanel2"><hr /><p><a href="/news/partners/">Corporate Partners</a></p></div>
+</div>
+</div>
+	
+	
+	
+	
+</div>
+
+<div class="events">
+<h2>Events</h2>
+<div class="event-row homepage-events"><div  class="tribe-compatibility-container" >
+	<div
+		 class="tribe-common tribe-events tribe-events-view tribe-events-view--widget-events-list tribe-events-widget" 		data-js="tribe-events-view"
+		data-view-rest-url="https://cs.unc.edu/wp-json/tribe/views/v2/html"
+		data-view-manage-url="1"
+							data-view-breakpoint-pointer="3ca45470-b4c2-45ff-940a-93e49e462d20"
+			>
+		<div class="tribe-events-widget-events-list">
+
+			
+			<script data-js="tribe-events-view-data" type="application/json">
+	{"slug":"widget-events-list","prev_url":"","next_url":"https:\/\/cs.unc.edu\/?post_type=tribe_events&eventDisplay=widget-events-list&paged=2","view_class":"Tribe\\Events\\Views\\V2\\Views\\Widgets\\Widget_List_View","view_slug":"widget-events-list","view_label":"View","view":null,"should_manage_url":true,"id":null,"alias-slugs":null,"title":"Department of Computer Science - Computer Science","limit":"3","no_upcoming_events":false,"featured_events_only":null,"jsonld_enable":false,"tribe_is_list_widget":true,"admin_fields":{"title":{"label":"Title:","type":"text","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-title","name":"widget-tribe-widget-events-list[-1][title]","options":[],"placeholder":"","value":null},"limit":{"label":"Show:","type":"number","default":5,"min":1,"max":10,"step":1,"classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-limit","name":"widget-tribe-widget-events-list[-1][limit]","options":[],"placeholder":"","value":null},"metadata_section":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-checkbox-group","label":"Display:","children":{"cost":{"type":"checkbox","label":"Price","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-cost","name":"widget-tribe-widget-events-list[-1][cost]","options":[],"placeholder":"","value":null},"venue":{"type":"checkbox","label":"Venue","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-venue","name":"widget-tribe-widget-events-list[-1][venue]","options":[],"placeholder":"","value":null},"street":{"type":"checkbox","label":"Street","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-street","name":"widget-tribe-widget-events-list[-1][street]","options":[],"placeholder":"","value":null},"city":{"type":"checkbox","label":"City","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-city","name":"widget-tribe-widget-events-list[-1][city]","options":[],"placeholder":"","value":null},"region":{"type":"checkbox","label":"State (US) Or Province (Int)","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-region","name":"widget-tribe-widget-events-list[-1][region]","options":[],"placeholder":"","value":null},"zip":{"type":"checkbox","label":"Postal Code","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-zip","name":"widget-tribe-widget-events-list[-1][zip]","options":[],"placeholder":"","value":null},"country":{"type":"checkbox","label":"Country","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-country","name":"widget-tribe-widget-events-list[-1][country]","options":[],"placeholder":"","value":null},"phone":{"type":"checkbox","label":"Phone","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-phone","name":"widget-tribe-widget-events-list[-1][phone]","options":[],"placeholder":"","value":null},"organizer":{"type":"checkbox","label":"Organizer","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-organizer","name":"widget-tribe-widget-events-list[-1][organizer]","options":[],"placeholder":"","value":null},"website":{"type":"checkbox","label":"Website","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-website","name":"widget-tribe-widget-events-list[-1][website]","options":[],"placeholder":"","value":null}},"dependency":"","id":"widget-tribe-widget-events-list--1-metadata_section","name":"widget-tribe-widget-events-list[-1][metadata_section]","options":[],"placeholder":"","value":null},"taxonomy_section":{"type":"section","classes":["calendar-widget-filters-container"],"label":"Filters:","children":{"filters":{"type":"taxonomy-filters","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-filters","label":"","name":"widget-tribe-widget-events-list[-1][filters]","options":[],"placeholder":"","value":null,"list_items":[]},"operand":{"type":"fieldset","classes":"tribe-common-form-control-checkbox-radio-group","label":"Operand:","selected":"OR","children":[{"type":"radio","label":"Match any","button_value":"OR","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null},{"type":"radio","label":"Match all","button_value":"AND","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}],"dependency":"","id":"widget-tribe-widget-events-list--1-operand","name":"widget-tribe-widget-events-list[-1][operand]","options":[],"placeholder":"","value":null}},"dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy_section","name":"widget-tribe-widget-events-list[-1][taxonomy_section]","options":[],"placeholder":"","value":null},"taxonomy":{"type":"taxonomy","classes":"calendar-widget-add-filter","label":"Add a filter:","placeholder":"Select a Taxonomy Term","dependency":"","id":"widget-tribe-widget-events-list--1-taxonomy","name":"widget-tribe-widget-events-list[-1][taxonomy]","options":[],"value":null},"no_upcoming_events":{"label":"Hide this widget if there are no upcoming events.","type":"checkbox","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-no_upcoming_events","name":"widget-tribe-widget-events-list[-1][no_upcoming_events]","options":[],"placeholder":"","value":null},"featured_events_only":{"label":"Limit to featured events only","type":"checkbox","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-featured_events_only","name":"widget-tribe-widget-events-list[-1][featured_events_only]","options":[],"placeholder":"","value":null},"jsonld_enable":{"label":"Generate JSON-LD data","type":"checkbox","classes":"","dependency":"","id":"widget-tribe-widget-events-list--1-jsonld_enable","name":"widget-tribe-widget-events-list[-1][jsonld_enable]","options":[],"placeholder":"","value":null}},"venue":false,"country":false,"street":false,"city":false,"region":false,"zip":false,"phone":false,"cost":false,"organizer":false,"website":false,"operand":"OR","filters":{"post_tag":[],"tribe_events_cat":[]},"address":false,"events":[10000190,10000189,10000195],"url":"https:\/\/cs.unc.edu\/?post_type=tribe_events&eventDisplay=widget-events-list","url_event_date":false,"bar":{"keyword":"","date":""},"today":"2024-02-06 00:00:00","now":"2024-02-06 21:22:56","rest_url":"https:\/\/cs.unc.edu\/wp-json\/tribe\/views\/v2\/html","rest_method":"POST","rest_nonce":"","today_url":"https:\/\/cs.unc.edu\/?post_type=tribe_events&eventDisplay=widget-events-list","today_title":"Click to select today's date","today_label":"Today","prev_label":"","next_label":"","date_formats":{"compact":"n\/j\/Y","month_and_year_compact":"n\/Y","month_and_year":"F Y","time_range_separator":" - ","date_time_separator":" @ "},"messages":[],"start_of_week":"1","header_title":"","header_title_element":"h1","content_title":"","breadcrumbs":[],"before_events":"","after_events":"\n<!--\nThis calendar is powered by The Events Calendar.\nhttp:\/\/evnt.is\/18wn\n-->\n","display_events_bar":false,"disable_event_search":false,"live_refresh":true,"ical":{"display_link":true,"link":{"url":"https:\/\/cs.unc.edu\/?post_type=tribe_events&#038;eventDisplay=widget-events-list&#038;ical=1","text":"Export Events","title":"Use this to share calendar data with Google Calendar, Apple iCal and other compatible apps"}},"container_classes":["tribe-common","tribe-events","tribe-events-view","tribe-events-view--widget-events-list","tribe-events-widget"],"container_data":[],"is_past":false,"breakpoints":{"xsmall":500,"medium":768,"full":960},"breakpoint_pointer":"3ca45470-b4c2-45ff-940a-93e49e462d20","is_initial_load":true,"public_views":{"list":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\List_View","view_url":"https:\/\/cs.unc.edu\/events-none\/list\/","view_label":"List"},"month":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Month_View","view_url":"https:\/\/cs.unc.edu\/events-none\/month\/","view_label":"Month"},"day":{"view_class":"Tribe\\Events\\Views\\V2\\Views\\Day_View","view_url":"https:\/\/cs.unc.edu\/events-none\/today\/","view_label":"Day"}},"show_latest_past":false,"compatibility_classes":["tribe-compatibility-container"],"view_more_text":"View Calendar","view_more_title":"View more events.","view_more_link":"https:\/\/cs.unc.edu\/events-none\/","widget_title":"","hide_if_no_upcoming_events":false,"display":{"cost":false,"venue":false,"street":false,"city":false,"region":false,"zip":false,"country":false,"phone":false,"organizer":false,"website":false},"subscribe_links":{"gcal":{"block_slug":"hasGoogleCalendar","label":"Google Calendar","single_label":"Add to Google Calendar","visible":true},"ical":{"block_slug":"hasiCal","label":"iCalendar","single_label":"Add to iCalendar","visible":true},"outlook-365":{"block_slug":"hasOutlook365","label":"Outlook 365","single_label":"Outlook 365","visible":true},"outlook-live":{"block_slug":"hasOutlookLive","label":"Outlook Live","single_label":"Outlook Live","visible":true},"ics":{"label":"Export .ics file","single_label":"Export .ics file","visible":true,"block_slug":null},"outlook-ics":{"label":"Export Outlook .ics file","single_label":"Export Outlook .ics file","visible":true,"block_slug":null}},"display_recurring_toggle":false,"_context":{"slug":"widget-events-list"}}</script>
+
+			
+			
+				<div class="tribe-events-widget-events-list__events">
+											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
+
+	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2024-02-07">
+		<span class="tribe-events-widget-events-list__event-date-tag-month">
+			Feb		</span>
+		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
+			7		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-widget-events-list__event post-10000190 tribe_events type-tribe_events status-publish hentry" >
+			<div class="tribe-events-widget-events-list__event-details">
+
+				<header class="tribe-events-widget-events-list__event-header">
+					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2024-02-07">
+		<span class="tribe-event-date-start">5:30 pm</span> - <span class="tribe-event-time">7:00 pm</span>	</time>
+	</div>
+					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
+	<a
+		href="https://cs.unc.edu/event/international-student-employment-workshop-with-toshiba/"
+		title="International Student Employment Workshop with Toshiba"
+		rel="bookmark"
+		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
+	>
+		International Student Employment Workshop with Toshiba	</a>
+</h3>
+				</header>
+
+				
+			</div>
+		</article>
+	</div>
+
+</div>
+											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
+
+	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2024-02-08">
+		<span class="tribe-events-widget-events-list__event-date-tag-month">
+			Feb		</span>
+		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
+			8		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-widget-events-list__event post-10000189 tribe_events type-tribe_events status-publish hentry" >
+			<div class="tribe-events-widget-events-list__event-details">
+
+				<header class="tribe-events-widget-events-list__event-header">
+					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2024-02-08">
+		All day	</time>
+	</div>
+					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
+	<a
+		href="https://cs.unc.edu/event/alumni-mock-technical-interview/"
+		title="Alumni Mock Technical Interview"
+		rel="bookmark"
+		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
+	>
+		Alumni Mock Technical Interview	</a>
+</h3>
+				</header>
+
+				
+			</div>
+		</article>
+	</div>
+
+</div>
+											<div  class="tribe-common-g-row tribe-events-widget-events-list__event-row" >
+
+	<div class="tribe-events-widget-events-list__event-date-tag tribe-common-g-col">
+	<time class="tribe-events-widget-events-list__event-date-tag-datetime" datetime="2024-02-15">
+		<span class="tribe-events-widget-events-list__event-date-tag-month">
+			Feb		</span>
+		<span class="tribe-events-widget-events-list__event-date-tag-daynum tribe-common-h2 tribe-common-h4--min-medium">
+			15		</span>
+	</time>
+</div>
+
+	<div class="tribe-events-widget-events-list__event-wrapper tribe-common-g-col">
+		<article  class="tribe-events-widget-events-list__event post-10000195 tribe_events type-tribe_events status-publish hentry" >
+			<div class="tribe-events-widget-events-list__event-details">
+
+				<header class="tribe-events-widget-events-list__event-header">
+					<div class="tribe-events-widget-events-list__event-datetime-wrapper tribe-common-b2 tribe-common-b3--min-medium">
+		<time class="tribe-events-widget-events-list__event-datetime" datetime="2024-02-15">
+		All day	</time>
+	</div>
+					<h3 class="tribe-events-widget-events-list__event-title tribe-common-h7">
+	<a
+		href="https://cs.unc.edu/event/pearl-hacks-resume-event/"
+		title="Pearl Hacks Resume Event"
+		rel="bookmark"
+		class="tribe-events-widget-events-list__event-title-link tribe-common-anchor-thin"
+	>
+		Pearl Hacks Resume Event	</a>
+</h3>
+				</header>
+
+				
+			</div>
+		</article>
+	</div>
+
+</div>
+									</div>
+
+				<div class="tribe-events-widget-events-list__view-more tribe-common-b1 tribe-common-b2--min-medium">
+	<a
+		href="https://cs.unc.edu/events-none/"
+		class="tribe-events-widget-events-list__view-more-link tribe-common-anchor-thin"
+		title="View more events."
+	>
+		View Calendar	</a>
+</div>
+
+					</div>
+	</div>
+</div>
+<script class="tribe-events-breakpoints">
+	( function () {
+		var completed = false;
+
+		function initBreakpoints() {
+			if ( completed ) {
+				// This was fired already and completed no need to attach to the event listener.
+				document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events.views ) {
+				return;
+			}
+
+			if ( 'undefined' === typeof window.tribe.events.views.breakpoints ) {
+				return;
+			}
+
+			if ( 'function' !== typeof (window.tribe.events.views.breakpoints.setup) ) {
+				return;
+			}
+
+			var container = document.querySelectorAll( '[data-view-breakpoint-pointer="3ca45470-b4c2-45ff-940a-93e49e462d20"]' );
+			if ( ! container ) {
+				return;
+			}
+
+			window.tribe.events.views.breakpoints.setup( container );
+			completed = true;
+			// This was fired already and completed no need to attach to the event listener.
+			document.removeEventListener( 'DOMContentLoaded', initBreakpoints );
+		}
+
+		// Try to init the breakpoints right away.
+		initBreakpoints();
+		document.addEventListener( 'DOMContentLoaded', initBreakpoints );
+	})();
+</script>
+<script data-js='tribe-events-view-nonce-data' type='application/json'>{"_tec_view_rest_nonce_primary":"823b8cf5e4","_tec_view_rest_nonce_secondary":""}</script></div>
+<div style="clear: both" align="center"><button class="green"><a href="/events/">View All Events</a></button></div>
+</div>
+                  </main><!-- /.main -->
+                                            </div>
+        </div><!-- /.content -->
+    </div><!-- /.wrap -->
+    <div class="row">
+            </div>
+
+    <div class="row">
+        <footer class="content-info">
+  <div class="footer-container container">
+	  <div class="row">
+		<section class="widget_text widget custom_html-3 widget_custom_html col-md-4 col-sm-6"><div class="textwidget custom-html-widget"><p><a href="https://forms.gle/3acC3JQjWEfZyjsp6">Report a Website Issue</a></p>
+
+<p><a href="https://cs.unc.edu/resources">Internal Resources</a><br />
+	<a href="https://help.unc.edu/">UNC ITS Help Desk</a><br />
+<a href="https://www.unc.edu/">UNC.edu</a></p>
+
+<p>
+	<a href="https://cs.unc.edu/wp-admin">Log In</a>
+</p>
+</div></section><section class="widget_text widget custom_html-4 widget_custom_html col-md-4 col-sm-6"><div class="textwidget custom-html-widget"><h3>About</h3>
+<p><a href="/news">News</a><br />
+	<a href="/events">Events Calendar</a></p>
+
+<h3>QUICK LINKS</h3>
+<p><a href="https://registrar.unc.edu/academic-calendar/">University Academic Calendars</a><br />
+	<a href="https://cs.unc.edu/graduate/course-offerings/">Course Schedules</a><br />
+	<a href="https://cs.unc.edu/experience/career/">Career Services</a></p></div></section><section class="widget_text widget custom_html-2 widget_custom_html col-md-4 col-sm-6"><h3>Contact</h3><div class="textwidget custom-html-widget">
+<p>The Department of Computer Science<br />
+Brooks Computer Science Building<br />
+201 S. Columbia St. CB 3175<br />
+UNC-Chapel Hill<br />
+Chapel Hill, NC 27599-3175</p>
+<br />
+<p>Phone: 919-590-6000<br />
+Fax: 919-590-6105<br />
+Email: info@cs.unc.edu
+</p></div></section><section class="widget ebsp-widget-2 ebs_custom_widget col-md-4 col-sm-6">                    <div class="ebs_widget_content">
+                        <script>
+
+    (function($) {
+        $("body, html").addClass("heels_full_width_overflow");
+    })(jQuery);
+
+   </script>
+   <div style="background-color:#0A1D3C;" class="full-width-contained whitebackground connect-footer">
+<div class="container" style="margin-top:-60px">
+<div class="row">
+   <div class="col-xs-12 col-sm-4"><h2 style="font-size: 44px;margin-top:50px;margin-bottom: 30px">Connect with CS</h2></div>
+   <div class="col-xs-12 col-sm-4" style="margin-top:30px">
+     <div class="carolinablue" style="margin-right:10px"><a href="https://give.unc.edu/donate?p=asfd&amp;d=318400">Give</a></div> 
+     <div class="carolinablue"><a href="/news/publications/news-notes/">Newsletter</a></div></div>
+   <div class="col-xs-12 col-sm-4" style="margin-top:30px"><a href="https://twitter.com/unccs"><i class="fa-brands fa-x-twitter" aria-label="Twitter"></i></a> <a href="https://www.facebook.com/unccompsci"><i class="fa fa-facebook" aria-label="facebook" style="padding:14px 17px 10px 17px"></i></a> <a href="http://www.instagram.com/unccompsci/"><i class="fa fa-instagram" aria-label="Instagram"></i></a> <a href="https://www.linkedin.com/school/unc-department-of-computer-science/"><i class="fa fa-linkedin" aria-label="LinkedIn"></i></a></div>
+  </div></div>
+</div>
+                           </div>
+                    <div class="clear"></div>
+                </section>
+	  </div>
+  </div>
+  	<div id="copyright">
+                    <p class="copyright">&copy; 2024 Computer Science</p>
+        	</div>
+</footer>
+
+<script type="text/javascript">
+const wpvViewHead = document.getElementsByTagName( "head" )[ 0 ];
+const wpvViewExtraCss = document.createElement( "style" );
+wpvViewExtraCss.textContent = '/* ----------------------------------------- *//* View slug: blue-buttons-homepage - start *//* ----------------------------------------- *//*styles in main custom .css editor *//* ----------------------------------------- *//* View slug: blue-buttons-homepage - end *//* ----------------------------------------- */<!--[if IE 7]><style>.wpv-pagination { *zoom: 1; }</style><![endif]-->';
+wpvViewHead.appendChild( wpvViewExtraCss );
+</script>
+
+<script type="text/javascript">
+const wpvCtHead = document.getElementsByTagName( "head" )[ 0 ];
+const wpvCtExtraCss = document.createElement( "style" );
+wpvCtExtraCss.textContent = '/* ----------------------------------------- *//* Content Template: loop-item-in-homepage-featured-news - start *//* ----------------------------------------- */.featured-news {margin:80px 0px 80px 0px}.featured-news img {border-radius: 10px;}.featured-news h3 {font-weight:normal; font-size:25px;  line-height:35px; margin-top:10px}.featured-news a:hover {text-decoration:none;}/* ----------------------------------------- *//* Content Template: loop-item-in-homepage-featured-news - end *//* ----------------------------------------- *//* ----------------------------------------- *//* Content Template: footer-one - start *//* ----------------------------------------- */footer.content-info h2 {    font-size: 50px;}/* ----------------------------------------- *//* Content Template: footer-one - end *//* ----------------------------------------- */';
+wpvCtHead.appendChild( wpvCtExtraCss );
+</script>
+<script type="text/javascript">
+    /*<![CDATA[*/
+    (function() {
+    var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+    sz.src = '//siteimproveanalytics.com/js/siteanalyze_35044.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+    })();
+    /*]]>*/
+</script>		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<script> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesMin":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done","today":"Today","clear":"Clear"}};/* ]]> */ </script><link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/variables-skeleton.min.css?ver=5.1.15.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/common-skeleton.min.css?ver=5.1.15.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/src/resources/css/widget-events-list-skeleton.min.css?ver=6.2.8.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/variables-full.min.css?ver=5.1.15.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/css/common-full.min.css?ver=5.1.15.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/the-events-calendar/src/resources/css/widget-events-list-full.min.css?ver=6.2.8.2">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/events-calendar-pro/src/resources/css/custom-tables-v1/archives.min.css?ver=6.2.4">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/events-calendar-pro/src/resources/css/widget-events-list-skeleton.min.css?ver=6.2.4">
+<link rel="stylesheet" href="https://cs.unc.edu/wp-content/plugins/events-calendar-pro/src/resources/css/widget-events-list-full.min.css?ver=6.2.4">
+<script type="text/javascript" id="cookie-banner-script-js-extra">
+/* <![CDATA[ */
+var cookieBannerSettings = {"text":"\"This website uses cookies and similar technologies to understand visitor experiences. By using this website, you consent to UNC-Chapel Hill's cookie usage in accordance with their <a href='https:\\\/\\\/www.unc.edu\\\/about\\\/privacy-statement\\\/'>Privacy Notice<\\\/a>.\"","buttonText":"I Accept","blogId":"1265"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/unc-cookie-banner/dist/cookie-banner.js?ver=349e4245aac024692757" id="cookie-banner-script-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/themes/heelium/assets/js/parallax.js?ver=1.0" id="parallax-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/page-links-to/dist/new-tab.js?ver=3.3.6" id="page-links-to-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/themes/heelium/assets/js/scripts.min.js?ver=f0e48f07f9419f3cf06e2352849a4cff" id="roots_scripts-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/js/tribe-common.min.js?ver=5.1.15.2" id="tribe-common-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/js/utils/query-string.min.js?ver=5.1.15.2" id="tribe-query-string-js"></script>
+<script src='https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-before.js'></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
+<script src='https://cs.unc.edu/wp-content/plugins/the-events-calendar/common/src/resources/js/underscore-after.js'></script>
+<script defer type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/the-events-calendar/src/resources/js/views/manager.min.js?ver=6.2.8.2" id="tribe-events-views-v2-manager-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/the-events-calendar/src/resources/js/views/breakpoints.min.js?ver=6.2.8.2" id="tribe-events-views-v2-breakpoints-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2" id="jquery-ui-datepicker-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2" id="jquery-ui-slider-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2" id="jquery-touch-punch-js"></script>
+<script type="text/javascript" id="mediaelement-core-js-before">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.4.2" id="mediaelement-migrate-js"></script>
+<script type="text/javascript" id="mediaelement-js-extra">
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.4.2" id="wp-mediaelement-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/wp-util.min.js?ver=6.4.2" id="wp-util-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/backbone.min.js?ver=1.5.0" id="backbone-js"></script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-includes/js/mediaelement/wp-playlist.min.js?ver=6.4.2" id="wp-playlist-js"></script>
+<script type="text/javascript" id="views-blocks-frontend-js-extra">
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"https:\/\/cs.unc.edu\/wp-admin\/admin-ajax.php","calendar_image":"https:\/\/cs.unc.edu\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"datepicker_min_year":"1582","datepicker_max_year":"3000","resize_debounce_tolerance":"100","datepicker_style_url":"https:\/\/cs.unc.edu\/wp-content\/plugins\/types\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css","wpmlLang":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://cs.unc.edu/wp-content/plugins/wp-views/public/js/views-frontend.js?ver=3.6.11" id="views-blocks-frontend-js"></script>
+	<script> jQuery('.modal').on('hidden.bs.modal', function (e) {
+	// do something...
+	jQuery('.modal iframe').attr("src", jQuery(".modal  iframe").attr("src"));
+	});
+	</script>
+	
+<script type="text/javascript">
+//-----------------------------------------
+// Content Template: footer-one - start
+//-----------------------------------------
+jQuery(document).ready(function($) {
+  $( ".connect-footer" ).insertBefore(".footer-container");
+});
+
+
+//-----------------------------------------
+// Content Template: footer-one - end
+//-----------------------------------------
+</script>
+<style type="text/css" id="unc-ebs-dynamic-styles"></style>    </div>
+</div>
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-6b53be0d94491620b86","applicationID":"781537153","transactionName":"YVdbMkRVDxUCB0cIDFgdbBRfG04PDQBWGU1GWkk=","queueTime":0,"applicationTime":912,"atts":"TRBYRAxPHBs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

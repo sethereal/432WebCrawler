@@ -1,0 +1,103 @@
+ERROR: 2024/02/18 17:57:36.964110 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/about/visitors/campus-map": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/about/visitors/campus-map",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/visitors/campus-map",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-05T13:51:50Z",
+        "uri": "https://web.archive.org/web/20221205135150/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T07:30:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221207073043/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2022-12-07T07:30:43Z",
+        "uri": "https://web.archive.org/web/20221207073043/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T07:05:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230107070516/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-01-07T07:05:16Z",
+        "uri": "https://web.archive.org/web/20230107070516/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T06:19:35Z",
+        "uri": "https://wayback.archive-it.org/all/20230207061935/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T06:19:35Z",
+        "uri": "https://web.archive.org/web/20230207061935/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-02-07T10:45:20Z",
+        "uri": "https://web.archive.org/web/20230207104520/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T04:25:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042517/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-07T04:25:17Z",
+        "uri": "https://web.archive.org/web/20230307042517/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-24T08:55:15Z",
+        "uri": "https://web.archive.org/web/20230324085515/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-03-31T21:42:13Z",
+        "uri": "https://web.archive.org/web/20230331214213/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-06-02T04:28:02Z",
+        "uri": "https://web.archive.org/web/20230602042802/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-03T03:07:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230803030749/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-03T03:07:49Z",
+        "uri": "https://web.archive.org/web/20230803030749/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T17:35:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173553/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-08-25T17:35:53Z",
+        "uri": "https://web.archive.org/web/20230825173553/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-09-23T03:39:40Z",
+        "uri": "https://web.archive.org/web/20230923033940/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-10-04T12:14:22Z",
+        "uri": "https://web.archive.org/web/20231004121422/https://ww1.odu.edu/about/visitors/campus-map"
+      },
+      {
+        "datetime": "2023-12-03T06:54:23Z",
+        "uri": "https://web.archive.org/web/20231203065423/https://ww1.odu.edu/about/visitors/campus-map"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-05T13:51:50Z",
+      "uri": "https://web.archive.org/web/20221205135150/https://ww1.odu.edu/about/visitors/campus-map"
+    },
+    "last": {
+      "datetime": "2023-12-03T06:54:23Z",
+      "uri": "https://web.archive.org/web/20231203065423/https://ww1.odu.edu/about/visitors/campus-map"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/about/visitors/campus-map",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/visitors/campus-map",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/about/visitors/campus-map"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/about/visitors/campus-map"
+}

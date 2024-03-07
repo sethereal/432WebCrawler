@@ -1,0 +1,936 @@
+ERROR: 2024/02/18 17:24:34.356761 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/life/health-safety": net/http: timeout awaiting response headers
+ERROR: 2024/02/18 17:24:34.659149 main.go:292: webarchive.bac-lac.gc.ca => Network error: Get "https://www.bac-lac.gc.ca/eng/discover/archives-web-government/Pages/web-archives.aspx": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/life/health-safety",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/life/health-safety",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-08-31T20:34:03Z",
+        "uri": "https://web.archive.org/web/20120831203403/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2012-11-05T18:13:56Z",
+        "uri": "https://web.archive.org/web/20121105181356/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2012-12-09T20:46:22Z",
+        "uri": "https://web.archive.org/web/20121209204622/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2013-01-05T03:50:08Z",
+        "uri": "https://web.archive.org/web/20130105035008/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2013-01-17T18:31:06Z",
+        "uri": "https://web.archive.org/web/20130117183106/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2013-03-08T14:05:54Z",
+        "uri": "https://web.archive.org/web/20130308140554/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2013-05-02T18:38:22Z",
+        "uri": "https://web.archive.org/web/20130502183822/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2013-05-08T07:00:24Z",
+        "uri": "https://web.archive.org/web/20130508070024/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2013-07-08T09:44:26Z",
+        "uri": "https://web.archive.org/web/20130708094426/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2013-08-16T19:10:20Z",
+        "uri": "https://web.archive.org/web/20130816191020/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2013-09-07T03:25:24Z",
+        "uri": "https://web.archive.org/web/20130907032524/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2013-11-06T19:09:18Z",
+        "uri": "https://web.archive.org/web/20131106190918/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2014-01-11T01:18:31Z",
+        "uri": "https://web.archive.org/web/20140111011831/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2014-03-24T07:01:07Z",
+        "uri": "https://web.archive.org/web/20140324070107/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2014-03-28T05:54:50Z",
+        "uri": "https://web.archive.org/web/20140328055450/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2014-05-23T18:55:39Z",
+        "uri": "https://web.archive.org/web/20140523185539/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2014-06-26T06:31:58Z",
+        "uri": "https://web.archive.org/web/20140626063158/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2014-07-24T03:13:58Z",
+        "uri": "https://web.archive.org/web/20140724031358/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2015-07-15T11:57:56Z",
+        "uri": "https://web.archive.org/web/20150715115756/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2015-09-14T01:28:36Z",
+        "uri": "https://web.archive.org/web/20150914012836/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2015-11-07T21:55:57Z",
+        "uri": "https://web.archive.org/web/20151107215557/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2015-12-08T14:57:00Z",
+        "uri": "https://web.archive.org/web/20151208145700/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-01-08T15:24:18Z",
+        "uri": "https://web.archive.org/web/20160108152418/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-02-09T02:34:15Z",
+        "uri": "https://web.archive.org/web/20160209023415/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-03-15T17:56:00Z",
+        "uri": "https://web.archive.org/web/20160315175600/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-08-15T16:21:42Z",
+        "uri": "https://web.archive.org/web/20160815162142/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-09-15T22:30:02Z",
+        "uri": "https://web.archive.org/web/20160915223002/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-10-17T06:26:42Z",
+        "uri": "https://web.archive.org/web/20161017062642/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-10-27T07:32:22Z",
+        "uri": "https://web.archive.org/web/20161027073222/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2016-11-07T07:13:59Z",
+        "uri": "https://web.archive.org/web/20161107071359/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2016-11-18T04:36:17Z",
+        "uri": "https://web.archive.org/web/20161118043617/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-11-19T13:29:36Z",
+        "uri": "https://web.archive.org/web/20161119132936/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2016-11-22T03:47:03Z",
+        "uri": "https://web.archive.org/web/20161122034703/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-01-18T22:50:17Z",
+        "uri": "https://web.archive.org/web/20170118225017/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-01-21T14:59:57Z",
+        "uri": "https://web.archive.org/web/20170121145957/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-03-18T08:01:09Z",
+        "uri": "https://web.archive.org/web/20170318080109/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2017-03-20T11:26:40Z",
+        "uri": "https://web.archive.org/web/20170320112640/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-03-23T04:53:45Z",
+        "uri": "https://web.archive.org/web/20170323045345/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-03-26T00:20:46Z",
+        "uri": "https://web.archive.org/web/20170326002046/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2017-04-19T06:44:08Z",
+        "uri": "https://web.archive.org/web/20170419064408/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2017-05-21T09:49:08Z",
+        "uri": "https://web.archive.org/web/20170521094908/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-05-22T23:10:33Z",
+        "uri": "https://web.archive.org/web/20170522231033/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-06-06T08:07:58Z",
+        "uri": "https://web.archive.org/web/20170606080758/http://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2017-07-21T15:50:53Z",
+        "uri": "https://web.archive.org/web/20170721155053/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-07-22T10:38:45Z",
+        "uri": "https://web.archive.org/web/20170722103845/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-09-20T14:49:35Z",
+        "uri": "https://web.archive.org/web/20170920144935/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-09-21T02:10:53Z",
+        "uri": "https://web.archive.org/web/20170921021053/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-10-07T01:30:23Z",
+        "uri": "https://web.archive.org/web/20171007013023/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-11-06T22:40:54Z",
+        "uri": "https://web.archive.org/web/20171106224054/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-11-20T17:35:57Z",
+        "uri": "https://web.archive.org/web/20171120173557/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2017-12-09T00:08:49Z",
+        "uri": "https://web.archive.org/web/20171209000849/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-01-09T02:47:15Z",
+        "uri": "https://web.archive.org/web/20180109024715/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-01-20T15:47:26Z",
+        "uri": "https://web.archive.org/web/20180120154726/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-02-09T19:51:04Z",
+        "uri": "https://web.archive.org/web/20180209195104/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-03-22T16:48:05Z",
+        "uri": "https://web.archive.org/web/20180322164805/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-04-11T16:47:06Z",
+        "uri": "https://web.archive.org/web/20180411164706/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-05-23T09:41:09Z",
+        "uri": "https://web.archive.org/web/20180523094109/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-06-11T19:37:43Z",
+        "uri": "https://web.archive.org/web/20180611193743/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-07-22T20:46:25Z",
+        "uri": "https://web.archive.org/web/20180722204625/http://odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-08-11T18:11:11Z",
+        "uri": "https://web.archive.org/web/20180811181111/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-09-08T10:24:41Z",
+        "uri": "https://web.archive.org/web/20180908102441/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2018-09-12T20:36:14Z",
+        "uri": "https://web.archive.org/web/20180912203614/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2018-10-12T06:08:12Z",
+        "uri": "https://web.archive.org/web/20181012060812/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2018-11-05T19:14:38Z",
+        "uri": "https://web.archive.org/web/20181105191438/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2018-12-11T22:33:24Z",
+        "uri": "https://web.archive.org/web/20181211223324/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-02-11T09:44:38Z",
+        "uri": "https://web.archive.org/web/20190211094438/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-04-08T20:22:02Z",
+        "uri": "https://web.archive.org/web/20190408202202/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2019-04-13T01:25:31Z",
+        "uri": "https://web.archive.org/web/20190413012531/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-04-14T21:36:33Z",
+        "uri": "https://web.archive.org/web/20190414213633/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2019-04-17T12:49:53Z",
+        "uri": "https://web.archive.org/web/20190417124953/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2019-06-04T20:22:21Z",
+        "uri": "https://web.archive.org/web/20190604202221/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2019-06-12T14:12:47Z",
+        "uri": "https://web.archive.org/web/20190612141247/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-08-13T07:12:16Z",
+        "uri": "https://web.archive.org/web/20190813071216/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-10-16T05:33:05Z",
+        "uri": "https://web.archive.org/web/20191016053305/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-12-14T12:53:59Z",
+        "uri": "https://web.archive.org/web/20191214125359/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2019-12-15T09:11:25Z",
+        "uri": "https://web.archive.org/web/20191215091125/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-02-13T14:39:40Z",
+        "uri": "https://web.archive.org/web/20200213143940/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2020-02-14T15:15:57Z",
+        "uri": "https://web.archive.org/web/20200214151557/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:46:58Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194658/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:46:58Z",
+        "uri": "https://web.archive.org/web/20200416194658/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:47:27Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194727/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:47:27Z",
+        "uri": "https://web.archive.org/web/20200416194727/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:47:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200416194751/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-16T19:47:51Z",
+        "uri": "https://web.archive.org/web/20200416194751/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-04-24T14:24:33Z",
+        "uri": "https://web.archive.org/web/20200424142433/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-05-03T16:49:39Z",
+        "uri": "https://web.archive.org/web/20200503164939/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2020-07-02T23:21:39Z",
+        "uri": "https://web.archive.org/web/20200702232139/http://www.odu.edu:80/life/health-safety"
+      },
+      {
+        "datetime": "2020-07-12T10:55:11Z",
+        "uri": "https://web.archive.org/web/20200712105511/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-07-12T10:56:52Z",
+        "uri": "https://web.archive.org/web/20200712105652/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-07-16T09:28:24Z",
+        "uri": "https://web.archive.org/web/20200716092824/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-08-16T10:28:13Z",
+        "uri": "https://web.archive.org/web/20200816102813/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-10-20T08:57:01Z",
+        "uri": "https://web.archive.org/web/20201020085701/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-11-05T23:20:08Z",
+        "uri": "https://web.archive.org/web/20201105232008/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-11-05T23:20:08Z",
+        "uri": "https://web.archive.org/web/20201105232008/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-11-29T17:26:18Z",
+        "uri": "https://web.archive.org/web/20201129172618/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-12-13T11:16:00Z",
+        "uri": "https://web.archive.org/web/20201213111600/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-12-13T11:18:00Z",
+        "uri": "https://web.archive.org/web/20201213111800/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2020-12-13T11:18:07Z",
+        "uri": "https://web.archive.org/web/20201213111807/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-02-26T18:53:52Z",
+        "uri": "https://web.archive.org/web/20210226185352/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-09T23:29:02Z",
+        "uri": "https://web.archive.org/web/20210409232902/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-13T17:34:53Z",
+        "uri": "https://web.archive.org/web/20210413173453/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-14T03:41:31Z",
+        "uri": "https://web.archive.org/web/20210414034131/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-14T04:45:12Z",
+        "uri": "https://web.archive.org/web/20210414044512/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-25T17:11:48Z",
+        "uri": "https://web.archive.org/web/20210425171148/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-04-30T20:13:19Z",
+        "uri": "https://web.archive.org/web/20210430201319/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-20T15:22:21Z",
+        "uri": "https://web.archive.org/web/20210520152221/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:40Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200740/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:40Z",
+        "uri": "https://web.archive.org/web/20210526200740/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:44Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200744/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:44Z",
+        "uri": "https://web.archive.org/web/20210526200744/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:49Z",
+        "uri": "https://wayback.archive-it.org/all/20210526200749/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-05-26T20:07:49Z",
+        "uri": "https://web.archive.org/web/20210526200749/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-06-02T01:59:59Z",
+        "uri": "https://web.archive.org/web/20210602015959/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-08-11T19:22:39Z",
+        "uri": "https://web.archive.org/web/20210811192239/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-08-13T00:55:51Z",
+        "uri": "https://web.archive.org/web/20210813005551/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-08-14T17:51:12Z",
+        "uri": "https://web.archive.org/web/20210814175112/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-09-10T15:38:50Z",
+        "uri": "https://arquivo.pt/wayback/20210910153850mp_/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-10-19T16:39:54Z",
+        "uri": "https://web.archive.org/web/20211019163954/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-10-21T18:35:22Z",
+        "uri": "https://web.archive.org/web/20211021183522/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-11-03T11:20:18Z",
+        "uri": "https://arquivo.pt/wayback/20211103112018mp_/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-11-03T11:20:22Z",
+        "uri": "https://arquivo.pt/wayback/20211103112022mp_/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-11-22T19:25:12Z",
+        "uri": "https://web.archive.org/web/20211122192512/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-11-22T19:26:26Z",
+        "uri": "https://web.archive.org/web/20211122192626/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2021-11-26T00:53:58Z",
+        "uri": "https://web.archive.org/web/20211126005358/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-07T22:17:18Z",
+        "uri": "https://web.archive.org/web/20220107221718/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-08T16:39:44Z",
+        "uri": "https://web.archive.org/web/20220108163944/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-10T17:08:10Z",
+        "uri": "https://web.archive.org/web/20220110170810/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-11T20:13:55Z",
+        "uri": "https://web.archive.org/web/20220111201355/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-12T16:56:46Z",
+        "uri": "https://web.archive.org/web/20220112165646/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-12T21:58:28Z",
+        "uri": "https://web.archive.org/web/20220112215828/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-13T00:59:55Z",
+        "uri": "https://web.archive.org/web/20220113005955/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-13T19:30:56Z",
+        "uri": "https://web.archive.org/web/20220113193056/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-16T23:34:46Z",
+        "uri": "https://web.archive.org/web/20220116233446/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-17T07:07:26Z",
+        "uri": "https://web.archive.org/web/20220117070726/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-21T21:46:23Z",
+        "uri": "https://web.archive.org/web/20220121214623/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-22T10:42:38Z",
+        "uri": "https://arquivo.pt/wayback/20220122104238mp_/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-24T20:26:30Z",
+        "uri": "https://web.archive.org/web/20220124202630/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-26T02:02:58Z",
+        "uri": "https://web.archive.org/web/20220126020258/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-26T05:37:53Z",
+        "uri": "https://arquivo.pt/wayback/20220126053753mp_/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-01-31T22:14:54Z",
+        "uri": "https://web.archive.org/web/20220131221454/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-02-01T22:30:00Z",
+        "uri": "https://web.archive.org/web/20220201223000/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-02-03T18:57:39Z",
+        "uri": "https://web.archive.org/web/20220203185739/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-02-16T09:53:34Z",
+        "uri": "https://web.archive.org/web/20220216095334/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-02-17T22:50:12Z",
+        "uri": "https://web.archive.org/web/20220217225012/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-03-19T21:18:01Z",
+        "uri": "https://web.archive.org/web/20220319211801/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-03-19T21:18:02Z",
+        "uri": "https://web.archive.org/web/20220319211802/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-17T00:53:54Z",
+        "uri": "https://web.archive.org/web/20220417005354/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-17T05:50:44Z",
+        "uri": "https://arquivo.pt/wayback/20220417055044mp_/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-19T12:47:20Z",
+        "uri": "https://web.archive.org/web/20220419124720/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-22T17:20:22Z",
+        "uri": "https://arquivo.pt/wayback/20220422172022mp_/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-22T17:20:26Z",
+        "uri": "https://arquivo.pt/wayback/20220422172026mp_/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-04-24T18:54:23Z",
+        "uri": "https://arquivo.pt/wayback/20220424185423mp_/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-05-14T05:09:42Z",
+        "uri": "https://web.archive.org/web/20220514050942/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-05-25T10:39:05Z",
+        "uri": "https://web.archive.org/web/20220525103905/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-05-29T00:06:35Z",
+        "uri": "https://web.archive.org/web/20220529000635/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-08T14:59:35Z",
+        "uri": "https://web.archive.org/web/20220608145935/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-15T05:40:23Z",
+        "uri": "https://web.archive.org/web/20220615054023/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-18T23:43:37Z",
+        "uri": "https://web.archive.org/web/20220618234337/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-19T00:20:31Z",
+        "uri": "https://web.archive.org/web/20220619002031/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-19T11:23:03Z",
+        "uri": "https://web.archive.org/web/20220619112303/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-19T11:26:23Z",
+        "uri": "https://web.archive.org/web/20220619112623/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-19T23:21:07Z",
+        "uri": "https://web.archive.org/web/20220619232107/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-19T23:29:52Z",
+        "uri": "https://web.archive.org/web/20220619232952/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-06-25T14:43:13Z",
+        "uri": "https://web.archive.org/web/20220625144313/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-07-30T14:59:26Z",
+        "uri": "https://arquivo.pt/wayback/20220730145926mp_/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-02T17:15:35Z",
+        "uri": "https://web.archive.org/web/20220802171535/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-03T01:21:06Z",
+        "uri": "https://web.archive.org/web/20220803012106/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-03T08:38:19Z",
+        "uri": "https://web.archive.org/web/20220803083819/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-03T19:12:43Z",
+        "uri": "https://web.archive.org/web/20220803191243/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-04T16:44:42Z",
+        "uri": "https://web.archive.org/web/20220804164442/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-04T19:46:54Z",
+        "uri": "https://web.archive.org/web/20220804194654/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-05T11:07:38Z",
+        "uri": "https://web.archive.org/web/20220805110738/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-08T11:17:30Z",
+        "uri": "https://web.archive.org/web/20220808111730/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-08T21:37:06Z",
+        "uri": "https://web.archive.org/web/20220808213706/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T17:35:48Z",
+        "uri": "https://web.archive.org/web/20220810173548/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:21Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201821/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:21Z",
+        "uri": "https://web.archive.org/web/20220810201821/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:34Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201834/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:34Z",
+        "uri": "https://web.archive.org/web/20220810201834/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:51Z",
+        "uri": "https://wayback.archive-it.org/all/20220810201851/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-10T20:18:51Z",
+        "uri": "https://web.archive.org/web/20220810201851/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-11T07:59:34Z",
+        "uri": "https://web.archive.org/web/20220811075934/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-12T00:59:02Z",
+        "uri": "https://web.archive.org/web/20220812005902/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-14T10:28:52Z",
+        "uri": "https://web.archive.org/web/20220814102852/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-08-14T16:26:31Z",
+        "uri": "https://web.archive.org/web/20220814162631/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-09-22T11:28:19Z",
+        "uri": "https://web.archive.org/web/20220922112819/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-02T20:19:17Z",
+        "uri": "https://web.archive.org/web/20221002201917/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-05T18:53:44Z",
+        "uri": "https://web.archive.org/web/20221005185344/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-11T02:33:11Z",
+        "uri": "https://arquivo.pt/wayback/20221011023311mp_/https://odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-13T14:35:25Z",
+        "uri": "https://web.archive.org/web/20221013143525/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-21T19:18:00Z",
+        "uri": "https://web.archive.org/web/20221021191800/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-10-31T11:20:57Z",
+        "uri": "https://web.archive.org/web/20221031112057/http://www.odu.edu/life/health-safety/"
+      },
+      {
+        "datetime": "2022-10-31T11:21:20Z",
+        "uri": "https://web.archive.org/web/20221031112120/https://www.odu.edu/life/health-safety/"
+      },
+      {
+        "datetime": "2022-11-07T04:41:52Z",
+        "uri": "https://wayback.archive-it.org/all/20221107044152/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-11-07T04:41:52Z",
+        "uri": "https://web.archive.org/web/20221107044152/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-11-09T00:58:34Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005834/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-11-09T00:58:34Z",
+        "uri": "https://web.archive.org/web/20221109005834/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-03T10:07:37Z",
+        "uri": "https://web.archive.org/web/20221203100737/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-07T07:10:30Z",
+        "uri": "https://wayback.archive-it.org/all/20221207071030/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-07T07:10:30Z",
+        "uri": "https://web.archive.org/web/20221207071030/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-08T06:50:20Z",
+        "uri": "https://web.archive.org/web/20221208065020/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-14T02:58:31Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025831/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2022-12-14T02:58:31Z",
+        "uri": "https://web.archive.org/web/20221214025831/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-01-07T06:49:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230107064943/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-01-07T06:49:43Z",
+        "uri": "https://web.archive.org/web/20230107064943/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-01-24T19:44:01Z",
+        "uri": "https://arquivo.pt/wayback/20230124194401mp_/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-02-05T21:30:38Z",
+        "uri": "https://web.archive.org/web/20230205213038/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-02-07T06:01:56Z",
+        "uri": "https://wayback.archive-it.org/all/20230207060156/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-02-07T06:01:56Z",
+        "uri": "https://web.archive.org/web/20230207060156/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-02-20T00:44:53Z",
+        "uri": "https://web.archive.org/web/20230220004453/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-07T04:23:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042315/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-07T04:23:15Z",
+        "uri": "https://web.archive.org/web/20230307042315/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-09T04:17:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041749/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-09T04:17:49Z",
+        "uri": "https://web.archive.org/web/20230309041749/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-27T22:29:12Z",
+        "uri": "https://web.archive.org/web/20230327222912/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-03-29T23:36:23Z",
+        "uri": "https://web.archive.org/web/20230329233623/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-05-29T01:26:27Z",
+        "uri": "https://web.archive.org/web/20230529012627/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-05-29T16:28:18Z",
+        "uri": "https://web.archive.org/web/20230529162818/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-08-25T17:33:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173333/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-08-25T17:33:33Z",
+        "uri": "https://web.archive.org/web/20230825173333/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-08-27T02:22:52Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022252/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-08-27T02:22:52Z",
+        "uri": "https://web.archive.org/web/20230827022252/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-10-04T11:07:14Z",
+        "uri": "https://web.archive.org/web/20231004110714/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-11-28T03:54:24Z",
+        "uri": "https://web.archive.org/web/20231128035424/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2023-12-05T06:18:29Z",
+        "uri": "https://web.archive.org/web/20231205061829/https://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2024-01-17T00:35:57Z",
+        "uri": "https://web.archive.org/web/20240117003557/http://www.odu.edu/life/health-safety"
+      },
+      {
+        "datetime": "2024-01-17T00:35:58Z",
+        "uri": "https://web.archive.org/web/20240117003558/https://www.odu.edu/life/health-safety"
+      }
+    ],
+    "first": {
+      "datetime": "2012-08-31T20:34:03Z",
+      "uri": "https://web.archive.org/web/20120831203403/http://www.odu.edu:80/life/health-safety"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:58Z",
+      "uri": "https://web.archive.org/web/20240117003558/https://www.odu.edu/life/health-safety"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/life/health-safety",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/life/health-safety",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/life/health-safety"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/life/health-safety"
+}

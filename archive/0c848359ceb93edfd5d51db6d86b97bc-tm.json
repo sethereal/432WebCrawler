@@ -1,0 +1,67 @@
+ERROR: 2024/02/18 19:16:25.097458 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/Xin9Xin": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/Xin9Xin",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/Xin9Xin",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-08T02:48:34Z",
+        "uri": "https://web.archive.org/web/20221208024834/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-08T05:05:03Z",
+        "uri": "https://web.archive.org/web/20221208050503/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-18T07:51:56Z",
+        "uri": "https://web.archive.org/web/20221218075156/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-19T15:11:31Z",
+        "uri": "https://web.archive.org/web/20221219151131/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-19T18:40:55Z",
+        "uri": "https://web.archive.org/web/20221219184055/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-20T04:04:13Z",
+        "uri": "https://web.archive.org/web/20221220040413/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-20T15:51:58Z",
+        "uri": "https://web.archive.org/web/20221220155158/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-20T20:11:20Z",
+        "uri": "https://web.archive.org/web/20221220201120/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-20T23:51:15Z",
+        "uri": "https://web.archive.org/web/20221220235115/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2022-12-22T08:58:00Z",
+        "uri": "https://web.archive.org/web/20221222085800/https://twitter.com/Xin9Xin"
+      },
+      {
+        "datetime": "2023-03-17T06:41:05Z",
+        "uri": "https://web.archive.org/web/20230317064105/https://twitter.com/Xin9Xin"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-08T02:48:34Z",
+      "uri": "https://web.archive.org/web/20221208024834/https://twitter.com/Xin9Xin"
+    },
+    "last": {
+      "datetime": "2023-03-17T06:41:05Z",
+      "uri": "https://web.archive.org/web/20230317064105/https://twitter.com/Xin9Xin"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/Xin9Xin",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/Xin9Xin",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/Xin9Xin"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/Xin9Xin"
+}

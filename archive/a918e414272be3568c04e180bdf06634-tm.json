@@ -1,0 +1,39 @@
+ERROR: 2024/02/18 16:42:12.370489 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/regional-centers": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/regional-centers",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/regional-centers",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-25T17:53:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175305/https://www.odu.edu/regional-centers"
+      },
+      {
+        "datetime": "2023-08-25T17:53:05Z",
+        "uri": "https://web.archive.org/web/20230825175305/https://www.odu.edu/regional-centers"
+      },
+      {
+        "datetime": "2023-09-25T20:59:06Z",
+        "uri": "https://web.archive.org/web/20230925205906/https://www.odu.edu/regional-centers"
+      },
+      {
+        "datetime": "2023-11-29T19:10:05Z",
+        "uri": "https://web.archive.org/web/20231129191005/https://www.odu.edu/regional-centers"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-25T17:53:05Z",
+      "uri": "https://wayback.archive-it.org/all/20230825175305/https://www.odu.edu/regional-centers"
+    },
+    "last": {
+      "datetime": "2023-11-29T19:10:05Z",
+      "uri": "https://web.archive.org/web/20231129191005/https://www.odu.edu/regional-centers"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/regional-centers",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/regional-centers",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/regional-centers"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/regional-centers"
+}

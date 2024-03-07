@@ -1,0 +1,315 @@
+ERROR: 2024/02/18 19:51:08.363153 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/computer-science": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/computer-science",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-09T03:11:57Z",
+        "uri": "https://wayback.archive-it.org/all/20221109031157/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2022-11-09T03:11:57Z",
+        "uri": "https://web.archive.org/web/20221109031157/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2022-12-08T06:01:03Z",
+        "uri": "https://web.archive.org/web/20221208060103/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2022-12-21T05:02:11Z",
+        "uri": "https://wayback.archive-it.org/all/20221221050211/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2022-12-21T05:02:11Z",
+        "uri": "https://web.archive.org/web/20221221050211/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-03-09T08:24:09Z",
+        "uri": "https://wayback.archive-it.org/all/20230309082409/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-03-09T08:24:09Z",
+        "uri": "https://web.archive.org/web/20230309082409/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-05-29T16:10:31Z",
+        "uri": "https://web.archive.org/web/20230529161031/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-02T00:46:57Z",
+        "uri": "https://web.archive.org/web/20230602004657/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-02T11:47:34Z",
+        "uri": "https://web.archive.org/web/20230602114734/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:17:42Z",
+        "uri": "https://web.archive.org/web/20230604111742/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:17:47Z",
+        "uri": "https://web.archive.org/web/20230604111747/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:17:53Z",
+        "uri": "https://web.archive.org/web/20230604111753/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:17:59Z",
+        "uri": "https://web.archive.org/web/20230604111759/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:18:05Z",
+        "uri": "https://web.archive.org/web/20230604111805/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:18:10Z",
+        "uri": "https://web.archive.org/web/20230604111810/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-04T11:18:16Z",
+        "uri": "https://web.archive.org/web/20230604111816/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-05T18:34:11Z",
+        "uri": "https://web.archive.org/web/20230605183411/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-07T17:40:41Z",
+        "uri": "https://web.archive.org/web/20230607174041/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-07T17:53:03Z",
+        "uri": "https://web.archive.org/web/20230607175303/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-08T18:23:41Z",
+        "uri": "https://web.archive.org/web/20230608182341/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-08T22:47:10Z",
+        "uri": "https://web.archive.org/web/20230608224710/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-09T03:46:58Z",
+        "uri": "https://web.archive.org/web/20230609034658/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-09T05:01:11Z",
+        "uri": "https://web.archive.org/web/20230609050111/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-19T17:09:13Z",
+        "uri": "https://web.archive.org/web/20230619170913/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-21T00:02:17Z",
+        "uri": "https://web.archive.org/web/20230621000217/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-22T03:34:37Z",
+        "uri": "https://web.archive.org/web/20230622033437/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:34Z",
+        "uri": "https://web.archive.org/web/20230623200734/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:34Z",
+        "uri": "https://web.archive.org/web/20230623200734/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:34Z",
+        "uri": "https://web.archive.org/web/20230623200734/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:34Z",
+        "uri": "https://web.archive.org/web/20230623200734/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:37Z",
+        "uri": "https://web.archive.org/web/20230623200737/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:07:51Z",
+        "uri": "https://web.archive.org/web/20230623200751/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:08:10Z",
+        "uri": "https://web.archive.org/web/20230623200810/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-06-23T20:08:24Z",
+        "uri": "https://web.archive.org/web/20230623200824/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-06T02:18:33Z",
+        "uri": "https://web.archive.org/web/20230706021833/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-07T21:44:35Z",
+        "uri": "https://web.archive.org/web/20230707214435/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-10T16:47:24Z",
+        "uri": "https://web.archive.org/web/20230710164724/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-17T14:52:00Z",
+        "uri": "https://web.archive.org/web/20230717145200/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-18T22:17:14Z",
+        "uri": "https://web.archive.org/web/20230718221714/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-07-19T16:48:30Z",
+        "uri": "https://web.archive.org/web/20230719164830/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-02T05:42:17Z",
+        "uri": "https://web.archive.org/web/20230802054217/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-02T05:43:43Z",
+        "uri": "https://web.archive.org/web/20230802054343/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-17T23:35:42Z",
+        "uri": "https://web.archive.org/web/20230817233542/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-20T02:07:29Z",
+        "uri": "https://web.archive.org/web/20230820020729/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-22T12:49:33Z",
+        "uri": "https://web.archive.org/web/20230822124933/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-25T17:16:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171653/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-08-25T17:16:53Z",
+        "uri": "https://web.archive.org/web/20230825171653/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-18T15:38:13Z",
+        "uri": "https://web.archive.org/web/20230918153813/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-21T19:24:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230921192417/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-21T19:24:17Z",
+        "uri": "https://web.archive.org/web/20230921192417/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-23T00:49:59Z",
+        "uri": "https://wayback.archive-it.org/all/20230923004959/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-23T00:49:59Z",
+        "uri": "https://web.archive.org/web/20230923004959/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-25T12:55:36Z",
+        "uri": "https://web.archive.org/web/20230925125536/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-25T19:44:29Z",
+        "uri": "https://web.archive.org/web/20230925194429/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-09-27T15:54:39Z",
+        "uri": "https://web.archive.org/web/20230927155439/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-10-13T23:35:07Z",
+        "uri": "https://web.archive.org/web/20231013233507/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-10-15T01:47:13Z",
+        "uri": "https://web.archive.org/web/20231015014713/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-10-16T21:43:58Z",
+        "uri": "https://web.archive.org/web/20231016214358/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-10-16T23:58:10Z",
+        "uri": "https://web.archive.org/web/20231016235810/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-10-22T04:39:55Z",
+        "uri": "https://web.archive.org/web/20231022043955/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-11-26T05:44:07Z",
+        "uri": "https://web.archive.org/web/20231126054407/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-11-26T05:46:12Z",
+        "uri": "https://web.archive.org/web/20231126054612/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-11-30T01:05:01Z",
+        "uri": "https://web.archive.org/web/20231130010501/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-12-04T23:29:05Z",
+        "uri": "https://web.archive.org/web/20231204232905/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-12-05T06:36:16Z",
+        "uri": "https://web.archive.org/web/20231205063616/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-12-06T23:25:46Z",
+        "uri": "http://archive.md/20231206232546/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2023-12-22T14:17:00Z",
+        "uri": "https://web.archive.org/web/20231222141700/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2024-01-15T14:05:24Z",
+        "uri": "https://web.archive.org/web/20240115140524/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2024-01-17T00:34:28Z",
+        "uri": "https://web.archive.org/web/20240117003428/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2024-01-17T00:34:30Z",
+        "uri": "https://web.archive.org/web/20240117003430/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2024-01-31T00:34:39Z",
+        "uri": "https://wayback.archive-it.org/all/20240131003439/https://www.odu.edu/computer-science"
+      },
+      {
+        "datetime": "2024-02-01T22:28:11Z",
+        "uri": "https://web.archive.org/web/20240201222811/https://www.odu.edu/computer-science"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-09T03:11:57Z",
+      "uri": "https://wayback.archive-it.org/all/20221109031157/https://www.odu.edu/computer-science"
+    },
+    "last": {
+      "datetime": "2024-02-01T22:28:11Z",
+      "uri": "https://web.archive.org/web/20240201222811/https://www.odu.edu/computer-science"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/computer-science",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/computer-science"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/computer-science"
+}

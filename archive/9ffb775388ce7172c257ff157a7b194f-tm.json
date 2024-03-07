@@ -1,0 +1,47 @@
+ERROR: 2024/02/18 20:14:52.736291 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/intercultural-relations": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/intercultural-relations",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/intercultural-relations",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-07-06T23:57:25Z",
+        "uri": "https://web.archive.org/web/20230706235725/https://www.odu.edu/intercultural-relations"
+      },
+      {
+        "datetime": "2023-08-25T18:21:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230825182116/https://www.odu.edu/intercultural-relations"
+      },
+      {
+        "datetime": "2023-08-25T18:21:16Z",
+        "uri": "https://web.archive.org/web/20230825182116/https://www.odu.edu/intercultural-relations"
+      },
+      {
+        "datetime": "2023-09-25T20:40:56Z",
+        "uri": "https://web.archive.org/web/20230925204056/https://www.odu.edu/intercultural-relations"
+      },
+      {
+        "datetime": "2023-11-29T02:27:46Z",
+        "uri": "https://web.archive.org/web/20231129022746/https://www.odu.edu/intercultural-relations"
+      },
+      {
+        "datetime": "2023-12-01T09:09:39Z",
+        "uri": "https://web.archive.org/web/20231201090939/https://www.odu.edu/intercultural-relations"
+      }
+    ],
+    "first": {
+      "datetime": "2023-07-06T23:57:25Z",
+      "uri": "https://web.archive.org/web/20230706235725/https://www.odu.edu/intercultural-relations"
+    },
+    "last": {
+      "datetime": "2023-12-01T09:09:39Z",
+      "uri": "https://web.archive.org/web/20231201090939/https://www.odu.edu/intercultural-relations"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/intercultural-relations",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/intercultural-relations",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/intercultural-relations"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/intercultural-relations"
+}

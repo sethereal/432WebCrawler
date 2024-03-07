@@ -1,0 +1,1055 @@
+ERROR: 2024/02/18 15:14:56.528671 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/WebSciDL": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/WebSciDL",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/WebSciDL",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2014-01-25T13:58:31Z",
+        "uri": "https://web.archive.org/web/20140125135831/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2014-07-16T12:55:36Z",
+        "uri": "https://web.archive.org/web/20140716125536/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2014-07-23T05:35:22Z",
+        "uri": "https://web.archive.org/web/20140723053522/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-11-20T06:46:58Z",
+        "uri": "https://web.archive.org/web/20151120064658/http://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-11-20T06:47:01Z",
+        "uri": "https://web.archive.org/web/20151120064701/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-12-05T06:57:37Z",
+        "uri": "https://web.archive.org/web/20151205065737/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2015-12-05T06:59:28Z",
+        "uri": "https://web.archive.org/web/20151205065928/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-12-05T07:17:14Z",
+        "uri": "https://web.archive.org/web/20151205071714/http://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-12-05T07:17:16Z",
+        "uri": "https://web.archive.org/web/20151205071716/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2015-12-22T19:45:40Z",
+        "uri": "https://web.archive.org/web/20151222194540/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-01-06T08:24:35Z",
+        "uri": "https://web.archive.org/web/20160106082435/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2016-02-03T03:40:08Z",
+        "uri": "https://wayback.archive-it.org/all/20160203034008/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-02-03T03:40:08Z",
+        "uri": "https://web.archive.org/web/20160203034008/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-02-29T11:40:10Z",
+        "uri": "https://wayback.archive-it.org/all/20160229114010/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-02-29T11:40:10Z",
+        "uri": "https://web.archive.org/web/20160229114010/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-02-29T11:42:55Z",
+        "uri": "https://wayback.archive-it.org/all/20160229114255/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-02-29T11:42:55Z",
+        "uri": "https://web.archive.org/web/20160229114255/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2016-12-15T11:24:41Z",
+        "uri": "https://web.archive.org/web/20161215112441/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-01-26T11:12:19Z",
+        "uri": "https://web.archive.org/web/20170126111219/http://twitter.com:80/WebSciDL"
+      },
+      {
+        "datetime": "2017-02-03T05:38:20Z",
+        "uri": "https://web.archive.org/web/20170203053820/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-02-03T05:39:22Z",
+        "uri": "https://web.archive.org/web/20170203053922/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-07-06T03:12:17Z",
+        "uri": "https://web.archive.org/web/20170706031217/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2017-07-27T02:07:43Z",
+        "uri": "https://web.archive.org/web/20170727020743/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2017-08-24T06:09:59Z",
+        "uri": "https://web.archive.org/web/20170824060959/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2017-08-31T19:39:34Z",
+        "uri": "https://web.archive.org/web/20170831193934/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-01T21:02:31Z",
+        "uri": "https://web.archive.org/web/20170901210231/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-01T21:40:45Z",
+        "uri": "https://web.archive.org/web/20170901214045/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-07T19:46:35Z",
+        "uri": "https://web.archive.org/web/20170907194635/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-14T20:30:05Z",
+        "uri": "https://web.archive.org/web/20170914203005/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-21T20:13:34Z",
+        "uri": "https://web.archive.org/web/20170921201334/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-09-28T19:41:32Z",
+        "uri": "https://web.archive.org/web/20170928194132/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-01T21:37:16Z",
+        "uri": "https://web.archive.org/web/20171001213716/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-01T22:33:30Z",
+        "uri": "https://web.archive.org/web/20171001223330/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-05T19:41:23Z",
+        "uri": "https://web.archive.org/web/20171005194123/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-12T22:37:44Z",
+        "uri": "https://web.archive.org/web/20171012223744/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-19T19:44:07Z",
+        "uri": "https://web.archive.org/web/20171019194407/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-10-19T23:54:55Z",
+        "uri": "https://web.archive.org/web/20171019235455/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2017-11-02T06:28:34Z",
+        "uri": "https://web.archive.org/web/20171102062834/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2017-12-07T07:41:29Z",
+        "uri": "https://web.archive.org/web/20171207074129/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2017-12-21T02:36:43Z",
+        "uri": "https://web.archive.org/web/20171221023643/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2018-02-05T22:11:30Z",
+        "uri": "https://web.archive.org/web/20180205221130/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-02-17T11:43:29Z",
+        "uri": "https://web.archive.org/web/20180217114329/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2018-02-27T15:38:16Z",
+        "uri": "https://web.archive.org/web/20180227153816/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-04-09T21:39:22Z",
+        "uri": "https://web.archive.org/web/20180409213922/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-05-22T04:41:27Z",
+        "uri": "https://web.archive.org/web/20180522044127/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2018-05-28T23:47:06Z",
+        "uri": "https://web.archive.org/web/20180528234706/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-06-11T23:08:46Z",
+        "uri": "https://web.archive.org/web/20180611230846/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-07-02T23:11:06Z",
+        "uri": "https://web.archive.org/web/20180702231106/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-07-23T23:34:23Z",
+        "uri": "https://web.archive.org/web/20180723233423/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-09-30T17:47:20Z",
+        "uri": "https://web.archive.org/web/20180930174720/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-11-06T20:03:51Z",
+        "uri": "https://web.archive.org/web/20181106200351/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2018-12-24T22:35:56Z",
+        "uri": "https://web.archive.org/web/20181224223556/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2019-04-14T21:36:23Z",
+        "uri": "https://web.archive.org/web/20190414213623/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2019-05-09T21:23:03Z",
+        "uri": "https://web.archive.org/web/20190509212303/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2019-10-14T04:06:25Z",
+        "uri": "https://web.archive.org/web/20191014040625/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2019-10-30T11:16:59Z",
+        "uri": "https://web.archive.org/web/20191030111659/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-01T04:05:38Z",
+        "uri": "https://web.archive.org/web/20200601040538/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-18T23:21:16Z",
+        "uri": "https://web.archive.org/web/20200618232116/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-18T23:21:45Z",
+        "uri": "https://web.archive.org/web/20200618232145/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-19T15:12:32Z",
+        "uri": "https://web.archive.org/web/20200619151232/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-19T19:42:02Z",
+        "uri": "https://web.archive.org/web/20200619194202/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-19T19:43:03Z",
+        "uri": "https://web.archive.org/web/20200619194303/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T03:33:34Z",
+        "uri": "https://web.archive.org/web/20200621033334/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T03:51:59Z",
+        "uri": "https://web.archive.org/web/20200621035159/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T16:45:22Z",
+        "uri": "https://web.archive.org/web/20200621164522/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T16:50:52Z",
+        "uri": "https://web.archive.org/web/20200621165052/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T16:52:12Z",
+        "uri": "https://web.archive.org/web/20200621165212/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-21T17:06:22Z",
+        "uri": "https://web.archive.org/web/20200621170622/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-23T05:43:04Z",
+        "uri": "https://web.archive.org/web/20200623054304/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-25T15:04:31Z",
+        "uri": "https://web.archive.org/web/20200625150431/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-25T15:15:23Z",
+        "uri": "https://web.archive.org/web/20200625151523/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-25T15:20:20Z",
+        "uri": "https://web.archive.org/web/20200625152020/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-25T15:23:34Z",
+        "uri": "https://web.archive.org/web/20200625152334/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-25T20:46:10Z",
+        "uri": "https://web.archive.org/web/20200625204610/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-26T14:38:35Z",
+        "uri": "https://web.archive.org/web/20200626143835/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-26T14:41:44Z",
+        "uri": "https://web.archive.org/web/20200626144144/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-26T14:48:06Z",
+        "uri": "https://web.archive.org/web/20200626144806/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-26T15:03:08Z",
+        "uri": "https://web.archive.org/web/20200626150308/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-26T15:04:21Z",
+        "uri": "https://web.archive.org/web/20200626150421/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-29T02:03:54Z",
+        "uri": "https://web.archive.org/web/20200629020354/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-06-29T02:04:22Z",
+        "uri": "https://web.archive.org/web/20200629020422/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-02T17:47:43Z",
+        "uri": "https://web.archive.org/web/20200702174743/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T10:31:10Z",
+        "uri": "https://web.archive.org/web/20200708103110/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T10:40:29Z",
+        "uri": "https://web.archive.org/web/20200708104029/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T10:51:05Z",
+        "uri": "https://web.archive.org/web/20200708105105/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T11:03:41Z",
+        "uri": "https://web.archive.org/web/20200708110341/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T11:21:32Z",
+        "uri": "https://web.archive.org/web/20200708112132/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T11:50:14Z",
+        "uri": "https://web.archive.org/web/20200708115014/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:29:41Z",
+        "uri": "https://web.archive.org/web/20200708122941/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:36:49Z",
+        "uri": "https://web.archive.org/web/20200708123649/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:46:23Z",
+        "uri": "https://web.archive.org/web/20200708124623/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:50:10Z",
+        "uri": "https://web.archive.org/web/20200708125010/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:50:11Z",
+        "uri": "https://web.archive.org/web/20200708125011/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:50:42Z",
+        "uri": "https://web.archive.org/web/20200708125042/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-08T12:55:08Z",
+        "uri": "https://web.archive.org/web/20200708125508/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-09T03:54:41Z",
+        "uri": "https://web.archive.org/web/20200709035441/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-09T19:17:42Z",
+        "uri": "https://web.archive.org/web/20200709191742/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-10T17:49:15Z",
+        "uri": "https://web.archive.org/web/20200710174915/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-10T17:50:51Z",
+        "uri": "https://web.archive.org/web/20200710175051/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-10T17:51:16Z",
+        "uri": "https://web.archive.org/web/20200710175116/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-10T17:54:45Z",
+        "uri": "https://web.archive.org/web/20200710175445/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-10T22:46:38Z",
+        "uri": "https://web.archive.org/web/20200710224638/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-15T04:38:57Z",
+        "uri": "https://web.archive.org/web/20200715043857/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-15T13:17:21Z",
+        "uri": "https://web.archive.org/web/20200715131721/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-15T13:17:31Z",
+        "uri": "https://web.archive.org/web/20200715131731/https://www.twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-15T13:17:31Z",
+        "uri": "https://web.archive.org/web/20200715131731/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-17T18:56:56Z",
+        "uri": "https://web.archive.org/web/20200717185656/https://www.twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-17T18:56:56Z",
+        "uri": "https://web.archive.org/web/20200717185656/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-17T18:57:08Z",
+        "uri": "https://web.archive.org/web/20200717185708/https://www.twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-17T18:57:08Z",
+        "uri": "https://web.archive.org/web/20200717185708/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-17T18:57:08Z",
+        "uri": "https://web.archive.org/web/20200717185708/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-18T06:58:43Z",
+        "uri": "https://web.archive.org/web/20200718065843/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-07-28T18:48:41Z",
+        "uri": "https://web.archive.org/web/20200728184841/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-08-06T18:21:57Z",
+        "uri": "https://web.archive.org/web/20200806182157/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-08-16T20:49:15Z",
+        "uri": "https://web.archive.org/web/20200816204915/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-09-16T15:24:31Z",
+        "uri": "https://web.archive.org/web/20200916152431/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-10-13T16:52:33Z",
+        "uri": "https://web.archive.org/web/20201013165233/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-10-24T10:26:08Z",
+        "uri": "https://web.archive.org/web/20201024102608/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-11-19T12:06:14Z",
+        "uri": "https://web.archive.org/web/20201119120614/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-11-21T21:36:56Z",
+        "uri": "https://web.archive.org/web/20201121213656/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2020-12-17T19:33:38Z",
+        "uri": "https://web.archive.org/web/20201217193338/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-01-20T13:25:44Z",
+        "uri": "https://web.archive.org/web/20210120132544/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-03-08T05:15:20Z",
+        "uri": "https://web.archive.org/web/20210308051520/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-04-02T11:55:22Z",
+        "uri": "https://web.archive.org/web/20210402115522/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-04-05T16:07:32Z",
+        "uri": "https://perma.cc/5QAX-GCTS"
+      },
+      {
+        "datetime": "2021-04-05T16:07:33Z",
+        "uri": "https://web.archive.org/web/20210405160733/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-05-08T03:52:57Z",
+        "uri": "https://web.archive.org/web/20210508035257/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T03:18:19Z",
+        "uri": "https://arquivo.pt/wayback/20210603031819mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T03:18:20Z",
+        "uri": "https://arquivo.pt/wayback/20210603031820mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T03:54:25Z",
+        "uri": "https://arquivo.pt/wayback/20210603035425mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T03:54:26Z",
+        "uri": "https://arquivo.pt/wayback/20210603035426mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T04:24:47Z",
+        "uri": "https://web.archive.org/web/20210603042447/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-03T05:59:38Z",
+        "uri": "https://arquivo.pt/wayback/20210603055938mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-07T03:25:45Z",
+        "uri": "https://arquivo.pt/wayback/20210607032545mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-07T03:25:48Z",
+        "uri": "https://arquivo.pt/wayback/20210607032548mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-08T09:34:40Z",
+        "uri": "https://arquivo.pt/wayback/20210608093440mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-08T09:34:41Z",
+        "uri": "https://arquivo.pt/wayback/20210608093441mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-08T22:09:29Z",
+        "uri": "https://arquivo.pt/wayback/20210608220929mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-08T22:09:30Z",
+        "uri": "https://arquivo.pt/wayback/20210608220930mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-11T01:13:02Z",
+        "uri": "https://arquivo.pt/wayback/20210611011302mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-11T02:24:04Z",
+        "uri": "https://arquivo.pt/wayback/20210611022404mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-11T03:32:01Z",
+        "uri": "https://arquivo.pt/wayback/20210611033201mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-13T16:09:06Z",
+        "uri": "https://arquivo.pt/wayback/20210613160906mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-13T16:09:07Z",
+        "uri": "https://arquivo.pt/wayback/20210613160907mp_/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-06-25T12:48:45Z",
+        "uri": "https://web.archive.org/web/20210625124845/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-07-25T21:23:03Z",
+        "uri": "http://archive.md/20210725212303/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-09-08T00:30:30Z",
+        "uri": "https://web.archive.org/web/20210908003030/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-09-28T02:58:39Z",
+        "uri": "https://web.archive.org/web/20210928025839/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-09-28T16:19:37Z",
+        "uri": "https://web.archive.org/web/20210928161937/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-09-29T01:12:11Z",
+        "uri": "https://web.archive.org/web/20210929011211/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-10-15T20:41:31Z",
+        "uri": "https://web.archive.org/web/20211015204131/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-10-23T00:34:07Z",
+        "uri": "https://web.archive.org/web/20211023003407/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-11-01T18:32:09Z",
+        "uri": "https://web.archive.org/web/20211101183209/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-11-22T23:36:35Z",
+        "uri": "https://web.archive.org/web/20211122233635/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-11-23T00:25:29Z",
+        "uri": "https://web.archive.org/web/20211123002529/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2021-11-23T02:22:09Z",
+        "uri": "https://web.archive.org/web/20211123022209/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2021-11-23T02:22:09Z",
+        "uri": "https://web.archive.org/web/20211123022209/http://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-01-21T02:58:25Z",
+        "uri": "https://web.archive.org/web/20220121025825/http://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-01-28T22:41:08Z",
+        "uri": "https://web.archive.org/web/20220128224108/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-03-03T14:59:55Z",
+        "uri": "https://web.archive.org/web/20220303145955/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-03-18T00:44:11Z",
+        "uri": "https://web.archive.org/web/20220318004411/http://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-03-18T04:34:12Z",
+        "uri": "https://web.archive.org/web/20220318043412/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-03-21T17:52:48Z",
+        "uri": "https://web.archive.org/web/20220321175248/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2022-04-02T09:07:31Z",
+        "uri": "https://web.archive.org/web/20220402090731/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-04-13T08:02:24Z",
+        "uri": "https://web.archive.org/web/20220413080224/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-04-15T02:16:14Z",
+        "uri": "https://web.archive.org/web/20220415021614/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-04-21T17:06:28Z",
+        "uri": "https://web.archive.org/web/20220421170628/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-08-12T18:42:45Z",
+        "uri": "https://web.archive.org/web/20220812184245/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-09-28T12:55:29Z",
+        "uri": "https://web.archive.org/web/20220928125529/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-18T15:49:30Z",
+        "uri": "https://web.archive.org/web/20221118154930/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-19T04:46:02Z",
+        "uri": "https://web.archive.org/web/20221119044602/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-21T03:29:47Z",
+        "uri": "https://web.archive.org/web/20221121032947/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-22T10:32:56Z",
+        "uri": "https://web.archive.org/web/20221122103256/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-22T19:13:55Z",
+        "uri": "https://web.archive.org/web/20221122191355/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T01:35:20Z",
+        "uri": "https://web.archive.org/web/20221123013520/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T03:55:17Z",
+        "uri": "https://web.archive.org/web/20221123035517/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T06:01:14Z",
+        "uri": "https://web.archive.org/web/20221123060114/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T12:24:24Z",
+        "uri": "https://web.archive.org/web/20221123122424/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T14:32:27Z",
+        "uri": "https://web.archive.org/web/20221123143227/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T17:18:02Z",
+        "uri": "https://web.archive.org/web/20221123171802/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T20:13:39Z",
+        "uri": "https://web.archive.org/web/20221123201339/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-23T22:17:34Z",
+        "uri": "https://web.archive.org/web/20221123221734/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-24T00:31:08Z",
+        "uri": "https://web.archive.org/web/20221124003108/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-24T02:58:33Z",
+        "uri": "https://web.archive.org/web/20221124025833/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-24T04:01:05Z",
+        "uri": "https://web.archive.org/web/20221124040105/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-24T06:42:45Z",
+        "uri": "https://web.archive.org/web/20221124064245/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-24T11:37:38Z",
+        "uri": "https://web.archive.org/web/20221124113738/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-25T00:16:11Z",
+        "uri": "https://web.archive.org/web/20221125001611/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-25T13:45:12Z",
+        "uri": "https://web.archive.org/web/20221125134512/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-25T16:20:56Z",
+        "uri": "https://web.archive.org/web/20221125162056/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-26T07:18:57Z",
+        "uri": "https://web.archive.org/web/20221126071857/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-26T21:50:51Z",
+        "uri": "https://web.archive.org/web/20221126215051/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-27T17:57:01Z",
+        "uri": "https://web.archive.org/web/20221127175701/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-28T04:39:39Z",
+        "uri": "https://web.archive.org/web/20221128043939/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-28T13:47:58Z",
+        "uri": "https://web.archive.org/web/20221128134758/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-28T18:19:20Z",
+        "uri": "https://web.archive.org/web/20221128181920/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-28T22:28:34Z",
+        "uri": "https://web.archive.org/web/20221128222834/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T01:35:34Z",
+        "uri": "https://web.archive.org/web/20221129013534/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T04:09:26Z",
+        "uri": "https://web.archive.org/web/20221129040926/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T08:39:14Z",
+        "uri": "https://web.archive.org/web/20221129083914/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T14:37:37Z",
+        "uri": "https://web.archive.org/web/20221129143737/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T20:28:50Z",
+        "uri": "https://web.archive.org/web/20221129202850/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-11-29T23:23:19Z",
+        "uri": "https://web.archive.org/web/20221129232319/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-01T22:42:23Z",
+        "uri": "https://web.archive.org/web/20221201224223/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-03T01:31:19Z",
+        "uri": "https://web.archive.org/web/20221203013119/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-03T14:22:14Z",
+        "uri": "https://web.archive.org/web/20221203142214/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-05T19:44:19Z",
+        "uri": "https://web.archive.org/web/20221205194419/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-06T07:34:40Z",
+        "uri": "https://web.archive.org/web/20221206073440/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-08T01:45:57Z",
+        "uri": "https://web.archive.org/web/20221208014557/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-08T03:27:17Z",
+        "uri": "https://web.archive.org/web/20221208032717/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-16T23:01:06Z",
+        "uri": "https://web.archive.org/web/20221216230106/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-18T04:02:13Z",
+        "uri": "https://web.archive.org/web/20221218040213/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-18T06:37:58Z",
+        "uri": "https://web.archive.org/web/20221218063758/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-18T08:41:34Z",
+        "uri": "https://web.archive.org/web/20221218084134/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-18T11:01:07Z",
+        "uri": "https://web.archive.org/web/20221218110107/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-18T15:11:13Z",
+        "uri": "https://web.archive.org/web/20221218151113/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T02:02:29Z",
+        "uri": "https://web.archive.org/web/20221219020229/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T08:21:56Z",
+        "uri": "https://web.archive.org/web/20221219082156/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T12:31:30Z",
+        "uri": "https://web.archive.org/web/20221219123130/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T16:43:13Z",
+        "uri": "https://web.archive.org/web/20221219164313/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T20:51:50Z",
+        "uri": "https://web.archive.org/web/20221219205150/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-19T23:03:50Z",
+        "uri": "https://web.archive.org/web/20221219230350/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-20T05:29:41Z",
+        "uri": "https://web.archive.org/web/20221220052941/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-20T07:43:33Z",
+        "uri": "https://web.archive.org/web/20221220074333/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-20T07:46:15Z",
+        "uri": "https://web.archive.org/web/20221220074615/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-20T12:24:37Z",
+        "uri": "https://web.archive.org/web/20221220122437/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-20T19:11:09Z",
+        "uri": "https://web.archive.org/web/20221220191109/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T01:27:18Z",
+        "uri": "https://web.archive.org/web/20221221012718/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T05:41:41Z",
+        "uri": "https://web.archive.org/web/20221221054141/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T07:51:35Z",
+        "uri": "https://web.archive.org/web/20221221075135/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T09:54:20Z",
+        "uri": "https://web.archive.org/web/20221221095420/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T12:05:27Z",
+        "uri": "https://web.archive.org/web/20221221120527/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T14:42:49Z",
+        "uri": "https://web.archive.org/web/20221221144249/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T16:51:12Z",
+        "uri": "https://web.archive.org/web/20221221165112/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-21T21:11:38Z",
+        "uri": "https://web.archive.org/web/20221221211138/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T01:17:41Z",
+        "uri": "https://web.archive.org/web/20221222011741/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T05:34:13Z",
+        "uri": "https://web.archive.org/web/20221222053413/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T07:35:53Z",
+        "uri": "https://web.archive.org/web/20221222073553/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T09:41:36Z",
+        "uri": "https://web.archive.org/web/20221222094136/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T11:51:36Z",
+        "uri": "https://web.archive.org/web/20221222115136/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-22T14:11:53Z",
+        "uri": "https://web.archive.org/web/20221222141153/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2022-12-23T00:58:16Z",
+        "uri": "https://web.archive.org/web/20221223005816/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-15T11:47:54Z",
+        "uri": "https://web.archive.org/web/20230315114754/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-17T06:40:51Z",
+        "uri": "https://web.archive.org/web/20230317064051/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-17T10:01:17Z",
+        "uri": "https://web.archive.org/web/20230317100117/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-17T13:53:31Z",
+        "uri": "https://web.archive.org/web/20230317135331/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-17T16:26:00Z",
+        "uri": "https://web.archive.org/web/20230317162600/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-21T05:12:23Z",
+        "uri": "https://web.archive.org/web/20230321051223/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-21T07:32:19Z",
+        "uri": "https://web.archive.org/web/20230321073219/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-21T11:31:28Z",
+        "uri": "https://web.archive.org/web/20230321113128/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-03-25T09:44:44Z",
+        "uri": "https://web.archive.org/web/20230325094444/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-04-16T18:32:12Z",
+        "uri": "https://web.archive.org/web/20230416183212/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-05-07T01:38:06Z",
+        "uri": "https://web.archive.org/web/20230507013806/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-05-17T19:53:35Z",
+        "uri": "https://web.archive.org/web/20230517195335/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-06-02T14:30:31Z",
+        "uri": "https://web.archive.org/web/20230602143031/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2023-09-18T15:41:10Z",
+        "uri": "https://web.archive.org/web/20230918154110/https://twitter.com/WebSciDL"
+      },
+      {
+        "datetime": "2023-11-20T06:09:31Z",
+        "uri": "https://web.archive.org/web/20231120060931/https://twitter.com/webscidl"
+      },
+      {
+        "datetime": "2024-01-14T03:25:52Z",
+        "uri": "https://web.archive.org/web/20240114032552/https://twitter.com/WebSciDL"
+      }
+    ],
+    "first": {
+      "datetime": "2014-01-25T13:58:31Z",
+      "uri": "https://web.archive.org/web/20140125135831/https://twitter.com/WebSciDL"
+    },
+    "last": {
+      "datetime": "2024-01-14T03:25:52Z",
+      "uri": "https://web.archive.org/web/20240114032552/https://twitter.com/WebSciDL"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/WebSciDL",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/WebSciDL",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/WebSciDL"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/WebSciDL"
+}

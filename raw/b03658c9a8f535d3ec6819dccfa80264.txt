@@ -1,0 +1,1041 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="Web Science and Digital Libraries Research Group (WS-DL) Home Page @WebSciDL">
+  <meta name="author" content="Michael L. Nelson">
+  <meta name="image" content="https://oduwsdl.github.io/img/wsdl-logo.png">
+  <link rel="icon" type="image/ico" href="img/favicon.ico">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@WebSciDL">
+  <meta name="twitter:creator" content="@WebSciDL">
+  <meta name="twitter:title" content="Web Science and Digital Libraries Research Group (WS-DL)">
+  <meta name="twitter:description" content="Web Science and Digital Libraries Research Group (WS-DL) Home Page @WebSciDL">
+  <meta name="twitter:image" content="https://oduwsdl.github.io/img/wsdl-logo.png">
+  <meta name="twitter:image:alt" content="WS-DL logo">
+
+  <meta property="og:title" content="Web Science and Digital Libraries Research Group (WS-DL) Home Page @WebSciDL">
+  <meta property="og:image" content="https://oduwsdl.github.io/img/wsdl-logo.png">
+  <meta property="og:image:url" content="https://oduwsdl.github.io/img/wsdl-logo.png">
+  <meta property="og:description" content="Web Science and Digital Libraries Research Group (WS-DL) Home Page @WebSciDL">
+  <meta property="og:locale" content="en_US">
+  <meta property="og:site_name" content="Web Science and Digital Libraries Research Group (WS-DL)">
+  <meta property="og:image:alt" content="WS-DL logo">
+  <meta property="og:image:width" content="800">
+  <meta property="og:image:height" content="800">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:url" content="https://oduwsdl.github.io/">
+  <meta property="og:type" content="website" />
+  
+
+  <title>Web Science and Digital Libraries Research Group</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <!-- <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet"> -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/grayscale.min.css" rel="stylesheet">
+
+  <!-- formatting images of people -->
+    <style>
+      .person-container {
+        display: flex;
+        align-items: center;
+        padding-right: 10px;
+      }
+      .person-image {
+        width: 110px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+      }
+      .section-container {
+        padding-top: 60px;
+      }
+    </style>
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="/"><img src="img/wsdl-logo-small.png"></a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fas fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#About">About</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Faculty">Faculty</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Students">Students</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Alumni">Alumni</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Research">Research</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Courses">Courses</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Twitter">Twitter</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="#Blog">Blog</a>
+    </li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+      <!-- Header -->
+  <header class="masthead">
+    <div class="container d-flex h-100 align-items-center">
+      <div class="mx-auto text-center">
+        <h3 class="text-white-50 mx-auto mt-2 mb-5">Web Science and Digital Libraries Research Group</h3>
+      </div>
+    </div>
+  </header>
+
+  <section  class="projects-section bg-light">
+    <div class="container">
+
+      <!-- About  Row -->
+      <div id="About" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>About</h4>
+
+            <p>
+
+            The Web Science and Digital Libraries (WS-DL) Research Group at Old Dominion University performs research in web archiving, web science, digital libraries, neuro-information retrieval, social media, digital preservation, human-computer interaction, information visualization, natural language processing, accessibility, and mining scholarly data.
+            <p>
+            Our alumni have been hired by the Internet Archive, MITRE, Amazon, Google, Microsoft, Los Alamos National Laboratory (LANL),
+and have been faculty and/or researchers at several universities including Drexel University,
+Indiana University, Emory University, University of California at Berkeley, and Columbia College.
+            <p>
+              We are grateful for support from the National Science Foundation (NSF), the National Endowment for the Humanities
+(NEH), the Institute of Museum and Library Services (IMLS), National Aeronautics and Space Administration (NASA), Department of Defense (DOD), Department of Energy (DOE), Department of Education (ED), International Internet Preservation Consortium (IIPC), Protocol Laboratories, and the Andrew W. Mellon Foundation.
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Faculty -->
+      <div id="Faculty" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Faculty</h4>
+            
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/phonedude_mln.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www.cs.odu.edu/~mln" rel="nofollow">Dr. Michael L. Nelson</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/phonedude_mln" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=oWQaPnwAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> web science, web archiving, social media, digital libraries, repositories
+    <br />
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/weiglemc.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://weiglemc.github.io/" rel="nofollow">Dr. Michele C. Weigle</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/weiglemc" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=MOLPTqcAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> web science, digital preservation, social media, information visualization
+    <br />
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/OpenMaze.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~sampath/" rel="nofollow">Dr. Sampath Jayarathna</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/OpenMaze" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=OkEoChMAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> eye tracking, data science, machine learning, multimodal sensing, cognitive computing, digital libraries
+    <br />
+    <a class="urllink" href="https://nirdslab.github.io/" rel="nofollow">Neuro Information Retrieval and Data Science Lab</a>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/fanchyna.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~jwu/" rel="nofollow">Dr. Jian Wu</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/fanchyna" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=-eRsYx8AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> text mining, scholarly big data, digital libraries, search engines, natural language processing, applied machine learning, deep learning
+    <br />
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/vikas_daveb.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~vashok/" rel="nofollow">Dr. Vikas Ashok</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/vikas_daveb" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=Lfu3j30AAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> human computer interaction, accessible computing, natural language processing, web technologies
+    <br />
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Faryane.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~poursardar/" rel="nofollow">Dr. Faryaneh Poursardar</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Faryane" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=QjHw7ugAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    <br /><em>Research topics:</em> digital libraries, social computing, web science, data science, machine learning, digital data preservation
+    <br />
+  </div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+      
+      
+      <!-- Students -->
+      <div id="Students" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Students</h4>
+
+            <h5>PhD students</h5>
+
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/LObiuwevwi.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://twitter.com/LObiuwevwi/" rel="nofollow">Lawrence Obiuwevwi</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/LObiuwevwi" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=opFsN6UAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Yasasi_Abey.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://cs.odu.edu/~cs_yabey001/" rel="nofollow">Yasasi Abeysinghe</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Yasasi_Abey" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=JJfTSKcAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/AjayiKehindep.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~kajay/" rel="nofollow">Kehinde Ajayi</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/AjayiKehindep" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=tL6pCpkAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Wu)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/jhon_gbm12.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/jhongbotello/" rel="nofollow">Jhon G. Botello</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/jhon_gbm12" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=x6VeC7sAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Weigle)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/lifefromalaptop.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://dcalano.dev" rel="nofollow">David Calano</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/lifefromalaptop" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/TasinChoudhury.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_mchou001/" rel="nofollow">Muntabir Hasan Choudhury</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/TasinChoudhury" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=HudTafsAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Wu)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/jimmy_ecker.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~jecker/" rel="nofollow">Jimmy Ecker</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/jimmy_ecker" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=WdWJctQAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/sheissheba.jpg" width="100" /></div>
+  <div>
+    Bathsheba Farrow
+    <strong>(ABD)</strong><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/sheissheba" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=RP3BU5gAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/jaf_ferdous.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_mferd002/" rel="nofollow">Md Javedul Ferdous</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/jaf_ferdous" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=_cuPy0wAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Ashok)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Hussam_A_Hallak.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_hhall001/" rel="nofollow">Hussam Hallak</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Hussam_A_Hallak" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=akMFH9sAAAAJ&hl=en" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/bdhansonjr.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://bhans003.wixsite.com/website-70" rel="nofollow">Brian D. Hanson, Jr.</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/bdhansonjr" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=pha4Hi8AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/kritika_garg.jpg" width="100" /></div>
+  <div>
+    Kritika Garg<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/kritika_garg" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=apXQRYsAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/HimarshaJ.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://himarshaj.github.io/" rel="nofollow">Himarsha Jayanetti</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/HimarshaJ" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Weigle)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/yasithmilinda.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_pjaya001" rel="nofollow">Yasith Jayawardana</a>
+    <strong>(ABD)</strong><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/yasithmilinda" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=zkvNhE0AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Gavindya2.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_hjaya001" rel="nofollow">Gavindya Jayawardena</a>
+    <strong>(ABD)</strong><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Gavindya2" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=LdfjuHAAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/bllin001.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/brian-jesus-llinas-marimon/" rel="nofollow">Brian Llinás</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/bllin001" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=nE29OcUAAAAJ&hl=en" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/mahanama94.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_rmaha002/" rel="nofollow">Bhanuka Mahanama</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/mahanama94" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=db1DUiQAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Jayarathna)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/rochanaro.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/rochana-rumalshan/" rel="nofollow">Rochana R. Obadage</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/rochanaro" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Wu)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/TReid803.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://cs.odu.edu/~cs_treid003" rel="nofollow">Travis Reid</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/TReid803" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=KMewqNwAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Weigle)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/liya_lamia.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://liyalamia.github.io/Portfolio/" rel="nofollow">Lamia Salsabil</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/liya_lamia" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=7TC5ZCEAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Wu)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/mk344567.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~cs_msunk001/" rel="nofollow">Sunkara Mohan Krishna</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/mk344567" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Ashok)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/KumushiniT.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/kumushini-thennakoon/" rel="nofollow">Kumushini Thennakoon</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/KumushiniT" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Xin9Xin.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://xinw6.github.io/" rel="nofollow">Xin Wei</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Xin9Xin" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=18XjjSgAAAAJ&hl=en" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Wu)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/tarannum_zaki.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://sites.google.com/view/tarannumzaki/home" rel="nofollow">Tarannum Zaki</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/tarannum_zaki" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=L95eiH4AAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Weigle)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/Nithiyavenkat07.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/nithiya-v-8515796b" rel="nofollow">Nithiya Venkatraman</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/Nithiyavenkat07" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Ashok)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/LunaticBugbear.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://cs.odu.edu/~cs_yprak001/" rel="nofollow">Yash Prakash</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/LunaticBugbear" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Ashok)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/AkshayKNayak7.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="www.linkedin.com/in/akshay-k-nayak-610186186" rel="nofollow">Akshay Kolgar Nayak</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/AkshayKNayak7" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Ashok)
+  </div>
+</div>
+
+
+            <h5>MS students</h5>
+
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/calebkbradford.jpg" width="100" /></div>
+  <div>
+    Caleb Bradford<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/calebkbradford" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Nelson)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/lesley_elis.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://lesleyodu.github.io/" rel="nofollow">Lesley Frew</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/lesley_elis" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=JmEpqjMAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (Weigle)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/DomSoos.jpg" width="100" /></div>
+  <div>
+    Dominik Soós<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/DomSoos" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Wu)
+  </div>
+</div>
+
+            
+            <h5>BS students</h5>
+
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/mechappreciator.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/john-cartwright-091b58230/" rel="nofollow">John Cartwright</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/mechappreciator" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (Nelson)
+  </div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Alumni -->
+      <div id="Alumni" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Alumni</h4>
+
+            <h5>PhD Alumni</h5>
+
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/CorrenMcCoy.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/correnmccoy/" rel="nofollow">Dr. Corren McCoy</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/CorrenMcCoy" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=gp6cdH8AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2022)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/136/" rel="nofollow">"A Relevance Model for Threat-Centric Ranking of Cybersecurity Vulnerabilities"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2023/01/2023-01-10-i-am-number-10.html">wrap-up blog</a></em><br />Initial employment: G2 Ops
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/shawnmjones.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.shawnmjones.org/" rel="nofollow">Dr. Shawn M. Jones</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/shawnmjones" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=97KuWzQAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2021)
+    - <a class="urllink" href="https://doi.org/10.25777/zts6-v512" rel="nofollow">"Improving Collection Understanding For Web Archives With Storytelling: Shining Light Into Dark and Stormy Archives"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2021/09/2021-09-01-from-student-to-researcher.html">wrap-up blog</a></em><br />Initial employment: Los Alamos National Laboratory
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/ibnesayeed.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~salam/" rel="nofollow">Dr. Sawood Alam</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/ibnesayeed" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=zXdbEQgAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2020)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/129/" rel="nofollow">"MementoMap: A Web Archive Profiling Framework for Efficient Memento Routing"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2020/12/2020-12-31-doctoral-degree-takes.html">wrap-up blog</a></em><br />Initial employment: Internet Archive
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/maturban1.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://mohamedaturban.com/" rel="nofollow">Dr. Mohamed Aturban</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/maturban1" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=t97JN78AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2020)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/125/" rel="nofollow">"A Framework for Verifying the Fixity of Archived Web Resources"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html">wrap-up blog</a></em><br />Initial employment: Columbia College
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/acnwala.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://alexandernwala.com/" rel="nofollow">Dr. Alexander Nwala</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/acnwala" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=LqrUey4AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2020)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/124/" rel="nofollow">"Bootstrapping Web Archive Collections From Micro-Collections in Social Media"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2020/09/2020-09-28-my-report-card-to-my-mother.html">wrap-up blog</a></em><br />Initial employment: Indiana University
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/machawk1.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://matkelly.com" rel="nofollow">Dr. Mat Kelly</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/machawk1" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=ehg7mloAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2019)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/94/" rel="nofollow">"Aggregating Private and Public Web Archives Using the Mementity Framework"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2019/09/2019-09-02-so-long-and-thanks-for-all.html">wrap-up blog</a></em><br />Initial employment: Drexel University
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/LulwahMA.jpg" width="100" /></div>
+  <div>
+    Dr. Lulwah Alkwai<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/LulwahMA" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=EnQF73AAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2019)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/90/" rel="nofollow">"Expanding the Usage of Web Archives by Recommending Archived Webpages Using Only the URI"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2019/06/2019-06-18-it-is-time-to-go-back-home.html">wrap-up blog</a></em><br />Initial employment: University of Hail
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/yasmina_anwar.jpg" width="100" /></div>
+  <div>
+    Dr. Yasmin AlNoamany<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/yasmina_anwar" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=bRlYmNcAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2016)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/13" rel="nofollow">"Using Web Archives to Enrich the Live Web Experience Through Storytelling"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2016/09/2016-09-20-promising-scene-at-end-of.html">wrap-up blog</a></em><br />Initial employment: University of California, Berkeley
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/justinfbrunelle.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www.justinfbrunelle.com/" rel="nofollow">Dr. Justin F. Brunelle</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/justinfbrunelle" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=O_Fdci8AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2016)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/10" rel="nofollow">"Scripts in a Frame: A Two-Tiered Approach for Archiving Deferred Representations"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2016/04/2016-04-15-how-i-learned-not-to-work.html">wrap-up blog</a></em><br />Initial employment: MITRE
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/hanysalaheldeen.jpg" width="100" /></div>
+  <div>
+    Dr. Hany SalahEldeen<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/hanysalaheldeen" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=XpmZBggAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2015)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/25" rel="nofollow">"Detecting, Modeling, and Predicting User Temporal Intention in Social Media"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2015/05/2015-05-29-call-me-dr-salaheldeen.html">wrap-up blog</a></em><br />Initial employment: Microsoft
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/simplesimon2013.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www.cs.odu.edu/~ccartled/" rel="nofollow">Dr. Chuck Cartledge</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/simplesimon2013" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=pXj9Dk4AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2014)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/24" rel="nofollow">"A Framework for Web Object Self-Preservation"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2014/09/a-long-and-tortuous-trail-to-phd.html">wrap-up blog</a></em><br />Initial employment: Fulcrum IT Services
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/aalsum.jpg" width="100" /></div>
+  <div>
+    Dr. Ahmed AlSum<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/aalsum" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=BrxQC4MAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2014)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/27" rel="nofollow">"Web Archive Services Framework for Tighter Integration Between the Past and Present Web"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2014/05/2014-05-28-road-to-most-precious-three.html">wrap-up blog</a></em><br />Initial employment: Stanford University
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/mart1nkle1n.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.lanl.gov/library/about/research-prototyping.php" rel="nofollow">Dr. Martin Klein</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/mart1nkle1n" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=nMRDlR8AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2011)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/20" rel="nofollow">"Using the Web Infrastructure for Real Time Recovery of Missing Web Pages"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2011/09/2011-09-14-dissertation-completed.html">wrap-up blog</a></em><br />Initial employment: LANL
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/joansm1th.jpg" width="100" /></div>
+  <div>
+    Dr. Joan Smith<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/joansm1th" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2008)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/22" rel="nofollow">"Integrating Preservation Functions Into the Web Server"</a><br />Initial employment: Emory University
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/fmccown.jpg" width="100" /></div>
+  <div>
+    Dr. Frank McCown<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/fmccown" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=LDHBI20AAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2007)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/21" rel="nofollow">"Lazy Preservation: Reconstructing Websites from the Web Infrastructure"</a><br />Initial employment: Harding University
+  </div>
+</div>
+
+
+            <h5>MS Alumni</h5>
+
+            
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/EmilyEscamilla_.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://elescamilla.github.io" rel="nofollow"> Emily Escamilla</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/EmilyEscamilla_" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=kKcPKDwAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2023)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/" rel="nofollow">"Assessing the Prevalence and Archival Rate of URIs to Git Hosting Platforms in Scholarly Publications"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2023/08/2023-08-31-end-of-chapter.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/HimarshaJ.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://himarshaj.github.io/" rel="nofollow"> Himarsha R. Jayanetti</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/HimarshaJ" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=nySd1gIAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2023)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/139" rel="nofollow">"Supporting Account-based Queries for Archived Instagram Posts"</a>- <em><a class="urllink" href="https://ws-dl.blogspot.com/2023/06/2023-06-15-milestone-achieved.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/usersami7.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://rayansami.github.io/" rel="nofollow"> Sami Uddin</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/usersami7" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=9GJoF4AAAAAJ&hl" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2022)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/133/" rel="nofollow">"TransParsCit: A Transformer-Based Citation Parser Trained on Large-Scale Synthesized Data"</a><br />Initial employment: Virginia Marine Resources Commission
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/m_nsiddique.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~msiddique/" rel="nofollow"> Nauman Siddique</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/m_nsiddique" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2021)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/abigail_mabe.jpg" width="100" /></div>
+  <div>
+     Abigail Mabe<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/abigail_mabe" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2021)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/dhruv_282.jpg" width="100" /></div>
+  <div>
+     Dhruv Patel<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/dhruv_282" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2021)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/PuneethBikks.jpg" width="100" /></div>
+  <div>
+     Puneeth Bikkasandra Puttaramegowda<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/PuneethBikks" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2020)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/johnaberlin.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www.cs.odu.edu/~jberlin/" rel="nofollow"> John Berlin</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/johnaberlin" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=dJacdOoAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2018)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/38" rel="nofollow">"To Relive The Web: A Framework For The Transformation And Archival Replay Of Web Pages"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2018/04/2018-05-01-high-fidelity-ms-thesis-to.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/grantcatkins.jpg" width="100" /></div>
+  <div>
+     Grant Atkins<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/grantcatkins" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2018)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/maheedhargunnam.jpg" width="100" /></div>
+  <div>
+     Maheedhar Gunnam<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/maheedhargunnam" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2018)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/erikaris.jpg" width="100" /></div>
+  <div>
+     Erika Siregar<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/erikaris" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2017)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Hung Do
+    (2017)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www.cs.odu.edu/~gszalkow/" rel="nofollow"> Greg Szalkowski</a>
+    (2016)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/shawnmjones.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.shawnmjones.org/" rel="nofollow"> Shawn M. Jones</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/shawnmjones" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=97KuWzQAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2015)
+    - <a class="urllink" href="https://doi.org/10.25777/d8hw-b984" rel="nofollow">"Avoiding Spoilers On MediaWiki Fan Sites Using Memento"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2015/04/2015-04-05-from-student-to-researcher.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/ibnesayeed.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.cs.odu.edu/~salam/" rel="nofollow"> Sawood Alam</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/ibnesayeed" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=zXdbEQgAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2013)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/28" rel="nofollow">"HTTP Mailbox - Asynchronous RESTful Communication"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2013/09/2013-09-09-ms-thesis-http-mailbox.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/machawk1.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://matkelly.com" rel="nofollow"> Mat Kelly</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/machawk1" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=ehg7mloAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2012)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/6/" rel="nofollow">"An Extensible Framework for Creating Personal Web Archives of Content Behind Authentication"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2012/08/2012-08-20-ms-thesis-extensible.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/kalpeshpadia.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="http://www4.ncsu.edu/~kpadia/" rel="nofollow"> Kalpesh Padia</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/kalpeshpadia" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=rmd2ndEAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2012)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/4/" rel="nofollow">"Visualizing Digital Collections at Archive-It"</a>- <em><a class="urllink" href="http://ws-dl.blogspot.com/2012/08/2012-08-10-ms-thesis-visualizing.html">wrap-up blog</a></em>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/carltonnorthern.jpg" width="100" /></div>
+  <div>
+     Carlton Northern<span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/carltonnorthern" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span>
+    (2011)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/matthiasprellwitz/" rel="nofollow"> Matthias Prellwitz</a><a class="urllink" href="https://scholar.google.com/citations?user=0VaDS7wAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2010)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/jebware/" rel="nofollow"> Jeb Ware</a>
+    (2010)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/ScottGAinsworth.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/scottainsworth/" rel="nofollow"> Scott Ainsworth</a><span style="margin-left: 0.5em;"><a class="urllink" href="https://twitter.com/ScottGAinsworth" rel="nofollow"><img width="15" src="img/whoIsAPrettyBird_YesYouAre.png" alt="" /></a></span><a class="urllink" href="https://scholar.google.com/citations?user=kPMkdxwAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2010)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Jeffery Shipman
+    (2010)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Sudhir Koneru
+    (2009)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Venkata Potta
+    (2009)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/rabiahaq" rel="nofollow"> Rabia Haq</a><a class="urllink" href="https://scholar.google.com/citations?user=kltmQFgAAAAJ" rel="nofollow"><img width="15" src="img/scholarLogo.png" alt="" /></a>
+    (2008)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/26/" rel="nofollow">"Using Timed-Release Cryptography to Mitigate Preservation Risk of Embargo Periods"</a>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/olena-hunsicker-4528b110/" rel="nofollow"> Olena Hunsicker</a>
+    (2008)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Venkata Sai Krishna Kamineni
+    (2008)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/satish-lakkoju-059a39a/" rel="nofollow"> Satish Lakkoju</a>
+    (2008)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Krishnan Ganesh Madras
+    (2008)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/amine-benjelloun-0842a6161/" rel="nofollow"> Amine Benjelloun</a>
+    (2007)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+     Manoranjan Magudam
+    (2007)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://ignaciogc.com" rel="nofollow"> Ignacio Garcia del Campo</a>
+    (2006)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/aravind-elango" rel="nofollow"> Aravind Elango</a>
+    (2005)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/giridharmanepalli/" rel="nofollow"> Giridhar Manepalli</a>
+    (2005)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/suchitra-manepalli-2787186/" rel="nofollow"> Suchitra Manepalli</a>
+    (2005)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/danswaney/" rel="nofollow"> Daniel Swaney</a>
+    (2005)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/terryleeharrison/" rel="nofollow"> Terry Harrison</a>
+    (2005)
+    - <a class="urllink" href="https://digitalcommons.odu.edu/computerscience_etds/23/" rel="nofollow">"Opal: In Vivo Based Preservation Framework for Locating Lost Web Pages"</a>
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/sheffan-chan-4735bb9/" rel="nofollow"> Sheffan Chan</a>
+    (2004)
+  </div>
+</div>
+<div class="person-container">
+  <div class="person-image"><img src="assets/images/avatars/default_profile.jpg" width="100" /></div>
+  <div>
+    <a class="urllink" href="https://www.linkedin.com/in/thom-lutkenhouse-pmp-76685316/" rel="nofollow"> Thomas Lutkenhouse</a>
+    (2004)
+  </div>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Research -->
+      <div id="Research" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+            <h4>Research</h4>
+
+            <ul class="text-black-50 mb-0">
+              <li>Faculty, students, and alumni at <a href="https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:webscidl">Google Scholar</a></li>
+              <li><a href="https://twitter.com/WebSciDL">@WebSciDL</a> retweets highlights and announcements from WS-DL members</li>
+              <li>Software and data at <a href="https://github.com/oduwsdl">GitHub</a></li>
+              <li>Trip reports, paper summaries, announcements, releases, early results at <a href="https://ws-dl.blogspot.com/">Blogger</a></li>
+              <li>Annual research summaries: <a href="https://ws-dl.blogspot.com/2023/01/2023-01-26-review-of-ws-dls-2022.html">2022</a>,
+                <a href="https://ws-dl.blogspot.com/2022/01/2022-01-26-review-of-ws-dls-2021.html">2021</a>,
+                <a href="https://ws-dl.blogspot.com/2021/01/2021-01-14-review-of-ws-dls-2020.html">2020</a>,
+                <a href="https://ws-dl.blogspot.com/2020/01/2020-01-13-review-of-ws-dls-2019_13.html">2019</a>,
+                    <a href="https://ws-dl.blogspot.com/2019/01/2019-01-07-review-of-ws-dls-2018.html">2018</a>,
+                    <a href="http://ws-dl.blogspot.com/2018/01/2018-01-07-review-of-ws-dls-2017.html">2017</a>,
+                <a href="http://ws-dl.blogspot.com/2017/01/2017-01-08-review-of-ws-dls-2016.html">2016</a>,
+                    <a href="http://ws-dl.blogspot.com/2016/01/2016-01-02-review-of-ws-dls-2015.html">2015</a>,
+                <a href="http://ws-dl.blogspot.com/2015/01/2015-01-03-review-of-ws-dls-2014.html">2014</a>, and
+                    <a href="http://ws-dl.blogspot.com/2014/01/2014-01-06-review-of-ws-dls-2013.html">2013</a></li>
+            </ul>
+
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Courses -->
+      <div id="Courses" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text  text-lg-left">
+            <h4>Courses</h4>
+
+            The Web Science and Digital Libraries research group teaches an exciting and unique set of advanced undergraduate and graduate courses, including:
+            <p>
+            <ul class="text-black-50 mb-0">
+              <li><a href="https://github.com/phonedude/cs395-s20">CS 395 Research Methods in Data and Web Science</a><br/><i>Topics</i>: writing proposals, reading &amp; writing papers, giving presentations, Python, Web APIs, reproducibility, LaTeX, and GitHub.</li>
+              <li><a href="https://github.com/lamps-lab/cs418518-f22">CS 418/518 Web Programming</a><br/><i>Topics</i>: LAMP (Linux, Apache, MySQL, PHP), MVC (Model-View-Control), Search Engines, GitHub. &nbsp;</li>
+              <li><a href="https://cs531-f22.github.io/">CS 431/531 Web Server Design</a><br/><i>Topics</i>: HTTP, REST (Representational State Transfer), HATEOAS.</li>
+              <li><a href="https://github.com/odu-cs432-websci/public/blob/main/fall22/README.md">CS 432/532 Web Science</a><br/><i>Topics</i>: Python, GitHub, LaTeX, data visualization, information retrieval, social networks, collective intelligence,
+machine learning.</li>
+              <li><a href="https://www.cs.odu.edu/~vashok/cs480_2021.html">CS 480/580 Introduction to Artificial Intelligence</a><br/><i>Topics</i>: problem representation, problem-solving methods, search, pattern recognition, natural language processing, vision processing, machine learning, and expert systems.</li>
+              <li><a href="https://www.cs.odu.edu/%7Esampath/courses/s20/cs495/">CS 495/595 Intro to Data Mining</a><br/><i>Topics</i>: data preprocessing, pattern mining, outlier analysis, and mining of text, data streams, time series, spatial, and graph data.</li>
+              <li><a href="https://github.com/phonedude/cs595-s22">CS 495/595 Web Security</a><br/><i>Topics</i>: HTTP, Cross-Site Request Forgery, Same Origin Policy, Cross-Site Scripting (XSS), Fingerprinting, Denial-of-service, Phishing.</li>
+              <li><a href="https://www.cs.odu.edu/~sampath/courses/f22/cs620">CS 620 Intro to Data Science &amp; Analytics</a><br/><i>Topics</i>: Python, Pandas, NumPy, NoSQL, Data Wrangling, ML.</li>
+              <li><a href="https://github.com/odu-cs625-datavis/public/blob/main/Spr23/Syllabus-Spr23.md">CS 625 Data Visualization</a><br/><i>Topics</i>: Tableau, R, Vega-Lite, Observable, Markdown, OpenRefine, data cleaning, visual perception, visualization
+design, exploratory data analysis, visual storytelling.</li>
+              <li><a href="https://weiglemc.github.io/teaching/2022-spr-cs725825">CS 725/825 Information Visualization and Visual Analytics</a><br/><i>Topics</i>: Vega-Lite, D3, Observable, visual analytics, interactive visualization, dashboard design, reading academic
+vis papers.</li>
+              <li><a href="http://www.cs.odu.edu/~vashok/cs795NLP">CS 733/833 Natural Language Processing</a><br/><i>Topics</i>: Language Models, Word2Vec, BERT, Deep Learning, Assistants.</li>
+              <li><a href="https://www.cs.odu.edu/~jwu/downloads/teaching/cs-795-895-syllabus-2020-fall.pdf">CS 795/895 Mining Scholarly Big Data</a><br/><i>Topics</i>: Apache Spark, NLP, Data Mining, Recommenders.</li>
+              <li><a href="http://fanchyna.wixsite.com/jianwu/cs734834-spring2019">CS 734/834 Information Retrieval</a><br/><i>Topics</i>: crawling, ranking, query processing, retrieval models, evaluation, clustering, machine learning.</li>
+              <li><a href="https://www.cs.odu.edu/~jwu/downloads/teaching/cs-795-895-syllabus-2022-spring.pdf">CS 795/895 Natural Language Understanding</a><br/><i>Topics</i>: Fundamentals of neural networks and deep learning, natural language reference, sentiment analysis, and semantic parsing.</li>
+              <li><a href="https://github.com/phonedude/cs895-f22">CS 795/895 Web Archiving Forensics</a><br/><i>Topics</i>: Memento, CDX, Twitter, Caching.</li>
+              <li><a href="https://sakivdaveb.wixsite.com/mysite/cs795">CS 795/895 Intelligent User Interfaces</a><br/><i>Topics</i>: HCI, Assistive Technologies, Speech Interfaces, Wearable Computing, Crowd-Powered Interfaces</li>
+              <li><a href="https://www.cs.odu.edu/~sampath/courses/s22/cs795/">CS 795/895 Human-Computer Interaction</a><br/><i>Topics</i>: cognitive and social phenomena surrounding human use of computers.</li>
+              <li><a href="https://www.cs.odu.edu/~jbrunelle/cs891/">CS 891 Emerging Technologies</a><br/><i>Topics</i>: Cloud, Edge, IoT, Blockchain, Security, Agile.</li>
+
+            </ul>
+
+            <p>
+            Previous semesters: 
+            <a href="https://ws-dl.blogspot.com/2024/01/2024-01-03-seven-wsdl-classes-offered.html">S24</a>,
+            <a href="https://ws-dl.blogspot.com/2023/08/2023-08-23-six-wsdl-classes-offered-for.html">F23</a>,
+            <a href="https://ws-dl.blogspot.com/2023/01/2023-01-05-eight-ws-dl-classes-offered.html">S23</a>,
+            <a href="https://ws-dl.blogspot.com/2022/08/2022-08-25-seven-ws-dl-classes-offered.html">F22</a>,
+            <a href="https://ws-dl.blogspot.com/2022/01/2022-01-04-seven-ws-dl-classes-offered.html">S22</a>,
+            <a href="https://ws-dl.blogspot.com/2021/08/2021-08-29-six-ws-dl-classed-offered.html">F21</a>,
+            <a href="https://ws-dl.blogspot.com/2021/01/2021-01-15-six-ws-dl-classes-offered.html">S21</a>,
+            <a href="https://ws-dl.blogspot.com/2020/08/2020-08-25-seven-ws-dl-classes-offered.html">F20</a>,
+            <a href="https://ws-dl.blogspot.com/2020/01/2020-01-04-four-ws-dl-classes-offered.html">S20</a>,
+            <a href="https://ws-dl.blogspot.com/2019/08/2019-08-24-six-ws-dl-classes-offered.html">F19</a>,
+            <a href="https://ws-dl.blogspot.com/2019/01/2019-01-03-five-ws-dl-classes-offered.html">S19</a>, and
+            <a href="https://ws-dl.blogspot.com/2018/08/2018-08-25-four-ws-dl-classes-offered.html">F18</a>
+          </div>
+        </div>
+      </div>
+
+      <!-- Twitter -->
+      <div id="Twitter" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+           <h4>Twitter</h4>
+
+            RTs of announcements from WS-DL members
+            <p>
+
+<a class="twitter-timeline" data-width="1200" data-height="500" data-theme="light" href="https://twitter.com/WebSciDL?ref_src=twsrc%5Etfw">Tweets by WebSciDL</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Blog -->
+      <div id="Blog" class="row align-items-center no-gutters mb-4 mb-lg-5 section-container">
+
+        <div class="col-xl-12 col-lg-12">
+          <div class="featured-text text-lg-left">
+           <h4>Blog</h4>
+
+            The most recent <a href="https://ws-dl.blogspot.com/">blog</a> posts.
+            <p>
+
+ <!-- start feedwind code --> <script type="text/javascript" src="https://feed.mikle.com/js/fw-loader.js" preloader-text="Loading" data-fw-param="145109/"></script> <!-- end feedwind code -->           </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+
+    
+  <!-- Footer -->
+    <footer class="bg-white small text-center text-black-50">
+    <div class="container">
+
+      <div class="row">
+        <div class="col-md-12 col-xl-12 col-lg-12">
+
+        <p><img style="width: 16px;" src="img/twitter-icon-32x32.png">&nbsp;&nbsp;<a href="https://twitter.com/WebSciDL">Follow @WebSciDL on Twitter</a></p>
+
+        </div>
+      </div>
+
+     
+
+
+      <div class="row">
+        <div class="col-xl-12 col-lg-12">
+          <hr>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xl-3 col-lg-2">
+          <img src="img/odulogo.png"> 
+        </div>
+        <div class="col-xl-9 col-lg-10">
+          This web site is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a> by the Old Dominion University Web Science and Digital Libraries Research Group 2021. <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+        </div>
+      </div>
+
+
+    </div>
+    </footer>
+
+
+<!-- Bootstrap core JavaScript -->
+<script src="/vendor/jquery/jquery.min.js"></script>
+<script src="/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="/js/grayscale.min.js"></script>
+
+</body>
+</html>
+    

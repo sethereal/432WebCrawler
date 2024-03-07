@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 21:14:10.042811 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-23T20:09:31Z",
+        "uri": "https://web.archive.org/web/20240123200931/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-23T20:09:31Z",
+      "uri": "https://web.archive.org/web/20240123200931/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024"
+    },
+    "last": {
+      "datetime": "2024-01-23T20:09:31Z",
+      "uri": "https://web.archive.org/web/20240123200931/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/annual-economic-forecast-jan-31-to-offer-predictions-for-2024"
+}

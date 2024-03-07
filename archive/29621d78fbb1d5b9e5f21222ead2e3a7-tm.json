@@ -1,0 +1,155 @@
+ERROR: 2024/02/18 17:40:40.664685 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/about/connect": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/about/connect",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/connect",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-21T17:09:49Z",
+        "uri": "https://web.archive.org/web/20161021170949/http://ww1.odu.edu:80/about/connect"
+      },
+      {
+        "datetime": "2017-01-20T20:38:00Z",
+        "uri": "https://web.archive.org/web/20170120203800/http://ww1.odu.edu:80/about/connect"
+      },
+      {
+        "datetime": "2017-04-03T04:23:41Z",
+        "uri": "https://web.archive.org/web/20170403042341/http://ww1.odu.edu:80/about/connect"
+      },
+      {
+        "datetime": "2017-10-03T14:45:44Z",
+        "uri": "https://web.archive.org/web/20171003144544/http://ww1.odu.edu:80/about/connect"
+      },
+      {
+        "datetime": "2022-05-21T01:59:24Z",
+        "uri": "https://web.archive.org/web/20220521015924/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-08-18T15:59:17Z",
+        "uri": "https://web.archive.org/web/20220818155917/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-11-07T05:21:14Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052114/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-11-07T05:21:14Z",
+        "uri": "https://web.archive.org/web/20221107052114/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-12-05T14:56:52Z",
+        "uri": "https://web.archive.org/web/20221205145652/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-12-07T07:31:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221207073112/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-12-07T07:31:12Z",
+        "uri": "https://web.archive.org/web/20221207073112/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2022-12-08T05:51:11Z",
+        "uri": "https://web.archive.org/web/20221208055111/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-01-07T07:06:36Z",
+        "uri": "https://wayback.archive-it.org/all/20230107070636/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-01-07T07:06:36Z",
+        "uri": "https://web.archive.org/web/20230107070636/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-02-07T06:20:11Z",
+        "uri": "https://wayback.archive-it.org/all/20230207062011/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-02-07T06:20:11Z",
+        "uri": "https://web.archive.org/web/20230207062011/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-02-07T10:42:34Z",
+        "uri": "https://web.archive.org/web/20230207104234/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-03-07T04:25:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042530/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-03-07T04:25:30Z",
+        "uri": "https://web.archive.org/web/20230307042530/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-03-24T08:49:27Z",
+        "uri": "https://web.archive.org/web/20230324084927/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-03-31T21:42:33Z",
+        "uri": "https://web.archive.org/web/20230331214233/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-05-29T10:20:49Z",
+        "uri": "https://web.archive.org/web/20230529102049/http://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-06-02T04:21:39Z",
+        "uri": "https://web.archive.org/web/20230602042139/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-03T03:08:16Z",
+        "uri": "https://wayback.archive-it.org/all/20230803030816/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-03T03:08:16Z",
+        "uri": "https://web.archive.org/web/20230803030816/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-25T17:36:14Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173614/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-25T17:36:14Z",
+        "uri": "https://web.archive.org/web/20230825173614/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-25T17:56:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175627/http://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-08-25T17:56:27Z",
+        "uri": "https://web.archive.org/web/20230825175627/http://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-09-23T03:32:35Z",
+        "uri": "https://web.archive.org/web/20230923033235/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-10-01T09:38:10Z",
+        "uri": "https://web.archive.org/web/20231001093810/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2023-12-01T10:06:45Z",
+        "uri": "https://web.archive.org/web/20231201100645/https://ww1.odu.edu/about/connect"
+      },
+      {
+        "datetime": "2024-02-14T16:08:47Z",
+        "uri": "https://web.archive.org/web/20240214160847/https://ww1.odu.edu/about/connect"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-21T17:09:49Z",
+      "uri": "https://web.archive.org/web/20161021170949/http://ww1.odu.edu:80/about/connect"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:47Z",
+      "uri": "https://web.archive.org/web/20240214160847/https://ww1.odu.edu/about/connect"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/about/connect",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/about/connect",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/about/connect"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/about/connect"
+}

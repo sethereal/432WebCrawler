@@ -1,0 +1,187 @@
+ERROR: 2024/02/18 21:51:26.712478 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/advising": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/advising",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/advising",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2002-04-26T12:54:50Z",
+        "uri": "https://web.archive.org/web/20020426125450/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2002-06-26T19:50:31Z",
+        "uri": "https://web.archive.org/web/20020626195031/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2002-10-22T04:51:18Z",
+        "uri": "https://web.archive.org/web/20021022045118/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2003-01-01T22:34:11Z",
+        "uri": "https://web.archive.org/web/20030101223411/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2003-04-16T20:02:59Z",
+        "uri": "https://web.archive.org/web/20030416200259/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2003-06-28T00:24:14Z",
+        "uri": "https://web.archive.org/web/20030628002414/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2003-08-30T22:02:01Z",
+        "uri": "https://web.archive.org/web/20030830220201/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2003-12-22T07:33:27Z",
+        "uri": "https://web.archive.org/web/20031222073327/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-02-15T15:27:03Z",
+        "uri": "https://web.archive.org/web/20040215152703/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-05-10T03:56:22Z",
+        "uri": "https://web.archive.org/web/20040510035622/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-06-24T17:32:10Z",
+        "uri": "https://web.archive.org/web/20040624173210/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-08-16T13:41:01Z",
+        "uri": "https://web.archive.org/web/20040816134101/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-10-15T04:06:58Z",
+        "uri": "https://web.archive.org/web/20041015040658/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2004-12-05T02:24:01Z",
+        "uri": "https://web.archive.org/web/20041205022401/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2005-02-24T01:59:33Z",
+        "uri": "https://web.archive.org/web/20050224015933/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2005-03-15T19:44:32Z",
+        "uri": "https://web.archive.org/web/20050315194432/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2005-11-01T02:20:41Z",
+        "uri": "https://web.archive.org/web/20051101022041/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2005-11-10T06:00:53Z",
+        "uri": "https://web.archive.org/web/20051110060053/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2006-06-23T13:18:35Z",
+        "uri": "https://web.archive.org/web/20060623131835/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2006-09-01T19:41:03Z",
+        "uri": "https://web.archive.org/web/20060901194103/http://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2006-09-29T03:21:26Z",
+        "uri": "https://web.archive.org/web/20060929032126/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2006-12-10T04:25:03Z",
+        "uri": "https://web.archive.org/web/20061210042503/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2007-04-15T23:58:22Z",
+        "uri": "https://web.archive.org/web/20070415235822/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2011-01-08T05:49:31Z",
+        "uri": "https://web.archive.org/web/20110108054931/http://www.odu.edu:80/ADVISING"
+      },
+      {
+        "datetime": "2011-02-08T01:29:27Z",
+        "uri": "https://web.archive.org/web/20110208012927/http://www.odu.edu:80/ADVISING"
+      },
+      {
+        "datetime": "2013-03-30T04:01:53Z",
+        "uri": "https://web.archive.org/web/20130330040153/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2019-12-19T16:56:58Z",
+        "uri": "https://web.archive.org/web/20191219165658/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2020-02-18T10:20:53Z",
+        "uri": "https://web.archive.org/web/20200218102053/http://www.odu.edu:80/advising"
+      },
+      {
+        "datetime": "2021-04-15T08:47:28Z",
+        "uri": "https://web.archive.org/web/20210415084728/http://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2021-04-26T16:32:38Z",
+        "uri": "https://web.archive.org/web/20210426163238/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2022-03-19T21:59:32Z",
+        "uri": "https://web.archive.org/web/20220319215932/http://www.odu.edu/advising/"
+      },
+      {
+        "datetime": "2022-03-19T21:59:33Z",
+        "uri": "https://web.archive.org/web/20220319215933/https://www.odu.edu/advising/"
+      },
+      {
+        "datetime": "2022-03-19T23:20:56Z",
+        "uri": "https://web.archive.org/web/20220319232056/http://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2022-03-19T23:20:57Z",
+        "uri": "https://web.archive.org/web/20220319232057/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2022-10-31T12:12:59Z",
+        "uri": "https://web.archive.org/web/20221031121259/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2022-10-31T12:13:17Z",
+        "uri": "https://web.archive.org/web/20221031121317/https://www.odu.edu/advising/"
+      },
+      {
+        "datetime": "2023-07-12T06:12:02Z",
+        "uri": "https://web.archive.org/web/20230712061202/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2023-08-25T17:50:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175021/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2023-08-25T17:50:21Z",
+        "uri": "https://web.archive.org/web/20230825175021/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2023-09-25T20:41:33Z",
+        "uri": "https://web.archive.org/web/20230925204133/https://www.odu.edu/advising"
+      },
+      {
+        "datetime": "2024-01-17T00:35:38Z",
+        "uri": "https://web.archive.org/web/20240117003538/https://www.odu.edu/advising"
+      }
+    ],
+    "first": {
+      "datetime": "2002-04-26T12:54:50Z",
+      "uri": "https://web.archive.org/web/20020426125450/http://www.odu.edu:80/advising"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:38Z",
+      "uri": "https://web.archive.org/web/20240117003538/https://www.odu.edu/advising"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/advising",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/advising",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/advising"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/advising"
+}

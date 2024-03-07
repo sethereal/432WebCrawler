@@ -1,0 +1,891 @@
+ERROR: 2024/02/18 20:35:12.787891 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://g2-ops.com/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://g2-ops.com/",
+  "self": "http://localhost:1208/timemap/json/https://g2-ops.com/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2008-01-31T11:35:34Z",
+        "uri": "https://web.archive.org/web/20080131113534/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2008-08-28T04:56:44Z",
+        "uri": "https://web.archive.org/web/20080828045644/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2009-07-26T08:51:29Z",
+        "uri": "https://web.archive.org/web/20090726085129/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2009-07-26T08:51:29Z",
+        "uri": "https://web.archive.org/web/20090726085129/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2009-07-31T12:01:44Z",
+        "uri": "https://web.archive.org/web/20090731120144/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2009-10-01T05:11:53Z",
+        "uri": "https://web.archive.org/web/20091001051153/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2009-12-19T17:41:23Z",
+        "uri": "https://web.archive.org/web/20091219174123/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-01-24T06:52:37Z",
+        "uri": "https://web.archive.org/web/20100124065237/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-01-25T08:12:07Z",
+        "uri": "https://web.archive.org/web/20100125081207/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-04-29T14:27:25Z",
+        "uri": "https://web.archive.org/web/20100429142725/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-05-30T14:43:43Z",
+        "uri": "https://web.archive.org/web/20100530144343/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-11-01T10:58:20Z",
+        "uri": "https://web.archive.org/web/20101101105820/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2010-12-02T09:29:27Z",
+        "uri": "https://web.archive.org/web/20101202092927/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2011-02-08T05:02:37Z",
+        "uri": "https://web.archive.org/web/20110208050237/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2012-01-25T21:37:06Z",
+        "uri": "https://web.archive.org/web/20120125213706/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-02-25T22:03:36Z",
+        "uri": "https://web.archive.org/web/20120225220336/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-04-14T20:29:23Z",
+        "uri": "https://web.archive.org/web/20120414202923/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-06-27T00:21:10Z",
+        "uri": "https://web.archive.org/web/20120627002110/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-08-14T18:53:12Z",
+        "uri": "https://web.archive.org/web/20120814185312/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-09-15T06:49:59Z",
+        "uri": "https://web.archive.org/web/20120915064959/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-10-27T10:29:13Z",
+        "uri": "https://web.archive.org/web/20121027102913/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-11-27T18:10:44Z",
+        "uri": "https://web.archive.org/web/20121127181044/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2012-12-28T17:41:20Z",
+        "uri": "https://web.archive.org/web/20121228174120/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-02-10T07:19:20Z",
+        "uri": "https://web.archive.org/web/20130210071920/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-03-17T04:33:34Z",
+        "uri": "https://web.archive.org/web/20130317043334/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-05-20T17:53:10Z",
+        "uri": "https://web.archive.org/web/20130520175310/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-06-08T14:27:29Z",
+        "uri": "https://web.archive.org/web/20130608142729/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2013-07-07T21:46:57Z",
+        "uri": "https://web.archive.org/web/20130707214657/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-09-13T00:08:31Z",
+        "uri": "https://web.archive.org/web/20130913000831/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-10-07T05:31:26Z",
+        "uri": "https://web.archive.org/web/20131007053126/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2013-10-12T10:36:36Z",
+        "uri": "https://web.archive.org/web/20131012103636/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2013-10-24T06:54:34Z",
+        "uri": "https://web.archive.org/web/20131024065434/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2013-12-02T22:54:51Z",
+        "uri": "https://web.archive.org/web/20131202225451/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2013-12-26T02:54:05Z",
+        "uri": "https://web.archive.org/web/20131226025405/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2014-01-02T18:43:20Z",
+        "uri": "https://web.archive.org/web/20140102184320/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2014-01-05T03:12:05Z",
+        "uri": "https://web.archive.org/web/20140105031205/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-02-18T23:34:39Z",
+        "uri": "https://web.archive.org/web/20140218233439/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-05-17T12:47:13Z",
+        "uri": "https://web.archive.org/web/20140517124713/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2014-07-04T01:33:04Z",
+        "uri": "https://web.archive.org/web/20140704013304/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-08-21T22:27:29Z",
+        "uri": "https://web.archive.org/web/20140821222729/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2014-08-27T12:53:37Z",
+        "uri": "https://web.archive.org/web/20140827125337/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-10-24T08:49:20Z",
+        "uri": "https://web.archive.org/web/20141024084920/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-11-24T16:16:01Z",
+        "uri": "https://web.archive.org/web/20141124161601/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2014-12-17T08:05:27Z",
+        "uri": "https://web.archive.org/web/20141217080527/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2014-12-19T19:55:46Z",
+        "uri": "https://web.archive.org/web/20141219195546/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2014-12-25T08:05:57Z",
+        "uri": "https://web.archive.org/web/20141225080557/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-01-26T20:19:28Z",
+        "uri": "https://web.archive.org/web/20150126201928/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-01-26T20:19:28Z",
+        "uri": "https://web.archive.org/web/20150126201928/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-03-15T00:07:08Z",
+        "uri": "https://web.archive.org/web/20150315000708/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-04-15T08:03:49Z",
+        "uri": "https://web.archive.org/web/20150415080349/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-05-16T05:07:22Z",
+        "uri": "https://web.archive.org/web/20150516050722/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-06-16T17:06:14Z",
+        "uri": "https://web.archive.org/web/20150616170614/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-07-17T12:15:53Z",
+        "uri": "https://web.archive.org/web/20150717121553/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-08-01T15:36:28Z",
+        "uri": "https://web.archive.org/web/20150801153628/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2015-08-17T05:34:01Z",
+        "uri": "https://web.archive.org/web/20150817053401/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2015-09-17T05:27:55Z",
+        "uri": "https://web.archive.org/web/20150917052755/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2016-01-10T01:18:54Z",
+        "uri": "https://web.archive.org/web/20160110011854/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2016-03-05T21:37:18Z",
+        "uri": "https://web.archive.org/web/20160305213718/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2016-03-12T06:01:56Z",
+        "uri": "https://web.archive.org/web/20160312060156/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2016-03-16T05:55:00Z",
+        "uri": "https://web.archive.org/web/20160316055500/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2016-03-23T20:28:01Z",
+        "uri": "https://web.archive.org/web/20160323202801/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2016-04-22T08:26:11Z",
+        "uri": "https://web.archive.org/web/20160422082611/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2016-05-03T04:38:23Z",
+        "uri": "https://web.archive.org/web/20160503043823/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2016-10-03T06:55:16Z",
+        "uri": "https://web.archive.org/web/20161003065516/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2016-11-02T04:57:00Z",
+        "uri": "https://web.archive.org/web/20161102045700/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2017-02-21T07:10:48Z",
+        "uri": "https://web.archive.org/web/20170221071048/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2017-06-06T16:12:31Z",
+        "uri": "https://web.archive.org/web/20170606161231/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2017-06-26T07:25:25Z",
+        "uri": "https://web.archive.org/web/20170626072525/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2017-09-12T13:10:42Z",
+        "uri": "https://web.archive.org/web/20170912131042/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2017-09-22T10:17:01Z",
+        "uri": "https://web.archive.org/web/20170922101701/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2017-09-26T04:50:05Z",
+        "uri": "https://web.archive.org/web/20170926045005/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2017-10-06T00:16:55Z",
+        "uri": "https://web.archive.org/web/20171006001655/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2017-11-22T20:10:07Z",
+        "uri": "https://web.archive.org/web/20171122201007/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-02-05T02:13:57Z",
+        "uri": "https://web.archive.org/web/20180205021357/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-03-07T23:12:11Z",
+        "uri": "https://web.archive.org/web/20180307231211/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-03-14T20:59:43Z",
+        "uri": "https://web.archive.org/web/20180314205943/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-03-30T09:20:41Z",
+        "uri": "https://web.archive.org/web/20180330092041/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-04-04T02:08:58Z",
+        "uri": "https://web.archive.org/web/20180404020858/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-04-08T03:44:28Z",
+        "uri": "https://web.archive.org/web/20180408034428/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-04-10T23:06:02Z",
+        "uri": "https://web.archive.org/web/20180410230602/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-04-16T18:40:33Z",
+        "uri": "https://web.archive.org/web/20180416184033/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-05-08T21:21:43Z",
+        "uri": "https://web.archive.org/web/20180508212143/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-05-27T03:31:42Z",
+        "uri": "https://web.archive.org/web/20180527033142/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-06-03T07:22:10Z",
+        "uri": "https://web.archive.org/web/20180603072210/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-06-08T16:22:52Z",
+        "uri": "https://web.archive.org/web/20180608162252/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-07-10T11:09:34Z",
+        "uri": "https://web.archive.org/web/20180710110934/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-08-06T12:29:36Z",
+        "uri": "https://web.archive.org/web/20180806122936/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-08-10T15:03:47Z",
+        "uri": "https://web.archive.org/web/20180810150347/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-08-16T10:34:49Z",
+        "uri": "https://arquivo.pt/wayback/20180816103449mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-08-16T10:34:56Z",
+        "uri": "https://arquivo.pt/wayback/20180816103456mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-08-21T20:55:35Z",
+        "uri": "https://web.archive.org/web/20180821205535/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-08-28T09:39:57Z",
+        "uri": "https://arquivo.pt/wayback/20180828093957mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-09-05T14:31:02Z",
+        "uri": "https://web.archive.org/web/20180905143102/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-09-11T05:18:18Z",
+        "uri": "https://web.archive.org/web/20180911051818/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-10-09T09:40:58Z",
+        "uri": "https://arquivo.pt/wayback/20181009094058mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-10-13T18:14:02Z",
+        "uri": "https://web.archive.org/web/20181013181402/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-10-17T11:15:41Z",
+        "uri": "https://arquivo.pt/wayback/20181017111541mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-10-18T10:04:42Z",
+        "uri": "https://arquivo.pt/wayback/20181018100442mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-10-20T10:09:14Z",
+        "uri": "https://arquivo.pt/wayback/20181020100914mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-10-31T11:19:15Z",
+        "uri": "https://arquivo.pt/wayback/20181031111915mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-11-08T23:23:57Z",
+        "uri": "https://web.archive.org/web/20181108232357/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-11-14T00:54:10Z",
+        "uri": "https://web.archive.org/web/20181114005410/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-11-29T11:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20181129114327mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-07T13:19:21Z",
+        "uri": "https://arquivo.pt/wayback/20181207131921mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-13T12:33:45Z",
+        "uri": "https://arquivo.pt/wayback/20181213123345mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-15T02:55:32Z",
+        "uri": "https://web.archive.org/web/20181215025532/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2018-12-18T11:50:08Z",
+        "uri": "https://arquivo.pt/wayback/20181218115008mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-20T12:46:39Z",
+        "uri": "https://arquivo.pt/wayback/20181220124639mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-20T12:46:55Z",
+        "uri": "https://arquivo.pt/wayback/20181220124655mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2018-12-25T08:57:40Z",
+        "uri": "https://web.archive.org/web/20181225085740/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-01-09T12:24:43Z",
+        "uri": "https://arquivo.pt/wayback/20190109122443mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-01-09T19:08:03Z",
+        "uri": "https://web.archive.org/web/20190109190803/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-01-15T00:17:05Z",
+        "uri": "https://web.archive.org/web/20190115001705/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-01-16T12:25:55Z",
+        "uri": "https://arquivo.pt/wayback/20190116122555mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-01-16T12:26:08Z",
+        "uri": "https://arquivo.pt/wayback/20190116122608mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-01-19T02:20:23Z",
+        "uri": "https://web.archive.org/web/20190119022023/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-01-25T13:41:06Z",
+        "uri": "https://arquivo.pt/wayback/20190125134106mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-02-06T11:57:52Z",
+        "uri": "https://arquivo.pt/wayback/20190206115752mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-02-15T19:47:46Z",
+        "uri": "https://web.archive.org/web/20190215194746/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-02-18T00:22:51Z",
+        "uri": "https://web.archive.org/web/20190218002251/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-02-20T12:48:54Z",
+        "uri": "https://arquivo.pt/wayback/20190220124854mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-02-28T13:30:32Z",
+        "uri": "https://arquivo.pt/wayback/20190228133032mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-03-11T16:03:12Z",
+        "uri": "https://web.archive.org/web/20190311160312/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-03-13T13:35:56Z",
+        "uri": "https://arquivo.pt/wayback/20190313133556mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-03-19T07:20:35Z",
+        "uri": "https://web.archive.org/web/20190319072035/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-04-07T09:37:44Z",
+        "uri": "https://arquivo.pt/wayback/20190407093744mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-07T09:37:44Z",
+        "uri": "https://web.archive.org/web/20190407093744/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-07T09:37:51Z",
+        "uri": "https://arquivo.pt/wayback/20190407093751mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-07T09:37:51Z",
+        "uri": "https://web.archive.org/web/20190407093751/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-17T13:42:26Z",
+        "uri": "https://arquivo.pt/wayback/20190417134226mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-17T13:42:42Z",
+        "uri": "https://arquivo.pt/wayback/20190417134242mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-04-19T16:18:17Z",
+        "uri": "https://web.archive.org/web/20190419161817/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-05-11T14:16:13Z",
+        "uri": "https://arquivo.pt/wayback/20190511141613mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-05-12T04:51:03Z",
+        "uri": "https://web.archive.org/web/20190512045103/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-05-20T13:52:36Z",
+        "uri": "https://web.archive.org/web/20190520135236/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-05-25T11:37:07Z",
+        "uri": "https://web.archive.org/web/20190525113707/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-06-06T12:20:27Z",
+        "uri": "https://arquivo.pt/wayback/20190606122027mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-06-15T12:08:22Z",
+        "uri": "https://arquivo.pt/wayback/20190615120822mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-06-21T03:39:06Z",
+        "uri": "https://web.archive.org/web/20190621033906/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-07-18T01:26:13Z",
+        "uri": "https://web.archive.org/web/20190718012613/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-07-22T03:42:18Z",
+        "uri": "https://web.archive.org/web/20190722034218/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-08-07T12:14:59Z",
+        "uri": "https://arquivo.pt/wayback/20190807121459mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-08-07T12:15:22Z",
+        "uri": "https://arquivo.pt/wayback/20190807121522mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-08-15T05:19:07Z",
+        "uri": "https://web.archive.org/web/20190815051907/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2019-08-22T06:45:28Z",
+        "uri": "https://web.archive.org/web/20190822064528/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-09-17T10:06:39Z",
+        "uri": "https://web.archive.org/web/20190917100639/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-09-22T05:41:18Z",
+        "uri": "https://web.archive.org/web/20190922054118/http://g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-10-23T17:14:14Z",
+        "uri": "https://web.archive.org/web/20191023171414/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2019-12-24T01:47:26Z",
+        "uri": "https://web.archive.org/web/20191224014726/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2020-02-22T05:52:46Z",
+        "uri": "https://web.archive.org/web/20200222055246/http://www.g2-ops.com:80/"
+      },
+      {
+        "datetime": "2020-06-21T20:34:31Z",
+        "uri": "https://web.archive.org/web/20200621203431/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2020-06-22T20:39:25Z",
+        "uri": "https://web.archive.org/web/20200622203925/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-06-28T03:03:55Z",
+        "uri": "https://wayback.archive-it.org/all/20200628030355/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-06-28T03:03:55Z",
+        "uri": "https://web.archive.org/web/20200628030355/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-06-28T04:53:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200628045323/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-06-28T04:53:23Z",
+        "uri": "https://web.archive.org/web/20200628045323/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-08-12T18:36:37Z",
+        "uri": "https://arquivo.pt/wayback/20200812183637mp_/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-08-12T18:36:48Z",
+        "uri": "https://arquivo.pt/wayback/20200812183648mp_/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-08-15T20:07:17Z",
+        "uri": "https://web.archive.org/web/20200815200717/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-09-22T18:05:07Z",
+        "uri": "https://web.archive.org/web/20200922180507/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-10-16T20:44:54Z",
+        "uri": "https://web.archive.org/web/20201016204454/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2020-10-18T17:21:47Z",
+        "uri": "https://web.archive.org/web/20201018172147/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-10-27T15:31:23Z",
+        "uri": "https://web.archive.org/web/20201027153123/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-10-29T01:13:06Z",
+        "uri": "https://web.archive.org/web/20201029011306/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-11-26T03:12:30Z",
+        "uri": "https://web.archive.org/web/20201126031230/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2020-12-27T13:54:30Z",
+        "uri": "https://web.archive.org/web/20201227135430/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2020-12-27T13:54:31Z",
+        "uri": "https://web.archive.org/web/20201227135431/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-01-16T23:04:11Z",
+        "uri": "https://web.archive.org/web/20210116230411/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-03-09T06:20:37Z",
+        "uri": "https://web.archive.org/web/20210309062037/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-04-18T13:48:21Z",
+        "uri": "https://web.archive.org/web/20210418134821/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-05-18T22:40:39Z",
+        "uri": "https://web.archive.org/web/20210518224039/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-06-14T01:39:51Z",
+        "uri": "https://web.archive.org/web/20210614013951/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-06-14T01:39:51Z",
+        "uri": "https://web.archive.org/web/20210614013951/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-09-16T16:35:29Z",
+        "uri": "https://web.archive.org/web/20210916163529/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-09-26T21:01:54Z",
+        "uri": "https://web.archive.org/web/20210926210154/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-10-20T12:21:44Z",
+        "uri": "https://web.archive.org/web/20211020122144/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-12-04T01:58:16Z",
+        "uri": "https://web.archive.org/web/20211204015816/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-12-05T03:49:51Z",
+        "uri": "https://web.archive.org/web/20211205034951/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2021-12-08T21:06:43Z",
+        "uri": "https://web.archive.org/web/20211208210643/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-01-04T10:26:05Z",
+        "uri": "https://web.archive.org/web/20220104102605/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-01-16T11:09:03Z",
+        "uri": "https://web.archive.org/web/20220116110903/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-01-19T12:59:05Z",
+        "uri": "https://web.archive.org/web/20220119125905/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-02-03T16:07:17Z",
+        "uri": "https://web.archive.org/web/20220203160717/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-03-03T20:49:49Z",
+        "uri": "https://web.archive.org/web/20220303204949/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-04-07T20:14:02Z",
+        "uri": "https://web.archive.org/web/20220407201402/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-04-18T23:29:46Z",
+        "uri": "https://web.archive.org/web/20220418232946/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-04-18T23:29:52Z",
+        "uri": "https://web.archive.org/web/20220418232952/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-05-02T20:32:13Z",
+        "uri": "https://web.archive.org/web/20220502203213/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-05-25T04:14:43Z",
+        "uri": "https://web.archive.org/web/20220525041443/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-06-02T18:30:55Z",
+        "uri": "https://web.archive.org/web/20220602183055/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-06-30T18:45:05Z",
+        "uri": "https://web.archive.org/web/20220630184505/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-07-25T20:02:12Z",
+        "uri": "https://web.archive.org/web/20220725200212/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-08-25T12:51:13Z",
+        "uri": "https://web.archive.org/web/20220825125113/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-09-23T12:07:28Z",
+        "uri": "https://web.archive.org/web/20220923120728/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-10-06T01:07:34Z",
+        "uri": "https://web.archive.org/web/20221006010734/http://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-10-06T01:48:04Z",
+        "uri": "https://web.archive.org/web/20221006014804/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-10-06T01:54:27Z",
+        "uri": "https://web.archive.org/web/20221006015427/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-11-04T16:33:20Z",
+        "uri": "https://web.archive.org/web/20221104163320/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-11-26T21:44:42Z",
+        "uri": "https://web.archive.org/web/20221126214442/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-12-19T02:01:38Z",
+        "uri": "https://web.archive.org/web/20221219020138/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2022-12-27T00:43:10Z",
+        "uri": "https://web.archive.org/web/20221227004310/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-01-22T02:54:25Z",
+        "uri": "https://web.archive.org/web/20230122025425/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-01-23T19:48:47Z",
+        "uri": "https://web.archive.org/web/20230123194847/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-02-04T01:47:24Z",
+        "uri": "https://web.archive.org/web/20230204014724/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-03-19T15:40:09Z",
+        "uri": "https://web.archive.org/web/20230319154009/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2023-03-28T17:22:23Z",
+        "uri": "https://web.archive.org/web/20230328172223/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-03-28T18:40:05Z",
+        "uri": "https://web.archive.org/web/20230328184005/https://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2023-03-28T18:41:18Z",
+        "uri": "https://web.archive.org/web/20230328184118/https://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2023-03-28T18:45:21Z",
+        "uri": "https://web.archive.org/web/20230328184521/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-06-02T14:33:54Z",
+        "uri": "https://web.archive.org/web/20230602143354/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-08-01T00:32:23Z",
+        "uri": "https://web.archive.org/web/20230801003223/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2023-08-01T00:32:23Z",
+        "uri": "https://web.archive.org/web/20230801003223/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2023-09-28T20:14:37Z",
+        "uri": "https://web.archive.org/web/20230928201437/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2024-02-14T17:11:41Z",
+        "uri": "https://web.archive.org/web/20240214171141/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2024-02-14T17:11:41Z",
+        "uri": "https://web.archive.org/web/20240214171141/http://www.g2-ops.com/"
+      },
+      {
+        "datetime": "2024-02-14T17:11:43Z",
+        "uri": "https://web.archive.org/web/20240214171143/https://g2-ops.com/"
+      },
+      {
+        "datetime": "2024-02-17T10:18:24Z",
+        "uri": "https://web.archive.org/web/20240217101824/https://g2-ops.com/"
+      }
+    ],
+    "first": {
+      "datetime": "2008-01-31T11:35:34Z",
+      "uri": "https://web.archive.org/web/20080131113534/http://www.g2-ops.com:80/"
+    },
+    "last": {
+      "datetime": "2024-02-17T10:18:24Z",
+      "uri": "https://web.archive.org/web/20240217101824/https://g2-ops.com/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://g2-ops.com/",
+    "json_format": "http://localhost:1208/timemap/json/https://g2-ops.com/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://g2-ops.com/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://g2-ops.com/"
+}

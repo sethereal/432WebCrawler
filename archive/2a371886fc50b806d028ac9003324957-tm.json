@@ -1,0 +1,59 @@
+ERROR: 2024/02/18 18:23:54.065107 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2104.14041": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2104.14041",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2104.14041",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-04-30T17:49:46Z",
+        "uri": "https://web.archive.org/web/20210430174946/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2021-10-13T14:30:24Z",
+        "uri": "https://web.archive.org/web/20211013143024/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-04-27T20:30:57Z",
+        "uri": "https://web.archive.org/web/20220427203057/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-07-07T18:04:13Z",
+        "uri": "https://web.archive.org/web/20220707180413/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-07-30T18:48:56Z",
+        "uri": "https://web.archive.org/web/20220730184856/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-11-18T19:31:35Z",
+        "uri": "https://web.archive.org/web/20221118193135/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-12-08T01:52:24Z",
+        "uri": "https://web.archive.org/web/20221208015224/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-12-19T05:50:51Z",
+        "uri": "https://web.archive.org/web/20221219055051/https://arxiv.org/abs/2104.14041"
+      },
+      {
+        "datetime": "2022-12-19T05:51:32Z",
+        "uri": "https://web.archive.org/web/20221219055132/https://arxiv.org/abs/2104.14041"
+      }
+    ],
+    "first": {
+      "datetime": "2021-04-30T17:49:46Z",
+      "uri": "https://web.archive.org/web/20210430174946/https://arxiv.org/abs/2104.14041"
+    },
+    "last": {
+      "datetime": "2022-12-19T05:51:32Z",
+      "uri": "https://web.archive.org/web/20221219055132/https://arxiv.org/abs/2104.14041"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2104.14041",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2104.14041",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2104.14041"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2104.14041"
+}

@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 19:54:31.882176 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-22T23:02:13Z",
+        "uri": "https://web.archive.org/web/20240122230213/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-22T23:02:13Z",
+      "uri": "https://web.archive.org/web/20240122230213/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed"
+    },
+    "last": {
+      "datetime": "2024-01-22T23:02:13Z",
+      "uri": "https://web.archive.org/web/20240122230213/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/dr-bernice-a-king-appearance-postponed"
+}

@@ -1,0 +1,59 @@
+ERROR: 2024/02/18 18:48:27.174142 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2212.00760": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2212.00760",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2212.00760",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-12-02T06:43:10Z",
+        "uri": "https://web.archive.org/web/20221202064310/http://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-03T03:20:11Z",
+        "uri": "https://web.archive.org/web/20221203032011/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-17T19:49:37Z",
+        "uri": "https://web.archive.org/web/20221217194937/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-17T19:50:11Z",
+        "uri": "https://web.archive.org/web/20221217195011/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-17T19:50:24Z",
+        "uri": "https://web.archive.org/web/20221217195024/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-17T20:35:14Z",
+        "uri": "https://web.archive.org/web/20221217203514/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-17T20:36:30Z",
+        "uri": "https://web.archive.org/web/20221217203630/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2022-12-22T19:50:19Z",
+        "uri": "https://web.archive.org/web/20221222195019/https://arxiv.org/abs/2212.00760"
+      },
+      {
+        "datetime": "2023-04-10T19:07:10Z",
+        "uri": "https://web.archive.org/web/20230410190710/https://arxiv.org/abs/2212.00760"
+      }
+    ],
+    "first": {
+      "datetime": "2022-12-02T06:43:10Z",
+      "uri": "https://web.archive.org/web/20221202064310/http://arxiv.org/abs/2212.00760"
+    },
+    "last": {
+      "datetime": "2023-04-10T19:07:10Z",
+      "uri": "https://web.archive.org/web/20230410190710/https://arxiv.org/abs/2212.00760"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2212.00760",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2212.00760",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2212.00760"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2212.00760"
+}

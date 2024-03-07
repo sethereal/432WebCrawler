@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 15:05:36.894723 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/talks/2020-11-09-course": net/http: timeout awaiting response headers

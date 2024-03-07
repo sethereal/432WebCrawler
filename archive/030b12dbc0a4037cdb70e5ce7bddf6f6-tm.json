@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 15:25:58.110720 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/shawnmorganjones/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.linkedin.com/in/shawnmorganjones/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/shawnmorganjones/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-06-01T01:53:16Z",
+        "uri": "https://web.archive.org/web/20150601015316/http://www.linkedin.com/in/shawnmorganjones/"
+      },
+      {
+        "datetime": "2016-02-11T16:37:53Z",
+        "uri": "https://web.archive.org/web/20160211163753/https://www.linkedin.com/in/shawnmorganjones"
+      },
+      {
+        "datetime": "2016-11-09T00:47:40Z",
+        "uri": "https://web.archive.org/web/20161109004740/https://www.linkedin.com/in/shawnmorganjones"
+      },
+      {
+        "datetime": "2021-11-23T03:31:39Z",
+        "uri": "https://web.archive.org/web/20211123033139/https://www.linkedin.com/in/shawnmorganjones/"
+      },
+      {
+        "datetime": "2021-11-24T19:18:52Z",
+        "uri": "https://web.archive.org/web/20211124191852/https://www.linkedin.com/in/shawnmorganjones/"
+      },
+      {
+        "datetime": "2021-11-24T19:18:53Z",
+        "uri": "https://web.archive.org/web/20211124191853/https://www.linkedin.com/in/shawnmorganjones/"
+      },
+      {
+        "datetime": "2022-12-08T06:19:18Z",
+        "uri": "https://web.archive.org/web/20221208061918/https://www.linkedin.com/in/shawnmorganjones"
+      }
+    ],
+    "first": {
+      "datetime": "2015-06-01T01:53:16Z",
+      "uri": "https://web.archive.org/web/20150601015316/http://www.linkedin.com/in/shawnmorganjones/"
+    },
+    "last": {
+      "datetime": "2022-12-08T06:19:18Z",
+      "uri": "https://web.archive.org/web/20221208061918/https://www.linkedin.com/in/shawnmorganjones"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/in/shawnmorganjones/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/shawnmorganjones/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/in/shawnmorganjones/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/in/shawnmorganjones/"
+}

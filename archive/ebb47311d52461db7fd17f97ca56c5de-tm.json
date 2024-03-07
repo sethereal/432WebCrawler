@@ -1,0 +1,115 @@
+ERROR: 2024/02/18 15:36:08.576690 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/al/centers/writing-center": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/al/centers/writing-center",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/al/centers/writing-center",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-31T11:18:13Z",
+        "uri": "https://web.archive.org/web/20221031111813/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-11-07T05:34:35Z",
+        "uri": "https://wayback.archive-it.org/all/20221107053435/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-11-07T05:34:35Z",
+        "uri": "https://web.archive.org/web/20221107053435/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-11-13T04:18:04Z",
+        "uri": "https://web.archive.org/web/20221113041804/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-12-05T15:36:03Z",
+        "uri": "https://web.archive.org/web/20221205153603/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-12-07T08:47:12Z",
+        "uri": "https://wayback.archive-it.org/all/20221207084712/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-12-07T08:47:12Z",
+        "uri": "https://web.archive.org/web/20221207084712/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2022-12-08T05:51:13Z",
+        "uri": "https://web.archive.org/web/20221208055113/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-01-07T08:25:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230107082502/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-01-07T08:25:02Z",
+        "uri": "https://web.archive.org/web/20230107082502/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-02-07T06:45:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230207064517/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-02-07T06:45:17Z",
+        "uri": "https://web.archive.org/web/20230207064517/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-02-07T12:24:49Z",
+        "uri": "https://web.archive.org/web/20230207122449/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-03-07T04:36:28Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043628/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-03-07T04:36:28Z",
+        "uri": "https://web.archive.org/web/20230307043628/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-03-24T10:29:06Z",
+        "uri": "https://web.archive.org/web/20230324102906/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-03-25T08:29:17Z",
+        "uri": "https://web.archive.org/web/20230325082917/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-06-09T05:28:25Z",
+        "uri": "https://web.archive.org/web/20230609052825/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-08-25T17:52:24Z",
+        "uri": "https://wayback.archive-it.org/all/20230825175224/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-08-25T17:52:24Z",
+        "uri": "https://web.archive.org/web/20230825175224/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-09-23T05:21:38Z",
+        "uri": "https://web.archive.org/web/20230923052138/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2023-10-29T10:52:42Z",
+        "uri": "https://web.archive.org/web/20231029105242/https://ww1.odu.edu/al/centers/writing-center"
+      },
+      {
+        "datetime": "2024-02-14T16:08:36Z",
+        "uri": "https://web.archive.org/web/20240214160836/https://ww1.odu.edu/al/centers/writing-center"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-31T11:18:13Z",
+      "uri": "https://web.archive.org/web/20221031111813/https://ww1.odu.edu/al/centers/writing-center"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:36Z",
+      "uri": "https://web.archive.org/web/20240214160836/https://ww1.odu.edu/al/centers/writing-center"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/al/centers/writing-center",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/al/centers/writing-center",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/al/centers/writing-center"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/al/centers/writing-center"
+}

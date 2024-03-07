@@ -1,0 +1,55 @@
+ERROR: 2024/02/18 20:39:26.691404 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/counseling-services": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/counseling-services",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/counseling-services",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-10T00:52:58Z",
+        "uri": "https://web.archive.org/web/20230810005258/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2023-08-25T18:47:57Z",
+        "uri": "https://wayback.archive-it.org/all/20230825184757/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2023-08-25T18:47:57Z",
+        "uri": "https://web.archive.org/web/20230825184757/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2023-09-25T18:54:31Z",
+        "uri": "https://web.archive.org/web/20230925185431/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2023-11-30T11:13:57Z",
+        "uri": "https://web.archive.org/web/20231130111357/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2023-12-18T06:35:55Z",
+        "uri": "https://web.archive.org/web/20231218063555/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2024-01-17T00:35:34Z",
+        "uri": "https://web.archive.org/web/20240117003534/https://www.odu.edu/counseling-services"
+      },
+      {
+        "datetime": "2024-01-17T00:35:48Z",
+        "uri": "https://web.archive.org/web/20240117003548/https://www.odu.edu/counseling-services"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-10T00:52:58Z",
+      "uri": "https://web.archive.org/web/20230810005258/https://www.odu.edu/counseling-services"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:48Z",
+      "uri": "https://web.archive.org/web/20240117003548/https://www.odu.edu/counseling-services"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/counseling-services",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/counseling-services",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/counseling-services"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/counseling-services"
+}

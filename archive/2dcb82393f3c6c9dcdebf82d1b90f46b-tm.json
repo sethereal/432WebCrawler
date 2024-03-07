@@ -1,0 +1,2379 @@
+ERROR: 2024/02/18 21:28:34.601042 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.loc.gov/programs/web-archiving/about-this-program/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.loc.gov/programs/web-archiving/about-this-program/",
+  "self": "http://localhost:1208/timemap/json/https://www.loc.gov/programs/web-archiving/about-this-program/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-11-21T03:09:12Z",
+        "uri": "https://web.archive.org/web/20181121030912/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-11-28T03:20:35Z",
+        "uri": "https://web.archive.org/web/20181128032035/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-11-28T23:03:07Z",
+        "uri": "https://web.archive.org/web/20181128230307/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-01T05:44:29Z",
+        "uri": "https://web.archive.org/web/20181201054429/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-05T04:08:44Z",
+        "uri": "https://web.archive.org/web/20181205040844/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-06T13:00:51Z",
+        "uri": "https://web.archive.org/web/20181206130051/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-12T04:32:16Z",
+        "uri": "https://web.archive.org/web/20181212043216/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-19T06:02:22Z",
+        "uri": "https://web.archive.org/web/20181219060222/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-22T03:02:59Z",
+        "uri": "https://web.archive.org/web/20181222030259/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-26T05:12:00Z",
+        "uri": "https://web.archive.org/web/20181226051200/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2018-12-27T18:14:47Z",
+        "uri": "https://web.archive.org/web/20181227181447/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-02T05:45:58Z",
+        "uri": "https://web.archive.org/web/20190102054558/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-09T05:57:58Z",
+        "uri": "https://web.archive.org/web/20190109055758/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-09T14:35:05Z",
+        "uri": "https://web.archive.org/web/20190109143505/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-16T06:42:58Z",
+        "uri": "https://web.archive.org/web/20190116064258/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-23T07:01:08Z",
+        "uri": "https://web.archive.org/web/20190123070108/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-01-30T07:25:30Z",
+        "uri": "https://web.archive.org/web/20190130072530/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-02-06T07:43:30Z",
+        "uri": "https://web.archive.org/web/20190206074330/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-02-13T08:19:34Z",
+        "uri": "https://web.archive.org/web/20190213081934/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-02-14T10:50:37Z",
+        "uri": "https://web.archive.org/web/20190214105037/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-02-20T09:09:14Z",
+        "uri": "https://web.archive.org/web/20190220090914/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-02-27T09:24:09Z",
+        "uri": "https://web.archive.org/web/20190227092409/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-06T09:46:01Z",
+        "uri": "https://web.archive.org/web/20190306094601/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-07T20:07:28Z",
+        "uri": "https://web.archive.org/web/20190307200728/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-13T11:30:44Z",
+        "uri": "https://web.archive.org/web/20190313113044/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-13T18:49:53Z",
+        "uri": "https://web.archive.org/web/20190313184953/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-20T06:06:44Z",
+        "uri": "https://arquivo.pt/wayback/20190320060644mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-20T06:06:44Z",
+        "uri": "https://web.archive.org/web/20190320060644/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-20T11:23:57Z",
+        "uri": "https://web.archive.org/web/20190320112357/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-27T09:18:47Z",
+        "uri": "https://web.archive.org/web/20190327091847/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-27T12:31:55Z",
+        "uri": "https://web.archive.org/web/20190327123155/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-03-27T20:03:46Z",
+        "uri": "https://web.archive.org/web/20190327200346/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-03T14:10:11Z",
+        "uri": "https://web.archive.org/web/20190403141011/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-06T21:13:36Z",
+        "uri": "https://web.archive.org/web/20190406211336/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-07T20:39:53Z",
+        "uri": "https://web.archive.org/web/20190407203953/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-10T09:49:11Z",
+        "uri": "https://web.archive.org/web/20190410094911/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-10T16:56:37Z",
+        "uri": "https://web.archive.org/web/20190410165637/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-20T13:36:07Z",
+        "uri": "https://web.archive.org/web/20190420133607/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-22T03:46:20Z",
+        "uri": "https://web.archive.org/web/20190422034620/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-22T03:46:21Z",
+        "uri": "https://web.archive.org/web/20190422034621/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-28T18:42:32Z",
+        "uri": "https://web.archive.org/web/20190428184232/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-04-29T09:44:45Z",
+        "uri": "https://web.archive.org/web/20190429094445/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-05T23:51:58Z",
+        "uri": "https://web.archive.org/web/20190505235158/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-06T20:06:32Z",
+        "uri": "https://web.archive.org/web/20190506200632/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-07T19:48:17Z",
+        "uri": "https://wayback.archive-it.org/all/20190507194817/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-07T19:48:17Z",
+        "uri": "https://web.archive.org/web/20190507194817/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-12T19:44:19Z",
+        "uri": "https://web.archive.org/web/20190512194419/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-20T05:05:17Z",
+        "uri": "https://web.archive.org/web/20190520050517/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-22T15:55:54Z",
+        "uri": "https://arquivo.pt/wayback/20190522155554mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-24T00:11:19Z",
+        "uri": "https://web.archive.org/web/20190524001119/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-26T21:10:09Z",
+        "uri": "https://web.archive.org/web/20190526211009/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-27T05:42:32Z",
+        "uri": "https://web.archive.org/web/20190527054232/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-30T21:05:18Z",
+        "uri": "https://web.archive.org/web/20190530210518/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-05-31T09:12:52Z",
+        "uri": "https://web.archive.org/web/20190531091252/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-02T22:18:16Z",
+        "uri": "https://web.archive.org/web/20190602221816/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-04T17:28:09Z",
+        "uri": "https://web.archive.org/web/20190604172809/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-06T18:43:33Z",
+        "uri": "https://web.archive.org/web/20190606184333/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-07T01:50:15Z",
+        "uri": "https://arquivo.pt/wayback/20190607015015mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-09T11:33:00Z",
+        "uri": "https://web.archive.org/web/20190609113300/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-10T19:17:48Z",
+        "uri": "https://web.archive.org/web/20190610191748/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-12T19:19:36Z",
+        "uri": "https://web.archive.org/web/20190612191936/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-17T02:42:25Z",
+        "uri": "https://web.archive.org/web/20190617024225/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-17T19:54:22Z",
+        "uri": "https://web.archive.org/web/20190617195422/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-18T21:10:03Z",
+        "uri": "https://web.archive.org/web/20190618211003/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-19T00:41:33Z",
+        "uri": "https://arquivo.pt/wayback/20190619004133mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-19T20:30:04Z",
+        "uri": "https://web.archive.org/web/20190619203004/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-24T20:42:30Z",
+        "uri": "https://web.archive.org/web/20190624204230/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-25T07:50:44Z",
+        "uri": "https://web.archive.org/web/20190625075044/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-28T03:57:24Z",
+        "uri": "https://web.archive.org/web/20190628035724/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-06-30T07:44:24Z",
+        "uri": "https://web.archive.org/web/20190630074424/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-02T22:51:10Z",
+        "uri": "https://web.archive.org/web/20190702225110/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-07T17:58:41Z",
+        "uri": "https://web.archive.org/web/20190707175841/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-09T23:17:55Z",
+        "uri": "https://web.archive.org/web/20190709231755/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-12T22:38:18Z",
+        "uri": "https://web.archive.org/web/20190712223818/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-16T16:11:27Z",
+        "uri": "https://web.archive.org/web/20190716161127/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-16T23:53:37Z",
+        "uri": "https://web.archive.org/web/20190716235337/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-24T01:08:36Z",
+        "uri": "https://web.archive.org/web/20190724010836/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-29T16:12:55Z",
+        "uri": "https://web.archive.org/web/20190729161255/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-07-31T01:38:44Z",
+        "uri": "https://web.archive.org/web/20190731013844/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-08-06T23:35:23Z",
+        "uri": "https://web.archive.org/web/20190806233523/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-08-07T03:49:40Z",
+        "uri": "https://web.archive.org/web/20190807034940/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-08-17T13:55:14Z",
+        "uri": "https://web.archive.org/web/20190817135514/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-08-21T03:17:11Z",
+        "uri": "https://web.archive.org/web/20190821031711/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-08-28T03:32:37Z",
+        "uri": "https://web.archive.org/web/20190828033237/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-04T04:11:35Z",
+        "uri": "https://web.archive.org/web/20190904041135/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-06T21:48:51Z",
+        "uri": "https://arquivo.pt/wayback/20190906214851mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-06T21:48:51Z",
+        "uri": "https://web.archive.org/web/20190906214851/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-11T04:50:52Z",
+        "uri": "https://web.archive.org/web/20190911045052/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-16T11:44:54Z",
+        "uri": "https://web.archive.org/web/20190916114454/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-18T05:17:48Z",
+        "uri": "https://web.archive.org/web/20190918051748/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-23T22:22:04Z",
+        "uri": "https://web.archive.org/web/20190923222204/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-09-25T09:26:18Z",
+        "uri": "https://web.archive.org/web/20190925092618/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-02T07:03:38Z",
+        "uri": "https://web.archive.org/web/20191002070338/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-06T23:45:53Z",
+        "uri": "https://arquivo.pt/wayback/20191006234553mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-06T23:45:53Z",
+        "uri": "https://web.archive.org/web/20191006234553/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-09T07:24:44Z",
+        "uri": "https://web.archive.org/web/20191009072444/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-18T04:02:28Z",
+        "uri": "https://web.archive.org/web/20191018040228/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-24T22:31:39Z",
+        "uri": "https://web.archive.org/web/20191024223139/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-30T15:54:50Z",
+        "uri": "https://web.archive.org/web/20191030155450/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-30T16:15:54Z",
+        "uri": "https://web.archive.org/web/20191030161554/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-10-31T23:16:30Z",
+        "uri": "https://web.archive.org/web/20191031231630/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-11-14T23:02:20Z",
+        "uri": "https://web.archive.org/web/20191114230220/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-11-23T23:45:50Z",
+        "uri": "https://web.archive.org/web/20191123234550/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-11-30T10:31:53Z",
+        "uri": "https://web.archive.org/web/20191130103153/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-11-30T10:52:58Z",
+        "uri": "https://web.archive.org/web/20191130105258/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-01T02:00:02Z",
+        "uri": "https://web.archive.org/web/20191201020002/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-05T08:40:14Z",
+        "uri": "https://web.archive.org/web/20191205084014/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-11T15:52:18Z",
+        "uri": "https://web.archive.org/web/20191211155218/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-18T13:55:29Z",
+        "uri": "https://web.archive.org/web/20191218135529/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-20T08:45:05Z",
+        "uri": "https://arquivo.pt/wayback/20191220084505mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-20T08:45:05Z",
+        "uri": "https://web.archive.org/web/20191220084505/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2019-12-25T14:21:06Z",
+        "uri": "https://web.archive.org/web/20191225142106/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-01T14:07:11Z",
+        "uri": "https://web.archive.org/web/20200101140711/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-08T14:56:34Z",
+        "uri": "https://web.archive.org/web/20200108145634/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-15T17:46:12Z",
+        "uri": "https://web.archive.org/web/20200115174612/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-17T17:08:59Z",
+        "uri": "https://web.archive.org/web/20200117170859/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-25T20:58:07Z",
+        "uri": "https://arquivo.pt/wayback/20200125205807mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-01-30T21:50:17Z",
+        "uri": "https://web.archive.org/web/20200130215017/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-04T19:33:55Z",
+        "uri": "https://web.archive.org/web/20200204193355/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-06T21:40:39Z",
+        "uri": "https://web.archive.org/web/20200206214039/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-13T21:47:38Z",
+        "uri": "https://web.archive.org/web/20200213214738/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-20T22:17:06Z",
+        "uri": "https://web.archive.org/web/20200220221706/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-27T23:31:03Z",
+        "uri": "https://web.archive.org/web/20200227233103/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-28T10:17:51Z",
+        "uri": "https://web.archive.org/web/20200228101751/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-02-29T00:47:15Z",
+        "uri": "https://web.archive.org/web/20200229004715/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-05T23:31:49Z",
+        "uri": "https://web.archive.org/web/20200305233149/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-12T00:48:24Z",
+        "uri": "https://arquivo.pt/wayback/20200312004824mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-12T00:48:24Z",
+        "uri": "https://web.archive.org/web/20200312004824/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-13T00:12:14Z",
+        "uri": "https://web.archive.org/web/20200313001214/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-19T23:06:38Z",
+        "uri": "https://web.archive.org/web/20200319230638/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-26T00:35:42Z",
+        "uri": "https://arquivo.pt/wayback/20200326003542mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-28T01:56:22Z",
+        "uri": "https://arquivo.pt/wayback/20200328015622mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-29T01:50:29Z",
+        "uri": "https://arquivo.pt/wayback/20200329015029mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-30T00:44:13Z",
+        "uri": "https://arquivo.pt/wayback/20200330004413mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-03-31T01:02:18Z",
+        "uri": "https://arquivo.pt/wayback/20200331010218mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-01T01:39:27Z",
+        "uri": "https://arquivo.pt/wayback/20200401013927mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-02T00:52:54Z",
+        "uri": "https://arquivo.pt/wayback/20200402005254mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-03T00:40:14Z",
+        "uri": "https://web.archive.org/web/20200403004014/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-03T01:04:41Z",
+        "uri": "https://arquivo.pt/wayback/20200403010441mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-04T01:07:24Z",
+        "uri": "https://arquivo.pt/wayback/20200404010724mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-04T05:49:35Z",
+        "uri": "https://web.archive.org/web/20200404054935/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-05T00:51:32Z",
+        "uri": "https://arquivo.pt/wayback/20200405005132mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-06T00:32:56Z",
+        "uri": "https://arquivo.pt/wayback/20200406003256mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-08T01:55:03Z",
+        "uri": "https://arquivo.pt/wayback/20200408015503mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-09T06:31:38Z",
+        "uri": "https://web.archive.org/web/20200409063138/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T00:23:03Z",
+        "uri": "https://web.archive.org/web/20200410002303/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T01:27:05Z",
+        "uri": "https://web.archive.org/web/20200410012705/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T01:27:52Z",
+        "uri": "https://web.archive.org/web/20200410012752/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T07:15:41Z",
+        "uri": "https://web.archive.org/web/20200410071541/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T13:23:57Z",
+        "uri": "https://web.archive.org/web/20200410132357/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T20:07:05Z",
+        "uri": "https://web.archive.org/web/20200410200705/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-10T20:07:18Z",
+        "uri": "https://web.archive.org/web/20200410200718/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-11T01:52:42Z",
+        "uri": "https://arquivo.pt/wayback/20200411015242mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-11T06:49:23Z",
+        "uri": "https://web.archive.org/web/20200411064923/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-12T00:23:10Z",
+        "uri": "https://arquivo.pt/wayback/20200412002310mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-13T00:22:42Z",
+        "uri": "https://arquivo.pt/wayback/20200413002242mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-13T05:22:57Z",
+        "uri": "https://web.archive.org/web/20200413052257/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-13T23:22:05Z",
+        "uri": "https://arquivo.pt/wayback/20200413232205mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-15T00:11:32Z",
+        "uri": "https://arquivo.pt/wayback/20200415001132mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-16T00:41:51Z",
+        "uri": "https://arquivo.pt/wayback/20200416004151mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-17T00:39:47Z",
+        "uri": "https://arquivo.pt/wayback/20200417003947mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-17T02:26:33Z",
+        "uri": "https://web.archive.org/web/20200417022633/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-18T00:47:31Z",
+        "uri": "https://arquivo.pt/wayback/20200418004731mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-18T23:48:05Z",
+        "uri": "https://arquivo.pt/wayback/20200418234805mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-20T00:36:40Z",
+        "uri": "https://arquivo.pt/wayback/20200420003640mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-21T01:00:48Z",
+        "uri": "https://arquivo.pt/wayback/20200421010048mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-22T00:50:58Z",
+        "uri": "https://arquivo.pt/wayback/20200422005058mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-23T01:18:18Z",
+        "uri": "https://arquivo.pt/wayback/20200423011818mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-24T03:30:23Z",
+        "uri": "https://web.archive.org/web/20200424033023/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-27T01:37:02Z",
+        "uri": "https://arquivo.pt/wayback/20200427013702mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-27T12:56:34Z",
+        "uri": "https://web.archive.org/web/20200427125634/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-27T14:57:37Z",
+        "uri": "https://web.archive.org/web/20200427145737/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-28T00:51:56Z",
+        "uri": "https://arquivo.pt/wayback/20200428005156mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-29T05:17:11Z",
+        "uri": "https://arquivo.pt/wayback/20200429051711mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-30T00:24:32Z",
+        "uri": "https://arquivo.pt/wayback/20200430002432mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-04-30T21:35:10Z",
+        "uri": "https://web.archive.org/web/20200430213510/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-01T00:42:54Z",
+        "uri": "https://arquivo.pt/wayback/20200501004254mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-01T05:14:15Z",
+        "uri": "https://web.archive.org/web/20200501051415/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-02T00:42:11Z",
+        "uri": "https://arquivo.pt/wayback/20200502004211mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-03T00:53:39Z",
+        "uri": "https://arquivo.pt/wayback/20200503005339mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-04T00:37:48Z",
+        "uri": "https://arquivo.pt/wayback/20200504003748mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-05T01:14:51Z",
+        "uri": "https://arquivo.pt/wayback/20200505011451mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-08T01:08:15Z",
+        "uri": "https://arquivo.pt/wayback/20200508010815mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-08T05:08:45Z",
+        "uri": "https://web.archive.org/web/20200508050845/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-09T02:17:45Z",
+        "uri": "https://arquivo.pt/wayback/20200509021745mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-09T23:30:45Z",
+        "uri": "https://arquivo.pt/wayback/20200509233045mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-11T00:54:51Z",
+        "uri": "https://arquivo.pt/wayback/20200511005451mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-11T15:16:03Z",
+        "uri": "https://web.archive.org/web/20200511151603/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-12T01:01:13Z",
+        "uri": "https://arquivo.pt/wayback/20200512010113mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-13T00:59:53Z",
+        "uri": "https://arquivo.pt/wayback/20200513005953mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-14T01:00:57Z",
+        "uri": "https://arquivo.pt/wayback/20200514010057mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-15T05:55:20Z",
+        "uri": "https://web.archive.org/web/20200515055520/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-16T01:13:25Z",
+        "uri": "https://arquivo.pt/wayback/20200516011325mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-17T00:52:24Z",
+        "uri": "https://arquivo.pt/wayback/20200517005224mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-18T00:31:12Z",
+        "uri": "https://arquivo.pt/wayback/20200518003112mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-19T01:02:11Z",
+        "uri": "https://arquivo.pt/wayback/20200519010211mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-20T00:58:22Z",
+        "uri": "https://arquivo.pt/wayback/20200520005822mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-21T23:45:27Z",
+        "uri": "https://arquivo.pt/wayback/20200521234527mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-22T06:58:02Z",
+        "uri": "https://web.archive.org/web/20200522065802/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-22T08:53:12Z",
+        "uri": "https://web.archive.org/web/20200522085312/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-22T23:34:09Z",
+        "uri": "https://arquivo.pt/wayback/20200522233409mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-24T03:27:16Z",
+        "uri": "https://arquivo.pt/wayback/20200524032716mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-24T23:18:29Z",
+        "uri": "https://arquivo.pt/wayback/20200524231829mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-25T23:54:07Z",
+        "uri": "https://arquivo.pt/wayback/20200525235407mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-26T23:58:36Z",
+        "uri": "https://arquivo.pt/wayback/20200526235836mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-29T00:37:07Z",
+        "uri": "https://arquivo.pt/wayback/20200529003707mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-29T07:25:22Z",
+        "uri": "https://web.archive.org/web/20200529072522/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-30T23:37:38Z",
+        "uri": "https://arquivo.pt/wayback/20200530233738mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-05-31T23:55:23Z",
+        "uri": "https://arquivo.pt/wayback/20200531235523mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-03T00:04:21Z",
+        "uri": "https://arquivo.pt/wayback/20200603000421mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-05T00:02:49Z",
+        "uri": "https://arquivo.pt/wayback/20200605000249mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-05T11:16:37Z",
+        "uri": "https://web.archive.org/web/20200605111637/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-06T00:13:27Z",
+        "uri": "https://web.archive.org/web/20200606001327/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-06T00:36:55Z",
+        "uri": "https://arquivo.pt/wayback/20200606003655mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-07T00:36:50Z",
+        "uri": "https://arquivo.pt/wayback/20200607003650mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-07T23:22:52Z",
+        "uri": "https://arquivo.pt/wayback/20200607232252mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-09T23:55:34Z",
+        "uri": "https://arquivo.pt/wayback/20200609235534mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-10T23:35:04Z",
+        "uri": "https://arquivo.pt/wayback/20200610233504mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-12T00:46:24Z",
+        "uri": "https://arquivo.pt/wayback/20200612004624mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-12T08:11:11Z",
+        "uri": "https://web.archive.org/web/20200612081111/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-13T00:51:47Z",
+        "uri": "https://arquivo.pt/wayback/20200613005147mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-14T00:35:32Z",
+        "uri": "https://arquivo.pt/wayback/20200614003532mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-15T01:01:34Z",
+        "uri": "https://arquivo.pt/wayback/20200615010134mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-16T00:58:45Z",
+        "uri": "https://arquivo.pt/wayback/20200616005845mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-16T14:40:38Z",
+        "uri": "https://web.archive.org/web/20200616144038/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-16T23:48:06Z",
+        "uri": "https://arquivo.pt/wayback/20200616234806mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-18T01:11:02Z",
+        "uri": "https://arquivo.pt/wayback/20200618011102mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-19T01:09:16Z",
+        "uri": "https://arquivo.pt/wayback/20200619010916mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-19T08:41:20Z",
+        "uri": "https://web.archive.org/web/20200619084120/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-20T00:16:51Z",
+        "uri": "https://arquivo.pt/wayback/20200620001651mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-21T00:47:28Z",
+        "uri": "https://arquivo.pt/wayback/20200621004728mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-21T17:42:36Z",
+        "uri": "https://web.archive.org/web/20200621174236/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-22T00:17:46Z",
+        "uri": "https://arquivo.pt/wayback/20200622001746mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-22T20:11:12Z",
+        "uri": "https://web.archive.org/web/20200622201112/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-23T00:23:01Z",
+        "uri": "https://arquivo.pt/wayback/20200623002301mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-24T00:36:59Z",
+        "uri": "https://arquivo.pt/wayback/20200624003659mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-25T00:27:07Z",
+        "uri": "https://arquivo.pt/wayback/20200625002707mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-26T00:01:07Z",
+        "uri": "https://arquivo.pt/wayback/20200626000107mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-26T09:24:49Z",
+        "uri": "https://web.archive.org/web/20200626092449/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-27T00:25:19Z",
+        "uri": "https://arquivo.pt/wayback/20200627002519mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-27T23:55:31Z",
+        "uri": "https://arquivo.pt/wayback/20200627235531mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-28T23:11:18Z",
+        "uri": "https://arquivo.pt/wayback/20200628231118mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-06-30T00:22:51Z",
+        "uri": "https://arquivo.pt/wayback/20200630002251mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-01T00:16:27Z",
+        "uri": "https://arquivo.pt/wayback/20200701001627mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-01T23:09:26Z",
+        "uri": "https://arquivo.pt/wayback/20200701230926mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-02T23:57:39Z",
+        "uri": "https://arquivo.pt/wayback/20200702235739mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-03T10:29:16Z",
+        "uri": "https://web.archive.org/web/20200703102916/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-04T00:14:18Z",
+        "uri": "https://arquivo.pt/wayback/20200704001418mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-05T00:03:03Z",
+        "uri": "https://arquivo.pt/wayback/20200705000303mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-06T00:05:51Z",
+        "uri": "https://arquivo.pt/wayback/20200706000551mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-06T23:15:16Z",
+        "uri": "https://arquivo.pt/wayback/20200706231516mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-07T23:25:57Z",
+        "uri": "https://arquivo.pt/wayback/20200707232557mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-08T14:26:03Z",
+        "uri": "https://web.archive.org/web/20200708142603/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-09T00:02:47Z",
+        "uri": "https://arquivo.pt/wayback/20200709000247mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-09T23:51:40Z",
+        "uri": "https://arquivo.pt/wayback/20200709235140mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-10T10:49:54Z",
+        "uri": "https://web.archive.org/web/20200710104954/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-10T22:56:15Z",
+        "uri": "https://arquivo.pt/wayback/20200710225615mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-11T23:01:56Z",
+        "uri": "https://arquivo.pt/wayback/20200711230156mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-12T22:52:12Z",
+        "uri": "https://arquivo.pt/wayback/20200712225212mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-14T00:07:09Z",
+        "uri": "https://arquivo.pt/wayback/20200714000709mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-15T00:04:06Z",
+        "uri": "https://arquivo.pt/wayback/20200715000406mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-15T22:58:00Z",
+        "uri": "https://arquivo.pt/wayback/20200715225800mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-17T00:21:22Z",
+        "uri": "https://arquivo.pt/wayback/20200717002122mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-18T00:11:08Z",
+        "uri": "https://arquivo.pt/wayback/20200718001108mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-18T23:03:15Z",
+        "uri": "https://arquivo.pt/wayback/20200718230315mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-19T23:37:35Z",
+        "uri": "https://arquivo.pt/wayback/20200719233735mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-20T23:51:08Z",
+        "uri": "https://arquivo.pt/wayback/20200720235108mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-21T23:12:51Z",
+        "uri": "https://arquivo.pt/wayback/20200721231251mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-22T23:01:30Z",
+        "uri": "https://arquivo.pt/wayback/20200722230130mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-23T23:09:15Z",
+        "uri": "https://arquivo.pt/wayback/20200723230915mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-24T23:44:48Z",
+        "uri": "https://arquivo.pt/wayback/20200724234448mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-25T22:54:45Z",
+        "uri": "https://arquivo.pt/wayback/20200725225445mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-26T23:00:10Z",
+        "uri": "https://arquivo.pt/wayback/20200726230010mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-27T18:02:57Z",
+        "uri": "https://web.archive.org/web/20200727180257/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-28T00:02:28Z",
+        "uri": "https://arquivo.pt/wayback/20200728000228mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-28T23:38:07Z",
+        "uri": "https://arquivo.pt/wayback/20200728233807mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-29T23:20:09Z",
+        "uri": "https://arquivo.pt/wayback/20200729232009mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-30T22:46:34Z",
+        "uri": "https://arquivo.pt/wayback/20200730224634mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-07-31T23:24:05Z",
+        "uri": "https://arquivo.pt/wayback/20200731232405mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-01T23:47:16Z",
+        "uri": "https://arquivo.pt/wayback/20200801234716mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-04T00:31:49Z",
+        "uri": "https://arquivo.pt/wayback/20200804003149mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-04T23:20:34Z",
+        "uri": "https://arquivo.pt/wayback/20200804232034mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-06T00:18:59Z",
+        "uri": "https://arquivo.pt/wayback/20200806001859mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-07T16:12:56Z",
+        "uri": "https://arquivo.pt/wayback/20200807161256mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-07T22:49:20Z",
+        "uri": "https://arquivo.pt/wayback/20200807224920mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-08T22:27:08Z",
+        "uri": "https://arquivo.pt/wayback/20200808222708mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T19:33:40Z",
+        "uri": "https://web.archive.org/web/20200809193340/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T20:03:40Z",
+        "uri": "https://web.archive.org/web/20200809200340/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T20:08:20Z",
+        "uri": "https://web.archive.org/web/20200809200820/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T21:54:43Z",
+        "uri": "https://web.archive.org/web/20200809215443/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T23:10:20Z",
+        "uri": "https://arquivo.pt/wayback/20200809231020mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-09T23:48:37Z",
+        "uri": "https://web.archive.org/web/20200809234837/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-10T23:14:40Z",
+        "uri": "https://arquivo.pt/wayback/20200810231440mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-11T19:55:11Z",
+        "uri": "https://arquivo.pt/wayback/20200811195511mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-12T23:19:19Z",
+        "uri": "https://arquivo.pt/wayback/20200812231919mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-13T23:22:03Z",
+        "uri": "https://arquivo.pt/wayback/20200813232203mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-14T22:51:25Z",
+        "uri": "https://web.archive.org/web/20200814225125/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-15T22:03:51Z",
+        "uri": "https://arquivo.pt/wayback/20200815220351mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-17T02:02:36Z",
+        "uri": "https://arquivo.pt/wayback/20200817020236mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-17T22:59:46Z",
+        "uri": "https://arquivo.pt/wayback/20200817225946mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-18T04:43:53Z",
+        "uri": "https://web.archive.org/web/20200818044353/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-18T20:20:32Z",
+        "uri": "https://arquivo.pt/wayback/20200818202032mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-19T23:49:06Z",
+        "uri": "https://arquivo.pt/wayback/20200819234906mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-20T20:36:33Z",
+        "uri": "https://arquivo.pt/wayback/20200820203633mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-21T20:13:49Z",
+        "uri": "https://arquivo.pt/wayback/20200821201349mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-22T22:24:49Z",
+        "uri": "https://arquivo.pt/wayback/20200822222449mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-23T22:59:11Z",
+        "uri": "https://arquivo.pt/wayback/20200823225911mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-24T20:06:29Z",
+        "uri": "https://arquivo.pt/wayback/20200824200629mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-25T20:13:49Z",
+        "uri": "https://arquivo.pt/wayback/20200825201349mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-26T23:30:29Z",
+        "uri": "https://arquivo.pt/wayback/20200826233029mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-27T22:51:04Z",
+        "uri": "https://arquivo.pt/wayback/20200827225104mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-29T22:52:28Z",
+        "uri": "https://arquivo.pt/wayback/20200829225228mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-30T23:28:19Z",
+        "uri": "https://arquivo.pt/wayback/20200830232819mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-31T18:47:27Z",
+        "uri": "https://web.archive.org/web/20200831184727/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-08-31T22:47:11Z",
+        "uri": "https://arquivo.pt/wayback/20200831224711mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-01T23:23:12Z",
+        "uri": "https://arquivo.pt/wayback/20200901232312mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-02T11:06:32Z",
+        "uri": "https://arquivo.pt/wayback/20200902110632mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-02T11:06:32Z",
+        "uri": "https://web.archive.org/web/20200902110632/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-03T19:56:10Z",
+        "uri": "https://web.archive.org/web/20200903195610/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-17T20:07:55Z",
+        "uri": "https://web.archive.org/web/20200917200755/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-17T21:22:37Z",
+        "uri": "https://web.archive.org/web/20200917212237/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-19T21:55:15Z",
+        "uri": "https://web.archive.org/web/20200919215515/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-20T09:19:25Z",
+        "uri": "https://web.archive.org/web/20200920091925/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-09-29T18:35:36Z",
+        "uri": "https://web.archive.org/web/20200929183536/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-01T14:39:04Z",
+        "uri": "https://web.archive.org/web/20201001143904/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-04T19:10:30Z",
+        "uri": "https://web.archive.org/web/20201004191030/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-06T18:48:09Z",
+        "uri": "https://web.archive.org/web/20201006184809/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-13T19:20:44Z",
+        "uri": "https://web.archive.org/web/20201013192044/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-16T15:59:27Z",
+        "uri": "https://web.archive.org/web/20201016155927/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-16T16:48:50Z",
+        "uri": "https://web.archive.org/web/20201016164850/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-20T15:54:33Z",
+        "uri": "http://archive.md/20201020155433/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-20T20:39:50Z",
+        "uri": "https://web.archive.org/web/20201020203950/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-21T07:25:17Z",
+        "uri": "https://web.archive.org/web/20201021072517/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-27T20:51:14Z",
+        "uri": "https://web.archive.org/web/20201027205114/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-10-30T04:16:26Z",
+        "uri": "https://web.archive.org/web/20201030041626/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-03T21:50:35Z",
+        "uri": "https://web.archive.org/web/20201103215035/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-05T23:18:24Z",
+        "uri": "https://web.archive.org/web/20201105231824/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-06T20:36:34Z",
+        "uri": "https://web.archive.org/web/20201106203634/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-07T03:04:23Z",
+        "uri": "https://web.archive.org/web/20201107030423/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-10T05:07:32Z",
+        "uri": "https://web.archive.org/web/20201110050732/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-10T22:23:54Z",
+        "uri": "https://web.archive.org/web/20201110222354/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-12T02:30:25Z",
+        "uri": "https://web.archive.org/web/20201112023025/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-14T00:03:51Z",
+        "uri": "https://web.archive.org/web/20201114000351/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-17T22:44:11Z",
+        "uri": "https://web.archive.org/web/20201117224411/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-24T23:47:43Z",
+        "uri": "https://web.archive.org/web/20201124234743/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-11-30T07:43:05Z",
+        "uri": "https://web.archive.org/web/20201130074305/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-02T00:10:53Z",
+        "uri": "https://web.archive.org/web/20201202001053/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-02T19:33:56Z",
+        "uri": "https://web.archive.org/web/20201202193356/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-03T07:53:16Z",
+        "uri": "https://arquivo.pt/wayback/20201203075316mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-03T07:53:16Z",
+        "uri": "https://web.archive.org/web/20201203075316/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-09T01:18:27Z",
+        "uri": "https://web.archive.org/web/20201209011827/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-18T05:45:30Z",
+        "uri": "https://web.archive.org/web/20201218054530/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-25T19:04:10Z",
+        "uri": "https://web.archive.org/web/20201225190410/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2020-12-29T07:48:21Z",
+        "uri": "https://web.archive.org/web/20201229074821/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-01T19:01:57Z",
+        "uri": "https://web.archive.org/web/20210101190157/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-05T00:10:11Z",
+        "uri": "https://web.archive.org/web/20210105001011/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-15T16:22:04Z",
+        "uri": "https://web.archive.org/web/20210115162204/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-19T08:13:08Z",
+        "uri": "https://web.archive.org/web/20210119081308/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-19T19:17:22Z",
+        "uri": "https://web.archive.org/web/20210119191722/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-25T03:07:05Z",
+        "uri": "https://web.archive.org/web/20210125030705/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-26T02:39:19Z",
+        "uri": "https://web.archive.org/web/20210126023919/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-01-26T09:13:40Z",
+        "uri": "https://web.archive.org/web/20210126091340/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-02-01T00:07:23Z",
+        "uri": "https://web.archive.org/web/20210201000723/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-02-02T09:49:07Z",
+        "uri": "https://web.archive.org/web/20210202094907/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-02-09T10:18:05Z",
+        "uri": "https://web.archive.org/web/20210209101805/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-02-16T11:02:01Z",
+        "uri": "https://web.archive.org/web/20210216110201/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-02-23T11:08:56Z",
+        "uri": "https://web.archive.org/web/20210223110856/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-02T11:57:56Z",
+        "uri": "https://arquivo.pt/wayback/20210302115756mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-02T11:57:56Z",
+        "uri": "https://web.archive.org/web/20210302115756/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-02T12:36:47Z",
+        "uri": "https://web.archive.org/web/20210302123647/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-04T04:44:50Z",
+        "uri": "https://web.archive.org/web/20210304044450/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-08T10:23:53Z",
+        "uri": "https://web.archive.org/web/20210308102353/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-08T14:29:45Z",
+        "uri": "https://web.archive.org/web/20210308142945/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-08T22:52:11Z",
+        "uri": "https://web.archive.org/web/20210308225211/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-09T13:33:41Z",
+        "uri": "https://web.archive.org/web/20210309133341/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-16T14:14:05Z",
+        "uri": "https://web.archive.org/web/20210316141405/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-18T00:11:24Z",
+        "uri": "https://web.archive.org/web/20210318001124/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-23T14:57:07Z",
+        "uri": "https://web.archive.org/web/20210323145707/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-03-30T16:23:51Z",
+        "uri": "https://web.archive.org/web/20210330162351/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-10T17:19:43Z",
+        "uri": "https://web.archive.org/web/20210410171943/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-17T20:01:18Z",
+        "uri": "https://web.archive.org/web/20210417200118/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-21T06:00:44Z",
+        "uri": "https://web.archive.org/web/20210421060044/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-24T18:51:09Z",
+        "uri": "https://web.archive.org/web/20210424185109/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-25T06:12:19Z",
+        "uri": "https://web.archive.org/web/20210425061219/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-25T17:38:56Z",
+        "uri": "https://web.archive.org/web/20210425173856/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-04-28T20:08:53Z",
+        "uri": "https://web.archive.org/web/20210428200853/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-01T20:03:35Z",
+        "uri": "https://web.archive.org/web/20210501200335/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-07T18:45:30Z",
+        "uri": "https://web.archive.org/web/20210507184530/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-08T20:37:44Z",
+        "uri": "https://web.archive.org/web/20210508203744/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-09T19:20:41Z",
+        "uri": "https://web.archive.org/web/20210509192041/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-16T21:29:23Z",
+        "uri": "https://web.archive.org/web/20210516212923/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-18T07:01:02Z",
+        "uri": "https://web.archive.org/web/20210518070102/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-18T07:01:04Z",
+        "uri": "https://web.archive.org/web/20210518070104/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-18T07:02:41Z",
+        "uri": "https://web.archive.org/web/20210518070241/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-19T02:34:36Z",
+        "uri": "https://web.archive.org/web/20210519023436/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-20T01:34:27Z",
+        "uri": "https://web.archive.org/web/20210520013427/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-28T09:25:54Z",
+        "uri": "https://arquivo.pt/wayback/20210528092554mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-05-30T22:55:42Z",
+        "uri": "https://web.archive.org/web/20210530225542/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-03T00:15:36Z",
+        "uri": "https://arquivo.pt/wayback/20210603001536mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-03T00:15:36Z",
+        "uri": "https://web.archive.org/web/20210603001536/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-07T01:15:55Z",
+        "uri": "https://web.archive.org/web/20210607011555/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-08T23:28:24Z",
+        "uri": "https://web.archive.org/web/20210608232824/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-13T23:52:17Z",
+        "uri": "https://web.archive.org/web/20210613235217/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-14T22:27:34Z",
+        "uri": "https://web.archive.org/web/20210614222734/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-16T04:22:13Z",
+        "uri": "https://web.archive.org/web/20210616042213/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-23T05:15:52Z",
+        "uri": "https://web.archive.org/web/20210623051552/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-06-30T07:21:30Z",
+        "uri": "https://web.archive.org/web/20210630072130/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-02T14:26:23Z",
+        "uri": "https://arquivo.pt/wayback/20210702142623mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-02T14:26:25Z",
+        "uri": "https://arquivo.pt/wayback/20210702142625mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-07T10:47:58Z",
+        "uri": "https://web.archive.org/web/20210707104758/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-09T09:23:37Z",
+        "uri": "https://web.archive.org/web/20210709092337/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-14T10:40:02Z",
+        "uri": "https://web.archive.org/web/20210714104002/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-21T09:52:53Z",
+        "uri": "https://web.archive.org/web/20210721095253/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-07-28T09:10:50Z",
+        "uri": "https://web.archive.org/web/20210728091050/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-01T06:57:50Z",
+        "uri": "https://web.archive.org/web/20210801065750/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-04T10:24:39Z",
+        "uri": "https://web.archive.org/web/20210804102439/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-11T11:59:19Z",
+        "uri": "https://web.archive.org/web/20210811115919/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-12T10:18:18Z",
+        "uri": "https://web.archive.org/web/20210812101818/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-15T19:58:17Z",
+        "uri": "https://web.archive.org/web/20210815195817/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-19T11:55:41Z",
+        "uri": "https://web.archive.org/web/20210819115541/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-19T12:53:55Z",
+        "uri": "https://web.archive.org/web/20210819125355/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-21T05:38:58Z",
+        "uri": "https://arquivo.pt/wayback/20210821053858mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-08-26T12:35:20Z",
+        "uri": "https://web.archive.org/web/20210826123520/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-02T13:59:21Z",
+        "uri": "https://web.archive.org/web/20210902135921/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-07T11:57:52Z",
+        "uri": "https://web.archive.org/web/20210907115752/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-09T09:38:32Z",
+        "uri": "https://web.archive.org/web/20210909093832/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-09T14:12:15Z",
+        "uri": "https://web.archive.org/web/20210909141215/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-12T18:02:29Z",
+        "uri": "https://web.archive.org/web/20210912180229/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-13T12:19:14Z",
+        "uri": "https://web.archive.org/web/20210913121914/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-16T16:05:19Z",
+        "uri": "https://web.archive.org/web/20210916160519/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-09-27T02:39:29Z",
+        "uri": "https://web.archive.org/web/20210927023929/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-03T05:22:05Z",
+        "uri": "https://web.archive.org/web/20211003052205/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-04T02:54:54Z",
+        "uri": "https://web.archive.org/web/20211004025454/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-05T02:04:46Z",
+        "uri": "https://web.archive.org/web/20211005020446/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-09T00:11:29Z",
+        "uri": "https://arquivo.pt/wayback/20211009001129mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-10T12:36:21Z",
+        "uri": "https://arquivo.pt/wayback/20211010123621mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-11T04:57:11Z",
+        "uri": "https://web.archive.org/web/20211011045711/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-12T02:55:11Z",
+        "uri": "https://web.archive.org/web/20211012025511/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-19T03:58:33Z",
+        "uri": "https://web.archive.org/web/20211019035833/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-23T11:54:15Z",
+        "uri": "https://web.archive.org/web/20211023115415/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-23T17:06:13Z",
+        "uri": "https://web.archive.org/web/20211023170613/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-26T04:34:55Z",
+        "uri": "https://web.archive.org/web/20211026043455/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-29T12:15:36Z",
+        "uri": "https://web.archive.org/web/20211029121536/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-10-31T11:36:48Z",
+        "uri": "https://web.archive.org/web/20211031113648/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-02T06:53:59Z",
+        "uri": "https://web.archive.org/web/20211102065359/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-09T07:23:26Z",
+        "uri": "https://web.archive.org/web/20211109072326/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-10T09:22:52Z",
+        "uri": "https://web.archive.org/web/20211110092252/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-11T06:37:48Z",
+        "uri": "https://web.archive.org/web/20211111063748/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-17T12:18:01Z",
+        "uri": "https://web.archive.org/web/20211117121801/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-21T09:33:40Z",
+        "uri": "https://web.archive.org/web/20211121093340/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-24T14:55:57Z",
+        "uri": "https://web.archive.org/web/20211124145557/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-11-29T10:58:02Z",
+        "uri": "https://web.archive.org/web/20211129105802/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-01T16:34:42Z",
+        "uri": "https://web.archive.org/web/20211201163442/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-04T21:09:14Z",
+        "uri": "https://web.archive.org/web/20211204210914/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-05T23:12:02Z",
+        "uri": "https://web.archive.org/web/20211205231202/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-14T00:33:08Z",
+        "uri": "https://web.archive.org/web/20211214003308/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-21T01:28:33Z",
+        "uri": "https://web.archive.org/web/20211221012833/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2021-12-28T02:36:06Z",
+        "uri": "https://web.archive.org/web/20211228023606/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-04T03:22:58Z",
+        "uri": "https://web.archive.org/web/20220104032258/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-11T04:24:44Z",
+        "uri": "https://web.archive.org/web/20220111042444/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-11T11:21:26Z",
+        "uri": "https://web.archive.org/web/20220111112126/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-19T05:09:01Z",
+        "uri": "https://web.archive.org/web/20220119050901/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-19T12:54:01Z",
+        "uri": "https://web.archive.org/web/20220119125401/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-19T17:39:58Z",
+        "uri": "https://web.archive.org/web/20220119173958/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-19T23:51:37Z",
+        "uri": "https://web.archive.org/web/20220119235137/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-20T05:39:51Z",
+        "uri": "https://web.archive.org/web/20220120053951/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-21T01:49:46Z",
+        "uri": "https://web.archive.org/web/20220121014946/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-21T06:02:06Z",
+        "uri": "https://web.archive.org/web/20220121060206/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-21T11:57:25Z",
+        "uri": "https://web.archive.org/web/20220121115725/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-21T12:10:42Z",
+        "uri": "https://web.archive.org/web/20220121121042/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-21T16:51:04Z",
+        "uri": "https://web.archive.org/web/20220121165104/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-24T01:24:51Z",
+        "uri": "https://web.archive.org/web/20220124012451/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-24T20:20:04Z",
+        "uri": "https://web.archive.org/web/20220124202004/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-25T18:45:24Z",
+        "uri": "https://web.archive.org/web/20220125184524/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-26T05:01:04Z",
+        "uri": "https://web.archive.org/web/20220126050104/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-28T13:15:59Z",
+        "uri": "https://web.archive.org/web/20220128131559/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-01-28T13:15:59Z",
+        "uri": "https://web.archive.org/web/20220128131559/http://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-01T19:41:41Z",
+        "uri": "https://web.archive.org/web/20220201194141/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-02T17:53:25Z",
+        "uri": "https://web.archive.org/web/20220202175325/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-02T22:39:25Z",
+        "uri": "https://web.archive.org/web/20220202223925/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-03T12:53:24Z",
+        "uri": "https://web.archive.org/web/20220203125324/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-04T23:04:43Z",
+        "uri": "https://web.archive.org/web/20220204230443/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-09T02:34:36Z",
+        "uri": "https://web.archive.org/web/20220209023436/https://www.loc.gov/programs/web-archiving/about-this-program"
+      },
+      {
+        "datetime": "2022-02-09T11:25:15Z",
+        "uri": "https://web.archive.org/web/20220209112515/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-09T22:47:08Z",
+        "uri": "https://web.archive.org/web/20220209224708/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-10T13:44:54Z",
+        "uri": "https://web.archive.org/web/20220210134454/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-15T22:28:28Z",
+        "uri": "https://web.archive.org/web/20220215222828/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-17T21:46:30Z",
+        "uri": "https://web.archive.org/web/20220217214630/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-18T21:26:19Z",
+        "uri": "https://web.archive.org/web/20220218212619/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-02-22T22:36:14Z",
+        "uri": "https://web.archive.org/web/20220222223614/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-01T23:34:52Z",
+        "uri": "https://web.archive.org/web/20220301233452/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-07T13:31:20Z",
+        "uri": "https://web.archive.org/web/20220307133120/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-09T01:13:12Z",
+        "uri": "https://web.archive.org/web/20220309011312/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-13T00:03:21Z",
+        "uri": "https://web.archive.org/web/20220313000321/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-17T02:11:14Z",
+        "uri": "https://web.archive.org/web/20220317021114/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-18T17:56:39Z",
+        "uri": "https://web.archive.org/web/20220318175639/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-21T14:36:58Z",
+        "uri": "https://web.archive.org/web/20220321143658/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-24T03:15:04Z",
+        "uri": "https://web.archive.org/web/20220324031504/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-25T22:19:53Z",
+        "uri": "https://web.archive.org/web/20220325221953/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-27T21:08:32Z",
+        "uri": "https://web.archive.org/web/20220327210832/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-03-31T04:03:41Z",
+        "uri": "https://web.archive.org/web/20220331040341/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-01T11:11:28Z",
+        "uri": "https://web.archive.org/web/20220401111128/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-02T22:11:38Z",
+        "uri": "https://web.archive.org/web/20220402221138/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-07T04:56:21Z",
+        "uri": "https://web.archive.org/web/20220407045621/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-13T23:27:29Z",
+        "uri": "https://web.archive.org/web/20220413232729/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-14T08:46:23Z",
+        "uri": "https://web.archive.org/web/20220414084623/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-14T16:49:13Z",
+        "uri": "https://web.archive.org/web/20220414164913/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-15T16:02:26Z",
+        "uri": "https://web.archive.org/web/20220415160226/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-22T21:01:19Z",
+        "uri": "https://web.archive.org/web/20220422210119/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-22T22:33:17Z",
+        "uri": "https://web.archive.org/web/20220422223317/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-24T04:55:10Z",
+        "uri": "https://arquivo.pt/wayback/20220424045510mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-04-29T22:43:33Z",
+        "uri": "https://web.archive.org/web/20220429224333/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-07T01:33:51Z",
+        "uri": "https://web.archive.org/web/20220507013351/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-10T23:41:36Z",
+        "uri": "https://web.archive.org/web/20220510234136/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-12T17:37:53Z",
+        "uri": "https://web.archive.org/web/20220512173753/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-13T22:44:45Z",
+        "uri": "https://web.archive.org/web/20220513224445/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-20T23:53:24Z",
+        "uri": "https://web.archive.org/web/20220520235324/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-21T23:58:41Z",
+        "uri": "https://web.archive.org/web/20220521235841/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-22T15:57:00Z",
+        "uri": "https://web.archive.org/web/20220522155700/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-23T14:59:30Z",
+        "uri": "https://arquivo.pt/wayback/20220523145930mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-05-24T16:13:10Z",
+        "uri": "https://web.archive.org/web/20220524161310/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-07-05T12:00:25Z",
+        "uri": "https://web.archive.org/web/20220705120025/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-08-05T00:07:04Z",
+        "uri": "https://arquivo.pt/wayback/20220805000704mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-08-16T20:08:28Z",
+        "uri": "https://web.archive.org/web/20220816200828/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-08-17T21:31:59Z",
+        "uri": "https://web.archive.org/web/20220817213159/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-09-01T08:35:11Z",
+        "uri": "https://web.archive.org/web/20220901083511/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-09-21T13:45:43Z",
+        "uri": "https://web.archive.org/web/20220921134543/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-09-22T13:13:26Z",
+        "uri": "https://web.archive.org/web/20220922131326/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-09-24T09:07:20Z",
+        "uri": "https://web.archive.org/web/20220924090720/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-03T21:55:10Z",
+        "uri": "https://web.archive.org/web/20221003215510/https://www.loc.gov/programs/web-archiving/about-this-program"
+      },
+      {
+        "datetime": "2022-10-04T10:04:48Z",
+        "uri": "https://web.archive.org/web/20221004100448/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-05T08:17:05Z",
+        "uri": "https://web.archive.org/web/20221005081705/https://loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-05T20:54:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221005205421/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-05T20:54:21Z",
+        "uri": "https://web.archive.org/web/20221005205421/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-06T15:19:47Z",
+        "uri": "https://wayback.archive-it.org/all/20221006151947/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-06T15:19:47Z",
+        "uri": "https://web.archive.org/web/20221006151947/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-14T16:06:10Z",
+        "uri": "https://web.archive.org/web/20221014160610/http://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-10-16T03:03:43Z",
+        "uri": "https://arquivo.pt/wayback/20221016030343mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-11-04T08:36:35Z",
+        "uri": "https://web.archive.org/web/20221104083635/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-11-28T07:50:15Z",
+        "uri": "https://web.archive.org/web/20221128075015/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-06T20:12:43Z",
+        "uri": "https://web.archive.org/web/20221206201243/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-06T20:14:33Z",
+        "uri": "https://web.archive.org/web/20221206201433/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-21T01:09:52Z",
+        "uri": "https://web.archive.org/web/20221221010952/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-21T01:10:04Z",
+        "uri": "https://web.archive.org/web/20221221011004/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-21T14:14:15Z",
+        "uri": "https://web.archive.org/web/20221221141415/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-25T02:09:55Z",
+        "uri": "https://web.archive.org/web/20221225020955/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2022-12-25T02:31:41Z",
+        "uri": "https://web.archive.org/web/20221225023141/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-01-24T02:18:07Z",
+        "uri": "https://arquivo.pt/wayback/20230124021807mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-01-28T21:18:17Z",
+        "uri": "https://web.archive.org/web/20230128211817/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-01-31T11:47:39Z",
+        "uri": "https://web.archive.org/web/20230131114739/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-02-09T06:03:51Z",
+        "uri": "https://web.archive.org/web/20230209060351/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-02-09T11:11:49Z",
+        "uri": "https://web.archive.org/web/20230209111149/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-02-09T11:11:52Z",
+        "uri": "http://archive.md/20230209111152/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-02-18T10:06:24Z",
+        "uri": "https://arquivo.pt/wayback/20230218100624mp_/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-03-14T22:45:22Z",
+        "uri": "https://web.archive.org/web/20230314224522/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-03-14T22:45:47Z",
+        "uri": "https://web.archive.org/web/20230314224547/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-03-15T23:27:42Z",
+        "uri": "https://web.archive.org/web/20230315232742/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-03-26T11:39:06Z",
+        "uri": "https://web.archive.org/web/20230326113906/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-02T18:30:03Z",
+        "uri": "https://web.archive.org/web/20230402183003/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-06T14:05:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230406140505/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-06T14:05:05Z",
+        "uri": "https://web.archive.org/web/20230406140505/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-18T21:09:58Z",
+        "uri": "https://web.archive.org/web/20230418210958/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-22T18:59:57Z",
+        "uri": "https://web.archive.org/web/20230422185957/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-04-27T12:52:01Z",
+        "uri": "https://web.archive.org/web/20230427125201/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-05-06T02:53:01Z",
+        "uri": "https://web.archive.org/web/20230506025301/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-05-06T23:54:29Z",
+        "uri": "https://web.archive.org/web/20230506235429/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-05-13T19:52:34Z",
+        "uri": "https://web.archive.org/web/20230513195234/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-05-27T21:00:23Z",
+        "uri": "https://web.archive.org/web/20230527210023/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-06-10T01:06:17Z",
+        "uri": "https://web.archive.org/web/20230610010617/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-06-25T09:42:43Z",
+        "uri": "https://web.archive.org/web/20230625094243/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-07-04T13:41:30Z",
+        "uri": "https://web.archive.org/web/20230704134130/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-07-06T06:05:34Z",
+        "uri": "https://wayback.archive-it.org/all/20230706060534/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-07-06T06:05:34Z",
+        "uri": "https://web.archive.org/web/20230706060534/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-09-18T15:35:55Z",
+        "uri": "https://web.archive.org/web/20230918153555/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-09-18T16:52:01Z",
+        "uri": "https://web.archive.org/web/20230918165201/https://www.loc.gov/programs/web-archiving/about-this-program"
+      },
+      {
+        "datetime": "2023-10-08T09:07:36Z",
+        "uri": "https://web.archive.org/web/20231008090736/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-10-11T15:00:08Z",
+        "uri": "https://web.archive.org/web/20231011150008/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-10-25T18:09:09Z",
+        "uri": "https://web.archive.org/web/20231025180909/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-11-07T23:58:50Z",
+        "uri": "https://web.archive.org/web/20231107235850/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-11-23T17:56:53Z",
+        "uri": "https://web.archive.org/web/20231123175653/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-11-28T01:03:17Z",
+        "uri": "https://web.archive.org/web/20231128010317/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-12-13T23:01:49Z",
+        "uri": "https://web.archive.org/web/20231213230149/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2023-12-19T00:13:24Z",
+        "uri": "https://web.archive.org/web/20231219001324/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-09T08:20:14Z",
+        "uri": "http://archive.md/20240109082014/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-09T08:20:34Z",
+        "uri": "http://archive.md/20240109082034/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-09T08:20:42Z",
+        "uri": "http://archive.md/20240109082042/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-09T08:20:46Z",
+        "uri": "http://archive.md/20240109082046/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-09T08:21:30Z",
+        "uri": "http://archive.md/20240109082130/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      },
+      {
+        "datetime": "2024-01-17T20:39:27Z",
+        "uri": "https://web.archive.org/web/20240117203927/https://www.loc.gov/programs/web-archiving/about-this-program/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-11-21T03:09:12Z",
+      "uri": "https://web.archive.org/web/20181121030912/https://www.loc.gov/programs/web-archiving/about-this-program/"
+    },
+    "last": {
+      "datetime": "2024-01-17T20:39:27Z",
+      "uri": "https://web.archive.org/web/20240117203927/https://www.loc.gov/programs/web-archiving/about-this-program/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.loc.gov/programs/web-archiving/about-this-program/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.loc.gov/programs/web-archiving/about-this-program/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.loc.gov/programs/web-archiving/about-this-program/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.loc.gov/programs/web-archiving/about-this-program/"
+}

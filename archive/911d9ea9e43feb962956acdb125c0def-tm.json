@@ -1,0 +1,39 @@
+ERROR: 2024/02/18 17:56:46.144271 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392",
+  "self": "http://localhost:1208/timemap/json/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-23T00:10:53Z",
+        "uri": "https://web.archive.org/web/20211123001053/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+      },
+      {
+        "datetime": "2022-11-18T18:24:11Z",
+        "uri": "https://web.archive.org/web/20221118182411/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+      },
+      {
+        "datetime": "2022-11-18T19:46:59Z",
+        "uri": "https://web.archive.org/web/20221118194659/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+      },
+      {
+        "datetime": "2022-12-06T00:39:27Z",
+        "uri": "https://web.archive.org/web/20221206003927/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-23T00:10:53Z",
+      "uri": "https://web.archive.org/web/20211123001053/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+    },
+    "last": {
+      "datetime": "2022-12-06T00:39:27Z",
+      "uri": "https://web.archive.org/web/20221206003927/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392",
+    "json_format": "http://localhost:1208/timemap/json/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.slideshare.net/mweigle/wsdls-work-towards-enabling-personal-use-of-web-archives-126145392"
+}

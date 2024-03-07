@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta name="description" content="homepage for WADL2018 at JCDL2018">
+
+    <title>Web Archiving And Digital Libraries 2018</title>
+  </head>
+
+  <body>
+        <h1>WADL 2018 homepage</h1>
+        <p>Web Archiving and Digital Libraries<br>
+	Workshop at JCDL 2018 (<a href=
+         "http://2018.jcdl.org">http://2018.jcdl.org</a>)<br>
+	Fort Worth, TX, USA
+</p>
+
+      
+<P>Please see the approved <a href="http://fox.cs.vt.edu/WADLjcdl18.pdf">
+WADL 2018 workshop proposal</a>.</P>
+      
+<P>Please also see last year's 
+ <a href="http://fox.cs.vt.edu/wadl2017.html"
+  >WADL 2017 homepage</A> and the homepage of the 
+ <a href="http://fox.cs.vt.edu/wadl2016.html"
+  >2016 edition of WADL</A>.
+That workshop led in part to a special issue of 
+ <A
+href="http://www.springer.com/computer/database+management+%26+information+retrieval/journal/799"
+ >International Journal on Digital Libraries</A>.<br>
+We fully intend to publish a very similar IJDL issue based on WADL 2018 contributions.
+
+
+<HR>
+
+<P>
+<H3>SCHEDULE:</H3>
+
+<P>
+<b>Featured Talk by</b> Weigle, Michele C. (mweigle@cs.odu.edu):
+Enabling Personal Use of Web Archives
+
+<!-- <A HREF=
+"https://www.tdl.org/2017/01/welcoming-courtney-mumma-tdl-services-manager/"
+>Courtney Mumma, Texas Digital Library (TDL)
+Services Manager</A>
+-->
+<P>
+<B>Wednesday, June 6, 10:30am-5pm</B>
+<table border="1">
+<tbody>
+<tr class="c3">
+<td><B>Time</B> </td>
+<td><B>Activity, Presenters/Authors</B> </td>
+<td><B>Title of Presentation</B> </td>
+</tr>
+<tr class="c3">
+<td>10:30</td>
+<td>Organizers and everyone speaking </td>
+<td>Opening, Introductions </td>
+</tr>
+<tr class="c3">
+<td>10:45</td>
+<td>Zhiwu Xie et al.</td>
+<td>IMLS project panel</td>
+</tr>
+<tr class="c3">
+<td>11:45</td>
+<td>John Berlin, Michael Nelson and Michele Weigle</td>
+<td>Swimming In A Sea Of JavaScript, Or: How I Learned To Stop Worrying
+And Love High-Fidelity Replay</td>
+</tr>
+<tr class="c3">
+<td>12:15</td>
+<td>Get boxes and return</td>
+<td>Lunch</td>
+</tr>
+<tr class="c3">
+<td>1:00</td>
+<td>Liuqing Li and Edward Fox</td>
+<td>A Study of Historical Short URLs in Event Collections of Tweets</td>
+</tr>
+<tr class="c3">
+<td>1:30</td>
+<td>Keynote by Michele Weigle</td>
+<td>Enabling Personal Use of Web Archives</td>
+</tr>
+<tr class="c3">
+<td>2:30</td>
+<td>Libby Hemphill, Susan Leonard and Margaret Hedstrom</td>
+<td>Developing a Social Media Archive at ICPSR</td>
+</tr>
+<tr class="c3">
+<td>3:00</td>
+<td>Posters: Littman Justin; Sawood Alam, Mat Kelly, Michele Weigle
+and Michael Nelson</td>
+<td>Supporting social media research at scale; A Survey of Archival
+Replay Banners</td>
+</tr>
+<tr class="c3">
+<td>3:15</td>
+<td>Discussions around posters</td>
+<td>Break</td>
+</tr>
+<tr class="c3">
+<td>3:30</td>
+<td>Mohamed Aturban, Michael Nelson and Michele Weigle</td>
+<td>It is Hard to Compute Fixity on Archived Web Pages</td>
+</tr>
+<tr class="c3">
+<td>4:00</td>
+<td>Mat Kelly, Sawood Alam, Michael Nelson and Michele Weigle</td>
+<td>Client-Assisted Memento Aggregation Using the Prefer Header
+</td>
+</tr>
+<tr class="c3">
+<td>4:30 </td>
+<td>Closing discussion </td>
+<td>Plans for future activities and collaborations </td>
+</tr>
+</tbody></table>
+
+<HR>
+
+<P>
+<b>Description:</b>
+<p>The 2018 edition of the Workshop on Web Archiving and Digital Libraries (WADL) will explore the 
+integration of Web archiving and digital libraries. The workshop aims at addressing aspects covering 
+the entire life cycle of digital resources and will also explore areas such as community building and 
+ethical questions around Web archiving.</p>
+In addition, the chairs will initiate the workshop proceedings being published in a special issue of 
+IEEE TCDL Bulletin.
+
+<p>WADL 2018 will cover all topics of interest, including but not limited to:</p>
+
+
+
+<table class="c30" style="width:80%" border="1" cellpadding="0"
+ cellspacing="0"><tbody><tr class="c3"><td class="c7" colspan="1"
+ rowspan="1"><p class="c6"><span class="c2">
+Archival Metadata, Description, Classification
+ </span></p></td><td class="c0" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Archival Standards, Protocols, Systems, and Tools
+ </span></p></td><td class="c23" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Collection Building
+ </span></p></td></tr><tr class="c3">
+<td class="c7" colspan="1" rowspan="1"><p class="c6"><span class="c2">
+Community Building
+ </span></p></td><td class="c0" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Crawling of Dynamic and Mobile Content
+ </span></p></td><td class="c23" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Discovery of Archived Resources
+ </span></p></td></tr><tr class="c3">
+<td class="c7" colspan="1" rowspan="1"><p class="c6"><span class="c2">
+Diversity in Web Archives
+ </span></p></td>
+ <td class="c0" colspan="1" rowspan="1"><p class="c6"><span class="c2">
+Ethics in Web Archiving
+ </span></p></td><td class="c23" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Extraction and Analysis of Archival Records
+ </span></p></td></tr><tr class="c3">
+ <td class="c7" colspan="1" rowspan="1"><p class="c6"><span class="c2">
+Focused Crawling
+ </span></p></td><td class="c0" colspan="1" rowspan="1">
+ <p class="c6"><span class="c2">
+Social Media Archiving
+ </span></p></td>
+ <td class="c23" colspan="1" rowspan="1"><p class="c6"><span class="c2">
+Special Event Archiving
+</span></p></td></tr>
+</tbody></table>
+
+<p>
+<b>Objectives: </b></span></p><ul class="c10 lst-kix_list_7-0 start">
+<li>to continue to build the community of people integrating
+  Web archiving &amp; digital libraries 
+<li>to help attendees learn about useful methods, systems,
+  and software in this area
+<li>to help chart future research and improved practice in this area
+<li>to promote synergistic efforts including collaborative projects
+ and proposals
+<li>to produce an archival publication that will help advance technology
+ and practice
+</ul>
+
+
+<P><b>Workshop Co-chairs:</b><ul>
+<li>Chair, Martin Klein, Los Alamos National Laboratory Research Library,
+ <a href="mailto:mklein@lanl.gov">mklein@lanl.gov</a>,
+<li>Co-chair, Edward A. Fox, Professor and Director
+ Digital Library Research Laboratory, Virginia Tech,
+ <a href="mailto:fox@vt.edu">fox@vt.edu</a>
+ <a href="http://fox.cs.vt.edu"
+  >http://fox.cs.vt.edu</a>,
+<li>Co-chair, Zhiwu Xie,
+ Professor, Director of
+ Digital Library Development, Virginia Tech Libraries, 
+ <a href="mailto:zhiwuxie@vt.edu">zhiwuxie@vt.edu</a>,
+</ul>
+
+<P><b>Program Committee:</b>
+<UL>
+<LI>Jefferson	Bailey	jefferson@archive.org	Internet Archive
+<LI>Justin Brunelle jbrunelle008@gmail.com	Old Dominion University	
+<LI>Sumitra	Duncan	duncan@frick.org	Frick Art Reference Library	
+<LI>Joshua	Finnell	joshfinnell@gmail.com	Colgate University	
+<LI>Abbie	Grotke	abgr@loc.gov	Library of Congress	
+<LI>Olga	Holownia	olga.holownia@bl.uk	British Library	
+<LI>Gina	Jones	gjon@loc.gov	Library of Congress	
+<LI>Lauren	Ko	lauren.ko@unt.edu	UNT Libraries	
+<LI>Frank	McCown	fmccown@harding.edu	Harding University
+<LI>Michael	Nelson	mln@cs.odu.edu	Old Dominion University	
+<LI>Nicholas	Taylor	ntay@stanford.edu	Stanford Libraries
+</UL>
+<!--
+<ul>
+<li>Jefferson Bailey, Internet Archive, </span>
+ <span class="c1"><a class="c5" href="mailto:jefferson@archive.org"
+ >jefferson@archive.org</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Joshua Finnell, Colgate University Libraries, </span>
+ <span class="c1"><a class="c5" href="mailto:joshfinnell@lanl.gov"
+ >joshfinnell@lanl.gov</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Vinay Goel, Internet Archive, </span>
+ <span class="c1"><a class="c5" href="mailto:vinay@archive.org"
+ >vinay@archive.org</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Andrea Goethals, Harvard Library, </span>
+ <span class="c1"><a class="c5"
+href="mailto:andrea_goethals@harvard.edu"
+ >andrea_goethals@harvard.edu</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Gina Jones, Library of Congress, </span>
+ <span class="c1"><a class="c5" href="mailto:gjon@loc.gov"
+ >gjon@loc.gov</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Deborah Kempe, Frick Art Reference Library, </span>
+ <span class="c1"><a class="c5" href="mailto:kempe@frick.org"
+ >kempe@frick.org</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Lauren Ko, University of North Texas Libraries, </span>
+ <span class="c1"><a class="c5" href="mailto:lauren.ko@unt.edu"
+ >lauren.ko@unt.edu</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Frank McCown, Harding University, </span>
+ <span class="c1"><a class="c5" href="mailto:fmccown@harding.edu"
+ >fmccown@harding.edu</a></span><span class="c4">&nbsp;</span></li>
+<li class="c18"><span class="c4">
+Michael Nelson, Old Dominion Univ., </span>
+ <span class="c1"><a class="c5" href="mailto:mln@cs.odu.edu"
+ >mln@cs.odu.edu</a></span></li>
+<li class="c18"><span class="c4">
+Thomas Risse, L3S Research Center, Leibniz Universitat Hannover,</span>
+ <span class="c1"><a class="c5" href="mailto:risse@L3S.de"
+ >risse@L3S.de</a></span></li>
+<li class="c18"><span class="c4">
+Nicholas Taylor, Stanford U. Libraries, </span>
+ <span class="c1"><a class="c5" href="mailto:ntay@stanford.edu"
+ >ntay@stanford.edu</a></span></li>
+<li class="c18"><span class="c4">
+Matthew Weber, Rutgers U., </span><span class="c1">
+ <a class="c5" href="mailto:matthew.weber@rutgers.edu"
+ >matthew.weber@rutgers.edu</a></span> 
+<span class="c4">&nbsp;</span></li>
+</ul>
+-->
+
+<p class="c27 c24 c22"><span class="c12 c4"><b>
+Other closely related events and results:</b> </span></p>
+<ul class="c10 lst-kix_list_1-0 start">
+<LI>
+ Web Archiving and Digital Libraries (WADL'16), 22-23 June, at JCDL 2016,
+ see <a href="http://fox.cs.vt.edu/wadl2016.html"
+ >website</a>
+ and <a href="http://www.ieee-tcdl.org/Bulletin/v13n1/"
+ >proceedings in a special issue of the IEEE TCDL Bulletin, V. 13,
+  Issue 1, April 2017</a>
+<LI>
+ Web Archiving and Digital Libraries (WADL'15), 24 June, at JCDL 2015,
+ see <a href="http://www.dlib.vt.edu/WADL2015/"
+ >website</a>
+ and <a href="http://www.ieee-tcdl.org/Bulletin/v11n2/"
+ >proceedings in a special issue of the IEEE TCDL Bulletin, V. 11,
+  Issue 2, Oct. 2015</a>
+<li class="c8"><span class="c9 c4">
+ Working with Internet Archives for Research (WIRE 2014) NSF workshop,
+ 17-18 June 2014, Cambridge, MA – see </span>
+ <span class="c1 c9"><a class="c5"
+ href="http://www.google.com/url?q=http%3A%2F%2Fwp.comminfo.rutgers.edu%2Fnsfia%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEyRcuO7tCn2pSBCWP-Z59LzyMzbw"
+ >http://wp.comminfo.rutgers.edu/nsfia/</a></span>
+ <span class="c9 c4">&nbsp;</span></li>
+<li class="c8"><span class="c9 c4">
+ Web Archiving and Digital Libraries (WADL’13), 25-26 July, at JCDL 2013,
+ see </span><span class="c1 c9"><a class="c5" 
+ href="http://www.google.com/url?q=http%3A%2F%2Fwww.ctrnet.net%2Fsites%2Fdefault%2Ffiles%2FJCDL2013WorkshopWebArchiving20130603.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEcEluveIk-B_h8XXKurVL46a7hkA"
+ >http://www.ctrnet.net/sites/default/files/JCDL2013WorkshopWebArchiving20130603.pdf</a></span>
+ <span class="c9 c4">&nbsp;and report in SIGIR Forum </span>
+<span class="c1 c9"><a class="c5"
+ href="http://www.google.com/url?q=http%3A%2F%2Fsigir.org%2Ffiles%2Fforum%2F2013D%2Fp128.pdf&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHK4SWw3-DSLKUS4-NPAxrMLsBQVw"
+ >http://sigir.org/files/forum/2013D/p128.pdf</a></span>
+ <span class="c9 c4">&nbsp;</span></li>
+<li class="c8"><span class="c9 c4">
+ Web Archive Globalization Workshop, WAG 2011 – see </span>
+ <span class="c1 c9"><a class="c5"
+  href="http://www.google.com/url?q=http%3A%2F%2Fcs.harding.edu%2Fwag2011%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGdFewvuZ6t0uCVNO-Bsk-ZUpUhwg"
+ >http://cs.harding.edu/wag2011/</a></span>
+ <span class="c9 c4">, with 4 organizers plus 5 presenters and
+ about 20 participants, held in Ottawa after JCDL 2011 (June 16-17)</span></li>
+<li class="c18 c22"><span class="c9 c4">
+ Ongoing
+ work by attendees in this area, growth in collaborative activity 
+involving the Internet Archive, and specific community building 
+successes like the Web Archive Cooperative – see </span>
+ <span class="c1 c9"><a class="c5"
+ href="http://www.google.com/url?q=http%3A%2F%2Finfolab.stanford.edu%2Fwac%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGiEYpRSEFmfDc1eGwztVIv9RJDEg"
+ >http://infolab.stanford.edu/wac/</a></span>
+ <span class="c9 c4">&nbsp;</span></li>
+<li class="c18 c22"><span class="c9 c4">Annual
+ meetings of the International Internet Preservation Consortium (IIPC), 
+ partner meetings of the Internet Archive (Archive-It), and ten workshops
+ held with ECDL/TPDL: International Web Archiving Workshop (IWAW), 
+ 2001-2010</span></li></ul>
+ <p class="c11"><span class="c4"></span></p>
+ <p class="c11"><span class="c4"></span></p>
+
+
+<HR>
+<P>
+<b>Submissions (please provide contact and supporting info in <= 2 pages): </b>
+<ul>
+<li>
+    EasyChair submission page:
+ <a href="https://easychair.org/conferences/?conf=wadl2018"
+   >https://easychair.org/conferences/?conf=wadl2018</a>
+<li>
+    Due: April 2, 2018 
+<li>
+    Notifications: April 17, 2018
+<li>
+Please use the <a href="https://www.acm.org/publications/proceedings-template">ACM Proceedings template</a>.
+<li>
+    <b>Categories: </b> (pick one of the three and identify it in the submission) 
+<li>
+    20 min. presentation + Q&amp;A
+<li>
+    Poster/Demonstration  + lightning talk
+<li>
+    30 min. panel with interactive plenary discussion 
+</ul>
+<HR>
+<P>
+Copyright 2018 Edward A. Fox, Martin Klein, Zhiwu Xie
+</body></html>

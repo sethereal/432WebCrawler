@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 14:59:40.648226 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-24T23:02:55Z",
+        "uri": "https://web.archive.org/web/20240124230255/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-24T23:02:55Z",
+      "uri": "https://web.archive.org/web/20240124230255/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii"
+    },
+    "last": {
+      "datetime": "2024-01-24T23:02:55Z",
+      "uri": "https://web.archive.org/web/20240124230255/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/article/film-screening-explores-history-of-jewish-refugees-norfolk-during-wwii"
+}

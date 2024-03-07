@@ -1,0 +1,29 @@
+Data science - CS 620 - Intro to Data Science
+Course History
+This course at ODU was originally developed by Dr. Michael Nelson , based on Dr. Frank McCown (ODU alum)'s Intro to Web Science course at Harding University.  In previous semesters, it has also been taught by Dr. Alexander Nwala (former PhD student at ODU).
+Course Policies
+Email/Piazza
+Each student must check the class Piazza site and email daily. You should use Piazza to ask and answer general course-related questions. I will also use this to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Participation
+Since this is an online class, it is essential that you regularly stay involved in class activities.  This includes checking the class website and Piazza for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
+Make-up Work
+Make-ups for graded activities are possible only with a valid written medical or university excuse. It is the student's responsibility to give the instructor the written excuse and to arrange for any makeup work to be done.
+Disability Services
+In compliance with PL94-142 and more recent federal legislation affirming the rights of disabled individuals, provisions will be made for students with special needs on an individual basis. The student must have been identified as special needs by the university and an appropriate letter must be provided to the course instructor. Provision will be made based upon written guidelines from the University's Office of Educational Accessibility . All students are expected to fulfill all course requirements.
+Students are encouraged to self-disclose disabilities that have been verified by the Office of Educational Accessibility by providing Accommodation Letters to their instructors early in the semester in order to start receiving accommodations. Accommodations will not be made until the Accommodation Letters are provided to instructors each semester.
+Seeking Help
+The course Blackboard site should be your first reference for questions about the class.  If you have questions about course requirements or materials, post questions using the class Piazza site.  For extra help, attend office hours.
+Academic Integrity
+Old Dominion University is committed to students' personal and academic success. In order to achieve this vision, students, faculty, and staff work together to create an environment that provides the best opportunity for academic inquiry and learning. All students must be honest and forthright in their academic studies. Your work in this course and classroom behavior must align with the expectations outlined in the Code of Student Conduct, which can be found at https://www.odu.edu/oscai .
+The following behaviors along with classroom disruptions violate this policy, corrupt the educational process, and will not be tolerated.
+Cheating: Using unauthorized assistance, materials, study aids, or other information in any academic exercise.
+Plagiarism: Using someone else's language, ideas, or other original material without acknowledging its source in any academic exercise.
+Fabrication: Inventing, altering or falsifying any data, citation or information in any academic exercise.
+Facilitation: Helping another student commit, or attempt to commit, any Academic Integrity violation, or failure to report suspected Academic Integrity violations to a faculty member.
+In particular, submitting anything that is not your own work without proper attribution (giving credit to the original author) is plagiarism and is considered to be an academic integrity violation. It is not acceptable to copy source code or written work from any other source (including other students, online resources), unless explicitly allowed in the assignment statement. In cases where using resources such as the Internet is allowed, proper attribution must be given.
+Any evidence of an academic integrity violation (cheating) will result in a 0 grade for the assignment/exam, and the incident will be submitted to the Department of Computer Science for further review.  Note that academic integrity violations can result in a permanent notation being placed on the student's transcript or even expulsion from the University. Evidence of cheating may include a student being unable to satisfactorily answer questions asked by the instructor about a submitted solution.  Cheating includes not only receiving unauthorized assistance, but also giving unauthorized assistance.  For class files kept in Unix space, students are expected to use Unix file permission protections (chmod) to keep other students from accessing the files.  Failure to adequately protect files may result in a student being held responsible for giving unauthorized assistance, even if not directly aware of it.
+Students may still provide legitimate assistance to one another.  You are encouraged to form study groups to discuss course topics.  Students should avoid discussions of solutions to ongoing assignments and should not, under any circumstances, show or share code solutions for an ongoing assignment.
+All students are responsible for knowing the rules.  If you are unclear about whether a certain activity is allowed or not, please contact the instructor.
+More information on academic integrity is available on the ODU-CS academic integrity page .
+This page was last modified on October 13, 2020, at 02:46 PM
+Copyright © 2008, Old Dominion University.  All rights reserved.

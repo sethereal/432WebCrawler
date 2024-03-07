@@ -1,0 +1,87 @@
+ERROR: 2024/02/18 21:10:46.396977 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/tarannum_zaki/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/tarannum_zaki/",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/tarannum_zaki/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-11-23T05:05:05Z",
+        "uri": "https://web.archive.org/web/20221123050505/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-23T07:33:51Z",
+        "uri": "https://web.archive.org/web/20221123073351/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-23T12:22:28Z",
+        "uri": "https://web.archive.org/web/20221123122228/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-23T14:33:27Z",
+        "uri": "https://web.archive.org/web/20221123143327/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-23T20:17:23Z",
+        "uri": "https://web.archive.org/web/20221123201723/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-24T03:02:03Z",
+        "uri": "https://web.archive.org/web/20221124030203/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-24T11:40:24Z",
+        "uri": "https://web.archive.org/web/20221124114024/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-11-24T23:54:18Z",
+        "uri": "https://web.archive.org/web/20221124235418/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-08T01:46:37Z",
+        "uri": "https://web.archive.org/web/20221208014637/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-08T04:22:27Z",
+        "uri": "https://web.archive.org/web/20221208042227/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-18T10:51:37Z",
+        "uri": "https://web.archive.org/web/20221218105137/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-19T21:05:19Z",
+        "uri": "https://web.archive.org/web/20221219210519/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-20T03:01:57Z",
+        "uri": "https://web.archive.org/web/20221220030157/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-21T06:43:38Z",
+        "uri": "https://web.archive.org/web/20221221064338/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2022-12-22T02:19:13Z",
+        "uri": "https://web.archive.org/web/20221222021913/https://twitter.com/tarannum_zaki"
+      },
+      {
+        "datetime": "2023-03-25T09:45:08Z",
+        "uri": "https://web.archive.org/web/20230325094508/https://twitter.com/tarannum_zaki"
+      }
+    ],
+    "first": {
+      "datetime": "2022-11-23T05:05:05Z",
+      "uri": "https://web.archive.org/web/20221123050505/https://twitter.com/tarannum_zaki"
+    },
+    "last": {
+      "datetime": "2023-03-25T09:45:08Z",
+      "uri": "https://web.archive.org/web/20230325094508/https://twitter.com/tarannum_zaki"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/tarannum_zaki/",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/tarannum_zaki/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/tarannum_zaki/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/tarannum_zaki/"
+}

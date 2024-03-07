@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<head>
+
+<link rel="canonical" href="https://mohamedaturban.com/">
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-G1DTF2EWQF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-G1DTF2EWQF');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150339368-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-150339368-1');
+</script>
+<title>Mohamed Aturban, Assistant Professor, Computer and Mathematical Sciences Department, Columbia College
+in Columbia, Missouri </title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>	
+<body>
+<div id="container">
+
+  <div id="top">
+
+      <div>
+      <table  cellpadding="10" style="width: 760px; line-height: 1.32em;">
+      <tbody><tr>
+      <td><img src="https://mohamedaturban.com/images/MohamedAturban.jpg" width="135px" style="border: 0.5px solid #333"></td>
+      <td style="width: 260px"><h1 style="font-size:2.3em; margin:0em;"> <a href="https://mohamedaturban.com" style="color: black"> Mohamed Aturban</a></h1>
+      <br><span style="font-size:1.25em">Assistant Professor</span>
+      <br>maturban at ccis.edu
+      <br>
+      
+      <a href="https://scholar.google.com/citations?user=t97JN78AAAAJ">
+         <img alt="GoogleScholar" src="images/scholar_logo.png"  width="55" style="border: 0px solid #9e44a9">
+      </a>
+
+
+      <a href="https://www.cs.odu.edu/~maturban/">
+         <img alt="odu" src="images/odu-logo.png"  width="76.5" style="border: 0px solid #9e44a9">
+      </a>
+
+
+      <a href="https://www.cs.nmsu.edu/~maturban/">
+         <img alt="nmsu" src="images/nmsu-logo.png"  width="30" style="border: 0px solid #9e44a9">
+      </a>
+
+      <a href="https://www.ccis.edu/degrees/departments/computer-math/faculty/mohamed-aturban">
+         <img alt="cc" src="images/cc-logo.png"  width="45" style="border: 0px solid #9e44a9">
+      </a>
+
+      <a href="https://twitter.com/maturban1?lang=en">
+         <img alt="twitter" src="images/twitter-logo.png"  width="35" style="border: 0px solid #9e44a9">
+      </a>
+
+      <br> STC 215
+      <br>(573) 875-7205</td>
+      <td><img src="https://mohamedaturban.com/images/Columbia_College_logo.png" height="70px">
+      <br>1001 Rogers Street
+      <br> Computer and Mathematical Sciences Department
+      <br><a href="https://www.ccis.edu">Columbia College</a>
+      <br>Columbia, MO 65216
+      </td></tr>
+      </tbody></table>
+      </div>
+
+  </div>
+  
+  <div id="navcontainer">
+    <ul id="navlist">
+	  <!--
+      <li id="active"><a href="" id="current">Item one</a></li>
+      <li><a href="">Item two</a></li>
+      <li><a href="">Item three</a></li>
+      <li><a href="">Item four</a></li>
+      <li><a href="">Item five</a></li>
+	  -->
+    </ul>
+  </div>
+  
+  <div id="leftnav">
+    <h2>Content</h2>
+    <ul>
+      <li><a href="#Bio">Bio</a></li>
+      <li><a href="#publications">Publications</a></li>
+      <li><a href="#teaching">Teaching</a></li>
+      <li><a href="#workshops">Workshops/Presentations</a></li>
+      <li><a href="#articles">Articles</a></li>
+	  <li><a href="#posts">Blog posts</a></li>
+	  <li><a href="#dissertation">PhD Dissertation</a></li>
+	  <li><a href="#softwareengineer">Software Engineer</a></li>
+      <li><a href="#scholarships">Scholarships/Honors</a></li>
+	  <li><a href="#teachingassistant">Teaching Assistant</a></li>
+	  <li><a href="#researchassistant">Research Assistant</a></li>
+	  <li><a href="#courses">Graduate Courses</a></li>
+      <li><a href="#Hometown">Hometown</a></li>
+	  <li><a href="#Contact">Contact</a></li>
+    </ul>
+    <h2>See Also</h2>
+    <ul>
+	  <li><a href=" http://www.cs.odu.edu/~mweigle/" >Dr. Michele Weigle</a></li>
+	  <li><a href="http://www.cs.odu.edu/~mln/" > Dr. Michael Nelson</a></li>
+      <li><a href="http://www.cs.nmsu.edu/~jcook/" >Dr. Jonathan Cook</a></li>
+    </ul>
+    <!-- <p class="quote">Mohamed Aturban</p> -->
+    <p class="quote"><a href="cv.pdf" ><font size="5" font-weight: bold; color="green">C.V.</font></a></p>
+  </div>
+  <div id="content">
+    <h1>
+		Welcome to <span style="font-weight:bold; color:lightslategray;"> <a href="https://mohamedaturban.com"> Mohamed Aturban's </a></span>  Homepage 
+	</h1>
+	<h2 id="Bio" class="h2_newline">Bio </h2>
+    <blockquote>
+          <p> 
+		I received my doctorate degree from <a href="http://www.odu.edu"> Old Dominion University</a> (Norfolk, Virginia) in 2020. I worked under the supervision of <a href=" http://www.cs.odu.edu/~mweigle/" ><strong>Dr. Michele Weigle</strong></a> and <a href="http://www.cs.odu.edu/~mln/" ><strong> Dr. Michael L. Nelson</strong></a>. My research interests include: Web Science, Digital Library, Web Archiving, Computer Security, and Web Annotation. I received my Master's degree in Computer Science in 2011 from <a href="https://www.nmsu.edu/" ><strong>New Mexico State University</strong></a> (Las Cruces, NM) and my Bachelor of Science degree from <a href="https://en.wikipedia.org/wiki/University_of_Tripoli" ><strong>University of Tripoli</strong></a> (<a href="https://en.wikipedia.org/wiki/Tripoli" >Tripoli</a>, <a href="https://en.wikipedia.org/wiki/Libya" >Libya</a>)
+	</p>
+	</blockquote>
+	<h2 id="publications" class="h2_newline h2_publication">Publications </h2>
+	<blockquote>
+		<ul>
+            <li>
+                 <strong>M. Aturban</strong>, M. L. Nelson and M. C. Weigle, "Where Did the Web Archive Go?" In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL 2021). September 13-17 2021 (<strong><font color="red">Best Research Paper Award</font></strong>)
+            </li>
+            <li>
+                 <strong>M. Aturban</strong>, S. Alam, M. L. Nelson and M. C. Weigle, "Archive Assisted Archival Fixity
+Verification Framework" In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Urbana-Champaign, Illinois, June 2019 [
+                 
+                    <a 
+                        href="https://dl.acm.org/doi/10.1109/JCDL.2019.00032" ><strong>acm.org</strong></a>
+                        ,
+                    <a 
+                        href="https://arxiv.org/abs/1905.12565" ><strong>Technical Report</strong></a>
+                        ]
+            </li>
+
+            <li>
+                 <strong>M. Aturban</strong>, M. Kelly, S. Alam, J. A. Berlin, M. L. Nelson and M. C. Weigle, "ArchiveNow: Simplified, Extensible, Multi-Archive Preservation" In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Fort Worth, TX, 2018 (<strong><font color="red">Best Poster Award</font></strong>) [
+                 
+                    <a 
+                        href="https://dl.acm.org/doi/10.1145/3197026.3203880" ><strong>acm.org</strong></a>,
+                    <a  href="https://github.com/oduwsdl/archivenow"><strong>GitHub</strong></a>
+                 ]
+            </li>
+
+			<li>
+				<strong>M. Aturban</strong>, M. L. Nelson and M. C. Weigle, "Quantifying Orphaned Annotations in Hypothes.is," In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). Poznan, Poland, (September 2015). 
+				[
+					<a 
+						href="https://link.springer.com/chapter/10.1007/978-3-319-24592-8_2" ><strong>springer.com</strong></a>,
+                    <a 
+                         href="https://arxiv.org/abs/1512.06195" ><strong>Technical Report</strong></a>,
+                    <a 
+                         href="http://www.slideshare.net/maturban/quantifying-orphaned-annotations-in-hypothes" ><strong>Slides</strong></a>,
+                    <a   href="http://ws-dl.blogspot.com/2015/10/2015-12-22-60-of-web-annotations-are.html" ><strong>Blog post</strong></a>
+                     <!--   , 
+					 <a 
+						href="aturban_tpdl15.html" >
+						<strong>BibTeX</strong>
+					<a>
+                    -->
+				]
+					<!-- <ul>
+						<li>
+							An extended version to this paper is available in <strong>arXiv.org</strong> [
+							<a 
+								href="http://arxiv.org/pdf/1512.06195v1.pdf" ><strong>PDF</strong></a>] 
+						</li>
+					</ul>
+                -->
+			</li>
+
+      <li>
+          B. Terzic, K. Arumugam, <strong>M. Aturban</strong>, C. Cotnoir, A. Godunov, D. Ranjan, M. Stefani, F. Lin, V. Morozov, Y. Roblin and H. Zhang, "HIGH-FIDELITY SIMULATIONS OF LONG-TERM BEAM-BEAM DYNAMICS ON GPUs", 12th International Computational Accelerator Physics Conference (ICAP) 2015, Shanghai
+          [
+              <a 
+                  href="https://accelconf.web.cern.ch/ICAP2015/papers/tucbc3.pdf" ><strong>PDF</strong></a>
+          ]
+      </li>
+
+			<li>
+				B. Terzic, V. Morozov, Y. Roblin, F. Lin, H. Zhang, <strong>M. Aturban</strong>, D. Ranjan and M. Zubair, "GPU-Accelerated Long-Term Simulations of Beam-Beam Effects in Colliders", 5th International Particle Accelerator Conference 2014, Dresden [
+				<a 
+					href="https://accelconf.web.cern.ch/IPAC2014/papers/mopro007.pdf" ><strong>PDF</strong></a>
+					]
+			</li>
+			<li>
+				Y. Roblin, V. Morozov, B. Terzic, <strong>M. Aturban</strong>, D. Ranjan and M. Zubair, "GPU-optimized Code for Long-term Simulations of Beam-beam Effects in Colliders", 4th International Particle Accelerator Conference 2013, Shanghai [<a href="https://accelconf.web.cern.ch/ipac2013/papers/mopwo080.pdf" ><strong>PDF</strong></a>]
+			</li>
+		</ul>
+    </blockquote>
+
+
+
+	<h2 id="teaching" class="h2_newline h2_publication">Teaching </h2>
+	<blockquote>
+	   I am teaching the following courses at Columbia College, Missouri:
+		<ul>
+            <li> 
+                <strong>Spring 2021</strong> 
+                <ul>
+                    <li> CISS 238: Java Programming </li>
+                    <li> CISS 245: Advanced Programming (C++) </li>
+                    <li> CISS 370: Operating Systems </li>
+                    <li> CISS 438: Object Oriented Analysis and Design </li>
+                </ul>
+            </li>
+            <li> 
+                <strong>Fall 2020</strong> 
+                <ul>
+                    <li> CISS 145: Introduction To Python Programming </li>
+                    <li> CISS 240: Introduction To Programming (C++) </li>
+                    <li> CISS 375: Compiler Construction </li>
+                </ul>
+            </li>
+        </ul>
+    </blockquote>
+                 
+
+    <h2 id="workshops" class="h2_newline h2_workshop">Workshops, Participation, and Conference Presentations </h2>
+    <blockquote>
+        <ul>
+            <li>
+                <strong>Mohamed Aturban</strong>, "It is hard to compute fixity on archived web pages", Presented at the monthly PhD Gathering, Department of Computer Science, Old Dominion University, January 2019 [
+                    <a 
+                        href="https://www.slideshare.net/maturban/it-is-hard-to-compute-fixity-on-archived-web-pages-128916126" ><strong>Slides</strong></a>
+                 ]
+            </li>
+            <li>
+                <strong>Mohamed Aturban</strong>, "Establishing and Verifying Fixity of Archived Web Pages", at the ACM/IEEE Joint Conference on Digital Libraries (JCDL), Doctoral Consortium, Fort Worth,Texas, USA, 2018 [
+                    <a 
+                        href="https://www.slideshare.net/maturban/establishing-and-verifying-fixity-of-archived-web-pages-101662832" ><strong>Slides</strong></a>
+                 ]
+            </li>
+            <li>
+                <strong>Mohamed Aturban</strong>, Michael L. Nelson, and Michele C. Weigle, "It is hard to computefixity on archived web pages", Presented at the Web Archiving and Digital Libraries Workshop (WADL), 2018 [
+                    <a 
+                        href="https://www.slideshare.net/maturban/it-is-hard-to-compute-fixity-on-archived-web-pages-101663904" ><strong>Slides</strong></a>
+                 ]
+            </li>
+            <li>
+                <strong>Mohamed Aturban</strong>, Justin Littman, Yu Xu, Shawn Walker, and Jessica Ogden, <a href="https://archivingtheweb.me/2017/09/21/hacking-transitions-archives-unleashed-3-0/">"End of Term Transition"</a>, <a href="http://ws-dl.blogspot.com/2017/03/2017-03-7-archives-unleashed-30-web.html">Archives Unleashed 3.0</a>: Web Archive Datathon, February 2017, Internet Archive, San Francisco, CA (<strong><font color="red">Best Project Award</font></strong>)
+            </li>
+            <li>
+                <strong>Mohamed Aturban</strong>, Niel Chah, Steve Marti, Imaduddin Amin, <a href="http://ws-dl.blogspot.com/2016/10/2016-10-03-which-states-and-topics-did.html">"Which States and Topics did the Two Presidential Candidates Mention?"</a>, <a href="http://ws-dl.blogspot.com/2016/06/2016-06-27-archives-unleashed-20-web.html">Archives Unleashed 2.0</a>: Web Archive Datathon, June 2016, Library of Congress, Washington DC 
+            </li>
+        </ul>
+    </blockquote>
+
+    <h2 id="articles" class="h2_newline h2_atticles">Articles </h2>
+    <blockquote>
+        <ul>
+            <!-- 
+            <li>
+                 <strong>M. Aturban</strong>, S. Alam, M. L. Nelson and M. C. Weigle, "Archive Assisted Archival Fixity Verification Framework," Technical Report arXiv:1905.12565, 2019  [
+                    <a 
+                        href="https://arxiv.org/pdf/1905.12565.pdf" ><strong>PDF</strong></a>
+                 ]
+            </li>
+            -->
+            <li>
+                 <strong>M. Aturban</strong>, M. L. Nelson, M. C. Weigle, M. Klein and H. Van de Sompel, "Collecting 16K archived web pages from 17 public web archives," Technical Report arXiv:1905.03836, 2019  [
+                    <a 
+                        href="https://arxiv.org/pdf/1905.03836.pdf" ><strong>PDF</strong></a>
+                 ]
+            </li>
+            <li>
+                 <strong>M. Aturban</strong>, M. L. Nelson and M. C. Weigle, "Difficulties of Timestamping Archived Web Pages," Technical Report arXiv:1712.03140, 2017  [
+                    <a 
+                        href="https://arxiv.org/pdf/1712.03140.pdf" ><strong>PDF</strong></a>
+                 ]
+            </li>
+            <!--
+            <li>
+                 <strong>M. Aturban</strong>, M. L. Nelson and M. C. Weigle, "Quantifying Orphaned Annotations in Hypothes.is," Technical Report arXiv:1512.06195, 2015  [
+                    <a 
+                        href="http://arxiv.org/pdf/1512.06195v1.pdf" ><strong>PDF</strong></a>
+                 ]
+            </li>
+            -->
+         </ul>
+	</blockquote>
+
+	<h2 id="posts" class="h2_newline">Blog Posts </h2>
+    <blockquote>
+		<!--List of blog posts I have written -->
+		<ul>
+		    <li> <strong>2020-09-28: </strong><a href="https://ws-dl.blogspot.com/2020/09/2020-09-28-phd-is-very-long-tunnel-with.html" >A PhD is a very long tunnel with a light at the end</a></li>
+            <li> <strong>2019-10-21: </strong><a href="https://ws-dl.blogspot.com/2019/10/2019-10-21-where-did-archive-go-part-4.html" >Where did the archive go? Part 4: WebCite</a></li>
+            <li> <strong>2019-09-25: </strong><a href="https://ws-dl.blogspot.com/2019/09/2019-09-25-where-did-archive-go-part-3.html" >Where did the archive go? Part 3: Public Record Office of Northern Ireland</a>
+            </li>
+            <li> <strong>2019-09-10: </strong><a href="https://ws-dl.blogspot.com/2019/09/2019-09-10-where-did-archive-go-part-2.html" >Where did the archive go? Part 2: National Library of Ireland</a>
+            </li>
+            <li> <strong>2019-08-30: </strong><a href="https://ws-dl.blogspot.com/2019/08/2019-08-30-where-did-archive-go-part1.html" >Where did the archive go? Part 1: Library and Archives Canada</a>
+            </li>                        
+            <li> <strong>2017-12-11: </strong><a href="http://ws-dl.blogspot.com/2017/12/2017-12-11-difficulties-in-timestamping.html" >Difficulties in timestamping archived web pages</a>
+            </li>
+            <li> <strong>2017-02-22: </strong><a href="http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html" >Archive Now (archivenow): A Python Library to Integrate On-Demand Archives</a>
+            </li>
+            <li> <strong>2017-01-15: </strong><a href="http://ws-dl.blogspot.com/2017/01/2017-01-15-summary-of-trusty-uris.html" >Summary of "Trusty URIs: Verifiable, Immutable, and Permanent Digital Artifacts for Linked Data"</a>
+            </li>
+            <li> <strong>2016-11-05: </strong><a href="http://ws-dl.blogspot.com/2016/11/2016-11-05-pro-gaddafi-digital.html" >Pro-Gaddafi Digital Newspapers Disappeared from the Live Web!"</a>
+            </li>
+            <li> <strong>2016-10-03: </strong><a href="http://ws-dl.blogspot.com/2016/10/2016-10-03-which-states-and-topics-did.html" >Which States and Topics did the Two Presidential Candidates Mention?"</a>
+            </li>
+            <li> <strong>2016-06-27: </strong><a href="http://ws-dl.blogspot.com/2016/06/2016-06-27-archives-unleashed-20-web.html" >Archives Unleashed 2.0 Web Archive Hackathon Trip Report</a>
+            </li>
+      			<li> <strong>2015-12-22: </strong><a href="http://ws-dl.blogspot.com/2015/10/2015-12-22-60-of-web-annotations-are.html" >60% of Web Annotations are Orphaned or in Danger of Being Orphaned</a>
+      			</li>
+      			<li> <strong>2014-09-02: </strong><a href="http://ws-dl.blogspot.com/2014/09/2014-09-02-warcmerge-merging-multiple.html" >WARCMerge: Merging Multiple WARC files into a single WARC file</a>
+      			</li>			
+		</ul>
+	</blockquote>
+
+	<h2 id="dissertation" class="h2_newline">PhD Dissertation </h2>
+    <blockquote>
+		<ul>
+            <li> <strong>Mohamed Aturban, </strong>"A Framework for Verifying the Fixity of Archived Web Resources," Old Dominion University, 2020<br>
+                [<a 
+                        href="https://digitalcommons.odu.edu/computerscience_etds/125/" ><strong>PDF</strong></a>,
+                    <a  href="https://www.slideshare.net/maturban/a-framework-for-verifying-the-fixity-of-archived-web-resources"><strong>Slides</strong></a>]            
+            </li>
+		</ul>
+	</blockquote>
+
+    <h2 id="softwareengineer" class="h2_newline">Software Engineer </h2>
+    <blockquote>
+        I worked as a software engineer at Tatweer (Acer Authorized Service Provider), Ben Ashour Street, Tripoli, Libya between June 2003 and August 2006. Applications include:
+        <ul>
+                <li>
+                    <strong>University Registrar System</strong> for the CS Dept at University of Tripoli, Libya and the Higher Institute of Engineering, Houn, Libya
+                </li>
+                <li>
+                    <strong>Banking/Loan System</strong> for National Banking Corporation, Libya
+                </li>
+                <li>
+                    <strong>Vehicle Record System, Auto Parts System, and Supply Warehouse System</strong> for the Libyan Ministry of Justice and Public Security, and Civil Affairs Agency
+                </li>
+                <li>
+                    <strong>Automated System to Assign High School Students to Higher Education Institutions</strong> for Libyan Ministry of Higher education and Libyan Ministry of Labor
+                </li>
+                <li>
+                    <strong>Thesis/Dissertation Record System</strong> for Libyan Ministry of Higher education
+                </li>
+        </ul>
+    </blockquote>
+
+    <h2 id="scholarships" class="h2_newline">Scholarships and Honors </h2>
+    <blockquote>
+        <ul>
+                <li>
+                    <strong>April 2016 - Present:</strong> The Honor Society of Phi Kappa Phi
+                </li>
+                <li>
+                    <strong>June 2018:</strong> Best Poster Award, ACM/IEEE JCDL 2018
+                </li>
+                <li>
+                    <strong>April 2018:</strong> 2018 Scholarship Recipient, College of Science, Old Dominion University
+                </li>
+                <li>
+                    <strong>February 2018:</strong> Best Project Award, Archives Unleashed 3.0, Internet Archive, San Francisco, CA
+                </li>
+                <li> 
+                    <strong>February 2012 - July 2017:</strong> Graduate Scholarship Award: Libyan Ministry of Higher Education and Scientific Research (MOHESR) (PhD)
+                </li>
+                <li>
+                    <strong>March 2008 - May 2011:</strong> Graduate Scholarship Award: Libyan Ministry of Higher Education and Scientific Research (MOHESR) (MSc)
+                </li>
+        </ul>
+    </blockquote>
+	<h2 id="teachingassistant" class="h2_newline">Teaching Assistant </h2>
+	<blockquote>
+		I have worked as a teaching assistant at the following universities 
+		<ul>
+			<li>
+				<a href="http://www.odu.edu/" ><strong>Old Dominion University</strong></a>
+				<ul>
+					<li> <strong>January 2015 - August 2016:</strong> <br>Courses: Programming and Problem Solving in C++ (online course instructor), CyberSecurity Fundamentals (online), Information Visualization, Computer Architecture I, Introduction to Discrete Structures, Introduction to Networks and Communications </li>
+				</ul>
+			</li>
+			<li>
+				<a href="http://www.nmsu.edu/" ><strong>New Mexico State University</strong></a>
+                <ul>
+                    <li> <strong>August 2011 - May 2012:</strong> <br>Courses: Software Development, Operating Systems, Object Oriented Programming in C++ </li>
+                </ul>
+			</li>
+			<li>
+				<a href="http://www.uot.edu.ly/" ><strong>University of Tripoli</strong></a>
+                <ul>
+                    <li> <strong>January 2003 - March 2008:</strong> <br>Courses: FORTRAN, C, C++, Computer Fundamentals </li>
+                </ul>
+			</li>
+		</ul>
+	</blockquote>
+	<h2 id="researchassistant" class="h2_newline">Research Assistant </h2>
+	<blockquote>
+		I have worked as a research assistant at the following universities 
+		<ul>
+            <li>
+                <a href="http://odu.edu" ><strong>Old Dominion University</strong></a>
+                <ul>
+                    <li><strong>Aug 2016 - present:</strong> <br>Project: Establishing and Verifying Fixity of Archived Web Pages </li>
+                </ul>               
+            </li>
+			<li>
+				<a href="http://www.nmsu.edu/" ><strong>New Mexico State University</strong></a>
+				<ul>
+					<li><strong>June 12, 2011 - May 15, 2012</strong> <br>
+                    Project: Coordinated Infrastructure for Fault Tolerant Systems </li>
+				</ul>				
+			</li>
+		</ul>
+	</blockquote>	
+	<h2 id="courses" class="h2_newline">Graduate Courses </h2>
+	<blockquote>
+		I am listing here all of the <strong>graduate</strong> courses I have taken so far at three different Universities 
+		<ul>
+			<li>
+				<a href="http://www.odu.edu/" ><strong>Old Dominion University </strong></a> (Toward my PhD)
+				<ul>
+					<li> CS586: Introduction to Parallel Computing </li>
+					<li> CS872: Network Security: Concepts, Protocols and Programming </li>
+					<li> CS896: Topics in Computer Science </li>
+					<li> CS879: Design of Network Protocols </li> 
+					<li> CS896: High Performance Computing with Multicores and GPU </li>
+					<li> CS895: Web-Based Information Retrieval </li> 
+					<li> CS896: Topics in Computer Science (Introduction to Web Science) </li>
+				  <li> CS825: Information Visualization </li>
+					<li> CS891: Visualization Seminar </li>
+					<li> CS899: Doctoral Dissertation </li>
+				</ul>				
+			</li>		
+			<li>
+				<a href="http://www.nmsu.edu/" ><strong>New Mexico State University  </strong></a> (Master's degree in Computer Science)
+				<ul>
+					<li> CS515: User Interface Design </li>
+					<li> CS504: Computer Networks I </li>
+					<li> CS581: Advanced Software Engineering </li>
+					<li> CS584: Computer Networks II </li>
+					<li> CS571: Programming Language Structure II </li>
+					<li> CS598: Master's Project (supervised by <a href="http://www.cs.nmsu.edu/~jcook/" >Dr. Jonathan Cook</a>)</li>
+					<li> CS510: Automata, Languages, Computability </li>
+					<li> CS574: Operating Systems II </li>
+					<li> CS502: Database Management Systems </li>
+					<li> CS570: Analysis of Algorithms </li> 			
+				</ul>				
+			</li>
+			<li>
+				<a href="http://www.uot.edu.ly/" ><strong>University of Tripoli </strong></a> (Finished the coursework toward getting my Master's degree in Computer Science but travelled to USA before finishing the final project)
+				<ul>
+					<li> CS603: Artificial Intelligence </li>
+					<li> CS610: Seminars in Information Systems </li>
+					<li> CS604: Computer Algorithms </li>
+					<li> CS605: Data Communications & Computer Networks </li>
+					<li> CS608: New Directions in Programming </li>
+					<li> CS602: Advanced Database Systems </li>
+					<li> CS620: Advanced Operating Systems </li>
+					<li> CS614: Software Engineering </li>
+					<li> CS618: Image Processing </li>
+				</ul>				
+			</li>			
+		</ul>
+	</blockquote>	
+	<h2 id="Hometown" class="h2_newline">Hometown </h2>
+	<blockquote>
+		I was born and grew up in <a href="https://en.wikipedia.org/wiki/Tripoli" >Tripoli, Libya</a>. Here are some pictures from my home country 
+		<ul>
+			<li>
+				<a href="pictures.html" ><strong>Pictures</strong></a> 
+			</li>
+		</ul>
+	</blockquote>
+	<h2 id="Contact" class="h2_newline">Contact </h2>
+	<blockquote>
+		<ul>
+			<li><strong>Email:</strong> maturban at ccis.edu (or maturban at mohamedaturban.com)</li>
+			<li><strong>Office:</strong> 1001 Rogers Street, STC 215, Columbia, MO 65216 (Columbia College, Missouri)</li>
+			<li><strong>Phone:</strong> (573) 875-7205</li>
+<!--
+			<li>
+				<a href='https://www.facebook.com/mohamed.aturban' ><strong>Facebook</strong></a>
+			</li>
+-->
+      <li>
+        <a href="https://scholar.google.com/citations?user=t97JN78AAAAJ"><strong>Google Scholar</strong></a> 
+      </li>
+      <li>
+        <a href="https://www.researchgate.net/profile/Mohamed_Aturban" ><strong>ResearchGate</strong></a> 
+      </li>      
+      <li> 
+        <a href='https://twitter.com/maturban1' ><strong>Twitter</strong></a>
+      </li>
+			<li>
+				<a href='https://github.com/maturban' ><strong>Github</strong></a>
+			</li>
+			<!--<li>
+				<a href="http://orcid.org/0000-0001-7648-9082" ><strong>ORCID</strong></a>	
+			</li>-->
+		</ul>
+	</blockquote>		
+  </div>
+  <div id="columns">
+    <div class="col3">
+      <h2>WS-DL Group Links</h2>
+      <div class="navlist">
+        <ul>
+          <li><a href="https://ws-dl.cs.odu.edu/" >Homepage</a></li>
+		  <li><a href="https://twitter.com/WebSciDL" >Twitter</a></li>
+		  <li><a href="http://ws-dl.blogspot.com/" >Blog Post</a></li>
+		  <li><a href="https://ws-dl.cs.odu.edu/wiki/index.php" >Wiki</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col3center">
+      <h2>Resources</h2>
+      <div class="navlist">
+        <ul>
+		  <li><a href="http://ccis.edu" >Columbia College</a></li>
+          <li><a href="http://www.odu.edu" >Old Dominion University</a></li>
+		  <li><a href="http://www.nmsu.edu" >New Mexico State University</a></li>
+		  <li><a href="http://www.uot.edu.ly/" >University of Tripoli</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="col3">
+      <h2>Links</h2>
+      <div class="navlist">
+        <ul>
+          <li><a href="http://www.aljazeera.net" >Aljazeera</a></li>
+		  <li><a href="http://www.alarabiya.net/" >Alarabiya</a></li>
+		  <li><a href="http://www.kooora.com/" >Kooora</a></li>
+		  <li><a href="https://web.archive.org/" >Wayback Machine</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  
+<div id="footer">
+    <p> <a href=""> </a> <a rel=""  href=""></a></p>
+  </div>
+
+<div align=center><a href=''></a>
+</div>
+
+<!--
+  <div id="footer">
+
+    <p>Design by <a href="http://www.mitchinson.net"> www.mitchinson.net</a> | This work is licensed under a <a rel="license nofollow"  href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 License</a>*purple haze templete*</p>
+  </div>
+
+<div align=center>This template  downloaded form <a href='http://all-free-download.com/free-website-templates/'>free website templates</a>
+</div>
+-->
+
+</body>
+</html>

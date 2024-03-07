@@ -1,0 +1,223 @@
+ERROR: 2024/02/18 19:01:10.612889 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/EmilyEscamilla_": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/EmilyEscamilla_",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/EmilyEscamilla_",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-23T00:04:06Z",
+        "uri": "https://web.archive.org/web/20211123000406/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-04-01T10:22:31Z",
+        "uri": "https://web.archive.org/web/20220401102231/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-04-02T13:02:15Z",
+        "uri": "https://web.archive.org/web/20220402130215/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-04-04T03:14:42Z",
+        "uri": "https://web.archive.org/web/20220404031442/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-04-07T15:00:01Z",
+        "uri": "https://web.archive.org/web/20220407150001/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-09-28T12:55:12Z",
+        "uri": "https://web.archive.org/web/20220928125512/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-20T19:37:17Z",
+        "uri": "https://web.archive.org/web/20221120193717/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-22T19:05:11Z",
+        "uri": "https://web.archive.org/web/20221122190511/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-23T02:22:10Z",
+        "uri": "https://web.archive.org/web/20221123022210/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-23T04:33:09Z",
+        "uri": "https://web.archive.org/web/20221123043309/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-23T07:32:13Z",
+        "uri": "https://web.archive.org/web/20221123073213/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-23T11:06:31Z",
+        "uri": "https://web.archive.org/web/20221123110631/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-23T15:38:12Z",
+        "uri": "https://web.archive.org/web/20221123153812/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T00:09:24Z",
+        "uri": "https://web.archive.org/web/20221124000924/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T02:23:27Z",
+        "uri": "https://web.archive.org/web/20221124022327/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T04:54:12Z",
+        "uri": "https://web.archive.org/web/20221124045412/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T07:01:51Z",
+        "uri": "https://web.archive.org/web/20221124070151/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T09:02:19Z",
+        "uri": "https://web.archive.org/web/20221124090219/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-24T23:50:48Z",
+        "uri": "https://web.archive.org/web/20221124235048/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-25T03:06:03Z",
+        "uri": "https://web.archive.org/web/20221125030603/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-28T04:22:05Z",
+        "uri": "https://web.archive.org/web/20221128042205/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-11-29T18:17:53Z",
+        "uri": "https://web.archive.org/web/20221129181753/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-06T08:51:34Z",
+        "uri": "https://web.archive.org/web/20221206085134/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-08T01:45:50Z",
+        "uri": "https://web.archive.org/web/20221208014550/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-08T03:48:57Z",
+        "uri": "https://web.archive.org/web/20221208034857/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-08T05:53:17Z",
+        "uri": "https://web.archive.org/web/20221208055317/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-18T04:33:48Z",
+        "uri": "https://web.archive.org/web/20221218043348/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-18T07:47:29Z",
+        "uri": "https://web.archive.org/web/20221218074729/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-18T13:42:00Z",
+        "uri": "https://web.archive.org/web/20221218134200/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-18T22:05:56Z",
+        "uri": "https://web.archive.org/web/20221218220556/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-19T01:41:36Z",
+        "uri": "https://web.archive.org/web/20221219014136/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-19T04:13:06Z",
+        "uri": "https://web.archive.org/web/20221219041306/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-19T09:37:31Z",
+        "uri": "https://web.archive.org/web/20221219093731/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-19T16:07:06Z",
+        "uri": "https://web.archive.org/web/20221219160706/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-19T20:26:37Z",
+        "uri": "https://web.archive.org/web/20221219202637/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-20T11:15:24Z",
+        "uri": "https://web.archive.org/web/20221220111524/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-20T14:07:30Z",
+        "uri": "https://web.archive.org/web/20221220140730/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-20T16:52:44Z",
+        "uri": "https://web.archive.org/web/20221220165244/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-20T22:51:03Z",
+        "uri": "https://web.archive.org/web/20221220225103/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-21T02:42:04Z",
+        "uri": "https://web.archive.org/web/20221221024204/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-21T05:21:45Z",
+        "uri": "https://web.archive.org/web/20221221052145/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-21T09:36:26Z",
+        "uri": "https://web.archive.org/web/20221221093626/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-21T18:51:47Z",
+        "uri": "https://web.archive.org/web/20221221185147/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-21T23:04:47Z",
+        "uri": "https://web.archive.org/web/20221221230447/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-22T08:11:41Z",
+        "uri": "https://web.archive.org/web/20221222081141/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-22T18:04:31Z",
+        "uri": "https://web.archive.org/web/20221222180431/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2022-12-22T20:41:26Z",
+        "uri": "https://web.archive.org/web/20221222204126/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2023-03-17T12:27:57Z",
+        "uri": "https://web.archive.org/web/20230317122757/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2023-05-17T09:40:27Z",
+        "uri": "https://web.archive.org/web/20230517094027/https://twitter.com/EmilyEscamilla_"
+      },
+      {
+        "datetime": "2023-11-20T06:59:29Z",
+        "uri": "https://web.archive.org/web/20231120065929/https://twitter.com/EmilyEscamilla_"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-23T00:04:06Z",
+      "uri": "https://web.archive.org/web/20211123000406/https://twitter.com/EmilyEscamilla_"
+    },
+    "last": {
+      "datetime": "2023-11-20T06:59:29Z",
+      "uri": "https://web.archive.org/web/20231120065929/https://twitter.com/EmilyEscamilla_"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/EmilyEscamilla_",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/EmilyEscamilla_",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/EmilyEscamilla_"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/EmilyEscamilla_"
+}

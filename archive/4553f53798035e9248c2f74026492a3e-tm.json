@@ -1,0 +1,115 @@
+ERROR: 2024/02/18 19:15:34.335911 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/privacy": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/privacy",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/privacy",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-10-21T17:28:26Z",
+        "uri": "https://web.archive.org/web/20161021172826/http://ww1.odu.edu:80/privacy"
+      },
+      {
+        "datetime": "2017-03-31T07:50:30Z",
+        "uri": "https://web.archive.org/web/20170331075030/http://ww1.odu.edu:80/privacy"
+      },
+      {
+        "datetime": "2017-06-01T05:29:40Z",
+        "uri": "https://web.archive.org/web/20170601052940/http://ww1.odu.edu:80/privacy"
+      },
+      {
+        "datetime": "2017-10-03T16:17:41Z",
+        "uri": "https://web.archive.org/web/20171003161741/http://ww1.odu.edu:80/privacy"
+      },
+      {
+        "datetime": "2017-10-04T23:36:47Z",
+        "uri": "https://web.archive.org/web/20171004233647/http://ww1.odu.edu:80/privacy"
+      },
+      {
+        "datetime": "2022-05-21T02:27:37Z",
+        "uri": "https://web.archive.org/web/20220521022737/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-11-07T04:41:18Z",
+        "uri": "https://wayback.archive-it.org/all/20221107044118/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-11-07T04:41:18Z",
+        "uri": "https://web.archive.org/web/20221107044118/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-12-07T07:05:21Z",
+        "uri": "https://wayback.archive-it.org/all/20221207070521/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-12-07T07:05:21Z",
+        "uri": "https://web.archive.org/web/20221207070521/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2022-12-08T06:00:07Z",
+        "uri": "https://web.archive.org/web/20221208060007/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-01-07T06:44:17Z",
+        "uri": "https://wayback.archive-it.org/all/20230107064417/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-01-07T06:44:17Z",
+        "uri": "https://web.archive.org/web/20230107064417/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-02-07T05:54:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230207055412/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-02-07T05:54:12Z",
+        "uri": "https://web.archive.org/web/20230207055412/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-03-07T04:23:21Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042321/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-03-07T04:23:21Z",
+        "uri": "https://web.archive.org/web/20230307042321/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-03-31T21:41:37Z",
+        "uri": "https://web.archive.org/web/20230331214137/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-08-25T17:35:05Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173505/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-08-25T17:35:05Z",
+        "uri": "https://web.archive.org/web/20230825173505/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-10-01T13:06:32Z",
+        "uri": "https://web.archive.org/web/20231001130632/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2023-11-30T10:37:37Z",
+        "uri": "https://web.archive.org/web/20231130103737/https://ww1.odu.edu/privacy"
+      },
+      {
+        "datetime": "2024-01-17T00:35:52Z",
+        "uri": "https://web.archive.org/web/20240117003552/https://ww1.odu.edu/privacy"
+      }
+    ],
+    "first": {
+      "datetime": "2016-10-21T17:28:26Z",
+      "uri": "https://web.archive.org/web/20161021172826/http://ww1.odu.edu:80/privacy"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:52Z",
+      "uri": "https://web.archive.org/web/20240117003552/https://ww1.odu.edu/privacy"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/privacy",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/privacy",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/privacy"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/privacy"
+}

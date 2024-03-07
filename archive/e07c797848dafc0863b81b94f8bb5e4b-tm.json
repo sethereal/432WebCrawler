@@ -1,0 +1,71 @@
+ERROR: 2024/02/18 18:46:45.569422 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/career-services": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/career-services",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/career-services",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-05-11T05:01:49Z",
+        "uri": "https://web.archive.org/web/20230511050149/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-05-14T04:22:01Z",
+        "uri": "https://web.archive.org/web/20230514042201/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-05-17T00:57:28Z",
+        "uri": "https://web.archive.org/web/20230517005728/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-05-29T03:21:08Z",
+        "uri": "https://web.archive.org/web/20230529032108/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-06-09T03:56:56Z",
+        "uri": "https://web.archive.org/web/20230609035656/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-08-01T02:24:08Z",
+        "uri": "https://web.archive.org/web/20230801022408/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-08-25T18:45:23Z",
+        "uri": "https://wayback.archive-it.org/all/20230825184523/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-08-25T18:45:23Z",
+        "uri": "https://web.archive.org/web/20230825184523/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-10-01T08:14:03Z",
+        "uri": "https://web.archive.org/web/20231001081403/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2023-11-28T03:54:18Z",
+        "uri": "https://web.archive.org/web/20231128035418/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2024-01-17T00:35:30Z",
+        "uri": "https://web.archive.org/web/20240117003530/https://www.odu.edu/career-services"
+      },
+      {
+        "datetime": "2024-02-14T16:09:19Z",
+        "uri": "https://web.archive.org/web/20240214160919/https://www.odu.edu/career-services"
+      }
+    ],
+    "first": {
+      "datetime": "2023-05-11T05:01:49Z",
+      "uri": "https://web.archive.org/web/20230511050149/https://www.odu.edu/career-services"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:09:19Z",
+      "uri": "https://web.archive.org/web/20240214160919/https://www.odu.edu/career-services"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/career-services",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/career-services",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/career-services"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/career-services"
+}

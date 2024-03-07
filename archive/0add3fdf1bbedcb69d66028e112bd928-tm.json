@@ -1,0 +1,47 @@
+ERROR: 2024/02/18 18:12:01.887489 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.cs.odu.edu/~mweigle/CS432-F20/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.cs.odu.edu/~mweigle/CS432-F20/",
+  "self": "http://localhost:1208/timemap/json/https://www.cs.odu.edu/~mweigle/CS432-F20/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-21T20:23:04Z",
+        "uri": "https://web.archive.org/web/20211021202304/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      },
+      {
+        "datetime": "2021-10-22T19:06:17Z",
+        "uri": "https://arquivo.pt/wayback/20211022190617mp_/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      },
+      {
+        "datetime": "2021-11-23T02:30:38Z",
+        "uri": "https://web.archive.org/web/20211123023038/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      },
+      {
+        "datetime": "2022-08-10T20:32:53Z",
+        "uri": "https://arquivo.pt/wayback/20220810203253mp_/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      },
+      {
+        "datetime": "2023-01-29T13:10:14Z",
+        "uri": "https://arquivo.pt/wayback/20230129131014mp_/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      },
+      {
+        "datetime": "2023-12-23T10:04:02Z",
+        "uri": "https://web.archive.org/web/20231223100402/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-21T20:23:04Z",
+      "uri": "https://web.archive.org/web/20211021202304/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+    },
+    "last": {
+      "datetime": "2023-12-23T10:04:02Z",
+      "uri": "https://web.archive.org/web/20231223100402/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.cs.odu.edu/~mweigle/CS432-F20/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.cs.odu.edu/~mweigle/CS432-F20/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.cs.odu.edu/~mweigle/CS432-F20/"
+}

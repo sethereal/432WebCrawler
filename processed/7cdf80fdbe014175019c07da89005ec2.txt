@@ -1,0 +1,16 @@
+Back to Top ↑
+2017
+Mohamed Aturban, Michael L. Nelson, and Michele C. Weigle, “Difficulties of Timestamping Archived Web Pages,” Technical report arXiv:1712.03140, arXiv, December 2017.
+Corren G. McCoy, Michael L. Nelson, and Michele C. Weigle, “University Twitter Engagement: Using Twitter Followers to Rank Universities,” Technical report arXiv:1708.05790, arXiv, August 2017.
+Lulwah Alkwai, Michael L. Nelson, and Michele C. Weigle, “Comparing the Archival Rate of Arabic, English, Danish, and Korean Language Web Pages,” ACM Transactions on Information Systems (TOIS), Vol. 36, No. 1, July 2017, pp. 1:1-1:34.
+Alexander C. Nwala, Michele C. Weigle, Michael L. Nelson, Adam B. Ziegler, and Anastasia Aizman, “Local Memory Project: Providing Tools to Build Collections of Stories for Local Events from Local Sources,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Toronto, Ontario, Canada, June 2017, pp. 219–-228.
+Justin F. Brunelle, Michele C. Weigle, and Michael L. Nelson, “Archival Crawlers and JavaScript: Discover More Stuff but Crawl More Slowly,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Toronto, Ontario, Canada, June 2017.
+Sawood Alam, Mat Kelly, Michele C. Weigle, and Michael L. Nelson, “Client-side Reconstruction of Composite Mementos Using ServiceWorker,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Toronto, Ontario, Canada, June 2017, pp. 237–-240.
+John Berlin, Mat Kelly, Michael L. Nelson, and Michele C. Weigle, “WAIL: Collection-Based Personal Web Archiving,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Toronto, Ontario, Canada, June 2017, pp. 340-341.
+Mat Kelly, Lulwah M. Alkwai, Sawood Alam, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, “Impact of URI Canonicalization on Memento Count,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Toronto, Ontario, Canada, June 2017, pp. 303-304, poster. Best Poster Award.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, “Generating Stories from Archived Collections,” In Proceedings of the 9th International ACM Web Science Conference. Troy, NY, June 2017.
+Yasmin AlNoamany, Michele C. Weigle, and Michael L. Nelson, “Stories From the Past Web,” Technical report arXiv:1705.06218, arXiv, May 2017.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal K. Das, “Energy Harvesting in Nanonetworks,” In Modeling, Methodologies and Tools for Molecular and Nano-scale Communications. (Junichi Suzuki, Tadashi Nakano, Michael John Moore, Eds.), Springer International Publishing, 2017, pp. 319-347.
+Mat Kelly, Lulwah M. Alkwai, Michael L. Nelson, Michele C. Weigle, and Herbert Van de Sompel, “Impact of URI Canonicalization on Memento Count,” Technical report arxiv:1601.05142, arXiv, March 2017.
+Shahram Mohrehkesh, Michele C. Weigle, and Sajal Das, “Energy Harvesting in Electromagnetic Nanonetworks,” IEEE Computer, No. 2, February 2017, pp. 59-67.
+Share on

@@ -1,0 +1,14 @@
+Back to Top ↑
+2022
+Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, “Caching HTTP 404 Responses Eliminates Unnecessary Archival Replay Requests,” In Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL). December 2022.
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, “Web Archiving as Entertainment,” In Proceedings of the International Conference on Asia-Pacific Digital Libraries (ICADL). December 2022, short paper.
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, “Robots Still Outnumber Humans in Web Archives, But Less Than Before,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). September 2022. Best Student Paper Award.
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, “The Rise of GitHub in Scholarly Publications,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). September 2022.
+Abby Mabe, Michael L. Nelson, and Michele C. Weigle, “A Chromium-based Memento-aware Web Browser,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). September 2022.
+Himarsha Jayanetti, Shawn Jones, Martin Klein, Alex Osbourne, Paul Koerbin, Michael L. Nelson, and Michele C. Weigle, “Creating Structure in Web Archives With Collections: Different Concepts From Web Archivists,” In Proceedings of the Theory and Practice of Digital Libraries Conference (TPDL). September 2022, short paper.
+Emily Escamilla, Talya Cooper, Vicky Rampin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, “Archiving Source Code in Scholarly Content: One in Five Articles References GitHub,” Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+Kritika Garg, Himarsha Jayanetti, Sawood Alam, Michele C. Weigle, and Michael L. Nelson, “Optimizing Archival Replay by Eliminating Unnecessary Traffic to Web Archives,” Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+Himarsha Jayanetti, Kritika Garg, Sawood Alam, Michael L. Nelson, and Michele C. Weigle, “Comparison of Access Patterns of Robots and Humans in Web Archives,” Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+Travis Reid, Michael L. Nelson, and Michele C. Weigle, “Web Archiving as Entertainment,” Presented at the ACM/IEEE JCDL 2022 Workshop on Web Archiving and Digital Libraries (WADL), June 2022.
+Shawn M. Jones, Himarsha R. Jayanetti, Alex Osborne, Paul Koerbin, Martin Klein, Michele C. Weigle, and Michael L. Nelson, “The DSA Toolkit Shines Light Into Dark and Stormy Archives,” code4lib Journal, No. 53, May 2022.
+Share on

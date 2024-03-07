@@ -1,0 +1,115 @@
+ERROR: 2024/02/18 19:02:01.449774 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://journal.code4lib.org/articles/16441": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://journal.code4lib.org/articles/16441",
+  "self": "http://localhost:1208/timemap/json/https://journal.code4lib.org/articles/16441",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-05-10T11:33:45Z",
+        "uri": "https://web.archive.org/web/20220510113345/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-05-10T13:18:40Z",
+        "uri": "https://web.archive.org/web/20220510131840/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-05-10T18:25:25Z",
+        "uri": "https://web.archive.org/web/20220510182525/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-05-11T08:17:58Z",
+        "uri": "http://archive.md/20220511081758/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-05-12T03:13:25Z",
+        "uri": "https://web.archive.org/web/20220512031325/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-05-18T09:26:18Z",
+        "uri": "https://web.archive.org/web/20220518092618/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-06-08T22:43:50Z",
+        "uri": "https://web.archive.org/web/20220608224350/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-08-08T17:25:23Z",
+        "uri": "https://web.archive.org/web/20220808172523/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-11-18T15:47:40Z",
+        "uri": "https://web.archive.org/web/20221118154740/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-11-25T00:16:31Z",
+        "uri": "https://web.archive.org/web/20221125001631/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-06T11:50:24Z",
+        "uri": "https://web.archive.org/web/20221206115024/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-06T21:50:29Z",
+        "uri": "https://web.archive.org/web/20221206215029/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-07T14:40:34Z",
+        "uri": "https://web.archive.org/web/20221207144034/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-08T02:27:39Z",
+        "uri": "https://web.archive.org/web/20221208022739/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-08T02:33:24Z",
+        "uri": "https://web.archive.org/web/20221208023324/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-08T06:24:41Z",
+        "uri": "https://web.archive.org/web/20221208062441/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-18T05:31:22Z",
+        "uri": "https://web.archive.org/web/20221218053122/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-22T20:12:12Z",
+        "uri": "https://web.archive.org/web/20221222201212/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2022-12-22T20:12:12Z",
+        "uri": "https://web.archive.org/web/20221222201212/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2023-03-20T10:37:58Z",
+        "uri": "https://web.archive.org/web/20230320103758/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2023-05-10T10:54:23Z",
+        "uri": "https://web.archive.org/web/20230510105423/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2023-06-02T09:48:12Z",
+        "uri": "https://web.archive.org/web/20230602094812/https://journal.code4lib.org/articles/16441"
+      },
+      {
+        "datetime": "2024-01-05T22:15:44Z",
+        "uri": "https://web.archive.org/web/20240105221544/https://journal.code4lib.org/articles/16441"
+      }
+    ],
+    "first": {
+      "datetime": "2022-05-10T11:33:45Z",
+      "uri": "https://web.archive.org/web/20220510113345/https://journal.code4lib.org/articles/16441"
+    },
+    "last": {
+      "datetime": "2024-01-05T22:15:44Z",
+      "uri": "https://web.archive.org/web/20240105221544/https://journal.code4lib.org/articles/16441"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://journal.code4lib.org/articles/16441",
+    "json_format": "http://localhost:1208/timemap/json/https://journal.code4lib.org/articles/16441",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://journal.code4lib.org/articles/16441"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://journal.code4lib.org/articles/16441"
+}

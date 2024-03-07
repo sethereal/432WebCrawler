@@ -1,0 +1,759 @@
+ERROR: 2024/02/18 20:54:40.681501 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://oduwsdl.github.io/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://oduwsdl.github.io/",
+  "self": "http://localhost:1208/timemap/json/https://oduwsdl.github.io/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-03-24T00:51:59Z",
+        "uri": "https://web.archive.org/web/20180324005159/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2018-11-16T03:11:29Z",
+        "uri": "https://web.archive.org/web/20181116031129/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2020-11-18T23:04:53Z",
+        "uri": "https://web.archive.org/web/20201118230453/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2020-12-31T05:31:39Z",
+        "uri": "https://web.archive.org/web/20201231053139/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2020-12-31T05:31:49Z",
+        "uri": "https://web.archive.org/web/20201231053149/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-04-25T06:15:33Z",
+        "uri": "https://web.archive.org/web/20210425061533/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-05-09T08:23:55Z",
+        "uri": "http://archive.md/20210509082355/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-05-15T19:26:31Z",
+        "uri": "https://web.archive.org/web/20210515192631/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-06-07T15:24:25Z",
+        "uri": "https://arquivo.pt/wayback/20210607152425mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-06-07T17:21:31Z",
+        "uri": "https://arquivo.pt/wayback/20210607172131mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-07-08T19:23:44Z",
+        "uri": "http://archive.md/20210708192344/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-08-01T03:04:27Z",
+        "uri": "https://web.archive.org/web/20210801030427/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-09-08T00:38:12Z",
+        "uri": "https://web.archive.org/web/20210908003812/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-09-18T04:29:35Z",
+        "uri": "https://web.archive.org/web/20210918042935/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-09-27T03:03:09Z",
+        "uri": "https://web.archive.org/web/20210927030309/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-11T22:12:42Z",
+        "uri": "https://web.archive.org/web/20211011221242/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-13T14:29:39Z",
+        "uri": "https://web.archive.org/web/20211013142939/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-20T05:53:48Z",
+        "uri": "https://web.archive.org/web/20211020055348/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-22T18:58:04Z",
+        "uri": "https://arquivo.pt/wayback/20211022185804mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-10-22T18:59:00Z",
+        "uri": "https://arquivo.pt/wayback/20211022185900mp_/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-22T23:36:30Z",
+        "uri": "https://web.archive.org/web/20211122233630/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-22T23:53:48Z",
+        "uri": "https://web.archive.org/web/20211122235348/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-23T00:02:33Z",
+        "uri": "https://web.archive.org/web/20211123000233/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-23T02:51:00Z",
+        "uri": "https://web.archive.org/web/20211123025100/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-23T02:51:00Z",
+        "uri": "https://web.archive.org/web/20211123025100/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-11-27T12:03:47Z",
+        "uri": "https://web.archive.org/web/20211127120347/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2021-12-01T14:40:06Z",
+        "uri": "https://web.archive.org/web/20211201144006/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-01-20T18:32:42Z",
+        "uri": "https://web.archive.org/web/20220120183242/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-01-20T18:32:42Z",
+        "uri": "https://web.archive.org/web/20220120183242/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-01-23T12:24:42Z",
+        "uri": "https://web.archive.org/web/20220123122442/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-01-25T10:08:38Z",
+        "uri": "https://web.archive.org/web/20220125100838/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-02-01T12:39:17Z",
+        "uri": "https://web.archive.org/web/20220201123917/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-03-01T15:09:47Z",
+        "uri": "https://web.archive.org/web/20220301150947/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-03-06T09:58:51Z",
+        "uri": "https://web.archive.org/web/20220306095851/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-03-06T09:58:51Z",
+        "uri": "https://web.archive.org/web/20220306095851/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-03-21T19:15:35Z",
+        "uri": "https://web.archive.org/web/20220321191535/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-04-01T13:34:55Z",
+        "uri": "https://web.archive.org/web/20220401133455/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-04-02T09:28:39Z",
+        "uri": "https://web.archive.org/web/20220402092839/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-04-18T00:31:37Z",
+        "uri": "https://web.archive.org/web/20220418003137/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-04-18T00:34:48Z",
+        "uri": "https://web.archive.org/web/20220418003448/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-04-21T23:32:16Z",
+        "uri": "https://web.archive.org/web/20220421233216/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-05-01T13:31:08Z",
+        "uri": "https://web.archive.org/web/20220501133108/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-05-22T13:07:30Z",
+        "uri": "https://web.archive.org/web/20220522130730/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-05-25T14:47:33Z",
+        "uri": "https://arquivo.pt/wayback/20220525144733mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-06-06T02:34:29Z",
+        "uri": "https://web.archive.org/web/20220606023429/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-06-24T17:17:38Z",
+        "uri": "https://web.archive.org/web/20220624171738/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-06-24T17:21:32Z",
+        "uri": "https://web.archive.org/web/20220624172132/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-07-01T13:35:11Z",
+        "uri": "https://web.archive.org/web/20220701133511/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-07-05T21:04:02Z",
+        "uri": "https://web.archive.org/web/20220705210402/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-02T06:24:32Z",
+        "uri": "https://web.archive.org/web/20220802062432/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-12T07:57:12Z",
+        "uri": "https://web.archive.org/web/20220812075712/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-14T15:11:29Z",
+        "uri": "https://web.archive.org/web/20220814151129/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-15T09:55:58Z",
+        "uri": "https://web.archive.org/web/20220815095558/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T20:43:27Z",
+        "uri": "https://arquivo.pt/wayback/20220819204327mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T20:48:28Z",
+        "uri": "https://arquivo.pt/wayback/20220819204828mp_/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-09-02T13:31:00Z",
+        "uri": "https://web.archive.org/web/20220902133100/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-09-30T21:32:40Z",
+        "uri": "https://web.archive.org/web/20220930213240/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-10-02T13:25:06Z",
+        "uri": "https://web.archive.org/web/20221002132506/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-10-23T00:11:04Z",
+        "uri": "https://web.archive.org/web/20221023001104/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-10-25T12:17:03Z",
+        "uri": "https://web.archive.org/web/20221025121703/http://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-01T14:33:29Z",
+        "uri": "https://web.archive.org/web/20221101143329/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-13T16:56:08Z",
+        "uri": "https://web.archive.org/web/20221113165608/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-13T16:56:19Z",
+        "uri": "https://web.archive.org/web/20221113165619/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-15T07:24:18Z",
+        "uri": "https://web.archive.org/web/20221115072418/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-23T03:38:46Z",
+        "uri": "https://web.archive.org/web/20221123033846/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-23T12:57:38Z",
+        "uri": "https://web.archive.org/web/20221123125738/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-23T20:14:07Z",
+        "uri": "https://web.archive.org/web/20221123201407/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-24T18:42:47Z",
+        "uri": "https://web.archive.org/web/20221124184247/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-25T00:16:30Z",
+        "uri": "https://web.archive.org/web/20221125001630/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-27T15:15:34Z",
+        "uri": "https://web.archive.org/web/20221127151534/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-29T16:51:07Z",
+        "uri": "https://web.archive.org/web/20221129165107/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-11-29T16:51:18Z",
+        "uri": "https://web.archive.org/web/20221129165118/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-01T02:55:17Z",
+        "uri": "https://web.archive.org/web/20221201025517/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-01T18:29:35Z",
+        "uri": "https://web.archive.org/web/20221201182935/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-05T16:41:51Z",
+        "uri": "https://web.archive.org/web/20221205164151/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-07T00:09:46Z",
+        "uri": "https://web.archive.org/web/20221207000946/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T01:30:49Z",
+        "uri": "https://web.archive.org/web/20221208013049/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T02:09:39Z",
+        "uri": "https://web.archive.org/web/20221208020939/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T02:09:45Z",
+        "uri": "https://web.archive.org/web/20221208020945/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T02:09:51Z",
+        "uri": "https://web.archive.org/web/20221208020951/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T04:20:48Z",
+        "uri": "https://web.archive.org/web/20221208042048/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T04:49:18Z",
+        "uri": "https://web.archive.org/web/20221208044918/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T05:06:14Z",
+        "uri": "https://web.archive.org/web/20221208050614/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T07:03:31Z",
+        "uri": "https://web.archive.org/web/20221208070331/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-19T06:40:49Z",
+        "uri": "https://web.archive.org/web/20221219064049/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-19T06:41:03Z",
+        "uri": "https://web.archive.org/web/20221219064103/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-19T13:31:40Z",
+        "uri": "https://web.archive.org/web/20221219133140/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-20T09:34:57Z",
+        "uri": "https://web.archive.org/web/20221220093457/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-21T01:02:51Z",
+        "uri": "https://web.archive.org/web/20221221010251/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2022-12-21T12:07:50Z",
+        "uri": "https://web.archive.org/web/20221221120750/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-01-01T14:23:03Z",
+        "uri": "https://web.archive.org/web/20230101142303/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-02-03T15:10:54Z",
+        "uri": "https://web.archive.org/web/20230203151054/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-03-07T04:36:55Z",
+        "uri": "https://web.archive.org/web/20230307043655/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-03-27T21:55:09Z",
+        "uri": "https://web.archive.org/web/20230327215509/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-03-28T09:45:37Z",
+        "uri": "https://web.archive.org/web/20230328094537/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-03-29T19:35:49Z",
+        "uri": "https://web.archive.org/web/20230329193549/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-03T15:01:02Z",
+        "uri": "https://web.archive.org/web/20230403150102/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-10T20:40:29Z",
+        "uri": "https://web.archive.org/web/20230410204029/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-18T21:50:08Z",
+        "uri": "https://web.archive.org/web/20230418215008/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-18T21:50:35Z",
+        "uri": "https://arquivo.pt/wayback/20230418215035mp_/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-04-28T18:08:38Z",
+        "uri": "https://web.archive.org/web/20230428180838/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-05-03T04:50:38Z",
+        "uri": "https://web.archive.org/web/20230503045038/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-05-03T04:50:43Z",
+        "uri": "https://web.archive.org/web/20230503045043/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-05-03T14:44:27Z",
+        "uri": "https://web.archive.org/web/20230503144427/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-05-08T08:28:43Z",
+        "uri": "https://web.archive.org/web/20230508082843/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-06-03T22:20:31Z",
+        "uri": "https://web.archive.org/web/20230603222031/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-06-06T05:11:35Z",
+        "uri": "https://web.archive.org/web/20230606051135/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-06-06T07:28:34Z",
+        "uri": "https://web.archive.org/web/20230606072834/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-06-09T04:44:03Z",
+        "uri": "https://web.archive.org/web/20230609044403/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-07T14:46:00Z",
+        "uri": "https://perma.cc/4ZY8-8AQ6"
+      },
+      {
+        "datetime": "2023-07-07T14:46:18Z",
+        "uri": "https://web.archive.org/web/20230707144618/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-10T23:11:45Z",
+        "uri": "https://web.archive.org/web/20230710231145/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-11T19:16:04Z",
+        "uri": "https://perma.cc/KJ9U-LXCG"
+      },
+      {
+        "datetime": "2023-07-11T19:16:10Z",
+        "uri": "https://web.archive.org/web/20230711191610/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-11T19:28:05Z",
+        "uri": "https://perma.cc/9BFC-YGD8"
+      },
+      {
+        "datetime": "2023-07-11T19:28:48Z",
+        "uri": "https://web.archive.org/web/20230711192848/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-11T19:52:47Z",
+        "uri": "https://perma.cc/C66P-AR36"
+      },
+      {
+        "datetime": "2023-07-11T19:53:06Z",
+        "uri": "https://web.archive.org/web/20230711195306/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-13T19:51:59Z",
+        "uri": "https://perma.cc/BQX5-Q9MH"
+      },
+      {
+        "datetime": "2023-07-13T19:52:04Z",
+        "uri": "https://web.archive.org/web/20230713195204/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-07-13T20:02:11Z",
+        "uri": "https://perma.cc/BQ4J-R6QF"
+      },
+      {
+        "datetime": "2023-07-13T20:02:39Z",
+        "uri": "https://web.archive.org/web/20230713200239/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-08-01T15:11:00Z",
+        "uri": "https://perma.cc/M9GD-D7RS"
+      },
+      {
+        "datetime": "2023-08-01T15:11:10Z",
+        "uri": "https://web.archive.org/web/20230801151110/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-08-01T15:29:58Z",
+        "uri": "https://perma.cc/KX64-5HHN"
+      },
+      {
+        "datetime": "2023-08-01T15:30:05Z",
+        "uri": "https://web.archive.org/web/20230801153005/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-08-01T15:52:32Z",
+        "uri": "https://perma.cc/WW8E-2BZ2"
+      },
+      {
+        "datetime": "2023-08-01T15:52:39Z",
+        "uri": "https://web.archive.org/web/20230801155239/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-08-02T14:27:10Z",
+        "uri": "https://perma.cc/H3M9-79DW"
+      },
+      {
+        "datetime": "2023-08-02T14:27:19Z",
+        "uri": "https://web.archive.org/web/20230802142719/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-08-03T17:15:20Z",
+        "uri": "https://perma.cc/9J7U-4ASC"
+      },
+      {
+        "datetime": "2023-08-03T17:15:26Z",
+        "uri": "https://web.archive.org/web/20230803171526/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-09-16T20:31:23Z",
+        "uri": "https://web.archive.org/web/20230916203123/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-09-18T16:54:15Z",
+        "uri": "https://web.archive.org/web/20230918165415/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-09-28T19:55:57Z",
+        "uri": "https://web.archive.org/web/20230928195557/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T00:25:10Z",
+        "uri": "https://perma.cc/GF95-3RNM"
+      },
+      {
+        "datetime": "2023-10-31T00:25:13Z",
+        "uri": "https://web.archive.org/web/20231031002513/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T00:38:01Z",
+        "uri": "https://perma.cc/744D-L2E4"
+      },
+      {
+        "datetime": "2023-10-31T00:38:03Z",
+        "uri": "https://web.archive.org/web/20231031003803/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T00:46:28Z",
+        "uri": "https://perma.cc/D88A-BPJ6"
+      },
+      {
+        "datetime": "2023-10-31T00:46:31Z",
+        "uri": "https://web.archive.org/web/20231031004631/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T00:54:22Z",
+        "uri": "https://perma.cc/E8WN-HHT8"
+      },
+      {
+        "datetime": "2023-10-31T00:54:30Z",
+        "uri": "https://web.archive.org/web/20231031005430/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T01:13:55Z",
+        "uri": "https://perma.cc/7RGS-XZQV"
+      },
+      {
+        "datetime": "2023-10-31T01:13:58Z",
+        "uri": "https://web.archive.org/web/20231031011358/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T02:27:33Z",
+        "uri": "https://perma.cc/2D7T-ZD96"
+      },
+      {
+        "datetime": "2023-10-31T02:27:47Z",
+        "uri": "https://web.archive.org/web/20231031022747/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T03:30:26Z",
+        "uri": "https://perma.cc/J4CR-R8BF"
+      },
+      {
+        "datetime": "2023-10-31T03:30:29Z",
+        "uri": "https://web.archive.org/web/20231031033029/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T03:55:02Z",
+        "uri": "https://perma.cc/5KR9-R86M"
+      },
+      {
+        "datetime": "2023-10-31T03:55:05Z",
+        "uri": "https://web.archive.org/web/20231031035505/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T14:07:18Z",
+        "uri": "https://perma.cc/32T5-PX7N"
+      },
+      {
+        "datetime": "2023-10-31T14:07:29Z",
+        "uri": "https://web.archive.org/web/20231031140729/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T15:06:41Z",
+        "uri": "https://perma.cc/287Z-2VMN"
+      },
+      {
+        "datetime": "2023-10-31T15:06:47Z",
+        "uri": "https://web.archive.org/web/20231031150647/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T15:58:29Z",
+        "uri": "https://perma.cc/38HU-3UUQ"
+      },
+      {
+        "datetime": "2023-10-31T15:58:31Z",
+        "uri": "https://web.archive.org/web/20231031155831/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T16:23:21Z",
+        "uri": "https://perma.cc/WR7H-S2PZ"
+      },
+      {
+        "datetime": "2023-10-31T16:23:24Z",
+        "uri": "https://web.archive.org/web/20231031162324/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T16:35:05Z",
+        "uri": "https://perma.cc/SS9Z-4ANY"
+      },
+      {
+        "datetime": "2023-10-31T16:35:12Z",
+        "uri": "https://web.archive.org/web/20231031163512/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-10-31T16:40:14Z",
+        "uri": "https://perma.cc/BA3E-93F7"
+      },
+      {
+        "datetime": "2023-10-31T16:40:19Z",
+        "uri": "https://web.archive.org/web/20231031164019/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T14:22:38Z",
+        "uri": "https://perma.cc/Z87H-8RNQ"
+      },
+      {
+        "datetime": "2023-11-03T14:22:45Z",
+        "uri": "https://web.archive.org/web/20231103142245/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T14:33:17Z",
+        "uri": "https://perma.cc/63ND-BZ74"
+      },
+      {
+        "datetime": "2023-11-03T14:33:23Z",
+        "uri": "https://web.archive.org/web/20231103143323/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T14:52:53Z",
+        "uri": "https://perma.cc/RTQ4-KA6E"
+      },
+      {
+        "datetime": "2023-11-03T14:52:56Z",
+        "uri": "https://web.archive.org/web/20231103145256/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T15:10:18Z",
+        "uri": "https://perma.cc/7NMB-P99C"
+      },
+      {
+        "datetime": "2023-11-03T15:10:38Z",
+        "uri": "https://web.archive.org/web/20231103151038/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T15:59:39Z",
+        "uri": "https://perma.cc/77T3-7PQ2"
+      },
+      {
+        "datetime": "2023-11-03T15:59:46Z",
+        "uri": "https://web.archive.org/web/20231103155946/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-03T16:29:31Z",
+        "uri": "https://perma.cc/BX2G-42TM"
+      },
+      {
+        "datetime": "2023-11-03T16:29:44Z",
+        "uri": "https://web.archive.org/web/20231103162944/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-11-20T07:35:33Z",
+        "uri": "https://web.archive.org/web/20231120073533/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-12-22T20:40:08Z",
+        "uri": "https://web.archive.org/web/20231222204008/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-12-22T22:16:58Z",
+        "uri": "https://web.archive.org/web/20231222221658/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-12-24T13:49:45Z",
+        "uri": "https://web.archive.org/web/20231224134945/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-12-26T20:49:30Z",
+        "uri": "https://web.archive.org/web/20231226204930/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2023-12-30T02:17:23Z",
+        "uri": "https://web.archive.org/web/20231230021723/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2024-01-14T03:07:06Z",
+        "uri": "https://web.archive.org/web/20240114030706/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2024-01-21T04:50:59Z",
+        "uri": "https://web.archive.org/web/20240121045059/https://oduwsdl.github.io/"
+      },
+      {
+        "datetime": "2024-01-26T16:05:45Z",
+        "uri": "https://web.archive.org/web/20240126160545/https://oduwsdl.github.io/"
+      }
+    ],
+    "first": {
+      "datetime": "2018-03-24T00:51:59Z",
+      "uri": "https://web.archive.org/web/20180324005159/http://oduwsdl.github.io/"
+    },
+    "last": {
+      "datetime": "2024-01-26T16:05:45Z",
+      "uri": "https://web.archive.org/web/20240126160545/https://oduwsdl.github.io/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://oduwsdl.github.io/",
+    "json_format": "http://localhost:1208/timemap/json/https://oduwsdl.github.io/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://oduwsdl.github.io/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://oduwsdl.github.io/"
+}

@@ -1,0 +1,107 @@
+ERROR: 2024/02/18 21:17:33.305712 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://twitter.com/LulwahMA": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://twitter.com/LulwahMA",
+  "self": "http://localhost:1208/timemap/json/https://twitter.com/LulwahMA",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-12-05T07:17:52Z",
+        "uri": "https://web.archive.org/web/20151205071752/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2016-02-29T17:54:31Z",
+        "uri": "https://wayback.archive-it.org/all/20160229175431/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2016-02-29T17:54:31Z",
+        "uri": "https://web.archive.org/web/20160229175431/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2017-07-27T03:54:55Z",
+        "uri": "https://web.archive.org/web/20170727035455/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2018-03-16T07:18:07Z",
+        "uri": "https://web.archive.org/web/20180316071807/http://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2018-03-16T07:56:17Z",
+        "uri": "https://web.archive.org/web/20180316075617/http://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2018-03-16T08:01:01Z",
+        "uri": "https://web.archive.org/web/20180316080101/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2018-03-16T08:06:26Z",
+        "uri": "https://web.archive.org/web/20180316080626/http://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2018-03-16T08:11:08Z",
+        "uri": "https://web.archive.org/web/20180316081108/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2018-05-29T00:04:39Z",
+        "uri": "https://web.archive.org/web/20180529000439/http://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-06-07T00:47:14Z",
+        "uri": "https://arquivo.pt/wayback/20210607004714mp_/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-06-07T00:47:15Z",
+        "uri": "https://arquivo.pt/wayback/20210607004715mp_/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-06-10T03:33:48Z",
+        "uri": "https://arquivo.pt/wayback/20210610033348mp_/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-06-10T03:33:49Z",
+        "uri": "https://arquivo.pt/wayback/20210610033349mp_/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-06-23T09:43:59Z",
+        "uri": "https://web.archive.org/web/20210623094359/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-11-23T00:05:28Z",
+        "uri": "https://web.archive.org/web/20211123000528/http://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-11-23T00:05:30Z",
+        "uri": "https://web.archive.org/web/20211123000530/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-11-23T00:10:45Z",
+        "uri": "https://web.archive.org/web/20211123001045/https://twitter.com/LulwahMA"
+      },
+      {
+        "datetime": "2021-11-23T01:26:33Z",
+        "uri": "https://web.archive.org/web/20211123012633/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2023-12-22T14:17:32Z",
+        "uri": "https://web.archive.org/web/20231222141732/https://twitter.com/lulwahma"
+      },
+      {
+        "datetime": "2023-12-27T19:41:11Z",
+        "uri": "https://web.archive.org/web/20231227194111/https://twitter.com/LulwahMA"
+      }
+    ],
+    "first": {
+      "datetime": "2015-12-05T07:17:52Z",
+      "uri": "https://web.archive.org/web/20151205071752/https://twitter.com/lulwahma"
+    },
+    "last": {
+      "datetime": "2023-12-27T19:41:11Z",
+      "uri": "https://web.archive.org/web/20231227194111/https://twitter.com/LulwahMA"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://twitter.com/LulwahMA",
+    "json_format": "http://localhost:1208/timemap/json/https://twitter.com/LulwahMA",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://twitter.com/LulwahMA"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://twitter.com/LulwahMA"
+}

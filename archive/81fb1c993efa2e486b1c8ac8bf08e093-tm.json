@@ -1,0 +1,39 @@
+ERROR: 2024/02/18 21:53:59.046843 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/gavindya-jayawardena/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.linkedin.com/in/gavindya-jayawardena/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/gavindya-jayawardena/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-01T21:25:18Z",
+        "uri": "https://web.archive.org/web/20220901212518/http://linkedin.com/in/gavindya-jayawardena"
+      },
+      {
+        "datetime": "2022-09-01T21:25:19Z",
+        "uri": "https://web.archive.org/web/20220901212519/https://www.linkedin.com/in/gavindya-jayawardena"
+      },
+      {
+        "datetime": "2022-09-01T21:25:31Z",
+        "uri": "https://web.archive.org/web/20220901212531/http://linkedin.com/in/gavindya-jayawardena"
+      },
+      {
+        "datetime": "2022-09-01T21:25:35Z",
+        "uri": "https://web.archive.org/web/20220901212535/https://www.linkedin.com/in/gavindya-jayawardena"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-01T21:25:18Z",
+      "uri": "https://web.archive.org/web/20220901212518/http://linkedin.com/in/gavindya-jayawardena"
+    },
+    "last": {
+      "datetime": "2022-09-01T21:25:35Z",
+      "uri": "https://web.archive.org/web/20220901212535/https://www.linkedin.com/in/gavindya-jayawardena"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/in/gavindya-jayawardena/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/gavindya-jayawardena/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/in/gavindya-jayawardena/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/in/gavindya-jayawardena/"
+}

@@ -1,0 +1,1527 @@
+ERROR: 2024/02/18 20:44:31.492940 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/colleges": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/colleges",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/colleges",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2012-09-22T07:35:28Z",
+        "uri": "https://web.archive.org/web/20120922073528/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2012-12-09T21:06:27Z",
+        "uri": "https://web.archive.org/web/20121209210627/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2013-01-02T09:42:48Z",
+        "uri": "https://web.archive.org/web/20130102094248/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2013-01-17T17:41:13Z",
+        "uri": "https://web.archive.org/web/20130117174113/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2013-03-04T08:43:24Z",
+        "uri": "https://web.archive.org/web/20130304084324/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2013-05-02T06:52:44Z",
+        "uri": "https://web.archive.org/web/20130502065244/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2013-05-05T00:29:30Z",
+        "uri": "https://web.archive.org/web/20130505002930/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2013-07-16T06:12:28Z",
+        "uri": "https://web.archive.org/web/20130716061228/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2013-07-30T16:08:49Z",
+        "uri": "https://web.archive.org/web/20130730160849/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2013-08-19T20:35:13Z",
+        "uri": "https://web.archive.org/web/20130819203513/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2013-09-14T16:47:02Z",
+        "uri": "https://web.archive.org/web/20130914164702/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2013-11-14T15:17:44Z",
+        "uri": "https://web.archive.org/web/20131114151744/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2014-01-15T06:10:08Z",
+        "uri": "https://web.archive.org/web/20140115061008/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2014-03-17T02:31:17Z",
+        "uri": "https://web.archive.org/web/20140317023117/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2014-03-28T14:28:49Z",
+        "uri": "https://web.archive.org/web/20140328142849/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2014-05-16T18:29:05Z",
+        "uri": "https://web.archive.org/web/20140516182905/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2014-07-01T11:36:50Z",
+        "uri": "https://web.archive.org/web/20140701113650/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2014-07-16T04:32:56Z",
+        "uri": "https://web.archive.org/web/20140716043256/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2015-07-11T00:12:55Z",
+        "uri": "https://web.archive.org/web/20150711001255/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2015-09-09T14:56:12Z",
+        "uri": "https://web.archive.org/web/20150909145612/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2015-11-09T05:45:49Z",
+        "uri": "https://web.archive.org/web/20151109054549/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-01-09T06:19:36Z",
+        "uri": "https://web.archive.org/web/20160109061936/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-03-10T14:52:50Z",
+        "uri": "https://web.archive.org/web/20160310145250/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-05-10T05:43:03Z",
+        "uri": "https://web.archive.org/web/20160510054303/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-05-28T00:50:46Z",
+        "uri": "https://web.archive.org/web/20160528005046/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-06-27T19:17:30Z",
+        "uri": "https://web.archive.org/web/20160627191730/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-07-28T23:52:47Z",
+        "uri": "https://web.archive.org/web/20160728235247/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-08-29T08:09:30Z",
+        "uri": "https://web.archive.org/web/20160829080930/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-09-29T04:02:42Z",
+        "uri": "https://web.archive.org/web/20160929040242/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-10-27T07:40:54Z",
+        "uri": "https://web.archive.org/web/20161027074054/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2016-10-28T18:25:16Z",
+        "uri": "https://wayback.archive-it.org/all/20161028182516/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2016-10-28T18:25:16Z",
+        "uri": "https://web.archive.org/web/20161028182516/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2016-10-30T16:10:52Z",
+        "uri": "https://web.archive.org/web/20161030161052/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-11-07T05:05:45Z",
+        "uri": "https://web.archive.org/web/20161107050545/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2016-11-19T02:24:57Z",
+        "uri": "https://web.archive.org/web/20161119022457/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-11-20T10:14:33Z",
+        "uri": "https://web.archive.org/web/20161120101433/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-11-24T10:21:10Z",
+        "uri": "https://web.archive.org/web/20161124102110/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-12-24T05:09:50Z",
+        "uri": "https://web.archive.org/web/20161224050950/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2016-12-26T10:57:52Z",
+        "uri": "https://web.archive.org/web/20161226105752/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2016-12-26T13:00:46Z",
+        "uri": "https://web.archive.org/web/20161226130046/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-03-18T10:05:11Z",
+        "uri": "https://web.archive.org/web/20170318100511/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-03-26T05:56:04Z",
+        "uri": "https://web.archive.org/web/20170326055604/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-04-17T09:20:15Z",
+        "uri": "https://web.archive.org/web/20170417092015/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-05-04T07:14:04Z",
+        "uri": "https://web.archive.org/web/20170504071404/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-05-04T07:22:06Z",
+        "uri": "https://web.archive.org/web/20170504072206/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-05-06T03:10:51Z",
+        "uri": "https://web.archive.org/web/20170506031051/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-05-21T12:10:55Z",
+        "uri": "https://web.archive.org/web/20170521121055/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-06-04T03:57:51Z",
+        "uri": "https://web.archive.org/web/20170604035751/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-06-06T10:20:37Z",
+        "uri": "https://web.archive.org/web/20170606102037/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-06-06T18:14:10Z",
+        "uri": "https://web.archive.org/web/20170606181410/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-07-04T22:18:30Z",
+        "uri": "https://web.archive.org/web/20170704221830/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-07-06T20:32:46Z",
+        "uri": "https://web.archive.org/web/20170706203246/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-08-04T23:28:12Z",
+        "uri": "https://web.archive.org/web/20170804232812/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-08-07T12:56:07Z",
+        "uri": "https://web.archive.org/web/20170807125607/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-08-10T04:15:40Z",
+        "uri": "https://web.archive.org/web/20170810041540/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-09-07T14:14:46Z",
+        "uri": "https://web.archive.org/web/20170907141446/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-09-09T03:34:05Z",
+        "uri": "https://web.archive.org/web/20170909033405/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-09-16T06:01:14Z",
+        "uri": "https://web.archive.org/web/20170916060114/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-09-17T15:28:58Z",
+        "uri": "https://web.archive.org/web/20170917152858/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-10-12T02:00:00Z",
+        "uri": "https://wayback.archive-it.org/all/20171012020000/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-10-12T02:00:00Z",
+        "uri": "https://web.archive.org/web/20171012020000/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-10-17T12:00:21Z",
+        "uri": "https://web.archive.org/web/20171017120021/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-10-18T13:23:54Z",
+        "uri": "https://web.archive.org/web/20171018132354/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-11-12T02:08:18Z",
+        "uri": "https://wayback.archive-it.org/all/20171112020818/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-11-12T02:08:18Z",
+        "uri": "https://web.archive.org/web/20171112020818/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-11-17T19:26:29Z",
+        "uri": "https://web.archive.org/web/20171117192629/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-11-18T17:17:39Z",
+        "uri": "https://web.archive.org/web/20171118171739/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-12-12T02:13:23Z",
+        "uri": "https://wayback.archive-it.org/all/20171212021323/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-12-12T02:13:23Z",
+        "uri": "https://web.archive.org/web/20171212021323/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2017-12-19T13:57:44Z",
+        "uri": "https://web.archive.org/web/20171219135744/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-12-19T14:59:43Z",
+        "uri": "https://web.archive.org/web/20171219145943/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-12-21T17:25:27Z",
+        "uri": "https://web.archive.org/web/20171221172527/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2017-12-21T17:26:22Z",
+        "uri": "https://web.archive.org/web/20171221172622/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-01-04T04:06:58Z",
+        "uri": "https://web.archive.org/web/20180104040658/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-01-09T18:47:55Z",
+        "uri": "https://web.archive.org/web/20180109184755/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-01-12T04:02:20Z",
+        "uri": "https://wayback.archive-it.org/all/20180112040220/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-01-12T04:02:20Z",
+        "uri": "https://web.archive.org/web/20180112040220/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-02-04T02:23:18Z",
+        "uri": "https://web.archive.org/web/20180204022318/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-02-09T20:47:43Z",
+        "uri": "https://web.archive.org/web/20180209204743/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-02-12T03:28:59Z",
+        "uri": "https://wayback.archive-it.org/all/20180212032859/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-02-12T03:28:59Z",
+        "uri": "https://web.archive.org/web/20180212032859/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-03-07T08:05:01Z",
+        "uri": "https://web.archive.org/web/20180307080501/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-03-12T03:21:07Z",
+        "uri": "https://wayback.archive-it.org/all/20180312032107/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-03-12T03:21:07Z",
+        "uri": "https://web.archive.org/web/20180312032107/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-03-12T21:01:25Z",
+        "uri": "https://web.archive.org/web/20180312210125/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-04-07T10:26:32Z",
+        "uri": "https://web.archive.org/web/20180407102632/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-04-12T03:45:35Z",
+        "uri": "https://wayback.archive-it.org/all/20180412034535/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-04-12T03:45:35Z",
+        "uri": "https://web.archive.org/web/20180412034535/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-04-12T10:20:02Z",
+        "uri": "https://web.archive.org/web/20180412102002/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-05-08T12:27:24Z",
+        "uri": "https://web.archive.org/web/20180508122724/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-05-12T04:12:59Z",
+        "uri": "https://wayback.archive-it.org/all/20180512041259/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-05-12T04:12:59Z",
+        "uri": "https://web.archive.org/web/20180512041259/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-05-14T19:39:55Z",
+        "uri": "https://web.archive.org/web/20180514193955/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-06-08T10:49:37Z",
+        "uri": "https://web.archive.org/web/20180608104937/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-06-12T04:34:58Z",
+        "uri": "https://wayback.archive-it.org/all/20180612043458/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-06-12T04:34:58Z",
+        "uri": "https://web.archive.org/web/20180612043458/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-06-15T01:04:30Z",
+        "uri": "https://web.archive.org/web/20180615010430/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-07-09T10:48:43Z",
+        "uri": "https://web.archive.org/web/20180709104843/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-07-12T04:22:03Z",
+        "uri": "https://wayback.archive-it.org/all/20180712042203/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-07-12T04:22:03Z",
+        "uri": "https://web.archive.org/web/20180712042203/http://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-07-16T11:40:45Z",
+        "uri": "https://web.archive.org/web/20180716114045/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-08-10T04:47:26Z",
+        "uri": "https://web.archive.org/web/20180810044726/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-08-12T17:53:56Z",
+        "uri": "https://wayback.archive-it.org/all/20180812175356/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-08-12T17:53:56Z",
+        "uri": "https://web.archive.org/web/20180812175356/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-08-16T13:39:14Z",
+        "uri": "https://web.archive.org/web/20180816133914/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-09-08T05:55:35Z",
+        "uri": "https://web.archive.org/web/20180908055535/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-09-10T22:32:09Z",
+        "uri": "https://web.archive.org/web/20180910223209/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-09-12T06:02:58Z",
+        "uri": "https://web.archive.org/web/20180912060258/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-09-12T19:46:22Z",
+        "uri": "https://wayback.archive-it.org/all/20180912194622/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-09-12T19:46:22Z",
+        "uri": "https://web.archive.org/web/20180912194622/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-09-16T04:52:17Z",
+        "uri": "https://web.archive.org/web/20180916045217/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-10-12T17:02:20Z",
+        "uri": "https://web.archive.org/web/20181012170220/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-10-12T23:56:00Z",
+        "uri": "https://wayback.archive-it.org/all/20181012235600/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-10-12T23:56:00Z",
+        "uri": "https://web.archive.org/web/20181012235600/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-10-16T23:52:22Z",
+        "uri": "https://web.archive.org/web/20181016235222/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-11-05T05:20:08Z",
+        "uri": "https://web.archive.org/web/20181105052008/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-11-13T00:24:45Z",
+        "uri": "https://web.archive.org/web/20181113002445/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-11-13T20:50:43Z",
+        "uri": "https://wayback.archive-it.org/all/20181113205043/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-11-13T20:50:43Z",
+        "uri": "https://web.archive.org/web/20181113205043/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-11-16T17:19:33Z",
+        "uri": "https://web.archive.org/web/20181116171933/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-12-12T23:45:36Z",
+        "uri": "https://wayback.archive-it.org/all/20181212234536/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-12-12T23:45:36Z",
+        "uri": "https://web.archive.org/web/20181212234536/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2018-12-14T05:59:17Z",
+        "uri": "https://web.archive.org/web/20181214055917/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2018-12-17T11:44:19Z",
+        "uri": "https://web.archive.org/web/20181217114419/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-01-12T18:36:53Z",
+        "uri": "https://wayback.archive-it.org/all/20190112183653/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-01-12T18:36:53Z",
+        "uri": "https://web.archive.org/web/20190112183653/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-01-14T02:03:07Z",
+        "uri": "https://web.archive.org/web/20190114020307/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-01-17T14:12:18Z",
+        "uri": "https://web.archive.org/web/20190117141218/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-02-12T20:52:19Z",
+        "uri": "https://wayback.archive-it.org/all/20190212205219/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-02-12T20:52:19Z",
+        "uri": "https://web.archive.org/web/20190212205219/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-02-13T03:06:38Z",
+        "uri": "https://wayback.archive-it.org/all/20190213030638/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-02-13T03:06:38Z",
+        "uri": "https://web.archive.org/web/20190213030638/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-02-13T03:06:38Z",
+        "uri": "https://web.archive.org/web/20190213030638/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-02-13T23:06:20Z",
+        "uri": "https://web.archive.org/web/20190213230620/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-02-17T14:07:47Z",
+        "uri": "https://web.archive.org/web/20190217140747/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-03-12T08:43:07Z",
+        "uri": "https://wayback.archive-it.org/all/20190312084307/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-03-12T08:43:07Z",
+        "uri": "https://web.archive.org/web/20190312084307/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-03-17T12:26:02Z",
+        "uri": "https://web.archive.org/web/20190317122602/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-03-20T16:18:05Z",
+        "uri": "https://web.archive.org/web/20190320161805/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-03-27T12:14:02Z",
+        "uri": "https://arquivo.pt/wayback/20190327121402mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-03-27T12:14:02Z",
+        "uri": "https://web.archive.org/web/20190327121402/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-08T20:21:32Z",
+        "uri": "https://web.archive.org/web/20190408202132/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-12T06:59:03Z",
+        "uri": "https://wayback.archive-it.org/all/20190412065903/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-12T06:59:03Z",
+        "uri": "https://web.archive.org/web/20190412065903/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-14T21:35:03Z",
+        "uri": "https://web.archive.org/web/20190414213503/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-17T08:04:49Z",
+        "uri": "https://web.archive.org/web/20190417080449/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-04-17T10:56:04Z",
+        "uri": "https://web.archive.org/web/20190417105604/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-04-20T17:23:46Z",
+        "uri": "https://web.archive.org/web/20190420172346/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-05-12T10:13:37Z",
+        "uri": "https://wayback.archive-it.org/all/20190512101337/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-05-12T10:13:37Z",
+        "uri": "https://web.archive.org/web/20190512101337/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-05-18T07:54:18Z",
+        "uri": "https://web.archive.org/web/20190518075418/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-05-18T13:47:36Z",
+        "uri": "https://wayback.archive-it.org/all/20190518134736/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-05-18T13:47:36Z",
+        "uri": "https://web.archive.org/web/20190518134736/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-05-22T22:56:39Z",
+        "uri": "https://web.archive.org/web/20190522225639/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-06-04T20:24:11Z",
+        "uri": "https://web.archive.org/web/20190604202411/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-06-12T07:00:55Z",
+        "uri": "https://wayback.archive-it.org/all/20190612070055/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-06-12T07:00:55Z",
+        "uri": "https://web.archive.org/web/20190612070055/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-06-18T14:12:14Z",
+        "uri": "https://web.archive.org/web/20190618141214/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-06-22T23:45:05Z",
+        "uri": "https://web.archive.org/web/20190622234505/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-07-12T05:44:29Z",
+        "uri": "https://wayback.archive-it.org/all/20190712054429/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-07-12T05:44:29Z",
+        "uri": "https://web.archive.org/web/20190712054429/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-07-21T03:33:36Z",
+        "uri": "https://web.archive.org/web/20190721033336/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-07-23T19:05:06Z",
+        "uri": "https://web.archive.org/web/20190723190506/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-08-12T04:04:54Z",
+        "uri": "https://wayback.archive-it.org/all/20190812040454/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-08-12T04:04:54Z",
+        "uri": "https://web.archive.org/web/20190812040454/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-08-21T17:58:03Z",
+        "uri": "https://web.archive.org/web/20190821175803/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-08-23T15:41:40Z",
+        "uri": "https://web.archive.org/web/20190823154140/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-09-11T23:37:12Z",
+        "uri": "https://wayback.archive-it.org/all/20190911233712/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-09-11T23:37:12Z",
+        "uri": "https://web.archive.org/web/20190911233712/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-09-22T16:55:01Z",
+        "uri": "https://web.archive.org/web/20190922165501/http://odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-09-23T11:08:32Z",
+        "uri": "https://web.archive.org/web/20190923110832/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-09-28T07:09:34Z",
+        "uri": "https://arquivo.pt/wayback/20190928070934mp_/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-09-28T07:09:34Z",
+        "uri": "https://web.archive.org/web/20190928070934/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-02T07:03:42Z",
+        "uri": "https://arquivo.pt/wayback/20191002070342mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-02T07:03:42Z",
+        "uri": "https://web.archive.org/web/20191002070342/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-11T23:21:35Z",
+        "uri": "https://wayback.archive-it.org/all/20191011232135/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-11T23:21:35Z",
+        "uri": "https://web.archive.org/web/20191011232135/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-16T05:31:35Z",
+        "uri": "https://web.archive.org/web/20191016053135/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-10-18T01:11:08Z",
+        "uri": "https://wayback.archive-it.org/all/20191018011108/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-10-18T01:11:08Z",
+        "uri": "https://web.archive.org/web/20191018011108/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-11-08T18:51:29Z",
+        "uri": "https://web.archive.org/web/20191108185129/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-11-11T23:25:04Z",
+        "uri": "https://wayback.archive-it.org/all/20191111232504/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-11-11T23:25:04Z",
+        "uri": "https://web.archive.org/web/20191111232504/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-11T21:28:47Z",
+        "uri": "https://wayback.archive-it.org/all/20191211212847/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-11T21:28:47Z",
+        "uri": "https://web.archive.org/web/20191211212847/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-14T11:40:15Z",
+        "uri": "https://arquivo.pt/wayback/20191214114015mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-14T11:40:15Z",
+        "uri": "https://web.archive.org/web/20191214114015/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-14T12:54:44Z",
+        "uri": "https://web.archive.org/web/20191214125444/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-15T09:10:19Z",
+        "uri": "https://web.archive.org/web/20191215091019/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2019-12-18T01:08:53Z",
+        "uri": "https://wayback.archive-it.org/all/20191218010853/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-18T01:08:53Z",
+        "uri": "https://web.archive.org/web/20191218010853/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-21T17:53:14Z",
+        "uri": "https://web.archive.org/web/20191221175314/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2019-12-21T17:53:21Z",
+        "uri": "https://web.archive.org/web/20191221175321/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-01-11T21:04:51Z",
+        "uri": "https://wayback.archive-it.org/all/20200111210451/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-01-11T21:04:51Z",
+        "uri": "https://web.archive.org/web/20200111210451/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-01-18T02:51:00Z",
+        "uri": "https://wayback.archive-it.org/all/20200118025100/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-01-18T02:51:00Z",
+        "uri": "https://web.archive.org/web/20200118025100/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-02-13T14:38:35Z",
+        "uri": "https://web.archive.org/web/20200213143835/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2020-02-14T02:39:23Z",
+        "uri": "https://wayback.archive-it.org/all/20200214023923/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-02-14T02:39:23Z",
+        "uri": "https://web.archive.org/web/20200214023923/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-02-14T15:14:46Z",
+        "uri": "https://web.archive.org/web/20200214151446/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2020-02-18T03:55:42Z",
+        "uri": "https://wayback.archive-it.org/all/20200218035542/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-02-18T03:55:42Z",
+        "uri": "https://web.archive.org/web/20200218035542/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-03-08T00:32:31Z",
+        "uri": "https://arquivo.pt/wayback/20200308003231mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-03-08T00:32:31Z",
+        "uri": "https://web.archive.org/web/20200308003231/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-03-13T04:28:41Z",
+        "uri": "https://wayback.archive-it.org/all/20200313042841/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-03-13T04:28:41Z",
+        "uri": "https://web.archive.org/web/20200313042841/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-09T02:55:25Z",
+        "uri": "https://wayback.archive-it.org/all/20200409025525/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-09T02:55:25Z",
+        "uri": "https://web.archive.org/web/20200409025525/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:14Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191614/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:14Z",
+        "uri": "https://web.archive.org/web/20200416191614/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:28Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191628/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:28Z",
+        "uri": "https://web.archive.org/web/20200416191628/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:52Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191652/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-16T19:16:52Z",
+        "uri": "https://web.archive.org/web/20200416191652/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-17T00:47:02Z",
+        "uri": "https://wayback.archive-it.org/all/20200417004702/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-17T00:47:02Z",
+        "uri": "https://web.archive.org/web/20200417004702/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-24T12:47:18Z",
+        "uri": "https://web.archive.org/web/20200424124718/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-04-27T13:52:20Z",
+        "uri": "https://web.archive.org/web/20200427135220/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-05-03T16:48:29Z",
+        "uri": "https://web.archive.org/web/20200503164829/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2020-05-28T21:56:05Z",
+        "uri": "https://web.archive.org/web/20200528215605/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-06-26T22:01:13Z",
+        "uri": "https://web.archive.org/web/20200626220113/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-06-28T11:27:15Z",
+        "uri": "https://arquivo.pt/wayback/20200628112715mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-06-28T11:27:15Z",
+        "uri": "https://web.archive.org/web/20200628112715/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-07-02T19:10:26Z",
+        "uri": "https://web.archive.org/web/20200702191026/http://www.odu.edu:80/colleges"
+      },
+      {
+        "datetime": "2020-07-14T22:59:50Z",
+        "uri": "https://web.archive.org/web/20200714225950/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-07-28T13:13:51Z",
+        "uri": "https://web.archive.org/web/20200728131351/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-08-29T11:09:44Z",
+        "uri": "https://web.archive.org/web/20200829110944/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-05T06:33:29Z",
+        "uri": "https://arquivo.pt/wayback/20200905063329mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-05T06:33:29Z",
+        "uri": "https://web.archive.org/web/20200905063329/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-10T01:11:59Z",
+        "uri": "https://wayback.archive-it.org/all/20200910011159/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-10T01:11:59Z",
+        "uri": "https://web.archive.org/web/20200910011159/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-10T10:48:13Z",
+        "uri": "https://wayback.archive-it.org/all/20200910104813/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-09-10T10:48:13Z",
+        "uri": "https://web.archive.org/web/20200910104813/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-10-06T03:06:24Z",
+        "uri": "https://web.archive.org/web/20201006030624/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-06T08:06:09Z",
+        "uri": "https://arquivo.pt/wayback/20201206080609mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-06T08:06:09Z",
+        "uri": "https://web.archive.org/web/20201206080609/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-11T13:50:48Z",
+        "uri": "https://wayback.archive-it.org/all/20201211135048/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-11T13:50:48Z",
+        "uri": "https://web.archive.org/web/20201211135048/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-11T15:18:46Z",
+        "uri": "https://wayback.archive-it.org/all/20201211151846/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2020-12-11T15:18:46Z",
+        "uri": "https://web.archive.org/web/20201211151846/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-01-02T16:50:08Z",
+        "uri": "https://web.archive.org/web/20210102165008/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-01-14T01:45:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210114014547/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-01-14T01:45:47Z",
+        "uri": "https://web.archive.org/web/20210114014547/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-01-16T01:21:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210116012100/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-01-16T01:21:00Z",
+        "uri": "https://web.archive.org/web/20210116012100/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-03-05T02:15:25Z",
+        "uri": "https://arquivo.pt/wayback/20210305021525mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-03-05T02:15:25Z",
+        "uri": "https://web.archive.org/web/20210305021525/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-03-21T15:31:25Z",
+        "uri": "https://web.archive.org/web/20210321153125/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-09T23:30:13Z",
+        "uri": "https://web.archive.org/web/20210409233013/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-13T17:33:18Z",
+        "uri": "https://web.archive.org/web/20210413173318/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-14T03:36:42Z",
+        "uri": "https://web.archive.org/web/20210414033642/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-14T10:49:27Z",
+        "uri": "https://web.archive.org/web/20210414104927/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-23T17:02:18Z",
+        "uri": "https://web.archive.org/web/20210423170218/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-25T18:36:11Z",
+        "uri": "https://web.archive.org/web/20210425183611/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-04-30T20:13:12Z",
+        "uri": "https://web.archive.org/web/20210430201312/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-20T15:24:28Z",
+        "uri": "https://web.archive.org/web/20210520152428/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:58:47Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195847/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:58:47Z",
+        "uri": "https://web.archive.org/web/20210526195847/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:58:56Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195856/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:58:56Z",
+        "uri": "https://web.archive.org/web/20210526195856/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:59:00Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195900/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-05-26T19:59:00Z",
+        "uri": "https://web.archive.org/web/20210526195900/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-06-02T01:59:17Z",
+        "uri": "https://web.archive.org/web/20210602015917/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-06-06T11:38:33Z",
+        "uri": "https://arquivo.pt/wayback/20210606113833mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-06-06T11:38:33Z",
+        "uri": "https://web.archive.org/web/20210606113833/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-07-28T09:56:34Z",
+        "uri": "https://web.archive.org/web/20210728095634/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-08-11T19:21:50Z",
+        "uri": "https://web.archive.org/web/20210811192150/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-08-12T07:20:36Z",
+        "uri": "https://web.archive.org/web/20210812072036/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-08-13T00:52:04Z",
+        "uri": "https://web.archive.org/web/20210813005204/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-09-10T15:36:03Z",
+        "uri": "https://arquivo.pt/wayback/20210910153603mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-10-11T14:46:36Z",
+        "uri": "https://arquivo.pt/wayback/20211011144636mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-10-19T20:11:04Z",
+        "uri": "https://web.archive.org/web/20211019201104/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-11-03T11:16:57Z",
+        "uri": "https://arquivo.pt/wayback/20211103111657mp_/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-11-23T18:43:13Z",
+        "uri": "https://web.archive.org/web/20211123184313/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2021-11-28T01:51:35Z",
+        "uri": "https://web.archive.org/web/20211128015135/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-07T22:16:43Z",
+        "uri": "https://web.archive.org/web/20220107221643/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-08T16:39:49Z",
+        "uri": "https://web.archive.org/web/20220108163949/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-10T17:08:56Z",
+        "uri": "https://web.archive.org/web/20220110170856/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-11T20:13:59Z",
+        "uri": "https://web.archive.org/web/20220111201359/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-12T16:59:19Z",
+        "uri": "https://web.archive.org/web/20220112165919/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-12T21:58:47Z",
+        "uri": "https://web.archive.org/web/20220112215847/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-13T01:01:50Z",
+        "uri": "https://web.archive.org/web/20220113010150/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-13T07:12:44Z",
+        "uri": "https://web.archive.org/web/20220113071244/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-13T19:32:40Z",
+        "uri": "https://web.archive.org/web/20220113193240/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-14T01:06:16Z",
+        "uri": "https://wayback.archive-it.org/all/20220114010616/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-14T01:06:16Z",
+        "uri": "https://web.archive.org/web/20220114010616/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-16T23:34:44Z",
+        "uri": "https://web.archive.org/web/20220116233444/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-17T07:07:41Z",
+        "uri": "https://web.archive.org/web/20220117070741/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-21T21:46:28Z",
+        "uri": "https://web.archive.org/web/20220121214628/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-22T10:29:40Z",
+        "uri": "https://arquivo.pt/wayback/20220122102940mp_/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-24T20:28:11Z",
+        "uri": "https://web.archive.org/web/20220124202811/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-26T02:02:44Z",
+        "uri": "https://web.archive.org/web/20220126020244/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-26T05:35:06Z",
+        "uri": "https://arquivo.pt/wayback/20220126053506mp_/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-01-31T22:17:50Z",
+        "uri": "https://web.archive.org/web/20220131221750/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-02-01T22:30:41Z",
+        "uri": "https://web.archive.org/web/20220201223041/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-02-03T18:57:54Z",
+        "uri": "https://web.archive.org/web/20220203185754/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-02-11T07:53:42Z",
+        "uri": "https://arquivo.pt/wayback/20220211075342mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-02-17T22:12:18Z",
+        "uri": "https://web.archive.org/web/20220217221218/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-03-19T20:24:34Z",
+        "uri": "https://web.archive.org/web/20220319202434/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-03-19T20:24:35Z",
+        "uri": "https://web.archive.org/web/20220319202435/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-07T09:45:21Z",
+        "uri": "https://web.archive.org/web/20220407094521/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-17T05:36:12Z",
+        "uri": "https://arquivo.pt/wayback/20220417053612mp_/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-19T12:50:33Z",
+        "uri": "https://web.archive.org/web/20220419125033/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-22T17:16:53Z",
+        "uri": "https://arquivo.pt/wayback/20220422171653mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-22T17:16:57Z",
+        "uri": "https://arquivo.pt/wayback/20220422171657mp_/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-04-24T18:52:04Z",
+        "uri": "https://arquivo.pt/wayback/20220424185204mp_/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-05-14T05:03:12Z",
+        "uri": "https://web.archive.org/web/20220514050312/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-05-25T10:24:00Z",
+        "uri": "https://web.archive.org/web/20220525102400/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-05-28T23:58:40Z",
+        "uri": "https://web.archive.org/web/20220528235840/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-15T05:41:39Z",
+        "uri": "https://web.archive.org/web/20220615054139/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T00:42:10Z",
+        "uri": "https://web.archive.org/web/20220619004210/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T11:22:17Z",
+        "uri": "https://web.archive.org/web/20220619112217/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T11:23:20Z",
+        "uri": "https://web.archive.org/web/20220619112320/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T14:29:24Z",
+        "uri": "https://web.archive.org/web/20220619142924/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T23:26:51Z",
+        "uri": "https://web.archive.org/web/20220619232651/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-19T23:28:44Z",
+        "uri": "https://web.archive.org/web/20220619232844/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-06-25T14:32:22Z",
+        "uri": "https://web.archive.org/web/20220625143222/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-07-04T07:34:53Z",
+        "uri": "https://wayback.archive-it.org/all/20220704073453/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-07-04T07:34:53Z",
+        "uri": "https://web.archive.org/web/20220704073453/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-07-12T13:36:57Z",
+        "uri": "https://web.archive.org/web/20220712133657/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-07-30T14:44:36Z",
+        "uri": "https://arquivo.pt/wayback/20220730144436mp_/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-02T17:56:35Z",
+        "uri": "https://web.archive.org/web/20220802175635/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-02T23:12:20Z",
+        "uri": "https://web.archive.org/web/20220802231220/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-03T21:46:21Z",
+        "uri": "https://web.archive.org/web/20220803214621/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-04T06:31:40Z",
+        "uri": "https://web.archive.org/web/20220804063140/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-04T15:10:48Z",
+        "uri": "https://web.archive.org/web/20220804151048/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-05T18:33:42Z",
+        "uri": "https://web.archive.org/web/20220805183342/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-07T22:12:39Z",
+        "uri": "https://web.archive.org/web/20220807221239/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-08T10:15:58Z",
+        "uri": "https://web.archive.org/web/20220808101558/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-08T19:56:11Z",
+        "uri": "https://web.archive.org/web/20220808195611/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:04:39Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200439/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:04:39Z",
+        "uri": "https://web.archive.org/web/20220810200439/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:04:58Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200458/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:04:58Z",
+        "uri": "https://web.archive.org/web/20220810200458/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:05:17Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200517/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-10T20:05:17Z",
+        "uri": "https://web.archive.org/web/20220810200517/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-12T12:30:37Z",
+        "uri": "https://web.archive.org/web/20220812123037/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-13T00:36:38Z",
+        "uri": "https://web.archive.org/web/20220813003638/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-14T10:21:14Z",
+        "uri": "https://web.archive.org/web/20220814102114/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-14T16:26:09Z",
+        "uri": "https://web.archive.org/web/20220814162609/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-08-19T13:04:57Z",
+        "uri": "https://web.archive.org/web/20220819130457/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-09-22T13:05:18Z",
+        "uri": "https://web.archive.org/web/20220922130518/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-10-02T20:10:33Z",
+        "uri": "https://web.archive.org/web/20221002201033/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-10-11T02:18:43Z",
+        "uri": "https://arquivo.pt/wayback/20221011021843mp_/https://odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-10-14T05:15:50Z",
+        "uri": "https://web.archive.org/web/20221014051550/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-10-19T08:17:38Z",
+        "uri": "https://web.archive.org/web/20221019081738/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-11-07T05:25:26Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052526/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-11-07T05:25:26Z",
+        "uri": "https://web.archive.org/web/20221107052526/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-11-09T00:55:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221109005543/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-11-09T00:55:43Z",
+        "uri": "https://web.archive.org/web/20221109005543/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-03T09:59:14Z",
+        "uri": "https://web.archive.org/web/20221203095914/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-07T07:57:33Z",
+        "uri": "https://wayback.archive-it.org/all/20221207075733/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-07T07:57:33Z",
+        "uri": "https://web.archive.org/web/20221207075733/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-08T06:00:03Z",
+        "uri": "https://web.archive.org/web/20221208060003/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-14T02:56:53Z",
+        "uri": "https://wayback.archive-it.org/all/20221214025653/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2022-12-14T02:56:53Z",
+        "uri": "https://web.archive.org/web/20221214025653/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-01-07T07:45:37Z",
+        "uri": "https://wayback.archive-it.org/all/20230107074537/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-01-07T07:45:37Z",
+        "uri": "https://web.archive.org/web/20230107074537/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-01-24T19:53:08Z",
+        "uri": "https://arquivo.pt/wayback/20230124195308mp_/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-01-27T02:06:10Z",
+        "uri": "https://web.archive.org/web/20230127020610/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-02-07T06:36:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063644/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-02-07T06:36:44Z",
+        "uri": "https://web.archive.org/web/20230207063644/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-02-20T00:46:45Z",
+        "uri": "https://web.archive.org/web/20230220004645/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-07T04:30:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043054/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-07T04:30:54Z",
+        "uri": "https://web.archive.org/web/20230307043054/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-09T04:15:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230309041545/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-09T04:15:45Z",
+        "uri": "https://web.archive.org/web/20230309041545/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-03-27T22:30:16Z",
+        "uri": "https://web.archive.org/web/20230327223016/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-05-29T16:16:05Z",
+        "uri": "https://web.archive.org/web/20230529161605/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-08-25T17:40:08Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174008/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-08-25T17:40:08Z",
+        "uri": "https://web.archive.org/web/20230825174008/https://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-08-27T02:22:00Z",
+        "uri": "https://wayback.archive-it.org/all/20230827022200/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-08-27T02:22:00Z",
+        "uri": "https://web.archive.org/web/20230827022200/http://www.odu.edu/colleges"
+      },
+      {
+        "datetime": "2023-10-04T10:53:50Z",
+        "uri": "https://web.archive.org/web/20231004105350/https://www.odu.edu/colleges"
+      }
+    ],
+    "first": {
+      "datetime": "2012-09-22T07:35:28Z",
+      "uri": "https://web.archive.org/web/20120922073528/http://www.odu.edu:80/colleges"
+    },
+    "last": {
+      "datetime": "2023-10-04T10:53:50Z",
+      "uri": "https://web.archive.org/web/20231004105350/https://www.odu.edu/colleges"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/colleges",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/colleges",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/colleges"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/colleges"
+}

@@ -1,0 +1,6 @@
+Splash layout, ideal for landing pages.
+Group posts by year with this archive layout.
+A post layout with optional author sidebar and customizable social media links, share buttons, and related posts widget.
+Flexible and customizable. Easily add custom navigation and table of contents sidebars to documentation heavy pages.
+Includes responsive layouts (single, archive index, search, splash, and paginated home page) that look great on mobile and desktop browsers. As the name implies — styling is purposely minimalistic to be enhanced and customized by you.
+Support for large header images and videos.

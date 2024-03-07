@@ -1,0 +1,16 @@
+Web Science and Digital Libraries Research Group
+About
+The Web Science and Digital Libraries (WS-DL) Research Group at Old Dominion University performs research in web archiving, web science, digital libraries, neuro-information retrieval, social media, digital preservation, human-computer interaction, information visualization, natural language processing, accessibility, and mining scholarly data.
+Our alumni have been hired by the Internet Archive, MITRE, Amazon, Google, Microsoft, Los Alamos National Laboratory (LANL),
+and have been faculty and/or researchers at several universities including Drexel University,
+Indiana University, Emory University, University of California at Berkeley, and Columbia College.
+We are grateful for support from the National Science Foundation (NSF), the National Endowment for the Humanities
+(NEH), the Institute of Museum and Library Services (IMLS), National Aeronautics and Space Administration (NASA), Department of Defense (DOD), Department of Energy (DOE), Department of Education (ED), International Internet Preservation Consortium (IIPC), Protocol Laboratories, and the Andrew W. Mellon Foundation.
+Faculty
+Dr. Michael L. Nelson Research topics: web science, web archiving, social media, digital libraries, repositories
+Dr. Michele C. Weigle Research topics: web science, digital preservation, social media, information visualization
+Dr. Sampath Jayarathna Research topics: eye tracking, data science, machine learning, multimodal sensing, cognitive computing, digital libraries Neuro Information Retrieval and Data Science Lab
+Dr. Jian Wu Research topics: text mining, scholarly big data, digital libraries, search engines, natural language processing, applied machine learning, deep learning
+Dr. Vikas Ashok Research topics: human computer interaction, accessible computing, natural language processing, web technologies
+Dr. Faryaneh Poursardar Research topics: digital libraries, social computing, web science, data science, machine learning, digital data preservation
+Students

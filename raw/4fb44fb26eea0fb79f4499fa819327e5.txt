@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang=" en-US"><title>ODU REU CS/ VMASC</title><head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/assets/main.css">
+</head><style>
+
+  .img-card {
+    float: left;
+    margin: 0.5em 1em 0.5em 0;
+    text-align: center;
+  }
+
+  .img-card > img {
+    width: 100%;
+  }
+
+  .apply-button {
+    background-color: #00325b;
+    color: white !important;
+    font-size: 14pt;
+    font-weight: bold;
+    padding: 8px 16px;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 8px;
+  }
+
+  .apply-button:hover {
+    background: #10426b;
+    color: white;
+    text-decoration: none;
+  }
+
+  .apply-button:active {
+    background: #00224b;
+    text-decoration: none;
+  }
+
+  .button {
+    cursor: pointer;
+    padding: 0.5em 1em;
+    border-radius: 0.5em;
+    font-size: 1em;
+    font-weight: bold;
+    border: 1px solid #00325b;
+    background: none;
+    color: #00325b;
+  }
+
+  .button:hover {
+    background: #00325b;
+    color: white;
+  }
+
+  .button:active {
+    background: #003087;
+  }
+
+  html {
+    scroll-padding-top: 75px !important;
+  }
+</style>
+
+<body><style>
+  .site-header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-color: #f6f6f6;
+    border-top: 5px solid #00325b !important;
+    border-bottom: 2px solid #00325b11 !important;
+  }
+  a.page-link {
+    color: #00325b !important;
+    font-weight: 600 !important;
+  }
+</style>
+
+<header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">
+      <img style="height:42px;" src="assets/odu-logo.png">&nbsp
+<!--      <a class="site-title"  style="font-size: 16pt;" rel="author" href="/">ODU REU CS/ VMASC</a>-->
+    </a><nav class="site-nav">
+      <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+      <label for="nav-trigger">
+        <span class="menu-icon">
+          <svg viewBox="0 0 18 15" width="18px" height="15px">
+            <path
+              d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z" />
+          </svg>
+        </span>
+      </label>
+
+      <div class="trigger"><a class="page-link" href="/about.html">About</a><a class="page-link" href="/projects.html">Projects</a><a class="page-link" href="/mentors.html">Mentors</a><a class="page-link" href="/faq.html">FAQ</a><a class="page-link" href="/contact.html">Contact</a></div>
+    </nav></div>
+</header>
+<main class="page-content" aria-label="Content" style="padding-top: 5em;">
+    <div class="wrapper"><div style="text-align:center;">
+  <img style="width:min(170px,50%)" src="assets/logo.png">
+  <br/>
+  <span style="font-size:23pt;font-weight:bold;">REU Site: Research Experiences for Undergraduates in Disinformation Detection and Analytics</span>
+</div>
+<table style="margin: 0;">
+  <tr>
+    <td style="border: hidden; text-align: center; background-color: #f9f9f9; padding: 0.5em;">
+      <h2 style="font-size: 16pt;"><strong>Summer 2024 Schedule: <br />May 22, 2024 - July 24, 2024</strong></h2>
+      <p style="text-align: center;">In NSF ETAP opportunities search for "Research Experiences for Undergraduates in Disinformation Detection and Analytics" to apply.</p>
+      <a class="apply-button" target="_blank"
+        href="https://etap.nsf.gov/award/232/opportunity/7362">Click here to apply at NSF eTAP. <br>Application Due Feb. 15, 2024. Selection Notifications on April 05, 2024 </a>
+      <br />
+      <i>(You may need to create a NSF ETAP account to apply for the REU program)</i>
+    </td>
+  </tr>
+</table>
+<table style="margin: 0;">
+  <tr>
+    <td style="border: hidden; text-align: center; padding: 0;">
+      <div>
+        <!-- <img src="assets/odu-image.jpg"> -->
+        <img src="assets/flyer.png">
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td style="border: hidden; text-align: justify">
+      <div style="padding: 0.5em;">
+        <p> This Research Experiences for Undergraduates Site project will engage motivated students in the rapidly growing research area of disinformation detection and analytics. With its focus on identifying disinformation, this program will broaden the views of the students, providing them with a holistic and in-depth understanding of disinformation and its viral spread across the Web. They will leverage knowledge and skills learned to discern and debunk disinformation, which could aid their families, friends, and social media contacts and eventually help prevent disinformation from spreading. Their knowledge and skills will not only prepare students for disinformation-related jobs in research or industry, it will encourage them to pursue graduate study and research in general. This program will also contribute to the development of a diverse, globally competitive workforce by providing research and education opportunities to an economically diverse group of students, including female, underrepresented minorities, first-generation college students, and those from undergraduate institutions who may not have previous exposure to research or graduate school. </p>
+        <p> Students participating in the REU Site project will learn: </p>
+        <ol>
+          
+          <li> The concept of disinformation, its types, examples, and active research topics,</li>
+          
+          <li> Mainstream computational methods to detect disinformation on social media, including how to access, clean, preprocess, and visualize data and how to build analytical and predictive models using open source programming tools,</li>
+          
+          <li> Important metrics to evaluate research results, compare baseline models, and produce preliminary results for publication quality research products, and</li>
+          
+          <li> Essential research skills including brainstorming discussion, programming experiments, forensics, trial-and-error, technical writing, and research presentation.</li>
+          
+        </ol>
+        <p> Students will conduct hands-on research on topics of their own choosing that fit within faculty members' existing broad disinformation research programs. The goal of this REU Site is to engage participating students in real-world projects studying disinformation from the perspectives of data analytics, information retrieval, applied machine learning, web archiving, and social computing. The participants will learn essential knowledge and skills to support future careers, whether research or application oriented. </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<p>Funded by <img style="width:50px;height:50px;" src="assets/nsf-logo.png"> NSF CISE REU Site Award #2149607</p>
+<!-- <table>
+  <tr>
+    <td style="display: flex; align-items: flex-start; padding-bottom: 1em;">
+      <div style="width: 10em; height: 10em; padding: 0.5em; margin-left: 0; padding-left: 0;">
+        <img style="width: 100%; height: 100%;" src="">
+      </div>
+      <div style="padding: 0.5em;">
+        <div style="font-size: 1.5em;"></div>
+        <div style="font-size: 1.2em;"></div>
+        <address>
+          
+        </address>
+        <a href="mailto:"></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align: justify;">
+      <h2>About Me</h2>
+      
+
+    </td>
+  </tr>
+  <tr>
+    <td style="margin-top: 1em;">
+      <a href="" target="_blank"><button class="button">See My CV</button></a>
+      <a href="https://scholar.google.com/citations?user=" target="_blank"><button class="button">Google Scholar</button></a>
+    </td>
+  </tr>
+</table> -->
+
+    </div>
+  </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <!-- <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name"></li></ul>
+      </div> -->
+
+      <!-- <div class="footer-col footer-col-2">
+        <div>Find me on</div><div></div></div> -->
+
+      <!-- <div class="footer-col footer-col-3"><p>Description</p>
+</div> -->
+    </div>
+
+  </div>
+
+</footer>
+</body>
+
+</html>

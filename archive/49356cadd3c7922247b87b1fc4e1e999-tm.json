@@ -1,0 +1,979 @@
+ERROR: 2024/02/18 21:47:12.836372 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/cepd": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/cepd",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/cepd",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2015-02-17T01:54:47Z",
+        "uri": "https://web.archive.org/web/20150217015447/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2015-07-19T15:16:03Z",
+        "uri": "https://web.archive.org/web/20150719151603/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2015-08-19T06:33:07Z",
+        "uri": "https://web.archive.org/web/20150819063307/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2015-08-25T14:47:15Z",
+        "uri": "https://web.archive.org/web/20150825144715/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2015-09-18T16:58:18Z",
+        "uri": "https://web.archive.org/web/20150918165818/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2015-10-19T04:29:57Z",
+        "uri": "https://web.archive.org/web/20151019042957/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2015-11-19T03:56:58Z",
+        "uri": "https://web.archive.org/web/20151119035658/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2015-12-12T22:10:11Z",
+        "uri": "https://web.archive.org/web/20151212221011/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2015-12-20T03:31:28Z",
+        "uri": "https://web.archive.org/web/20151220033128/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-01-19T14:33:35Z",
+        "uri": "https://web.archive.org/web/20160119143335/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-02-19T08:58:58Z",
+        "uri": "https://web.archive.org/web/20160219085858/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-03-21T04:06:46Z",
+        "uri": "https://web.archive.org/web/20160321040646/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-04-20T18:10:26Z",
+        "uri": "https://web.archive.org/web/20160420181026/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-05-22T04:12:25Z",
+        "uri": "https://web.archive.org/web/20160522041225/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-06-22T01:49:31Z",
+        "uri": "https://web.archive.org/web/20160622014931/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-07-22T21:09:53Z",
+        "uri": "https://web.archive.org/web/20160722210953/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-08-23T01:38:04Z",
+        "uri": "https://web.archive.org/web/20160823013804/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-09-22T22:00:14Z",
+        "uri": "https://web.archive.org/web/20160922220014/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-10-21T16:29:46Z",
+        "uri": "https://web.archive.org/web/20161021162946/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2016-10-24T04:36:18Z",
+        "uri": "https://web.archive.org/web/20161024043618/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-10-27T07:22:20Z",
+        "uri": "https://web.archive.org/web/20161027072220/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2016-11-07T09:47:26Z",
+        "uri": "https://web.archive.org/web/20161107094726/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2016-11-19T13:28:31Z",
+        "uri": "https://web.archive.org/web/20161119132831/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2016-11-21T23:23:42Z",
+        "uri": "https://web.archive.org/web/20161121232342/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-01-18T22:49:47Z",
+        "uri": "https://web.archive.org/web/20170118224947/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-01-21T06:53:12Z",
+        "uri": "https://web.archive.org/web/20170121065312/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-03-18T08:11:29Z",
+        "uri": "https://web.archive.org/web/20170318081129/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2017-03-20T11:26:20Z",
+        "uri": "https://web.archive.org/web/20170320112620/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-03-23T04:52:57Z",
+        "uri": "https://web.archive.org/web/20170323045257/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-03-25T20:48:34Z",
+        "uri": "https://web.archive.org/web/20170325204834/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2017-04-17T14:04:52Z",
+        "uri": "https://web.archive.org/web/20170417140452/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2017-05-21T09:19:32Z",
+        "uri": "https://web.archive.org/web/20170521091932/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-05-22T23:12:04Z",
+        "uri": "https://web.archive.org/web/20170522231204/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-06-06T06:31:55Z",
+        "uri": "https://web.archive.org/web/20170606063155/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2017-07-20T17:48:39Z",
+        "uri": "https://web.archive.org/web/20170720174839/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-07-22T10:39:43Z",
+        "uri": "https://web.archive.org/web/20170722103943/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-07-31T00:38:18Z",
+        "uri": "https://web.archive.org/web/20170731003818/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-08-30T13:23:02Z",
+        "uri": "https://web.archive.org/web/20170830132302/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-09-21T02:10:17Z",
+        "uri": "https://web.archive.org/web/20170921021017/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-09-30T06:19:09Z",
+        "uri": "https://web.archive.org/web/20170930061909/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-10-31T22:27:55Z",
+        "uri": "https://web.archive.org/web/20171031222755/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-11-20T17:32:11Z",
+        "uri": "https://web.archive.org/web/20171120173211/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2017-12-02T03:04:01Z",
+        "uri": "https://web.archive.org/web/20171202030401/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-01-02T05:45:36Z",
+        "uri": "https://web.archive.org/web/20180102054536/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-01-10T06:14:52Z",
+        "uri": "https://web.archive.org/web/20180110061452/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-01-10T20:54:14Z",
+        "uri": "https://web.archive.org/web/20180110205414/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-01-20T16:03:59Z",
+        "uri": "https://web.archive.org/web/20180120160359/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-02-02T00:13:15Z",
+        "uri": "https://web.archive.org/web/20180202001315/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-03-05T06:36:05Z",
+        "uri": "https://web.archive.org/web/20180305063605/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-03-22T16:47:30Z",
+        "uri": "https://web.archive.org/web/20180322164730/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-03-31T10:53:37Z",
+        "uri": "https://web.archive.org/web/20180331105337/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-04-04T16:52:09Z",
+        "uri": "https://web.archive.org/web/20180404165209/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-05-08T06:36:20Z",
+        "uri": "https://web.archive.org/web/20180508063620/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-05-23T09:40:30Z",
+        "uri": "https://web.archive.org/web/20180523094030/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-06-02T13:38:54Z",
+        "uri": "https://web.archive.org/web/20180602133854/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-06-08T12:35:51Z",
+        "uri": "https://web.archive.org/web/20180608123551/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-07-09T11:11:43Z",
+        "uri": "https://web.archive.org/web/20180709111143/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-07-22T20:45:50Z",
+        "uri": "https://web.archive.org/web/20180722204550/http://odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-08-03T06:56:34Z",
+        "uri": "https://web.archive.org/web/20180803065634/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-08-10T05:11:18Z",
+        "uri": "https://web.archive.org/web/20180810051118/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-08-22T21:56:58Z",
+        "uri": "https://web.archive.org/web/20180822215658/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-09-08T03:03:05Z",
+        "uri": "https://web.archive.org/web/20180908030305/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-09-10T22:38:55Z",
+        "uri": "https://web.archive.org/web/20180910223855/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-09-12T20:36:21Z",
+        "uri": "https://web.archive.org/web/20180912203621/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-10-04T22:20:44Z",
+        "uri": "https://web.archive.org/web/20181004222044/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-10-12T17:02:10Z",
+        "uri": "https://web.archive.org/web/20181012170210/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-11-05T17:32:19Z",
+        "uri": "https://web.archive.org/web/20181105173219/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-11-11T20:51:04Z",
+        "uri": "https://web.archive.org/web/20181111205104/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2018-11-13T00:31:07Z",
+        "uri": "https://web.archive.org/web/20181113003107/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-12-05T00:01:19Z",
+        "uri": "https://web.archive.org/web/20181205000119/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2018-12-14T05:35:14Z",
+        "uri": "https://web.archive.org/web/20181214053514/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-01-14T02:04:46Z",
+        "uri": "https://web.archive.org/web/20190114020446/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-02-13T23:58:22Z",
+        "uri": "https://web.archive.org/web/20190213235822/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-03-17T15:18:16Z",
+        "uri": "https://web.archive.org/web/20190317151816/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-04-08T20:21:11Z",
+        "uri": "https://web.archive.org/web/20190408202111/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2019-04-14T21:35:41Z",
+        "uri": "https://web.archive.org/web/20190414213541/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2019-04-17T17:52:38Z",
+        "uri": "https://web.archive.org/web/20190417175238/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-05-19T13:27:06Z",
+        "uri": "https://web.archive.org/web/20190519132706/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-06-04T20:23:15Z",
+        "uri": "https://web.archive.org/web/20190604202315/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2019-06-19T17:22:37Z",
+        "uri": "https://web.archive.org/web/20190619172237/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-07-21T15:16:56Z",
+        "uri": "https://web.archive.org/web/20190721151656/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-08-21T19:39:42Z",
+        "uri": "https://web.archive.org/web/20190821193942/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-09-22T13:51:59Z",
+        "uri": "https://web.archive.org/web/20190922135159/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-11-08T18:51:29Z",
+        "uri": "https://web.archive.org/web/20191108185129/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2019-11-11T14:35:48Z",
+        "uri": "https://web.archive.org/web/20191111143548/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2019-12-21T17:53:22Z",
+        "uri": "https://web.archive.org/web/20191221175322/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-01-12T14:19:04Z",
+        "uri": "https://web.archive.org/web/20200112141904/http://www.odu.edu:80/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:17:49Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191749/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:17:49Z",
+        "uri": "https://web.archive.org/web/20200416191749/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:18:20Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191820/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:18:20Z",
+        "uri": "https://web.archive.org/web/20200416191820/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:18:45Z",
+        "uri": "https://wayback.archive-it.org/all/20200416191845/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-16T19:18:45Z",
+        "uri": "https://web.archive.org/web/20200416191845/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-24T14:24:38Z",
+        "uri": "https://web.archive.org/web/20200424142438/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-04-27T13:52:21Z",
+        "uri": "https://web.archive.org/web/20200427135221/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-06-27T05:26:59Z",
+        "uri": "https://web.archive.org/web/20200627052659/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-07-14T23:00:31Z",
+        "uri": "https://web.archive.org/web/20200714230031/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-07-14T23:01:12Z",
+        "uri": "https://web.archive.org/web/20200714230112/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-08-10T12:17:53Z",
+        "uri": "https://web.archive.org/web/20200810121753/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-10-05T15:19:04Z",
+        "uri": "https://web.archive.org/web/20201005151904/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-11-01T13:58:31Z",
+        "uri": "https://web.archive.org/web/20201101135831/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-11-01T13:58:32Z",
+        "uri": "https://web.archive.org/web/20201101135832/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-11-18T18:05:24Z",
+        "uri": "https://web.archive.org/web/20201118180524/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-12-12T04:23:40Z",
+        "uri": "https://web.archive.org/web/20201212042340/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2020-12-12T04:23:40Z",
+        "uri": "https://web.archive.org/web/20201212042340/http://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-01-12T00:09:31Z",
+        "uri": "https://web.archive.org/web/20210112000931/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-01-12T00:31:20Z",
+        "uri": "https://web.archive.org/web/20210112003120/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-01-12T00:31:32Z",
+        "uri": "https://web.archive.org/web/20210112003132/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-01-27T02:51:41Z",
+        "uri": "https://web.archive.org/web/20210127025141/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-09T23:29:29Z",
+        "uri": "https://web.archive.org/web/20210409232929/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-13T17:35:39Z",
+        "uri": "https://web.archive.org/web/20210413173539/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-14T03:52:36Z",
+        "uri": "https://web.archive.org/web/20210414035236/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-14T08:22:45Z",
+        "uri": "https://web.archive.org/web/20210414082245/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-15T08:37:30Z",
+        "uri": "https://web.archive.org/web/20210415083730/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-25T21:03:18Z",
+        "uri": "https://web.archive.org/web/20210425210318/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-04-30T20:13:25Z",
+        "uri": "https://web.archive.org/web/20210430201325/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-20T15:19:28Z",
+        "uri": "https://web.archive.org/web/20210520151928/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:19Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195919/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:19Z",
+        "uri": "https://web.archive.org/web/20210526195919/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:25Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195925/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:25Z",
+        "uri": "https://web.archive.org/web/20210526195925/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:30Z",
+        "uri": "https://wayback.archive-it.org/all/20210526195930/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-05-26T19:59:30Z",
+        "uri": "https://web.archive.org/web/20210526195930/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-06-02T01:59:48Z",
+        "uri": "https://web.archive.org/web/20210602015948/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-08-11T19:21:54Z",
+        "uri": "https://web.archive.org/web/20210811192154/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-08-12T23:07:50Z",
+        "uri": "https://web.archive.org/web/20210812230750/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-08-13T08:54:13Z",
+        "uri": "https://web.archive.org/web/20210813085413/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-09-10T15:36:17Z",
+        "uri": "https://arquivo.pt/wayback/20210910153617mp_/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-10-17T11:49:59Z",
+        "uri": "https://web.archive.org/web/20211017114959/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-10-21T05:29:38Z",
+        "uri": "https://arquivo.pt/wayback/20211021052938mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-11-03T11:17:12Z",
+        "uri": "https://arquivo.pt/wayback/20211103111712mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-11-19T03:12:43Z",
+        "uri": "https://web.archive.org/web/20211119031243/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2021-12-02T13:52:00Z",
+        "uri": "https://web.archive.org/web/20211202135200/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-08T16:38:55Z",
+        "uri": "https://web.archive.org/web/20220108163855/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-10T17:03:52Z",
+        "uri": "https://web.archive.org/web/20220110170352/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-11T20:13:57Z",
+        "uri": "https://web.archive.org/web/20220111201357/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-12T16:57:43Z",
+        "uri": "https://web.archive.org/web/20220112165743/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-12T21:56:40Z",
+        "uri": "https://web.archive.org/web/20220112215640/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-13T01:00:10Z",
+        "uri": "https://web.archive.org/web/20220113010010/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-13T19:31:46Z",
+        "uri": "https://web.archive.org/web/20220113193146/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-16T23:35:23Z",
+        "uri": "https://web.archive.org/web/20220116233523/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-17T07:06:53Z",
+        "uri": "https://web.archive.org/web/20220117070653/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-21T21:46:25Z",
+        "uri": "https://web.archive.org/web/20220121214625/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-22T10:30:38Z",
+        "uri": "https://arquivo.pt/wayback/20220122103038mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-24T20:25:38Z",
+        "uri": "https://web.archive.org/web/20220124202538/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-26T02:00:45Z",
+        "uri": "https://web.archive.org/web/20220126020045/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-26T05:35:16Z",
+        "uri": "https://arquivo.pt/wayback/20220126053516mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-01-31T22:18:09Z",
+        "uri": "https://web.archive.org/web/20220131221809/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-02-01T22:31:25Z",
+        "uri": "https://web.archive.org/web/20220201223125/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-02-03T18:58:01Z",
+        "uri": "https://web.archive.org/web/20220203185801/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-02-15T22:59:44Z",
+        "uri": "https://web.archive.org/web/20220215225944/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-02-16T04:49:52Z",
+        "uri": "https://web.archive.org/web/20220216044952/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-02-17T22:01:13Z",
+        "uri": "https://web.archive.org/web/20220217220113/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T21:59:29Z",
+        "uri": "https://web.archive.org/web/20220319215929/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T22:32:11Z",
+        "uri": "https://web.archive.org/web/20220319223211/http://www.odu.edu/cepd/"
+      },
+      {
+        "datetime": "2022-03-19T22:32:12Z",
+        "uri": "https://web.archive.org/web/20220319223212/https://www.odu.edu/cepd/"
+      },
+      {
+        "datetime": "2022-03-19T22:49:06Z",
+        "uri": "https://web.archive.org/web/20220319224906/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T22:49:06Z",
+        "uri": "https://web.archive.org/web/20220319224906/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T23:42:03Z",
+        "uri": "https://web.archive.org/web/20220319234203/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T23:42:04Z",
+        "uri": "https://web.archive.org/web/20220319234204/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-03-19T23:46:45Z",
+        "uri": "https://web.archive.org/web/20220319234645/https://www.odu.edu/cepd/"
+      },
+      {
+        "datetime": "2022-04-07T09:44:52Z",
+        "uri": "https://web.archive.org/web/20220407094452/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-17T05:37:16Z",
+        "uri": "https://arquivo.pt/wayback/20220417053716mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-20T16:27:47Z",
+        "uri": "https://arquivo.pt/wayback/20220420162747mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-22T17:17:14Z",
+        "uri": "https://arquivo.pt/wayback/20220422171714mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-04-24T18:52:14Z",
+        "uri": "https://arquivo.pt/wayback/20220424185214mp_/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-05-14T05:03:12Z",
+        "uri": "https://web.archive.org/web/20220514050312/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-05-15T19:10:57Z",
+        "uri": "https://web.archive.org/web/20220515191057/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-05-25T10:57:10Z",
+        "uri": "https://web.archive.org/web/20220525105710/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-08T14:59:35Z",
+        "uri": "https://web.archive.org/web/20220608145935/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-15T05:40:08Z",
+        "uri": "https://web.archive.org/web/20220615054008/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-18T23:41:48Z",
+        "uri": "https://web.archive.org/web/20220618234148/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-19T01:19:37Z",
+        "uri": "https://web.archive.org/web/20220619011937/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-19T11:22:16Z",
+        "uri": "https://web.archive.org/web/20220619112216/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-19T11:26:31Z",
+        "uri": "https://web.archive.org/web/20220619112631/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-19T23:25:00Z",
+        "uri": "https://web.archive.org/web/20220619232500/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-06-19T23:27:55Z",
+        "uri": "https://web.archive.org/web/20220619232755/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-07-30T14:45:34Z",
+        "uri": "https://arquivo.pt/wayback/20220730144534mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-03T00:24:12Z",
+        "uri": "https://web.archive.org/web/20220803002412/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-03T12:32:54Z",
+        "uri": "https://web.archive.org/web/20220803123254/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-05T13:55:38Z",
+        "uri": "https://web.archive.org/web/20220805135538/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-05T21:24:17Z",
+        "uri": "https://web.archive.org/web/20220805212417/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-08T19:00:05Z",
+        "uri": "https://web.archive.org/web/20220808190005/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-08T20:31:02Z",
+        "uri": "https://web.archive.org/web/20220808203102/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-09T06:01:40Z",
+        "uri": "https://web.archive.org/web/20220809060140/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:05:32Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200532/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:05:32Z",
+        "uri": "https://web.archive.org/web/20220810200532/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:05:57Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200557/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:05:57Z",
+        "uri": "https://web.archive.org/web/20220810200557/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:06:19Z",
+        "uri": "https://wayback.archive-it.org/all/20220810200619/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-10T20:06:19Z",
+        "uri": "https://web.archive.org/web/20220810200619/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-12T16:03:20Z",
+        "uri": "https://web.archive.org/web/20220812160320/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-12T16:03:28Z",
+        "uri": "https://web.archive.org/web/20220812160328/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-12T16:10:25Z",
+        "uri": "https://web.archive.org/web/20220812161025/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-14T19:38:37Z",
+        "uri": "https://web.archive.org/web/20220814193837/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-08-15T04:00:18Z",
+        "uri": "https://web.archive.org/web/20220815040018/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-09-22T14:30:00Z",
+        "uri": "https://web.archive.org/web/20220922143000/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-04T04:48:44Z",
+        "uri": "https://web.archive.org/web/20221004044844/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-11T02:19:45Z",
+        "uri": "https://arquivo.pt/wayback/20221011021945mp_/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-11T15:22:47Z",
+        "uri": "https://web.archive.org/web/20221011152247/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-14T05:53:57Z",
+        "uri": "https://web.archive.org/web/20221014055357/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-10-22T20:48:25Z",
+        "uri": "https://web.archive.org/web/20221022204825/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-11-07T05:24:47Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052447/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-11-07T05:24:47Z",
+        "uri": "https://web.archive.org/web/20221107052447/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-11-07T11:25:24Z",
+        "uri": "https://wayback.archive-it.org/all/20221107112524/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-11-07T11:25:24Z",
+        "uri": "https://web.archive.org/web/20221107112524/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-12-07T07:52:43Z",
+        "uri": "https://wayback.archive-it.org/all/20221207075243/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-12-07T07:52:43Z",
+        "uri": "https://web.archive.org/web/20221207075243/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-12-08T06:50:32Z",
+        "uri": "https://web.archive.org/web/20221208065032/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-12-08T22:45:02Z",
+        "uri": "https://wayback.archive-it.org/all/20221208224502/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2022-12-08T22:45:02Z",
+        "uri": "https://web.archive.org/web/20221208224502/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-07T07:19:45Z",
+        "uri": "https://wayback.archive-it.org/all/20230107071945/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-07T07:19:45Z",
+        "uri": "https://web.archive.org/web/20230107071945/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-08T13:31:07Z",
+        "uri": "https://wayback.archive-it.org/all/20230108133107/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-08T13:31:07Z",
+        "uri": "https://web.archive.org/web/20230108133107/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-01-24T19:30:10Z",
+        "uri": "https://arquivo.pt/wayback/20230124193010mp_/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-02-07T06:29:20Z",
+        "uri": "https://wayback.archive-it.org/all/20230207062920/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-02-07T06:29:20Z",
+        "uri": "https://web.archive.org/web/20230207062920/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-02-13T14:47:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230213144715/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-02-13T14:47:15Z",
+        "uri": "https://web.archive.org/web/20230213144715/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-02-20T00:45:37Z",
+        "uri": "https://web.archive.org/web/20230220004537/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-07T04:26:39Z",
+        "uri": "https://wayback.archive-it.org/all/20230307042639/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-07T04:26:39Z",
+        "uri": "https://web.archive.org/web/20230307042639/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-08T16:35:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230308163515/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-08T16:35:15Z",
+        "uri": "https://web.archive.org/web/20230308163515/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-27T21:17:33Z",
+        "uri": "https://web.archive.org/web/20230327211733/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-03-27T22:29:55Z",
+        "uri": "https://web.archive.org/web/20230327222955/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-06-09T05:21:23Z",
+        "uri": "https://web.archive.org/web/20230609052123/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-25T17:14:22Z",
+        "uri": "https://wayback.archive-it.org/all/20230825171422/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-25T17:14:22Z",
+        "uri": "https://web.archive.org/web/20230825171422/https://odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-25T17:37:49Z",
+        "uri": "https://wayback.archive-it.org/all/20230825173749/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-25T17:37:49Z",
+        "uri": "https://web.archive.org/web/20230825173749/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-27T21:11:54Z",
+        "uri": "https://wayback.archive-it.org/all/20230827211154/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-08-27T21:11:54Z",
+        "uri": "https://web.archive.org/web/20230827211154/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-11-28T03:54:22Z",
+        "uri": "https://web.archive.org/web/20231128035422/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-12-05T12:07:15Z",
+        "uri": "https://web.archive.org/web/20231205120715/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2023-12-24T15:55:09Z",
+        "uri": "https://web.archive.org/web/20231224155509/http://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2024-02-14T16:09:43Z",
+        "uri": "https://web.archive.org/web/20240214160943/https://www.odu.edu/cepd"
+      },
+      {
+        "datetime": "2024-02-16T16:38:44Z",
+        "uri": "https://web.archive.org/web/20240216163844/https://odu.edu/cepd/"
+      }
+    ],
+    "first": {
+      "datetime": "2015-02-17T01:54:47Z",
+      "uri": "https://web.archive.org/web/20150217015447/http://odu.edu/cepd"
+    },
+    "last": {
+      "datetime": "2024-02-16T16:38:44Z",
+      "uri": "https://web.archive.org/web/20240216163844/https://odu.edu/cepd/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/cepd",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/cepd",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/cepd"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/cepd"
+}

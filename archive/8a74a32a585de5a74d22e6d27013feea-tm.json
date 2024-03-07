@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 18:45:03.845270 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2305.01708": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2305.01708",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2305.01708",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-05-04T22:21:09Z",
+        "uri": "https://web.archive.org/web/20230504222109/https://arxiv.org/abs/2305.01708"
+      }
+    ],
+    "first": {
+      "datetime": "2023-05-04T22:21:09Z",
+      "uri": "https://web.archive.org/web/20230504222109/https://arxiv.org/abs/2305.01708"
+    },
+    "last": {
+      "datetime": "2023-05-04T22:21:09Z",
+      "uri": "https://web.archive.org/web/20230504222109/https://arxiv.org/abs/2305.01708"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2305.01708",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2305.01708",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2305.01708"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2305.01708"
+}

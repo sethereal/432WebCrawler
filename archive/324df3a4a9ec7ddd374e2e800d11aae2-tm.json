@@ -1,0 +1,1 @@
+ERROR: 2024/02/18 18:22:12.441778 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/andrew-schaefer-4a555112/": net/http: timeout awaiting response headers

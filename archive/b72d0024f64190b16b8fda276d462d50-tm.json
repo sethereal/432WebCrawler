@@ -1,0 +1,31 @@
+ERROR: 2024/02/18 21:24:20.208185 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/kritika-g-b8a824120/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.linkedin.com/in/kritika-g-b8a824120/",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/kritika-g-b8a824120/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-11-24T19:15:38Z",
+        "uri": "https://web.archive.org/web/20211124191538/https://www.linkedin.com/in/kritika-g-b8a824120/"
+      },
+      {
+        "datetime": "2021-11-24T19:15:39Z",
+        "uri": "https://web.archive.org/web/20211124191539/https://www.linkedin.com/in/kritika-g-b8a824120/"
+      }
+    ],
+    "first": {
+      "datetime": "2021-11-24T19:15:38Z",
+      "uri": "https://web.archive.org/web/20211124191538/https://www.linkedin.com/in/kritika-g-b8a824120/"
+    },
+    "last": {
+      "datetime": "2021-11-24T19:15:39Z",
+      "uri": "https://web.archive.org/web/20211124191539/https://www.linkedin.com/in/kritika-g-b8a824120/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/in/kritika-g-b8a824120/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/kritika-g-b8a824120/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/in/kritika-g-b8a824120/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/in/kritika-g-b8a824120/"
+}

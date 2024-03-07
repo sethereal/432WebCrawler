@@ -1,0 +1,43 @@
+ERROR: 2024/02/18 17:29:39.545835 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ",
+  "self": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-28T12:44:39Z",
+        "uri": "https://web.archive.org/web/20210928124439/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T03:24:08Z",
+        "uri": "https://web.archive.org/web/20221208032408/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T03:54:50Z",
+        "uri": "https://web.archive.org/web/20221208035450/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-08T07:04:23Z",
+        "uri": "https://web.archive.org/web/20221208070423/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+      },
+      {
+        "datetime": "2022-12-21T03:17:38Z",
+        "uri": "https://web.archive.org/web/20221221031738/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-28T12:44:39Z",
+      "uri": "https://web.archive.org/web/20210928124439/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+    },
+    "last": {
+      "datetime": "2022-12-21T03:17:38Z",
+      "uri": "https://web.archive.org/web/20221221031738/https://scholar.google.com/citations?user=nySd1gIAAAAJ&hl=en"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ",
+    "json_format": "http://localhost:1208/timemap/json/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://scholar.google.com/citations?hl=en&user=nySd1gIAAAAJ"
+}

@@ -1,0 +1,6 @@
+Back to Top ↑
+2011
+Danda B. Rawat, Bhed B. Bista, Gongjun Yan, and Michele C. Weigle, “Securing Vehicular Ad-Hoc Networks Against Malicious Drivers: A Probabilistic Approach,” In Proceedings of the International Conference on Complex, Intelligent, and Software Intensive Systems (CISIS). Seoul, Korea, June 2011, pp. 146-151.
+Scott Ainsworth, Ahmed AlSum, Hany SalahEldeen, Michele C. Weigle, and Michael L. Nelson, “How Much of the Web Is Archived?,” In Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL). Ottawa, Canada, June 2011, pp. 133-136.
+Hadi Arbabi and Michele C. Weigle, “Monitoring Free-Flow Traffic using Vehicular Networks,” In Proceedings of the IEEE Intelligent Vehicular Communications System Workshop (IVCS). Las Vegas, NV, January 2011, pp. 272-276.
+Share on

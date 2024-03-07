@@ -1,0 +1,28 @@
+ERROR: 2024/02/18 15:06:27.679496 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2308.05038": net/http: timeout awaiting response headers
+ERROR: 2024/02/18 15:06:27.941776 main.go:292: webarchive.bac-lac.gc.ca => Network error: Get "https://www.bac-lac.gc.ca/eng/discover/archives-web-government/Pages/web-archives.aspx": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2308.05038",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2308.05038",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-10T01:03:04Z",
+        "uri": "https://web.archive.org/web/20230810010304/https://arxiv.org/abs/2308.05038"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-10T01:03:04Z",
+      "uri": "https://web.archive.org/web/20230810010304/https://arxiv.org/abs/2308.05038"
+    },
+    "last": {
+      "datetime": "2023-08-10T01:03:04Z",
+      "uri": "https://web.archive.org/web/20230810010304/https://arxiv.org/abs/2308.05038"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2308.05038",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2308.05038",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2308.05038"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2308.05038"
+}

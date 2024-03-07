@@ -1,0 +1,27 @@
+ERROR: 2024/02/18 19:51:59.168791 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/talks/2023-04-19-talk": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/talks/2023-04-19-talk",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/2023-04-19-talk",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-04-20T04:22:39Z",
+        "uri": "https://web.archive.org/web/20230420042239/https://weiglemc.github.io/talks/2023-04-19-talk"
+      }
+    ],
+    "first": {
+      "datetime": "2023-04-20T04:22:39Z",
+      "uri": "https://web.archive.org/web/20230420042239/https://weiglemc.github.io/talks/2023-04-19-talk"
+    },
+    "last": {
+      "datetime": "2023-04-20T04:22:39Z",
+      "uri": "https://web.archive.org/web/20230420042239/https://weiglemc.github.io/talks/2023-04-19-talk"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/talks/2023-04-19-talk",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/talks/2023-04-19-talk",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/talks/2023-04-19-talk"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/talks/2023-04-19-talk"
+}

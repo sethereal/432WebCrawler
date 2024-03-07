@@ -1,0 +1,11 @@
+Back to Top ↑
+Teaching
+Jan 2023: Contributed course materials for Web Science as part of the Web Science and Web Security sequence of classes, delivered for the COVA CCI Academic Curriculum Development Grant “ Web Science and Web Security ” ( RFP COVACCI-21-05 ).
+May 2020: Wrote a blog post based on my experiences teaching hybrid classes before COVID, “Teaching a Flipped Hybrid (In-Class/Online) Course” .
+Spring 2024
+CS 725/825 - Information Visualization & Data Analytics
+Catalog Description: This course covers the theory and application of information visualization and of visual analytics, the science of combining interactive visual interfaces and information visualization techniques with automatic algorithms to support analytical reasoning through human-computer interaction. Research on visual perception, cognition, interactive visual interfaces, and visual analytics will be covered. Practical techniques for the display of complex multivariate data will be addressed. Course projects will require the development of interactive web-based interfaces to analyze and visualize real-world datasets. Prerequisite: CS 625 (Data Visualization) Read more
+Fall 2023
+CS 625 - Data Visualization
+Catalog Description: This course covers the theory and application of data visualization. This includes issues in data cleaning to prepare data for visualization, theory behind mapping data to appropriate visual representations, introduction to visual analytics, and tools used for data analysis and visualization. Modern visualization software and tools will be used to analyze and visualize real-world datasets to reinforce the concepts covered in the course. Read more
+Previous Semesters

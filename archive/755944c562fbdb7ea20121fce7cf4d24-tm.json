@@ -1,0 +1,163 @@
+ERROR: 2024/02/18 21:48:03.588014 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://ww1.odu.edu/eps": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://ww1.odu.edu/eps",
+  "self": "http://localhost:1208/timemap/json/https://ww1.odu.edu/eps",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-10-07T06:14:59Z",
+        "uri": "https://web.archive.org/web/20221007061459/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-10-31T11:18:41Z",
+        "uri": "https://web.archive.org/web/20221031111841/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-11-07T05:27:06Z",
+        "uri": "https://wayback.archive-it.org/all/20221107052706/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-11-07T05:27:06Z",
+        "uri": "https://web.archive.org/web/20221107052706/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-11-27T08:27:10Z",
+        "uri": "https://web.archive.org/web/20221127082710/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-12-05T14:55:12Z",
+        "uri": "https://web.archive.org/web/20221205145512/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-12-07T08:04:51Z",
+        "uri": "https://wayback.archive-it.org/all/20221207080451/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-12-07T08:04:51Z",
+        "uri": "https://web.archive.org/web/20221207080451/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2022-12-08T05:50:43Z",
+        "uri": "https://web.archive.org/web/20221208055043/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-01-07T07:56:43Z",
+        "uri": "https://wayback.archive-it.org/all/20230107075643/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-01-07T07:56:43Z",
+        "uri": "https://web.archive.org/web/20230107075643/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-01-31T04:24:38Z",
+        "uri": "https://web.archive.org/web/20230131042438/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-02-07T06:37:33Z",
+        "uri": "https://wayback.archive-it.org/all/20230207063733/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-02-07T06:37:33Z",
+        "uri": "https://web.archive.org/web/20230207063733/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-02-07T08:31:32Z",
+        "uri": "https://web.archive.org/web/20230207083132/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-03-07T04:32:12Z",
+        "uri": "https://wayback.archive-it.org/all/20230307043212/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-03-07T04:32:12Z",
+        "uri": "https://web.archive.org/web/20230307043212/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-03-07T20:41:29Z",
+        "uri": "https://web.archive.org/web/20230307204129/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-03-26T18:45:30Z",
+        "uri": "https://web.archive.org/web/20230326184530/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-05-29T03:16:22Z",
+        "uri": "https://web.archive.org/web/20230529031622/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-06-02T05:21:53Z",
+        "uri": "https://web.archive.org/web/20230602052153/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-06-07T18:04:58Z",
+        "uri": "https://web.archive.org/web/20230607180458/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-07-10T04:09:18Z",
+        "uri": "https://web.archive.org/web/20230710040918/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-08-25T17:43:15Z",
+        "uri": "https://wayback.archive-it.org/all/20230825174315/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-08-25T17:43:15Z",
+        "uri": "https://web.archive.org/web/20230825174315/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-08-29T15:05:57Z",
+        "uri": "https://web.archive.org/web/20230829150557/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-09-23T04:39:39Z",
+        "uri": "https://web.archive.org/web/20230923043939/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-09-25T18:59:38Z",
+        "uri": "https://web.archive.org/web/20230925185938/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-11-09T05:33:24Z",
+        "uri": "https://web.archive.org/web/20231109053324/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-11-12T01:22:01Z",
+        "uri": "https://web.archive.org/web/20231112012201/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-11-12T15:36:54Z",
+        "uri": "https://web.archive.org/web/20231112153654/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-12-01T15:37:01Z",
+        "uri": "https://web.archive.org/web/20231201153701/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2023-12-04T09:20:45Z",
+        "uri": "https://web.archive.org/web/20231204092045/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2024-01-19T16:38:13Z",
+        "uri": "https://web.archive.org/web/20240119163813/https://ww1.odu.edu/eps"
+      },
+      {
+        "datetime": "2024-02-14T16:08:36Z",
+        "uri": "https://web.archive.org/web/20240214160836/https://ww1.odu.edu/eps"
+      }
+    ],
+    "first": {
+      "datetime": "2022-10-07T06:14:59Z",
+      "uri": "https://web.archive.org/web/20221007061459/https://ww1.odu.edu/eps"
+    },
+    "last": {
+      "datetime": "2024-02-14T16:08:36Z",
+      "uri": "https://web.archive.org/web/20240214160836/https://ww1.odu.edu/eps"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://ww1.odu.edu/eps",
+    "json_format": "http://localhost:1208/timemap/json/https://ww1.odu.edu/eps",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://ww1.odu.edu/eps"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://ww1.odu.edu/eps"
+}

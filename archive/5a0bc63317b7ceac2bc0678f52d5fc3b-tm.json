@@ -1,0 +1,31 @@
+ERROR: 2024/02/18 20:41:59.134864 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.linkedin.com/in/michele-weigle-559b052": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.linkedin.com/in/michele-weigle-559b052",
+  "self": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/michele-weigle-559b052",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-10-13T14:29:42Z",
+        "uri": "https://web.archive.org/web/20211013142942/https://www.linkedin.com/in/michele-weigle-559b052"
+      },
+      {
+        "datetime": "2022-04-27T20:30:53Z",
+        "uri": "https://web.archive.org/web/20220427203053/https://www.linkedin.com/in/michele-weigle-559b052"
+      }
+    ],
+    "first": {
+      "datetime": "2021-10-13T14:29:42Z",
+      "uri": "https://web.archive.org/web/20211013142942/https://www.linkedin.com/in/michele-weigle-559b052"
+    },
+    "last": {
+      "datetime": "2022-04-27T20:30:53Z",
+      "uri": "https://web.archive.org/web/20220427203053/https://www.linkedin.com/in/michele-weigle-559b052"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.linkedin.com/in/michele-weigle-559b052",
+    "json_format": "http://localhost:1208/timemap/json/https://www.linkedin.com/in/michele-weigle-559b052",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.linkedin.com/in/michele-weigle-559b052"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.linkedin.com/in/michele-weigle-559b052"
+}

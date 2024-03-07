@@ -1,0 +1,819 @@
+ERROR: 2024/02/18 16:56:36.753727 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.shawnmjones.org/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.shawnmjones.org/",
+  "self": "http://localhost:1208/timemap/json/https://www.shawnmjones.org/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2016-01-05T17:24:11Z",
+        "uri": "https://web.archive.org/web/20160105172411/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-03-07T18:40:01Z",
+        "uri": "https://web.archive.org/web/20160307184001/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-04-07T18:13:39Z",
+        "uri": "https://web.archive.org/web/20160407181339/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-04-07T18:15:46Z",
+        "uri": "https://web.archive.org/web/20160407181546/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-04-18T09:27:27Z",
+        "uri": "https://web.archive.org/web/20160418092727/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-04-20T03:21:01Z",
+        "uri": "https://web.archive.org/web/20160420032101/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-05-01T03:16:43Z",
+        "uri": "https://web.archive.org/web/20160501031643/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-05-19T11:16:32Z",
+        "uri": "https://web.archive.org/web/20160519111632/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-05-30T23:10:06Z",
+        "uri": "https://web.archive.org/web/20160530231006/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-05-31T04:17:58Z",
+        "uri": "https://web.archive.org/web/20160531041758/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-05-31T17:29:45Z",
+        "uri": "https://web.archive.org/web/20160531172945/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-06-16T19:57:57Z",
+        "uri": "https://web.archive.org/web/20160616195757/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-06-20T16:55:50Z",
+        "uri": "https://web.archive.org/web/20160620165550/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-07-23T07:08:52Z",
+        "uri": "https://web.archive.org/web/20160723070852/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-07-24T15:24:44Z",
+        "uri": "https://web.archive.org/web/20160724152444/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-08-24T17:54:42Z",
+        "uri": "https://web.archive.org/web/20160824175442/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2016-09-07T23:07:07Z",
+        "uri": "https://web.archive.org/web/20160907230707/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-10-09T03:52:36Z",
+        "uri": "https://web.archive.org/web/20161009035236/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-11-09T00:46:47Z",
+        "uri": "https://web.archive.org/web/20161109004647/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-11-09T00:47:41Z",
+        "uri": "https://web.archive.org/web/20161109004741/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-11-23T21:55:46Z",
+        "uri": "https://web.archive.org/web/20161123215546/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-12-02T15:33:49Z",
+        "uri": "https://web.archive.org/web/20161202153349/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-12-02T19:19:07Z",
+        "uri": "https://web.archive.org/web/20161202191907/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-12-07T21:26:19Z",
+        "uri": "https://web.archive.org/web/20161207212619/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-12-21T22:03:36Z",
+        "uri": "https://web.archive.org/web/20161221220336/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2016-12-22T18:01:30Z",
+        "uri": "https://web.archive.org/web/20161222180130/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-01-05T23:57:45Z",
+        "uri": "https://web.archive.org/web/20170105235745/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-01-20T02:33:45Z",
+        "uri": "https://web.archive.org/web/20170120023345/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-04-14T01:54:41Z",
+        "uri": "https://web.archive.org/web/20170414015441/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-05-26T12:33:37Z",
+        "uri": "https://web.archive.org/web/20170526123337/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-05-26T12:34:53Z",
+        "uri": "https://web.archive.org/web/20170526123453/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-05-29T20:58:23Z",
+        "uri": "https://web.archive.org/web/20170529205823/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-06-21T15:59:34Z",
+        "uri": "https://web.archive.org/web/20170621155934/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-06-21T16:00:39Z",
+        "uri": "https://web.archive.org/web/20170621160039/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-06-21T16:00:43Z",
+        "uri": "https://web.archive.org/web/20170621160043/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-09-18T04:32:59Z",
+        "uri": "https://web.archive.org/web/20170918043259/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:17Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174417/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:17Z",
+        "uri": "https://web.archive.org/web/20171002174417/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:22Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174422/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:22Z",
+        "uri": "https://web.archive.org/web/20171002174422/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:36Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174436/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:36Z",
+        "uri": "https://web.archive.org/web/20171002174436/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:43Z",
+        "uri": "https://wayback.archive-it.org/all/20171002174443/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-10-02T17:44:43Z",
+        "uri": "https://web.archive.org/web/20171002174443/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-11-27T20:28:27Z",
+        "uri": "https://web.archive.org/web/20171127202827/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-04T20:29:23Z",
+        "uri": "https://web.archive.org/web/20171204202923/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-15T04:54:58Z",
+        "uri": "https://web.archive.org/web/20171215045458/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-20T21:01:36Z",
+        "uri": "https://wayback.archive-it.org/all/20171220210136/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-20T21:01:36Z",
+        "uri": "https://web.archive.org/web/20171220210136/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-20T21:01:42Z",
+        "uri": "https://wayback.archive-it.org/all/20171220210142/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2017-12-20T21:01:42Z",
+        "uri": "https://web.archive.org/web/20171220210142/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-01-08T20:28:33Z",
+        "uri": "https://web.archive.org/web/20180108202833/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-01-22T20:29:21Z",
+        "uri": "https://web.archive.org/web/20180122202921/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-01-24T22:13:03Z",
+        "uri": "https://web.archive.org/web/20180124221303/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2018-01-26T08:03:05Z",
+        "uri": "https://web.archive.org/web/20180126080305/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2018-02-05T20:30:19Z",
+        "uri": "https://web.archive.org/web/20180205203019/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-02-12T20:29:05Z",
+        "uri": "https://web.archive.org/web/20180212202905/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-02-19T20:28:43Z",
+        "uri": "https://web.archive.org/web/20180219202843/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-02-26T20:30:32Z",
+        "uri": "https://web.archive.org/web/20180226203032/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-03-14T13:55:30Z",
+        "uri": "https://web.archive.org/web/20180314135530/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-04-16T20:31:13Z",
+        "uri": "https://web.archive.org/web/20180416203113/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-04-23T20:28:59Z",
+        "uri": "https://web.archive.org/web/20180423202859/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-04-30T20:29:00Z",
+        "uri": "https://web.archive.org/web/20180430202900/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-05-06T22:01:34Z",
+        "uri": "https://web.archive.org/web/20180506220134/http://www.shawnmjones.org:80/"
+      },
+      {
+        "datetime": "2018-05-07T20:29:51Z",
+        "uri": "https://web.archive.org/web/20180507202951/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-05-14T20:29:40Z",
+        "uri": "https://web.archive.org/web/20180514202940/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-05-28T20:29:06Z",
+        "uri": "https://web.archive.org/web/20180528202906/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-11T20:29:21Z",
+        "uri": "https://web.archive.org/web/20180611202921/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-11T20:29:27Z",
+        "uri": "https://web.archive.org/web/20180611202927/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-14T18:51:17Z",
+        "uri": "https://web.archive.org/web/20180614185117/https://www.shawnmjones.org"
+      },
+      {
+        "datetime": "2018-06-18T20:29:52Z",
+        "uri": "https://web.archive.org/web/20180618202952/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-18T20:29:57Z",
+        "uri": "https://web.archive.org/web/20180618202957/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-25T20:32:38Z",
+        "uri": "https://web.archive.org/web/20180625203238/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-06-25T20:32:43Z",
+        "uri": "https://web.archive.org/web/20180625203243/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-02T20:28:44Z",
+        "uri": "https://web.archive.org/web/20180702202844/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-02T20:28:49Z",
+        "uri": "https://web.archive.org/web/20180702202849/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-09T20:31:19Z",
+        "uri": "https://web.archive.org/web/20180709203119/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-09T20:31:29Z",
+        "uri": "https://web.archive.org/web/20180709203129/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-16T20:28:52Z",
+        "uri": "https://web.archive.org/web/20180716202852/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-16T20:29:06Z",
+        "uri": "https://web.archive.org/web/20180716202906/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-23T20:29:36Z",
+        "uri": "https://web.archive.org/web/20180723202936/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-23T20:29:41Z",
+        "uri": "https://web.archive.org/web/20180723202941/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-30T20:30:00Z",
+        "uri": "https://web.archive.org/web/20180730203000/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-07-30T20:30:05Z",
+        "uri": "https://web.archive.org/web/20180730203005/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-06T20:29:44Z",
+        "uri": "https://web.archive.org/web/20180806202944/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-06T20:29:49Z",
+        "uri": "https://web.archive.org/web/20180806202949/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-09T17:37:54Z",
+        "uri": "https://web.archive.org/web/20180809173754/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-13T20:30:30Z",
+        "uri": "https://web.archive.org/web/20180813203030/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-13T20:30:36Z",
+        "uri": "https://web.archive.org/web/20180813203036/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-08-31T08:01:07Z",
+        "uri": "https://web.archive.org/web/20180831080107/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-03T20:30:05Z",
+        "uri": "https://web.archive.org/web/20180903203005/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-03T20:30:11Z",
+        "uri": "https://web.archive.org/web/20180903203011/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-10T20:29:59Z",
+        "uri": "https://web.archive.org/web/20180910202959/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-10T20:30:05Z",
+        "uri": "https://web.archive.org/web/20180910203005/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-17T20:29:52Z",
+        "uri": "https://web.archive.org/web/20180917202952/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-09-17T20:29:57Z",
+        "uri": "https://web.archive.org/web/20180917202957/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-01T20:30:38Z",
+        "uri": "https://web.archive.org/web/20181001203038/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-01T20:30:44Z",
+        "uri": "https://web.archive.org/web/20181001203044/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-15T20:38:48Z",
+        "uri": "https://web.archive.org/web/20181015203848/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-15T20:38:54Z",
+        "uri": "https://web.archive.org/web/20181015203854/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-29T20:32:19Z",
+        "uri": "https://web.archive.org/web/20181029203219/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-10-29T20:32:23Z",
+        "uri": "https://web.archive.org/web/20181029203223/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-05T20:36:38Z",
+        "uri": "https://web.archive.org/web/20181105203638/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-05T20:36:42Z",
+        "uri": "https://web.archive.org/web/20181105203642/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-13T08:01:09Z",
+        "uri": "https://web.archive.org/web/20181113080109/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-13T08:28:51Z",
+        "uri": "https://web.archive.org/web/20181113082851/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-19T20:29:28Z",
+        "uri": "https://web.archive.org/web/20181119202928/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-11-19T20:29:33Z",
+        "uri": "https://web.archive.org/web/20181119202933/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-03T20:29:18Z",
+        "uri": "https://web.archive.org/web/20181203202918/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-03T20:32:36Z",
+        "uri": "https://web.archive.org/web/20181203203236/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-10T20:29:31Z",
+        "uri": "https://web.archive.org/web/20181210202931/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-10T20:29:38Z",
+        "uri": "https://web.archive.org/web/20181210202938/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-17T20:29:34Z",
+        "uri": "https://web.archive.org/web/20181217202934/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-17T20:29:40Z",
+        "uri": "https://web.archive.org/web/20181217202940/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-24T20:29:20Z",
+        "uri": "https://web.archive.org/web/20181224202920/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-24T20:29:25Z",
+        "uri": "https://web.archive.org/web/20181224202925/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-31T20:31:10Z",
+        "uri": "https://web.archive.org/web/20181231203110/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2018-12-31T20:31:13Z",
+        "uri": "https://web.archive.org/web/20181231203113/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-01-07T20:29:56Z",
+        "uri": "https://web.archive.org/web/20190107202956/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-01-07T20:29:58Z",
+        "uri": "https://web.archive.org/web/20190107202958/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-02-11T21:01:33Z",
+        "uri": "https://web.archive.org/web/20190211210133/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-02-11T21:01:35Z",
+        "uri": "https://web.archive.org/web/20190211210135/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-02-12T07:15:23Z",
+        "uri": "https://web.archive.org/web/20190212071523/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-02-12T07:15:26Z",
+        "uri": "https://web.archive.org/web/20190212071526/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-08-08T18:50:14Z",
+        "uri": "http://archive.md/20190808185014/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-08-22T18:19:15Z",
+        "uri": "https://web.archive.org/web/20190822181915/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-09-28T06:58:00Z",
+        "uri": "https://arquivo.pt/wayback/20190928065800mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-09-28T06:58:00Z",
+        "uri": "https://web.archive.org/web/20190928065800/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-10-16T02:34:10Z",
+        "uri": "https://arquivo.pt/wayback/20191016023410mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-10-16T02:34:10Z",
+        "uri": "https://web.archive.org/web/20191016023410/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-12-12T21:32:02Z",
+        "uri": "https://web.archive.org/web/20191212213202/https://www.shawnmjones.org"
+      },
+      {
+        "datetime": "2019-12-28T15:53:53Z",
+        "uri": "https://arquivo.pt/wayback/20191228155353mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2019-12-28T15:53:53Z",
+        "uri": "https://web.archive.org/web/20191228155353/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-02-16T13:30:29Z",
+        "uri": "https://arquivo.pt/wayback/20200216133029mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-03-10T02:54:02Z",
+        "uri": "https://web.archive.org/web/20200310025402/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-03-10T02:54:02Z",
+        "uri": "https://web.archive.org/web/20200310025402/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-03-16T23:11:35Z",
+        "uri": "https://arquivo.pt/wayback/20200316231135mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-03-16T23:11:35Z",
+        "uri": "https://web.archive.org/web/20200316231135/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-04-02T15:13:04Z",
+        "uri": "https://web.archive.org/web/20200402151304/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-04-02T15:13:34Z",
+        "uri": "https://web.archive.org/web/20200402151334/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-04-02T15:13:34Z",
+        "uri": "https://web.archive.org/web/20200402151334/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-05-07T15:48:41Z",
+        "uri": "https://web.archive.org/web/20200507154841/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-09-29T10:24:34Z",
+        "uri": "https://web.archive.org/web/20200929102434/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-10-25T10:44:30Z",
+        "uri": "https://web.archive.org/web/20201025104430/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-10-31T22:48:09Z",
+        "uri": "https://web.archive.org/web/20201031224809/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-10-31T22:48:09Z",
+        "uri": "https://web.archive.org/web/20201031224809/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-11-17T17:50:37Z",
+        "uri": "http://archive.md/20201117175037/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-11-17T17:51:03Z",
+        "uri": "https://web.archive.org/web/20201117175103/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2020-12-11T22:23:22Z",
+        "uri": "http://archive.md/20201211222322/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-01-22T22:02:41Z",
+        "uri": "https://web.archive.org/web/20210122220241/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-03-06T14:04:17Z",
+        "uri": "https://web.archive.org/web/20210306140417/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-04-10T23:51:57Z",
+        "uri": "https://web.archive.org/web/20210410235157/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-04-14T01:01:43Z",
+        "uri": "https://web.archive.org/web/20210414010143/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-04-25T10:18:16Z",
+        "uri": "https://web.archive.org/web/20210425101816/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-05-16T12:36:40Z",
+        "uri": "https://web.archive.org/web/20210516123640/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-06-10T12:45:52Z",
+        "uri": "https://arquivo.pt/wayback/20210610124552mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-06-10T12:45:53Z",
+        "uri": "https://arquivo.pt/wayback/20210610124553mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-09-30T14:57:08Z",
+        "uri": "https://web.archive.org/web/20210930145708/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-10-09T06:53:28Z",
+        "uri": "https://arquivo.pt/wayback/20211009065328mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-10-22T16:28:44Z",
+        "uri": "https://arquivo.pt/wayback/20211022162844mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-10-22T16:30:39Z",
+        "uri": "https://arquivo.pt/wayback/20211022163039mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2021-12-23T13:39:19Z",
+        "uri": "https://web.archive.org/web/20211223133919/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-01-23T03:21:07Z",
+        "uri": "https://arquivo.pt/wayback/20220123032107mp_/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-01-23T03:21:15Z",
+        "uri": "https://arquivo.pt/wayback/20220123032115mp_/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-01-28T02:24:27Z",
+        "uri": "https://arquivo.pt/wayback/20220128022427mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-01-28T02:24:37Z",
+        "uri": "https://arquivo.pt/wayback/20220128022437mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-03-28T23:14:36Z",
+        "uri": "https://web.archive.org/web/20220328231436/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-01T13:38:58Z",
+        "uri": "https://web.archive.org/web/20220401133858/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-15T05:05:51Z",
+        "uri": "https://arquivo.pt/wayback/20220415050551mp_/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-15T05:06:00Z",
+        "uri": "https://arquivo.pt/wayback/20220415050600mp_/http://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-15T05:07:34Z",
+        "uri": "https://arquivo.pt/wayback/20220415050734mp_/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-17T21:15:59Z",
+        "uri": "https://web.archive.org/web/20220417211559/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-25T04:14:55Z",
+        "uri": "https://arquivo.pt/wayback/20220425041455mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-04-25T04:15:06Z",
+        "uri": "https://arquivo.pt/wayback/20220425041506mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-05-07T10:42:46Z",
+        "uri": "https://arquivo.pt/wayback/20220507104246mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-05-07T10:44:45Z",
+        "uri": "https://arquivo.pt/wayback/20220507104445mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-05-10T11:34:03Z",
+        "uri": "https://web.archive.org/web/20220510113403/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-08-17T22:15:54Z",
+        "uri": "https://arquivo.pt/wayback/20220817221554mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-10-07T11:52:52Z",
+        "uri": "https://web.archive.org/web/20221007115252/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-12-06T07:12:16Z",
+        "uri": "https://web.archive.org/web/20221206071216/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-12-06T07:12:22Z",
+        "uri": "https://web.archive.org/web/20221206071222/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-12-08T06:19:04Z",
+        "uri": "https://web.archive.org/web/20221208061904/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-12-08T06:19:04Z",
+        "uri": "https://web.archive.org/web/20221208061904/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2022-12-08T06:31:35Z",
+        "uri": "https://web.archive.org/web/20221208063135/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-02-07T07:36:45Z",
+        "uri": "https://web.archive.org/web/20230207073645/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-02-10T13:49:25Z",
+        "uri": "https://arquivo.pt/wayback/20230210134925mp_/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-02-10T13:50:08Z",
+        "uri": "https://arquivo.pt/wayback/20230210135008mp_/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-02-28T19:43:35Z",
+        "uri": "http://archive.md/20230228194335/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-04-10T20:25:00Z",
+        "uri": "https://web.archive.org/web/20230410202500/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-06-03T17:25:54Z",
+        "uri": "https://web.archive.org/web/20230603172554/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-06-10T06:32:04Z",
+        "uri": "https://web.archive.org/web/20230610063204/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-06-10T06:37:25Z",
+        "uri": "https://web.archive.org/web/20230610063725/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-08-26T01:28:54Z",
+        "uri": "https://web.archive.org/web/20230826012854/http://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-09-18T16:39:14Z",
+        "uri": "https://web.archive.org/web/20230918163914/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-09-25T16:25:42Z",
+        "uri": "https://web.archive.org/web/20230925162542/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-12-02T21:37:16Z",
+        "uri": "https://web.archive.org/web/20231202213716/https://shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-12-23T09:29:07Z",
+        "uri": "https://web.archive.org/web/20231223092907/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2023-12-23T09:31:49Z",
+        "uri": "https://web.archive.org/web/20231223093149/https://www.shawnmjones.org/"
+      },
+      {
+        "datetime": "2024-01-17T20:03:59Z",
+        "uri": "https://web.archive.org/web/20240117200359/https://www.shawnmjones.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2016-01-05T17:24:11Z",
+      "uri": "https://web.archive.org/web/20160105172411/http://www.shawnmjones.org/"
+    },
+    "last": {
+      "datetime": "2024-01-17T20:03:59Z",
+      "uri": "https://web.archive.org/web/20240117200359/https://www.shawnmjones.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.shawnmjones.org/",
+    "json_format": "http://localhost:1208/timemap/json/https://www.shawnmjones.org/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.shawnmjones.org/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.shawnmjones.org/"
+}

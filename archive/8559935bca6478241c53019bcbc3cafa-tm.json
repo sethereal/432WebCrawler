@@ -1,0 +1,231 @@
+ERROR: 2024/02/18 16:21:01.910744 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.bkstr.com/olddominionstore/home": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.bkstr.com/olddominionstore/home",
+  "self": "http://localhost:1208/timemap/json/https://www.bkstr.com/olddominionstore/home",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2017-10-22T21:17:16Z",
+        "uri": "https://web.archive.org/web/20171022211716/http://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2018-01-31T11:55:32Z",
+        "uri": "https://web.archive.org/web/20180131115532/http://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2018-03-24T10:09:03Z",
+        "uri": "https://web.archive.org/web/20180324100903/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2018-12-01T06:47:45Z",
+        "uri": "https://wayback.archive-it.org/all/20181201064745/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2018-12-01T06:47:45Z",
+        "uri": "https://web.archive.org/web/20181201064745/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2019-02-12T08:07:50Z",
+        "uri": "https://web.archive.org/web/20190212080750/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2019-03-01T07:27:52Z",
+        "uri": "https://wayback.archive-it.org/all/20190301072752/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2019-03-01T07:27:52Z",
+        "uri": "https://web.archive.org/web/20190301072752/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2020-11-11T20:48:13Z",
+        "uri": "https://web.archive.org/web/20201111204813/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2020-12-19T10:02:19Z",
+        "uri": "https://web.archive.org/web/20201219100219/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-01-03T04:50:37Z",
+        "uri": "https://web.archive.org/web/20210103045037/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-02-05T17:49:56Z",
+        "uri": "https://web.archive.org/web/20210205174956/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-04-13T17:32:34Z",
+        "uri": "https://web.archive.org/web/20210413173234/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-04-23T17:01:54Z",
+        "uri": "https://web.archive.org/web/20210423170154/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-04-25T18:35:55Z",
+        "uri": "https://web.archive.org/web/20210425183555/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-05-20T14:58:34Z",
+        "uri": "https://web.archive.org/web/20210520145834/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-06-23T02:36:04Z",
+        "uri": "https://web.archive.org/web/20210623023604/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-08-11T19:19:56Z",
+        "uri": "https://web.archive.org/web/20210811191956/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-09-12T06:24:14Z",
+        "uri": "https://arquivo.pt/wayback/20210912062414mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-10-19T11:34:43Z",
+        "uri": "https://web.archive.org/web/20211019113443/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-10-28T04:29:16Z",
+        "uri": "https://arquivo.pt/wayback/20211028042916mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-11-08T00:16:11Z",
+        "uri": "https://arquivo.pt/wayback/20211108001611mp_/http://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2021-11-28T07:37:06Z",
+        "uri": "https://web.archive.org/web/20211128073706/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-03T13:11:53Z",
+        "uri": "https://web.archive.org/web/20220103131153/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-11T20:13:46Z",
+        "uri": "https://web.archive.org/web/20220111201346/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-12T21:56:29Z",
+        "uri": "https://web.archive.org/web/20220112215629/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-13T00:59:05Z",
+        "uri": "https://web.archive.org/web/20220113005905/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-25T11:03:45Z",
+        "uri": "https://arquivo.pt/wayback/20220125110345mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-01-31T22:15:05Z",
+        "uri": "https://web.archive.org/web/20220131221505/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-02-01T22:28:56Z",
+        "uri": "https://web.archive.org/web/20220201222856/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-02-03T18:56:50Z",
+        "uri": "https://web.archive.org/web/20220203185650/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-02-17T22:01:10Z",
+        "uri": "https://web.archive.org/web/20220217220110/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-08T11:29:45Z",
+        "uri": "https://web.archive.org/web/20220308112945/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-08T11:32:15Z",
+        "uri": "https://web.archive.org/web/20220308113215/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-08T11:39:47Z",
+        "uri": "https://web.archive.org/web/20220308113947/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-09T02:17:24Z",
+        "uri": "https://web.archive.org/web/20220309021724/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-10T00:32:08Z",
+        "uri": "https://web.archive.org/web/20220310003208/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-20T05:47:02Z",
+        "uri": "https://web.archive.org/web/20220320054702/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-20T05:47:02Z",
+        "uri": "https://web.archive.org/web/20220320054702/http://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-03-20T07:59:24Z",
+        "uri": "https://web.archive.org/web/20220320075924/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-04-16T11:10:35Z",
+        "uri": "https://arquivo.pt/wayback/20220416111035mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-04-24T13:47:10Z",
+        "uri": "https://arquivo.pt/wayback/20220424134710mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-05-14T05:09:40Z",
+        "uri": "https://web.archive.org/web/20220514050940/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-08-05T04:07:15Z",
+        "uri": "https://arquivo.pt/wayback/20220805040715mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-08-19T13:05:24Z",
+        "uri": "https://web.archive.org/web/20220819130524/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-09-22T07:13:19Z",
+        "uri": "https://web.archive.org/web/20220922071319/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-10-13T14:36:47Z",
+        "uri": "https://web.archive.org/web/20221013143647/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2022-10-16T22:03:54Z",
+        "uri": "https://arquivo.pt/wayback/20221016220354mp_/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2023-02-20T01:19:36Z",
+        "uri": "https://web.archive.org/web/20230220011936/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2023-03-27T16:12:14Z",
+        "uri": "https://web.archive.org/web/20230327161214/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2023-03-27T22:33:46Z",
+        "uri": "https://web.archive.org/web/20230327223346/https://www.bkstr.com/olddominionstore/home"
+      },
+      {
+        "datetime": "2024-01-19T20:38:57Z",
+        "uri": "https://web.archive.org/web/20240119203857/https://www.bkstr.com/olddominionstore/home"
+      }
+    ],
+    "first": {
+      "datetime": "2017-10-22T21:17:16Z",
+      "uri": "https://web.archive.org/web/20171022211716/http://www.bkstr.com/olddominionstore/home"
+    },
+    "last": {
+      "datetime": "2024-01-19T20:38:57Z",
+      "uri": "https://web.archive.org/web/20240119203857/https://www.bkstr.com/olddominionstore/home"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.bkstr.com/olddominionstore/home",
+    "json_format": "http://localhost:1208/timemap/json/https://www.bkstr.com/olddominionstore/home",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.bkstr.com/olddominionstore/home"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.bkstr.com/olddominionstore/home"
+}

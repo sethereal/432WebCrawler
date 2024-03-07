@@ -1,0 +1,179 @@
+ERROR: 2024/02/18 19:41:49.100435 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/#site-nav": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/#site-nav",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/#site-nav",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2020-09-16T00:50:57Z",
+        "uri": "https://web.archive.org/web/20200916005057/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-04-14T18:08:41Z",
+        "uri": "https://web.archive.org/web/20210414180841/http://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-04-20T21:12:16Z",
+        "uri": "https://web.archive.org/web/20210420211216/http://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-08-05T16:22:18Z",
+        "uri": "https://web.archive.org/web/20210805162218/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-09-22T22:39:38Z",
+        "uri": "https://web.archive.org/web/20210922223938/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-10-13T11:46:11Z",
+        "uri": "https://web.archive.org/web/20211013114611/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-10-13T11:46:11Z",
+        "uri": "https://web.archive.org/web/20211013114611/http://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-10-13T14:29:29Z",
+        "uri": "https://web.archive.org/web/20211013142929/http://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-10-22T18:36:02Z",
+        "uri": "https://arquivo.pt/wayback/20211022183602mp_/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-10-28T02:59:27Z",
+        "uri": "https://web.archive.org/web/20211028025927/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2021-11-23T00:02:44Z",
+        "uri": "https://web.archive.org/web/20211123000244/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-11-27T12:03:42Z",
+        "uri": "https://web.archive.org/web/20211127120342/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-11-29T01:45:28Z",
+        "uri": "https://web.archive.org/web/20211129014528/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2021-11-29T03:25:38Z",
+        "uri": "https://web.archive.org/web/20211129032538/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2022-01-19T14:33:13Z",
+        "uri": "https://web.archive.org/web/20220119143313/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2022-04-02T09:42:21Z",
+        "uri": "https://web.archive.org/web/20220402094221/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-04-04T09:14:09Z",
+        "uri": "https://web.archive.org/web/20220404091409/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-04-27T20:30:28Z",
+        "uri": "https://web.archive.org/web/20220427203028/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-04-27T21:07:54Z",
+        "uri": "http://archive.md/20220427210754/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-05-23T21:36:44Z",
+        "uri": "https://web.archive.org/web/20220523213644/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2022-08-10T11:48:36Z",
+        "uri": "https://web.archive.org/web/20220810114836/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2022-08-16T01:08:31Z",
+        "uri": "https://web.archive.org/web/20220816010831/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-08-19T22:44:07Z",
+        "uri": "https://arquivo.pt/wayback/20220819224407mp_/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-09-27T08:48:24Z",
+        "uri": "https://web.archive.org/web/20220927084824/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2022-11-22T21:29:57Z",
+        "uri": "https://web.archive.org/web/20221122212957/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-11-23T12:57:22Z",
+        "uri": "https://web.archive.org/web/20221123125722/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-11-23T23:26:08Z",
+        "uri": "https://web.archive.org/web/20221123232608/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-11-24T02:58:26Z",
+        "uri": "https://web.archive.org/web/20221124025826/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-12-02T20:01:45Z",
+        "uri": "https://web.archive.org/web/20221202200145/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-12-06T16:46:03Z",
+        "uri": "https://web.archive.org/web/20221206164603/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2022-12-08T02:05:59Z",
+        "uri": "https://web.archive.org/web/20221208020559/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2023-04-10T19:02:27Z",
+        "uri": "https://web.archive.org/web/20230410190227/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2023-04-20T04:25:21Z",
+        "uri": "https://web.archive.org/web/20230420042521/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2023-10-01T22:52:34Z",
+        "uri": "https://web.archive.org/web/20231001225234/https://weiglemc.github.io"
+      },
+      {
+        "datetime": "2023-11-20T09:00:48Z",
+        "uri": "https://web.archive.org/web/20231120090048/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2023-11-20T12:35:11Z",
+        "uri": "https://web.archive.org/web/20231120123511/http://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2023-12-24T05:17:40Z",
+        "uri": "https://web.archive.org/web/20231224051740/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2024-01-14T04:06:06Z",
+        "uri": "https://web.archive.org/web/20240114040606/https://weiglemc.github.io/"
+      },
+      {
+        "datetime": "2024-01-21T11:27:25Z",
+        "uri": "https://web.archive.org/web/20240121112725/https://weiglemc.github.io/"
+      }
+    ],
+    "first": {
+      "datetime": "2020-09-16T00:50:57Z",
+      "uri": "https://web.archive.org/web/20200916005057/https://weiglemc.github.io/"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:25Z",
+      "uri": "https://web.archive.org/web/20240121112725/https://weiglemc.github.io/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/#site-nav",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/#site-nav",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/#site-nav"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/#site-nav"
+}

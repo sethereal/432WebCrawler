@@ -1,0 +1,43 @@
+ERROR: 2024/02/18 19:46:03.321742 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/computer-science/academics/graduate/phd": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/computer-science/academics/graduate/phd",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science/academics/graduate/phd",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-27T17:56:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230827175646/https://www.odu.edu/computer-science/academics/graduate/phd"
+      },
+      {
+        "datetime": "2023-08-27T17:56:46Z",
+        "uri": "https://web.archive.org/web/20230827175646/https://www.odu.edu/computer-science/academics/graduate/phd"
+      },
+      {
+        "datetime": "2023-11-29T19:17:59Z",
+        "uri": "https://web.archive.org/web/20231129191759/https://www.odu.edu/computer-science/academics/graduate/phd"
+      },
+      {
+        "datetime": "2023-11-30T01:46:51Z",
+        "uri": "https://web.archive.org/web/20231130014651/https://www.odu.edu/computer-science/academics/graduate/phd"
+      },
+      {
+        "datetime": "2024-01-17T00:34:30Z",
+        "uri": "https://web.archive.org/web/20240117003430/https://www.odu.edu/computer-science/academics/graduate/phd"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-27T17:56:46Z",
+      "uri": "https://wayback.archive-it.org/all/20230827175646/https://www.odu.edu/computer-science/academics/graduate/phd"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:34:30Z",
+      "uri": "https://web.archive.org/web/20240117003430/https://www.odu.edu/computer-science/academics/graduate/phd"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/computer-science/academics/graduate/phd",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science/academics/graduate/phd",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/computer-science/academics/graduate/phd"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/computer-science/academics/graduate/phd"
+}

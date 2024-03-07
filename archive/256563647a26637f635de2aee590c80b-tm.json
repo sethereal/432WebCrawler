@@ -1,0 +1,56 @@
+ERROR: 2024/02/18 19:30:39.789771 main.go:292: swap.stanford.edu => Network error: Get "https://swap.stanford.edu/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs": EOF
+ERROR: 2024/02/18 19:30:48.766860 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/student-engagement-traditions/student-orgs",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-06-30T16:06:42Z",
+        "uri": "https://web.archive.org/web/20230630160642/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-07-12T06:12:01Z",
+        "uri": "https://web.archive.org/web/20230712061201/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-08-01T02:37:03Z",
+        "uri": "https://web.archive.org/web/20230801023703/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-08-25T18:18:44Z",
+        "uri": "https://wayback.archive-it.org/all/20230825181844/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-08-25T18:18:44Z",
+        "uri": "https://web.archive.org/web/20230825181844/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-09-08T21:32:03Z",
+        "uri": "https://web.archive.org/web/20230908213203/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2023-09-25T20:19:48Z",
+        "uri": "https://web.archive.org/web/20230925201948/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      },
+      {
+        "datetime": "2024-01-17T00:35:40Z",
+        "uri": "https://web.archive.org/web/20240117003540/https://www.odu.edu/student-engagement-traditions/student-orgs"
+      }
+    ],
+    "first": {
+      "datetime": "2023-06-30T16:06:42Z",
+      "uri": "https://web.archive.org/web/20230630160642/https://www.odu.edu/student-engagement-traditions/student-orgs"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:35:40Z",
+      "uri": "https://web.archive.org/web/20240117003540/https://www.odu.edu/student-engagement-traditions/student-orgs"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/student-engagement-traditions/student-orgs",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/student-engagement-traditions/student-orgs",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/student-engagement-traditions/student-orgs"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/student-engagement-traditions/student-orgs"
+}

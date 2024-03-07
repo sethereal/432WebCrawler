@@ -1,0 +1,187 @@
+ERROR: 2024/02/18 15:14:05.728410 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-05-11T14:24:30Z",
+        "uri": "https://web.archive.org/web/20210511142430/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2021-11-12T15:31:34Z",
+        "uri": "https://web.archive.org/web/20211112153134/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-04-24T19:58:40Z",
+        "uri": "https://arquivo.pt/wayback/20220424195840mp_/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-04-24T19:58:44Z",
+        "uri": "https://arquivo.pt/wayback/20220424195844mp_/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-04-27T20:31:09Z",
+        "uri": "https://web.archive.org/web/20220427203109/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-05T11:38:26Z",
+        "uri": "https://arquivo.pt/wayback/20220805113826mp_/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-05T11:38:30Z",
+        "uri": "https://arquivo.pt/wayback/20220805113830mp_/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:01Z",
+        "uri": "https://wayback.archive-it.org/all/20220815234801/https://odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:01Z",
+        "uri": "https://web.archive.org/web/20220815234801/https://odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:18Z",
+        "uri": "https://wayback.archive-it.org/all/20220815234818/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:18Z",
+        "uri": "https://web.archive.org/web/20220815234818/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:24Z",
+        "uri": "https://wayback.archive-it.org/all/20220815234824/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-08-15T23:48:24Z",
+        "uri": "https://web.archive.org/web/20220815234824/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-10-17T05:05:46Z",
+        "uri": "https://arquivo.pt/wayback/20221017050546mp_/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-10-27T23:22:07Z",
+        "uri": "https://web.archive.org/web/20221027232207/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-11-08T03:36:19Z",
+        "uri": "https://wayback.archive-it.org/all/20221108033619/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-11-08T03:36:19Z",
+        "uri": "https://web.archive.org/web/20221108033619/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-11-09T21:29:05Z",
+        "uri": "https://wayback.archive-it.org/all/20221109212905/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-11-09T21:29:05Z",
+        "uri": "https://web.archive.org/web/20221109212905/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-11-18T19:31:14Z",
+        "uri": "https://web.archive.org/web/20221118193114/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-08T02:59:27Z",
+        "uri": "https://web.archive.org/web/20221208025927/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-08T02:59:36Z",
+        "uri": "https://web.archive.org/web/20221208025936/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-08T02:59:36Z",
+        "uri": "https://web.archive.org/web/20221208025936/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-08T04:38:52Z",
+        "uri": "https://web.archive.org/web/20221208043852/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-08T06:57:02Z",
+        "uri": "https://web.archive.org/web/20221208065702/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-11T05:18:25Z",
+        "uri": "https://wayback.archive-it.org/all/20221211051825/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-11T05:18:25Z",
+        "uri": "https://web.archive.org/web/20221211051825/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-21T13:48:44Z",
+        "uri": "https://web.archive.org/web/20221221134844/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-24T16:33:49Z",
+        "uri": "https://wayback.archive-it.org/all/20221224163349/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2022-12-24T16:33:49Z",
+        "uri": "https://web.archive.org/web/20221224163349/http://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-01-11T18:38:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230111183813/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-01-11T18:38:13Z",
+        "uri": "https://web.archive.org/web/20230111183813/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-01-24T18:13:27Z",
+        "uri": "https://arquivo.pt/wayback/20230124181327mp_/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-02-11T02:23:27Z",
+        "uri": "https://wayback.archive-it.org/all/20230211022327/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-02-11T02:23:27Z",
+        "uri": "https://web.archive.org/web/20230211022327/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-03-07T22:08:26Z",
+        "uri": "https://wayback.archive-it.org/all/20230307220826/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-03-07T22:08:26Z",
+        "uri": "https://web.archive.org/web/20230307220826/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-05-11T04:57:37Z",
+        "uri": "https://web.archive.org/web/20230511045737/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-08-26T20:24:30Z",
+        "uri": "https://wayback.archive-it.org/all/20230826202430/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2023-08-26T20:24:30Z",
+        "uri": "https://web.archive.org/web/20230826202430/https://www.odu.edu/facultydevelopment/women-in-stem"
+      },
+      {
+        "datetime": "2024-01-17T00:34:30Z",
+        "uri": "https://web.archive.org/web/20240117003430/https://www.odu.edu/facultydevelopment/women-in-stem"
+      }
+    ],
+    "first": {
+      "datetime": "2021-05-11T14:24:30Z",
+      "uri": "https://web.archive.org/web/20210511142430/https://www.odu.edu/facultydevelopment/women-in-stem"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:34:30Z",
+      "uri": "https://web.archive.org/web/20240117003430/https://www.odu.edu/facultydevelopment/women-in-stem"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/facultydevelopment/women-in-stem#tab9=3&done1612907281342"
+}

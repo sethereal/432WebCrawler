@@ -1,0 +1,83 @@
+ERROR: 2024/02/18 16:03:14.850301 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/1806.00871": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/1806.00871",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1806.00871",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2018-06-05T20:18:13Z",
+        "uri": "https://web.archive.org/web/20180605201813/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2018-06-05T21:22:58Z",
+        "uri": "https://web.archive.org/web/20180605212258/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2018-06-07T16:15:51Z",
+        "uri": "https://web.archive.org/web/20180607161551/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2019-04-05T16:13:14Z",
+        "uri": "https://web.archive.org/web/20190405161314/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2019-06-18T15:11:32Z",
+        "uri": "https://web.archive.org/web/20190618151132/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2020-03-10T02:27:40Z",
+        "uri": "https://web.archive.org/web/20200310022740/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2020-06-22T21:49:45Z",
+        "uri": "https://web.archive.org/web/20200622214945/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2021-05-09T00:17:36Z",
+        "uri": "https://web.archive.org/web/20210509001736/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2021-10-31T06:23:35Z",
+        "uri": "https://web.archive.org/web/20211031062335/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2021-11-01T20:23:31Z",
+        "uri": "https://arquivo.pt/wayback/20211101202331mp_/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2021-11-23T00:10:10Z",
+        "uri": "https://web.archive.org/web/20211123001010/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2022-05-26T12:17:17Z",
+        "uri": "https://web.archive.org/web/20220526121717/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2022-05-31T16:47:13Z",
+        "uri": "https://web.archive.org/web/20220531164713/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2022-11-18T19:53:57Z",
+        "uri": "https://web.archive.org/web/20221118195357/https://arxiv.org/abs/1806.00871"
+      },
+      {
+        "datetime": "2022-11-18T19:54:52Z",
+        "uri": "https://web.archive.org/web/20221118195452/https://arxiv.org/abs/1806.00871"
+      }
+    ],
+    "first": {
+      "datetime": "2018-06-05T20:18:13Z",
+      "uri": "https://web.archive.org/web/20180605201813/https://arxiv.org/abs/1806.00871"
+    },
+    "last": {
+      "datetime": "2022-11-18T19:54:52Z",
+      "uri": "https://web.archive.org/web/20221118195452/https://arxiv.org/abs/1806.00871"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/1806.00871",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/1806.00871",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/1806.00871"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/1806.00871"
+}

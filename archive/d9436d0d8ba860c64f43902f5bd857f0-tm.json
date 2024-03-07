@@ -1,0 +1,47 @@
+ERROR: 2024/02/18 15:03:55.030799 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2305.00546": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2305.00546",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2305.00546",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-05-02T09:19:40Z",
+        "uri": "https://web.archive.org/web/20230502091940/https://arxiv.org/abs/2305.00546"
+      },
+      {
+        "datetime": "2023-06-19T02:38:53Z",
+        "uri": "https://web.archive.org/web/20230619023853/http://arxiv.org/abs/2305.00546"
+      },
+      {
+        "datetime": "2023-06-23T23:06:04Z",
+        "uri": "https://web.archive.org/web/20230623230604/https://arxiv.org/abs/2305.00546"
+      },
+      {
+        "datetime": "2023-06-23T23:37:47Z",
+        "uri": "http://archive.md/20230623233747/https://arxiv.org/abs/2305.00546"
+      },
+      {
+        "datetime": "2023-06-27T19:41:38Z",
+        "uri": "https://web.archive.org/web/20230627194138/https://arxiv.org/abs/2305.00546"
+      },
+      {
+        "datetime": "2023-10-17T14:12:28Z",
+        "uri": "https://web.archive.org/web/20231017141228/https://arxiv.org/abs/2305.00546"
+      }
+    ],
+    "first": {
+      "datetime": "2023-05-02T09:19:40Z",
+      "uri": "https://web.archive.org/web/20230502091940/https://arxiv.org/abs/2305.00546"
+    },
+    "last": {
+      "datetime": "2023-10-17T14:12:28Z",
+      "uri": "https://web.archive.org/web/20231017141228/https://arxiv.org/abs/2305.00546"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2305.00546",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2305.00546",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2305.00546"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2305.00546"
+}

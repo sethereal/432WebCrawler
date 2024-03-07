@@ -1,0 +1,51 @@
+ERROR: 2024/02/18 17:26:16.321643 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://weiglemc.github.io/publications/recent": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://weiglemc.github.io/publications/recent",
+  "self": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/recent",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2021-09-22T22:40:37Z",
+        "uri": "https://web.archive.org/web/20210922224037/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2021-10-13T14:29:48Z",
+        "uri": "https://web.archive.org/web/20211013142948/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2022-01-19T12:52:05Z",
+        "uri": "https://web.archive.org/web/20220119125205/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2022-04-27T20:30:47Z",
+        "uri": "https://web.archive.org/web/20220427203047/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2022-06-26T07:15:33Z",
+        "uri": "https://web.archive.org/web/20220626071533/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2022-09-27T06:52:37Z",
+        "uri": "https://web.archive.org/web/20220927065237/https://weiglemc.github.io/publications/recent"
+      },
+      {
+        "datetime": "2024-01-21T11:27:16Z",
+        "uri": "https://web.archive.org/web/20240121112716/https://weiglemc.github.io/publications/recent"
+      }
+    ],
+    "first": {
+      "datetime": "2021-09-22T22:40:37Z",
+      "uri": "https://web.archive.org/web/20210922224037/https://weiglemc.github.io/publications/recent"
+    },
+    "last": {
+      "datetime": "2024-01-21T11:27:16Z",
+      "uri": "https://web.archive.org/web/20240121112716/https://weiglemc.github.io/publications/recent"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://weiglemc.github.io/publications/recent",
+    "json_format": "http://localhost:1208/timemap/json/https://weiglemc.github.io/publications/recent",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://weiglemc.github.io/publications/recent"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://weiglemc.github.io/publications/recent"
+}

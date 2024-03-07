@@ -1,0 +1,35 @@
+ERROR: 2024/02/18 19:05:24.555269 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://arxiv.org/abs/2401.02029": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://arxiv.org/abs/2401.02029",
+  "self": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2401.02029",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-05T01:46:10Z",
+        "uri": "https://web.archive.org/web/20240105014610/https://arxiv.org/abs/2401.02029"
+      },
+      {
+        "datetime": "2024-01-12T04:56:45Z",
+        "uri": "https://web.archive.org/web/20240112045645/http://arxiv.org/abs/2401.02029"
+      },
+      {
+        "datetime": "2024-02-07T16:19:48Z",
+        "uri": "https://perma.cc/UH2F-LCFH"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-05T01:46:10Z",
+      "uri": "https://web.archive.org/web/20240105014610/https://arxiv.org/abs/2401.02029"
+    },
+    "last": {
+      "datetime": "2024-02-07T16:19:48Z",
+      "uri": "https://perma.cc/UH2F-LCFH"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://arxiv.org/abs/2401.02029",
+    "json_format": "http://localhost:1208/timemap/json/https://arxiv.org/abs/2401.02029",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://arxiv.org/abs/2401.02029"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://arxiv.org/abs/2401.02029"
+}

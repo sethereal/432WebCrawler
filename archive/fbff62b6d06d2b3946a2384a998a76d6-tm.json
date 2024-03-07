@@ -1,0 +1,183 @@
+ERROR: 2024/02/18 21:26:02.051300 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://2023.jcdl.org/": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://2023.jcdl.org/",
+  "self": "http://localhost:1208/timemap/json/https://2023.jcdl.org/",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2022-09-24T03:09:16Z",
+        "uri": "https://web.archive.org/web/20220924030916/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-09-24T21:39:22Z",
+        "uri": "https://web.archive.org/web/20220924213922/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-09-26T18:23:29Z",
+        "uri": "https://web.archive.org/web/20220926182329/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-11-30T15:29:52Z",
+        "uri": "https://web.archive.org/web/20221130152952/http://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-11-30T15:48:43Z",
+        "uri": "https://web.archive.org/web/20221130154843/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-12-02T04:04:24Z",
+        "uri": "https://web.archive.org/web/20221202040424/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-12-07T02:56:38Z",
+        "uri": "https://web.archive.org/web/20221207025638/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-12-08T12:00:29Z",
+        "uri": "https://web.archive.org/web/20221208120029/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-12-19T18:01:47Z",
+        "uri": "https://web.archive.org/web/20221219180147/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2022-12-26T17:58:57Z",
+        "uri": "https://web.archive.org/web/20221226175857/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-01-05T17:00:02Z",
+        "uri": "https://web.archive.org/web/20230105170002/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-01-05T17:16:42Z",
+        "uri": "https://web.archive.org/web/20230105171642/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-01-27T10:13:50Z",
+        "uri": "https://web.archive.org/web/20230127101350/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-14T18:52:45Z",
+        "uri": "https://web.archive.org/web/20230314185245/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-19T15:33:06Z",
+        "uri": "https://web.archive.org/web/20230319153306/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-22T19:54:13Z",
+        "uri": "https://wayback.archive-it.org/all/20230322195413/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-22T19:54:13Z",
+        "uri": "https://web.archive.org/web/20230322195413/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-23T02:53:46Z",
+        "uri": "https://wayback.archive-it.org/all/20230323025346/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-23T02:53:46Z",
+        "uri": "https://web.archive.org/web/20230323025346/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-24T21:20:26Z",
+        "uri": "https://web.archive.org/web/20230324212026/http://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-03-30T02:34:24Z",
+        "uri": "https://web.archive.org/web/20230330023424/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-04-10T19:45:42Z",
+        "uri": "https://web.archive.org/web/20230410194542/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-04-19T06:13:32Z",
+        "uri": "https://web.archive.org/web/20230419061332/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-05-07T17:23:08Z",
+        "uri": "https://web.archive.org/web/20230507172308/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-05-14T14:49:22Z",
+        "uri": "https://web.archive.org/web/20230514144922/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-09T00:05:31Z",
+        "uri": "https://web.archive.org/web/20230609000531/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-09T00:14:48Z",
+        "uri": "https://web.archive.org/web/20230609001448/http://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-21T00:09:30Z",
+        "uri": "https://web.archive.org/web/20230621000930/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-25T12:31:48Z",
+        "uri": "https://web.archive.org/web/20230625123148/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-29T18:04:43Z",
+        "uri": "http://archive.md/20230629180443/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-06-29T18:05:31Z",
+        "uri": "https://web.archive.org/web/20230629180531/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-08-12T06:30:42Z",
+        "uri": "https://web.archive.org/web/20230812063042/http://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-08-14T15:52:46Z",
+        "uri": "https://web.archive.org/web/20230814155246/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-09-18T15:33:48Z",
+        "uri": "https://web.archive.org/web/20230918153348/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-09-23T06:06:53Z",
+        "uri": "https://wayback.archive-it.org/all/20230923060653/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-09-23T06:06:53Z",
+        "uri": "https://web.archive.org/web/20230923060653/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-11-01T04:29:44Z",
+        "uri": "https://web.archive.org/web/20231101042944/http://www.2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-11-29T20:48:40Z",
+        "uri": "https://web.archive.org/web/20231129204840/https://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-11-29T20:56:56Z",
+        "uri": "https://web.archive.org/web/20231129205656/http://2023.jcdl.org/"
+      },
+      {
+        "datetime": "2023-12-24T16:18:42Z",
+        "uri": "https://web.archive.org/web/20231224161842/https://2023.jcdl.org/"
+      }
+    ],
+    "first": {
+      "datetime": "2022-09-24T03:09:16Z",
+      "uri": "https://web.archive.org/web/20220924030916/https://2023.jcdl.org/"
+    },
+    "last": {
+      "datetime": "2023-12-24T16:18:42Z",
+      "uri": "https://web.archive.org/web/20231224161842/https://2023.jcdl.org/"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://2023.jcdl.org/",
+    "json_format": "http://localhost:1208/timemap/json/https://2023.jcdl.org/",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://2023.jcdl.org/"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://2023.jcdl.org/"
+}

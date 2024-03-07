@@ -1,0 +1,43 @@
+ERROR: 2024/02/18 17:08:28.644886 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/computer-science/academics/graduate/masters": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/computer-science/academics/graduate/masters",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science/academics/graduate/masters",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2023-08-27T17:56:02Z",
+        "uri": "https://wayback.archive-it.org/all/20230827175602/https://www.odu.edu/computer-science/academics/graduate/masters"
+      },
+      {
+        "datetime": "2023-08-27T17:56:02Z",
+        "uri": "https://web.archive.org/web/20230827175602/https://www.odu.edu/computer-science/academics/graduate/masters"
+      },
+      {
+        "datetime": "2023-11-29T18:23:32Z",
+        "uri": "https://web.archive.org/web/20231129182332/https://www.odu.edu/computer-science/academics/graduate/masters"
+      },
+      {
+        "datetime": "2023-11-30T01:31:52Z",
+        "uri": "https://web.archive.org/web/20231130013152/https://www.odu.edu/computer-science/academics/graduate/masters"
+      },
+      {
+        "datetime": "2024-01-17T00:34:29Z",
+        "uri": "https://web.archive.org/web/20240117003429/https://www.odu.edu/computer-science/academics/graduate/masters"
+      }
+    ],
+    "first": {
+      "datetime": "2023-08-27T17:56:02Z",
+      "uri": "https://wayback.archive-it.org/all/20230827175602/https://www.odu.edu/computer-science/academics/graduate/masters"
+    },
+    "last": {
+      "datetime": "2024-01-17T00:34:29Z",
+      "uri": "https://web.archive.org/web/20240117003429/https://www.odu.edu/computer-science/academics/graduate/masters"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/computer-science/academics/graduate/masters",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/computer-science/academics/graduate/masters",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/computer-science/academics/graduate/masters"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/computer-science/academics/graduate/masters"
+}

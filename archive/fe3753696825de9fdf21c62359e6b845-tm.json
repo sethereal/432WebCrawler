@@ -1,0 +1,39 @@
+ERROR: 2024/02/18 20:58:03.689196 main.go:292: wayback.nli.org.il => Network error: Get "https://wayback.nli.org.il/timemap/link/https://www.odu.edu/recreation-wellness": net/http: timeout awaiting response headers
+{
+  "original_uri": "https://www.odu.edu/recreation-wellness",
+  "self": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness",
+  "mementos": {
+    "list": [
+      {
+        "datetime": "2024-01-03T00:25:21Z",
+        "uri": "https://web.archive.org/web/20240103002521/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-01-17T00:34:31Z",
+        "uri": "https://web.archive.org/web/20240117003431/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-02T12:20:51Z",
+        "uri": "https://web.archive.org/web/20240202122051/https://www.odu.edu/recreation-wellness"
+      },
+      {
+        "datetime": "2024-02-06T12:14:16Z",
+        "uri": "https://web.archive.org/web/20240206121416/https://www.odu.edu/recreation-wellness"
+      }
+    ],
+    "first": {
+      "datetime": "2024-01-03T00:25:21Z",
+      "uri": "https://web.archive.org/web/20240103002521/https://www.odu.edu/recreation-wellness"
+    },
+    "last": {
+      "datetime": "2024-02-06T12:14:16Z",
+      "uri": "https://web.archive.org/web/20240206121416/https://www.odu.edu/recreation-wellness"
+    }
+  },
+  "timemap_uri": {
+    "link_format": "http://localhost:1208/timemap/link/https://www.odu.edu/recreation-wellness",
+    "json_format": "http://localhost:1208/timemap/json/https://www.odu.edu/recreation-wellness",
+    "cdxj_format": "http://localhost:1208/timemap/cdxj/https://www.odu.edu/recreation-wellness"
+  },
+  "timegate_uri": "http://localhost:1208/timegate/https://www.odu.edu/recreation-wellness"
+}
